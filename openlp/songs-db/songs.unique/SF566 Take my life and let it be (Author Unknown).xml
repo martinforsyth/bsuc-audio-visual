@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:41">
+  <properties>
+    <titles>
+      <title>SF566 Take my life and let it be</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Take my life, and let it be<br/>consecrated, Lord, to thee;<br/>take my moments and my days,<br/>let them flow in ceaseless praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Take my hands, and let them move<br/>at the impulse of thy love;<br/>take my feet, and let them be<br/>swift and beautiful for thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Take my voice, and let me sing<br/>always, only, for my King;<br/>take my lips, and let them be<br/>filled with messages from thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Take my silver and my gold,<br/>not a mite would I withhold;<br/>take my intellect, and use<br/>every power as thou shalt choose.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Take my will, and make it thine;<br/>it shall be no longer mine;<br/>take my heart - it is thine own;<br/>it shall be thy royal throne.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Take my love; my Lord, I pour<br/>at thy feet its treasure-store;<br/>take myself, and I will be<br/>ever, only, all for thee.</lines>
+    </verse>
+  </lyrics>
+</song>

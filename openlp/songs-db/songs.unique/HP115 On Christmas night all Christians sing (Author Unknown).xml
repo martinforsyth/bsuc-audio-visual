@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:45">
+  <properties>
+    <titles>
+      <title>HP115 On Christmas night all Christians sing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>On Christmas night all Christians sing<br/>to hear the news the angels bring:<br/>On Christmas night all Christians sing<br/>to hear the news the angels bring:<br/>news of great joy, news of great mirth,<br/>news of our merciful King's birth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Then why should we on earth be so sad,<br/>since our Redeemer made us glad,<br/>Then why should we on earth be so sad,<br/>since our Redeemer made us glad,<br/>when from our sin he set us free,<br/>all for to gain our liberty?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When sin departs before his grace,<br/>then life and health come in its place;<br/>When sin departs before his grace,<br/>then life and health come in its place,.<br/>heaven and earth with joy may sing,<br/>all for to see the new-born King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>All out of darkness we have light,<br/>which made the angels sing this night:<br/>All out of darkness we have light,<br/>which made the angels sing this night:<br/>'Glory to God on earth be peace,<br/>goodwill to all shall never cease.'</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:39">
+  <properties>
+    <titles>
+      <title>RS84 Forgive our sins as we forgive</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>'Forgive our sins as we forgive',<br/>You taught us, Lord, to pray,<br/>But you alone can grant us grace<br/>To live the words we say.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>How can your pardon reach and bless<br/>The unforgiving heart<br/>That broods on wrongs, and will not let<br/>Old bitterness depart?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In blazing light your cross reveals<br/>The truth we dimly knew,<br/>How small the debts men owe to us,<br/>How great our debt to you!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, cleanse the depths within our souls,<br/>And bid resentment cease;<br/>Then, reconciled to God and man,<br/>Our lives will spread your peace.</lines>
+    </verse>
+  </lyrics>
+</song>

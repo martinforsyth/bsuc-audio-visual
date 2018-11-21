@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:24">
+  <properties>
+    <titles>
+      <title>SF231 The silent stars shine down on us</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The silent stars shine down on us<br/>with bright but sightless eye,<br/>unmindful of our little earth,<br/>of us who live and die.<br/>Are we but grains of stranded sand<br/>beside a cosmic sea<br/>that lie unvalued and unseen<br/>in such immensity?<br/>.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Creator of all stars, you came<br/>to grace our transient race.<br/>In Christ you spoke a Word that broke<br/>the silences of space.<br/>Still through that Word you call our hearts<br/>to know that we are known,<br/>to trust we do not walk through time<br/>unvalued and alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We see the star the wise men saw<br/>and hope again is stirred.<br/>We track the footprints left in time<br/>by your incarnate Word.<br/>We see them climb a lonely hill<br/>where Love is left to die -<br/>the Love that formed the farthest star<br/>and hears the faintest cry.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O Christ, the bright and morning Star<br/>whose radiance does not fade,<br/>whose glory filled the universe<br/>before the planets played:<br/>come, heal our hearts of blinding doubt<br/>till faith shall end in sight.<br/>Shine down upon our darkened earth<br/>and conquer sin's long night.</lines>
+    </verse>
+  </lyrics>
+</song>

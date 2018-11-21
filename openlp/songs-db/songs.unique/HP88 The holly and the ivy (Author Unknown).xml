@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:44">
+  <properties>
+    <titles>
+      <title>HP88 The holly and the ivy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The holly and the ivy<br/>Are dancing in a ring,<br/>Round the berry-bright red candles<br/>And the white and shining King</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Oh, one is for God's people<br/>In every age and day.<br/>We are watching for his coming,<br/>We believe and we obey.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And two is for the prophets<br/>And for the light they bring.<br/>They are candles in the darkness,<br/>All alight for Christ the King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And three for John the Baptist.<br/>He calls on us to sing:<br/>'O prepare the way for Jesus Christ,<br/>He is coming, Christ the King.'</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>And four for Mother Mary.<br/>'I cannot see the way,<br/>But you promise me a baby.<br/>I believe you. I obey.'</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>And Christ is in the centre,<br/>For this is his birthday,<br/>With the shining lights of Christmas<br/>Singing: 'He has come today.'</lines>
+    </verse>
+  </lyrics>
+</song>

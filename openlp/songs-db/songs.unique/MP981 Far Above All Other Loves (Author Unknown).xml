@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:03">
+  <properties>
+    <titles>
+      <title>MP981 Far Above All Other Loves</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Far above all other loves,<br/>Far beyond all other joys,<br/>Heaven's blessings poured on me,<br/>By the Holy Spirit's power.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>All ambition now has gone,<br/>Pleasing You my only goal;<br/>Motivated by Your grace,<br/>Living for eternity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Looking with the eye of faith<br/>For the day of Your return;<br/>In that day I want to stand<br/>Unashamed before Your throne.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Love's compelling power<br/>Draws my heart into Yours;<br/>Jesus, how I love You,<br/>You're my Friend and my Lord.<br/>You have died and risen<br/>So what else can I say?<br/>How I love You, Lord,<br/>Love You, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

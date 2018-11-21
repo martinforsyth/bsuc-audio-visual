@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:46">
+  <properties>
+    <titles>
+      <title>HP461 O splendour of God's glory bright</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O splendour of God's glory bright,<br/>Who bringest forth the light from Light;<br/>O Light, of light the fountain-spring;<br/>O Day, our days illumining;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come, very Sun of truth and love,<br/>Come in thy radiance from above,<br/>And shed the Holy Spirit's ray<br/>On all we think or do today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Teach us to work with all our might;<br/>Put Satan's fierce assaults to flight;<br/>Turn all to good that seems most ill;<br/>Help us our calling to fulfil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O joyful be the livelong day,<br/>Our thoughts as pure as morning ray,<br/>Our faith like noonday's glowing height,<br/>Our souls undimmed by shades of night.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O Christ, with each returning morn<br/>Thine image to our hearts is borne;<br/>O may we ever clearly see<br/>Our Saviour and our God in thee!</lines>
+    </verse>
+  </lyrics>
+</song>

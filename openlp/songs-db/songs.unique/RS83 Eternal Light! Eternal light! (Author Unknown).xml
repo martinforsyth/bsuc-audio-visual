@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:39">
+  <properties>
+    <titles>
+      <title>RS83 Eternal Light! Eternal light!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Eternal light! Eternal light!<br/>How pure the soul must be,<br/>When, placed within Thy searching sight,<br/>It shrinks not, but, with calm delight,<br/>Can live, and look on Thee!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The spirits that surround Thy throne<br/>May bear the burning bliss;<br/>But that is surely theirs alone,<br/>Since they have never, never known<br/>A fallen world like this.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Oh, how shall I, whose native sphere<br/>Is dark, whose mind is dim,<br/>Before the Ineffable appear,<br/>And on my naked spirit bear<br/>The uncreated beam?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>There is a way for man to rise<br/>To that sublime abode:<br/>An offering and a sacrifice,<br/>A Holy Spirit's energies,<br/>An advocate with God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>These, these prepare us for the sight<br/>Of Holiness above:<br/>The sons of ignorance and night<br/>May dwell in the eternal light,<br/>Through the eternal Love!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:38">
+  <properties>
+    <titles>
+      <title>JP94 If I Were a Butterfly</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>If I were a butterfly,<br/>I'd thank You, Lord, for giving me wings.<br/>And if I were a robin in a tree,<br/>I'd thank You, Lord, that I could sing.<br/>And if I were a fish in the sea,<br/>I'd wiggle my tail and I'd giggle with glee;<br/>But I just thank You, Father,<br/>For making me 'me'.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>If I were an elephant,<br/>I'd thank You, Lord, by raising my trunk.<br/>And if I were a kangaroo,<br/>You know I'd hop right up to You.<br/>And if I were an octopus,<br/>I'd thank You, Lord, for my fine looks;<br/>But I just thank You, Father,<br/>For making me 'me'.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>If I were a wiggily worm,<br/>I'd thank You, Lord, that I could squirm.<br/>And if I were a billy goat,<br/>I'd thank You, Lord, for my strong throat.<br/>And if I were a fuzzy-wuzzy bear,<br/>I'd thank You, Lord, for my fuzzy-wuzzy hair;<br/>But I just thank You, Father,<br/>For making me 'me'.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>For You gave me a heart<br/>And You gave me a smile,<br/>You gave me Jesus<br/>And You made me Your child,<br/>And I just thank You, Father,<br/>For making me 'me'.</lines>
+    </verse>
+  </lyrics>
+</song>

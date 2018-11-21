@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:40">
+  <properties>
+    <titles>
+      <title>JP140 Jesus loves me! this I know (alt)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus loves me! this I know,<br/>For the Bible tells me so;<br/>Little ones to Him belong,<br/>They are weak, but He is strong.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus loves me! He who died<br/>Heaven's gate to open wide;<br/>He will wash away my sin,<br/>Let His little child come in.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus loves me! Loves me still,<br/>When I'm very weak and ill;<br/>From His shining throne on high<br/>Watches with me where I lie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus loves me! He will stay<br/>Close beside me all the way;<br/>then his little child will take<br/>up to heaven for His dear sake.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Yes, Jesus loves me,<br/>Yes, Jesus loves me,<br/>Yes, Jesus loves me,<br/>The Bible tells me so.</lines>
+    </verse>
+  </lyrics>
+</song>

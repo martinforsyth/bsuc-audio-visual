@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:29">
+  <properties>
+    <titles>
+      <title>HP427 O Lift us up, strong Son of God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Lift us up, strong Son of God;<br/>Restore our fallen race;<br/>We who have marred your image shall<br/>Regain it through your grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The subtle serpent of our sin<br/>Ensnares our helpless feet;<br/>The lifted serpent of your health<br/>Can make our souls complete.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And you, who came into the world<br/>To take our human frame,<br/>Did not condemn our fallen state,<br/>But took away our shame.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Your law is holy, just and good;<br/>But still we fail to do<br/>All that your gracious words require<br/>To keep us close to you.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>So lift us up, strong Son of God,<br/>Restore your fallen race;<br/>We who have lost your image shall<br/>Regain it through your grace.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:10">
+  <properties>
+    <titles>
+      <title>HP310 O Holy Spirit, Lord of grace</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Holy Spirit, Lord of grace,<br/>Eternal fount of love,<br/>Inflame, we pray, our inmost hearts<br/>With fire from heaven above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>As thou in bond of love dost join<br/>The Father and the Son,<br/>So fill us all with mutual love,<br/>And knit our hearts in one.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All glory to the Father be,<br/>All glory to the Son,<br/>All glory, Holy Ghost, to thee,<br/>While endless ages run.</lines>
+    </verse>
+  </lyrics>
+</song>

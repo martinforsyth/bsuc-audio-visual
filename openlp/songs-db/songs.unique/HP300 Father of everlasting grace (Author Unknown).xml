@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:09">
+  <properties>
+    <titles>
+      <title>HP300 Father of everlasting grace</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father of everlasting grace,<br/>Thy goodness and thy truth we praise,<br/>Thy goodness and thy truth we prove;<br/>Thou hast, in honour of thy Son,<br/>The gift unspeakable sent down,<br/>The Spir't of life, and power, and love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Send us the Spirit of thy Son,<br/>To make the depths of Godhead known,<br/>To make us share the life divine;<br/>Send him the sprinkled blood to apply,<br/>Send him our souls to sanctify,<br/>And show and seal us ever thine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>So shall we pray, and never cease,<br/>So shall we thankfully confess<br/>Thy wisdom, truth, and power, and love,<br/>With joy unspeakable adore,<br/>And bless and praise thee evermore,<br/>And serve thee as thy hosts above:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Till, added to that heavenly choir,<br/>We raise our songs of triumph higher,<br/>And praise thee in a bolder strain,<br/>Out-soar the first-born seraph's flight,<br/>And sing, with all our friends in light,<br/>Thy everlasting love to man.</lines>
+    </verse>
+  </lyrics>
+</song>

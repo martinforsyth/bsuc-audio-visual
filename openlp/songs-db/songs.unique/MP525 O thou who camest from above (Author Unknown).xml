@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:08">
+  <properties>
+    <titles>
+      <title>MP525 O thou who camest from above</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Thou who camest from above<br/>The pure celestial fire to impart,<br/>Kindle a flame of sacred love<br/>On the mean altar of my heart!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There let it for thy glory burn<br/>With inextinguishable blaze,<br/>And trembling to its source return,<br/>In humble love and fervent praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, confirm my heart's desire<br/>To work, and speak, and think for thee;<br/>Still let me guard the holy fire,<br/>And still stir up thy gift in me:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Ready for all thy perfect will,<br/>My acts of faith and love repeat,<br/>Till death thy endless mercies seal,<br/>And make my sacrifice complete.</lines>
+    </verse>
+  </lyrics>
+</song>

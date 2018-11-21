@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:29">
+  <properties>
+    <titles>
+      <title>MP179 Go, tell it on the mountain MP</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He possessed no riches,<br/>no home to lay His head;<br/>He saw the needs of others<br/>and cared for them instead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He reached out and touched them,<br/>the blind, the deaf, the lame;<br/>He spoke and listened gladly<br/>to anyone who came.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Some turned away in anger,<br/>with hatred in the eye;<br/>they tried Him and condemned Him,<br/>then led Him out to die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>'Father, now forgive them' -<br/>those were the words He said;<br/>in three more days He was alive<br/>and risen from the dead.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>He still come to his people,<br/>His life moves through the lands;<br/>He uses us for speaking,<br/>He touches with our hands.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Go, tell it on the mountain,<br/>Over the hills and everywhere;<br/>Go, tell it on the mountain<br/>That Jesus is his name.</lines>
+    </verse>
+  </lyrics>
+</song>

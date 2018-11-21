@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:07">
+  <properties>
+    <titles>
+      <title>SF77 Give Thanks To The Lord</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Give Thanks To The Lord<br/>Our God and King:<br/>His love endures forever.<br/>For He is good, He is above all things.<br/>His love endures forever.<br/>Sing praise, sing praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>With a mighty hand<br/>And an outstretched arm<br/>His love endures forever.<br/>For the life that's been reborn.<br/>His love endures forever.<br/>Sing praise, sing praise.<br/>Sing praise, sing praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>From the rising to the setting sun,<br/>His love endures forever.<br/>By the grace of God, we will carry on.<br/>His love endures forever.<br/>Sing praise, sing praise.<br/>Sing praise, sing praise.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Forever God is faithful,<br/>Forever God is strong.<br/>Forever God is with us,<br/>Forever.<br/>Forever God is faithful,<br/>Forever God is strong.<br/>Forever God is with us,<br/>Forever.<br/>Forever.</lines>
+    </verse>
+  </lyrics>
+</song>

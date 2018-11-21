@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:17">
+  <properties>
+    <titles>
+      <title>HP361 Summer suns are glowing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Summer suns are glowing<br/>Over land and sea,<br/>Happy light is flowing<br/>Bountiful and free;<br/>Everything rejoices<br/>In the mellow rays,<br/>All earth's thousand voices<br/>Swell the psalm of praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God's free mercy streameth<br/>Over all the world,<br/>And his banner gleameth<br/>Everywhere unfurled.<br/>Broad and deep and glorious<br/>As the heaven above,<br/>Shines in might victorious<br/>His eternal love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, upon our blindness<br/>Thy pure radiance pour;<br/>For thy loving-kindness<br/>Make us love thee more;<br/>And when clouds are drifting<br/>Dark across our sky,<br/>Then, the veil uplifting,<br/>Father, be thou nigh.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We will never doubt thee,<br/>Though thou veil thy light;<br/>Life is dark without thee,<br/>Death with thee is bright.<br/>Light of light, shine o'er us<br/>On our pilgrim way;<br/>Go thou still before us<br/>To the endless day.</lines>
+    </verse>
+  </lyrics>
+</song>

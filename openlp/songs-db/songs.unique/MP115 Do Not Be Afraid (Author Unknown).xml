@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:25">
+  <properties>
+    <titles>
+      <title>MP115 Do Not Be Afraid</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When you walk through the waters<br/>I'll be with you;<br/>you will never sink beneath the waves.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When the fire is burning all around you,<br/>you will never be consumed<br/>by the flames.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When the fear of lonliness is looming<br/>then then remember<br/>I am at your side.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When you dwell in the exile<br/>of the stranger,<br/>remember you are precious in My eyes.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>You are Mine, O My child;<br/>I am your Father,<br/>and I love you with a perfect love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Do not be afraid,<br/>for I have redeemed you.<br/>I have called you by your name;<br/>you are Mine</lines>
+    </verse>
+  </lyrics>
+</song>

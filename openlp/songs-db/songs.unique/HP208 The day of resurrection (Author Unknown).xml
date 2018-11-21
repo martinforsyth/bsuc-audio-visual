@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:53">
+  <properties>
+    <titles>
+      <title>HP208 The day of resurrection</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The day of resurrection,<br/>Earth, tell it out abroad!<br/>The passover of gladness,<br/>The passover of God!<br/>From death to life eternal,<br/>From earth unto the sky,<br/>Our Christ has brought us over<br/>With hymns of victory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our hearts be pure from evil,<br/>That we may see aright<br/>The Lord in rays eternal<br/>Of resurrection light;<br/>And, listening to his accents,<br/>May hear, so calm and plain,<br/>His own 'All hail!' and, hearing,<br/>May raise the victor strain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Now let the heavens be joyful,<br/>Let earth her song begin,<br/>The round world keep high triumph,<br/>And all that is therein;<br/>Let all things seen and unseen<br/>Their notes of gladness blend,<br/>For Christ the Lord is risen,<br/>Our joy that has no end.</lines>
+    </verse>
+  </lyrics>
+</song>

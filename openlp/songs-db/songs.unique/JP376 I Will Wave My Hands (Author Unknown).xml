@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:08">
+  <properties>
+    <titles>
+      <title>JP376 I Will Wave My Hands</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I will wave my hands in praise and adoration,<br/>I will wave my hands in praise and adoration,<br/>I will wave my hands in praise and adoration,<br/>Praise and adoration to the living God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For He's given me hands that just love clapping:<br/>One, two, one, two, three,<br/>And He's given me a voice<br/>That just loves shouting:<br/>'Hallelujah!'<br/>He's given me feet that just love dancing:<br/>One, two, one, two, three,</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And He's put me in a being<br/>That has no trouble seeing<br/>That whatever I am feeling<br/>He is worthy to be praised.</lines>
+    </verse>
+  </lyrics>
+</song>

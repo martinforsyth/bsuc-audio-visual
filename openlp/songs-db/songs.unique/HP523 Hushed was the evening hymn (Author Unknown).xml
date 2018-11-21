@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:01">
+  <properties>
+    <titles>
+      <title>HP523 Hushed was the evening hymn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hushed was the evening hymn,<br/>The temple courts were dark,<br/>The lamp was burning dim<br/>Before the sacred ark,<br/>When suddenly a voice divine<br/>Rang through the silence of the shrine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The old man, meek and mild,<br/>The priest of Israel, slept;<br/>His watch the temple child,<br/>The little Levite, kept;<br/>And what from Eli's sense was sealed<br/>The Lord to Hannah's son revealed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O give me Samuel's ear,<br/>The open ear, O Lord,<br/>Alive and quick to hear<br/>Each whisper of thy word;<br/>Like him to answer at thy call,<br/>And to obey thee first of all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O give me Samuel's heart,<br/>A lowly heart, that waits<br/>Where in thy house thou art<br/>Or watches at thy gates<br/>By day and night - a heart that still<br/>Moves at the breathing of thy will.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O give me Samuel's mind,<br/>A sweet unmurmuring faith,<br/>Obedient and resigned<br/>To thee in life and death,<br/>That I may read with childlike eyes<br/>Truths that are hidden from the wise.</lines>
+    </verse>
+  </lyrics>
+</song>

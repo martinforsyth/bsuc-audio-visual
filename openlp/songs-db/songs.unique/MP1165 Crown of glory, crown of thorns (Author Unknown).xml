@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:29">
+  <properties>
+    <titles>
+      <title>MP1165 Crown of glory, crown of thorns</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Prince of peace a pauper came<br/>with riches sure enough,<br/>to light the true, eternal flame:<br/>the Father's heart of love.<br/>Son of God and Son of Man,<br/>You walked among us here,<br/>You knew the fragile hearts we are,<br/>You shared our joy and tears.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>King of love, You bore our sin<br/>that nailed You to the cross;<br/>the tears of God, shed to reclaim<br/>the broken and the lost.<br/>Lord of light from darkness shone<br/>in power to rise again,<br/>for death has no dominion now,<br/>the King of life shall reign.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God with us Emmanuel,<br/>the Shepherd and the Lamb,<br/>from now until eternity<br/>Your faithfulness will stand.<br/>Hallelujah! Living God,<br/>our hope is in Your name<br/>and by Your grace we come to You<br/>renew our faith again.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Crown of glory, crown of thorns,<br/>Saviour of the world was born<br/>to die for us in sacrifice,<br/>and rise and wear the crown of life.</lines>
+    </verse>
+  </lyrics>
+</song>

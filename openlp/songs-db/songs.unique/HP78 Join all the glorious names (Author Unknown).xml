@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:43">
+  <properties>
+    <titles>
+      <title>HP78 Join all the glorious names</title>
+    </titles>
+    <verseOrder>v1 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Join all the glorious names<br/>Of wisdom, love, and power,<br/>That ever mortals knew,<br/>That angels ever bore:<br/>All are too mean to speak his worth,<br/>Too mean to set my Saviour forth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>But O what gentle terms,<br/>What condescending ways<br/>Doth our Redeemer use<br/>To teach his heavenly grace!<br/>Mine eyes with joy and wonder see<br/>What forms of love he bears for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Great Prophet of my God,<br/>My tongue would bless thy name;<br/>By thee the joyful news<br/>Of our salvation came:<br/>The joyful news of sins forgiven<br/>Of hell subdued and peace with heaven.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus my great High-Priest<br/>Offered his blood and died;<br/>My guilty conscience seeks<br/>No sacrifice beside:<br/>His powerful blood did once atone,<br/>And now it pleads before the throne.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>My dear almighty Lord,<br/>My Conqueror and my King,<br/>Thy sceptre and thy sword,<br/>Thy reign of grace, I sing;<br/>Thine is the power: behold I sit<br/>In willing bonds before thy feet.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Now let my soul arise,<br/>And tread the tempter down;<br/>My Captain leads me forth<br/>To conquest and a crown.<br/>A feeble saint shall win the day,<br/>Though death and hell obstruct the way.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Should all the hosts of death,<br/>And powers of hell unknown,<br/>Put their most dreadful forms<br/>Of rage and mischief on,<br/>I shall be safe, for Christ displays<br/>Superior power, and guardian grace.</lines>
+    </verse>
+  </lyrics>
+</song>

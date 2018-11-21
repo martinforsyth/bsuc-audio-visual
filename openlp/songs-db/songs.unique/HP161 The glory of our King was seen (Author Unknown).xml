@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:49">
+  <properties>
+    <titles>
+      <title>HP161 The glory of our King was seen</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The glory of our King was seen<br/>When he came riding by,<br/>And people ran and waved and sang:<br/>'Hosanna, King most high!'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The glory of our King was seen<br/>When, with his arms stretched wide<br/>To show his love to everyone,<br/>Christ Jesus was crucified.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The glory of our King was seen<br/>On the first Easter day,<br/>When Christ rose up, set free from death,<br/>To love, to guide, to stay.</lines>
+    </verse>
+  </lyrics>
+</song>

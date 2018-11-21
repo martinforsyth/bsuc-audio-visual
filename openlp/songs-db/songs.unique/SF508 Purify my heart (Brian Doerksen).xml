@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-06-28T20:41:02">
+  <properties>
+    <titles>
+      <title>SF508 Purify my heart</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>Brian Doerksen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Purify my heart,<br/>let me be as gold<br/>and precious silver.<br/>Purify my heart,<br/>let me be as gold,<br/>pure gold.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Refiner's fire,<br/>my heart's one desire<br/>is to be holy,<br/>set apart for you, Lord.<br/>I choose to be holy,<br/>set apart for you my master,<br/>ready to do your will.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Purify my heart,<br/>cleanse me from within<br/>and make me holy.<br/>Purify my heart,<br/>cleanse me from my sin,<br/>deep within.</lines>
+    </verse>
+  </lyrics>
+</song>

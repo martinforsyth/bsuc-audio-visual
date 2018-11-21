@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-08-16T18:11:39">
+  <properties>
+    <titles>
+      <title>MP244 How good is the God we adore!</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How good is the God we adore!<br/>Our faithful, unchangeable friend:<br/>Whose love is as great as His power<br/>and knows neither measure nor end.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Tis Jesus, the first and the last;<br/>Whose Spirit shall guide us safe home:<br/>we'll praise Him for all that is past<br/>and trust Him for that's to come.</lines>
+    </verse>
+  </lyrics>
+</song>

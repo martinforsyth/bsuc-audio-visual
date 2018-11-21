@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:53">
+  <properties>
+    <titles>
+      <title>MP943 There Is None Like You</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There is none like You,<br/>No one else can touch my heart like You do.<br/>I could search for all eternity long and find<br/>There is none like You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your mercy flows like a river wide,<br/>And healing comes from Your hands.<br/>Suffering children are safe in Your arms;<br/>There is none like You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:39">
+  <properties>
+    <titles>
+      <title>HP655 O how blest the hour, Lord Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O how blest the hour, Lord Jesus,<br/>When we can to thee draw near,<br/>Promises so sweet and precious<br/>From thy gracious lips to hear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Be with us this day to bless us,<br/>That we may not hear in vain;<br/>With the saving truths impress us<br/>Which the word of life contain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>open thou our minds, and lead us<br/>Safely on our heavenward way;<br/>With the lamp of truth precede us,<br/>That we may not go astray.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Make us gentle, meek, and humble,<br/>And yet bold in doing right;<br/>Scatter darkness, lest we stumble:<br/>Safe our walking in the light.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord, endue thy word from heaven<br/>With such light, and love, and power,<br/>That in us its silent leaven<br/>May work on from hour to hour.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Give us grace to bear our witness<br/>To the truths we have embraced;<br/>And let others both their sweetness<br/>And their quickening virtue taste.</lines>
+    </verse>
+  </lyrics>
+</song>

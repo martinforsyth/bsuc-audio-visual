@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:37">
+  <properties>
+    <titles>
+      <title>JP74 He gave me eyes so I could see</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He gave me eyes so I could see<br/>The wonders of the world<br/>Without my eyes I could not see<br/>The other boys and girls.<br/>He gave me ears so I could hear<br/>The wind and rain and sea,<br/>I've got to tell it to the world<br/>He made me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He gave me lips so I could speak<br/>And say what's in my mind<br/>Without my lips I could not speak<br/>A single word or line,<br/>He made my mind so I could think<br/>And choose what I should be<br/>I've got to tell it to the world<br/>He made me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He gave me hands so I could touch<br/>And hold a thousand things<br/>I need my hands to help me write<br/>To help me fetch and bring,<br/>These feet he made so I could run<br/>He meant me to be free<br/>I've got to tell it to the world<br/>He made me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:57">
+  <properties>
+    <titles>
+      <title>RS609 Am I my brotherâ€™s keeper?</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>"Am I my brother's keeper?"<br/>the muttered cry was drowned<br/>by Abel's life-blood shouting<br/>in silence from the ground.<br/>For no man is an island,<br/>divided from the main;<br/>the bell which tolled for Abel<br/>tolled equally for Cain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The Pilate called for water,<br/>and thought his hands were clean,<br/>Christ counted less than order,<br/>the man than the machine.<br/>The crowd cried, "Crucify him!"<br/>their malice wouldn't budge,<br/>so rulers call for water,<br/>and history's our judge.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>As long as people hunger,<br/>as long as people thirst,<br/>and ignorance and illness<br/>and warfare do their worst,<br/>as long as there's injustice<br/>in any of God's lands,<br/>I am my brother's keeper;<br/>I dare not wash my hands.</lines>
+    </verse>
+  </lyrics>
+</song>

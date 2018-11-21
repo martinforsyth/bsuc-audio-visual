@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-10T15:56:06">
+  <properties>
+    <titles>
+      <title>SF330 Joy to the world</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Isaac Watts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Joy to the world, the Lord is come!<br/>Let earth receive her King;<br/>let every heart prepare him room,<br/>and heaven and nature sing,<br/>and heaven and nature sing,<br/>and heaven, and heaven and nature sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Joy to the world, the Saviour reigns!<br/>Let all their songs employ;<br/>while fields and floods, rocks, hills and plains<br/>repeat the sounding joy,<br/>repeat the sounding joy,<br/>repeat, repeat the sounding joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He rules the world with truth and grace,<br/>and makes the nations prove<br/>the glories of his righteousness<br/>and wonders of his love,<br/>and wonders of his love,<br/>and wonders, wonders of his love.</lines>
+    </verse>
+  </lyrics>
+</song>

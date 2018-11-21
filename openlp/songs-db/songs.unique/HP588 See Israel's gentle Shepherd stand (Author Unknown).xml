@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:29">
+  <properties>
+    <titles>
+      <title>HP588 See Israel's gentle Shepherd stand</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>See israel's gentle Shepherd stand<br/>With all engaging charms;<br/>Hark! how He calls the tender lambs,<br/>And folds them in His arms.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Permit them to approach, He cries,<br/>Nor scorn their humble name!<br/>For 'twas to bless such souls as these<br/>The Lord of angels came.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We bring them, Lord, in thankful hands,<br/>And yield them up to Thee;<br/>Joyful that we ourselves are Thine,<br/>Thine let our children be.</lines>
+    </verse>
+  </lyrics>
+</song>

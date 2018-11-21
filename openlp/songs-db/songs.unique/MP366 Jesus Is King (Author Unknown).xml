@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:44">
+  <properties>
+    <titles>
+      <title>MP366 Jesus Is King</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus is king and I will extol him,<br/>Give Him the glory, and honour His name.<br/>He reigns on high, enthroned in the heavens,<br/>Word of the Father, exalted for us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We have a hope that is steadfast and certain,<br/>Gone through the curtain and touching the throne.<br/>We have a Priest who is there interceding,<br/>Pouring His grace on our lives day by day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We come to Him, our Priest and Apostle,<br/>Clothed in His glory and bearing His name,<br/>Laying our lives with gladness before Him;<br/>Filled with His Spirit we worship the King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O Holy One, our hearts do adore You;<br/>Thrilled with Your goodness we give You our praise.<br/>Angels in light with worship surround Him,<br/>Jesus, our Saviour, forever the same.</lines>
+    </verse>
+  </lyrics>
+</song>

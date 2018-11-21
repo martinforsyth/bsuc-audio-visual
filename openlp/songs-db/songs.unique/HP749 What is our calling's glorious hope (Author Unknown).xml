@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:56">
+  <properties>
+    <titles>
+      <title>HP749 What is our calling's glorious hope</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>What is our calling's glorious hope<br/>But inward holiness?<br/>For this to Jesus I look up,<br/>I calmly wait for this.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I wait, till he shall touch me clean,<br/>Shall life and power impart,<br/>Give me the faith that casts out sin<br/>And purifies the heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>This is the dear redeeming grace,<br/>For every sinner free;<br/>Surely it shall on me take place,<br/>The chief of sinners, me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>From all iniquity, from all,<br/>He shall my soul redeem;<br/>In Jesus I believe, and shall<br/>Believe myself to him.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>When Jesus makes my heart his home,<br/>My sin shall all depart;<br/>And lo, he saith: 'I quickly come,<br/>To fill and rule thy heart.'</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Be it according to thy word!<br/>Redeem me from all sin;<br/>My heart would now receive thee, Lord,<br/>Come in, my Lord, come in!</lines>
+    </verse>
+  </lyrics>
+</song>

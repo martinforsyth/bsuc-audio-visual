@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:47">
+  <properties>
+    <titles>
+      <title>SF702 I will speak out</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I will speak out for those who have no voices,<br/>I will stand up for the rights of all the oppressed;<br/>I will speak truth and justice,<br/>I'll defend the poor and the needy,<br/>I will lift up the weak in Jesus' name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I will speak out for those who have no choices,<br/>I will cry out for those who live without love;<br/>I will show God's compassion<br/>To the crushed and broken in spirit,<br/>I will lift up the weak in Jesus' name.</lines>
+    </verse>
+  </lyrics>
+</song>

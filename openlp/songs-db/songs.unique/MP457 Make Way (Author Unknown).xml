@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:01">
+  <properties>
+    <titles>
+      <title>MP457 Make Way</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Make way, make way, for Christ the king<br/>In splendour arrives.<br/>Fling wide the gates and welcome Him<br/>Into your lives.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He comes the broken hearts to heal,<br/>The prisoners to free.<br/>The deaf shall hear, the lame shall dance,<br/>The blind shall see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And those who mourn with heavy hearts,<br/>Who weep and sigh;<br/>With laughter, joy and royal crown<br/>He'll beautify.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We call you now to worship Him<br/>As Lord of all.<br/>To have no Gods before Him,<br/>Their thrones must fall!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Make way! (make way!)<br/>Make way! (Make way!)<br/>For the King of kings.<br/>(For the King of kings.)<br/>Make way! (Make way!)<br/>Make way! (Make way!)<br/>And let His kingdom in.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:26">
+  <properties>
+    <titles>
+      <title>HP414 What does the Lord require</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>What does the Lord require<br/>For praise and offering?<br/>What sacrifice desire,<br/>Or tribute bid you bring?<br/>Do justly;<br/>Love mercy;<br/>Walk humbly with your God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Rulers of earth, give ear!<br/>Should you not justice know?<br/>Will God your pleading hear,<br/>While crime and cruelty grow?<br/>Do justly;<br/>Love mercy;<br/>Walk humbly with your God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All who gain wealth by trade,<br/>For whom the worker toils,<br/>Think not to win God's aid,<br/>If greed your commerce soils:<br/>Do justly;<br/>Love mercy;<br/>Walk humbly with your God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Still down the ages ring<br/>The prophet's stern commands:<br/>To merchant, worker, king,<br/>He brings God's high demands:<br/>Do justly;<br/>Love mercy;<br/>Walk humbly with your God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>How shall our life fulfil<br/>God's law so hard and high?<br/>Let Christ endue our will<br/>With grace to fortify;<br/>Then justly,<br/>In mercy,<br/>We'll humbly walk with God.</lines>
+    </verse>
+  </lyrics>
+</song>

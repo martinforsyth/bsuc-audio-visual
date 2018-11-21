@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:47">
+  <properties>
+    <titles>
+      <title>HP147 Jesus, my lord, how rich thy grace</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, my Lord, how rich thy grace,<br/>Thy bounties how complete!<br/>How shall I count the matchless sum?<br/>How pay the mighty debt?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>High on a throne of radiant light<br/>Dost thou exalted shine;<br/>What can my poverty bestow<br/>When all the worlds are thine?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>But thou hast brethren here below,<br/>The partners of thy grace,<br/>And wilt confess their humble names<br/>Before thy Father's face.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In them thou may'st be clothed and fed,<br/>And visited and cheered;<br/>And in their accents of distress<br/>My Saviour's voice is heard.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thy face with reverence and with love<br/>I in thy poor would see;<br/>O let me rather beg my bread<br/>Than hold it back from thee.</lines>
+    </verse>
+  </lyrics>
+</song>

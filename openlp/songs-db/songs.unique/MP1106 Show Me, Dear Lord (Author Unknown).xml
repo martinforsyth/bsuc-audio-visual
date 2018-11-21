@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:20">
+  <properties>
+    <titles>
+      <title>MP1106 Show Me, Dear Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Show me, dear Lord, how You see me in Your eyes,<br/>So that I can realise Your great love for me.<br/>Teach me, O Lord, that I am precious in Your sight,<br/>That as a father loves his child, so You love me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Show me, dear Lord, that I can never earn Your love,<br/>That a gift cannot be earned, only given.<br/>Teach me, O Lord, that Your love will never fade,<br/>That I can never drive away Your great mercy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>I am yours because You have chosen me.<br/>I'm Your child because You've called my name,<br/>And Your steadfast love will never change;<br/>I will always be Your precious child.</lines>
+    </verse>
+  </lyrics>
+</song>

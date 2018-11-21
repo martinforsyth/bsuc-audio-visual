@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:44">
+  <properties>
+    <titles>
+      <title>SF617 Blessed Spring</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O blessed spring, where Word and sign<br/>embrace us into Christ the Vine:<br/>here Christ enjoins each one to be<br/>a branch of this life-giving tree.<br/>.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Through summer heat and youthful years,<br/>uncertain faith, rebellious tears,<br/>sustained by Christ's infusing rain,<br/>the boughs will shout for joy again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When autumn cools and youth is cold,<br/>when limbs their heavy harvest hold,<br/>then through us warm, the Christ will move<br/>with gifts of beauty, wisdom, love</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>As winter comes, as winters must,<br/>we breathe our last, return to dust;<br/>still held in Christ, our souls take wing<br/>and trust the promise of the spring.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Christ, holy Vine, Christ, living Tree,<br/>be praised for this blest mystery:<br/>that Word and water thus revive<br/>and join us to your Tree of Life.</lines>
+    </verse>
+  </lyrics>
+</song>

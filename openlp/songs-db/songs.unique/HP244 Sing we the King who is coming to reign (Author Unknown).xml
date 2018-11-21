@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:00">
+  <properties>
+    <titles>
+      <title>HP244 Sing we the King who is coming to reign</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing we the King who is coming to reign;<br/>Glory to Jesus, the Lamb that was slain!<br/>Life and salvation his empire shall bring,<br/>Joy to the nations when Jesus is King:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>All shall be well in his kingdom of peace;<br/>Freedom shall flourish and wisdom increase;<br/>Justice and truth from his sceptre shall spring,<br/>wrong shall be ended<br/>when Jesus is King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Souls shall be saved from the burden of sin;<br/>Doubt shall not darken his witness within;<br/>Hell has no terrors, and death has no sting;<br/>Love is victorious when Jesus is King:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Kingdom of Christ, for thy coming we pray;<br/>Hasten, O Father, the dawn of the day<br/>When this new song thy creation shall sing:<br/>Satan is vanquished, and Jesus is King:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Come let us sing: Praise to our King,<br/>Jesus our King, Jesus our King:<br/>This is our song, who to Jesus belong:<br/>Glory to Jesus, to Jesus our King.</lines>
+    </verse>
+  </lyrics>
+</song>

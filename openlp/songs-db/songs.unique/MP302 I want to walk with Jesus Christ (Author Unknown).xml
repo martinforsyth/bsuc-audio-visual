@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:40">
+  <properties>
+    <titles>
+      <title>MP302 I want to walk with Jesus Christ</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I want to walk with Jesus Christ<br/>all the days I live of this life on earth,<br/>to give to him complete control<br/>of body and soul:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I want to learn to speak to him,<br/>to pray to him, confess my sin,<br/>to open my life and let him in,<br/>for joy will then be mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I want to learn to speak of him;<br/>my life must show that he lives in me,<br/>my deeds, my thoughts, my words must speak<br/>of all his love for me:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I want to learn to read his word,<br/>for this is how I know the way,<br/>to live my life as pleases him,<br/>in holiness and joy:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O holy Spirit of the Lord,<br/>enter now into this heart of mine,<br/>take full control of my selfish will<br/>and make me wholly thine:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Follow him, follow him, yield your life to him<br/>he has conquered death, he is King of kings.<br/>Accept the joy which he gives to those<br/>who yield their lives to him.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:11">
+  <properties>
+    <titles>
+      <title>SF112 O Lord, our Lord, throughout the earth</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Lord, our Lord, throughout the earth<br/>how glorious is your name,<br/>and glorious too where unseen heavens<br/>your majesty proclaim.<br/>On infant lips, in children's song<br/>a strong defence you raise<br/>to counter enemy and threat,<br/>and foil the rebel's ways.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When I look up and see the stars<br/>which your own fingers made,<br/>and wonder at the moon and stars,<br/>each perfectly displayed;<br/>then I must ask, 'Why do you care?<br/>Why love humanity?<br/>And why keep every mortal name<br/>fixed in your memory?'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Yet such as us you made and meant<br/>just less than gods to be;<br/>with honour and with glory, Lord,<br/>you crowned humanity.<br/>And then dominion you bestowed<br/>for all made by your hand,<br/>all sheep and cattle, birds and fish<br/>that move through sea or land.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O Lord, our Lord, throughout the earth<br/>how glorious is your name!</lines>
+    </verse>
+  </lyrics>
+</song>

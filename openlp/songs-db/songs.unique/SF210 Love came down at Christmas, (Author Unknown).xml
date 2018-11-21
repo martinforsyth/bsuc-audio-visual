@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:21">
+  <properties>
+    <titles>
+      <title>SF210 Love came down at Christmas,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Love came down at Christmas,<br/>Love all lovely, Love divine;<br/>Love was born at Christmas,<br/>star and angels gave the sign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Worship we the Godhead,<br/>Love incarnate, Love divine;<br/>worship we our Jesus:<br/>but wherewith for sacred sign?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Love shall be our token,<br/>love be yours and love be mine,<br/>love to God and all the world,<br/>love for plea and gift and sign.</lines>
+    </verse>
+  </lyrics>
+</song>

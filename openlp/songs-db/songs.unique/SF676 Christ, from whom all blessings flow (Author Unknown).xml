@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:46">
+  <properties>
+    <titles>
+      <title>SF676 Christ, from whom all blessings flow</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ, from whom all blessings flow,<br/>Perfecting the saints below,<br/>Hear us, who thy nature share,<br/>Who thy mystic body are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Join us, in one spirit join,<br/>Let us still receive of thine;<br/>Still for more on thee we call,<br/>Thou who fillest all in all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Closer knit to thee, our Head,<br/>Nourished, Lord, by thee, and fed,<br/>Let us daily growth receive,<br/>More in Jesus Christ believe,</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Never from thy service move,<br/>Needful to each other prove,<br/>Use the grace on each bestowed,<br/>Tempered by the art of God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Love, like death, has all destroyed,<br/>Rendered all distinctions void;<br/>Names, and sects, and parties fall:<br/>Thou, O Christ, art all in all.</lines>
+    </verse>
+  </lyrics>
+</song>

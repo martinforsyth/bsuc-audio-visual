@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:59">
+  <properties>
+    <titles>
+      <title>MP437 Lord Make Me An Instrument</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord make me an instrument,<br/>An instrument of worship;<br/>I lift up my hands in Your name.<br/>Lord make me an instrument,<br/>An instrument of worship;<br/>I lift up my hands in Your name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I'll sing You a love song,<br/>A love song of worship,<br/>I'll lift up my hands in Your name.<br/>I'll sing You a love song,<br/>A love song to Jesus,<br/>I'll lift up my hands in Your name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, make us a symphony,<br/>A symphony of worship;<br/>We lift up our hands in Your name.<br/>Lord, make us a symphony,<br/>A symphony of worship;<br/>We lift up our hands in Your name.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:44">
+  <properties>
+    <titles>
+      <title>HP87 The Angel Gabriel from heaven came</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Angel Gabriel from heaven came<br/>His wings as drifted snow, his eyes as flame;<br/>'All hail', said he, 'thou lowly maiden Mary,<br/>Most highly favoured lady.'<br/>Gloria!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'For known a blessed Mother thou shalt be,<br/>All generations laud and honour thee,<br/>Thy son shall be Immanuel, by seers foretold;<br/>Most highly favoured lady.'<br/>Gloria!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Then gentle Mary meekly bowed her head,<br/>'To me be as it pleaseth God', she said,<br/>'My soul shall laud and magnify his holy name';<br/>Most highly favoured lady.<br/>Gloria!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Of her, Immanuel, the Christ was born<br/>In Bethlehem, all on a Christmas morn<br/>And Christian folk throughout the world will ever say<br/>'Most highly favoured lady.'<br/>Gloria!</lines>
+    </verse>
+  </lyrics>
+</song>

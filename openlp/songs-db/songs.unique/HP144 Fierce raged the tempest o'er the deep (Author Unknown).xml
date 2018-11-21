@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:47">
+  <properties>
+    <titles>
+      <title>HP144 Fierce raged the tempest o'er the deep</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Fierce raged the tempest o'er the deep,<br/>Watch did thine anxious servants keep;<br/>But thou wast wrapped in guileless sleep,<br/>Calm and still.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Save, Lord, we perish!' was their cry,<br/>'O save us in our agony!'<br/>Thy word above the storm rose high:<br/>'Peace! Be still.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The wild winds hushed; the angry deep<br/>Sank, like a little child, to sleep;<br/>The sullen billows ceased to leap,<br/>At thy will.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>So, when our life is clouded o'er,<br/>And storm-winds drift us from the shore,<br/>Say, lest we sink to rise no more:<br/>'Peace! Be still.'</lines>
+    </verse>
+  </lyrics>
+</song>

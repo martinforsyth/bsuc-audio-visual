@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:47">
+  <properties>
+    <titles>
+      <title>HP697 Just as I am, without one plea</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Just as I am, without one plea<br/>But that thy blood was shed for me,<br/>And that thou bidd'st me come to thee,<br/>O Lamb of God, I come!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Just as I am, though tossed about<br/>With many a conflict, many a doubt,<br/>Fightings and fears within, without,<br/>O Lamb of God, I come!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Just as I am, poor, wretched, blind;<br/>Sight, riches, healing of the mind,<br/>Yea, all I need, in thee to find,<br/>O Lamb of God, I come!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Just as I am, thou wilt receive,<br/>Wilt welcome, pardon, cleanse, relieve;<br/>Because thy promise I believe,<br/>O Lamb of God, I come!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Just as I am - thy love unknown<br/>Has broken every barrier down -<br/>Now to be thine, yea, thine alone,<br/>O Lamb of God, I come!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Just as I am, of that free love<br/>The breadth, length, depth, and height to prove,<br/>Here for a season, then above,<br/>O Lamb of God, I come!</lines>
+    </verse>
+  </lyrics>
+</song>

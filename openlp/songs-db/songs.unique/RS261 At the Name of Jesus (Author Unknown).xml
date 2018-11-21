@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:47">
+  <properties>
+    <titles>
+      <title>RS261 At the Name of Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>At the Name of Jesus<br/>every knee shall bow,<br/>every tongue confess Him<br/>King of glory now;<br/>'Tis the Father's pleasure<br/>we should call him Lord,<br/>who from the beginning<br/>was the mighty Word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Humbled for a season,<br/>to receive a Name<br/>from the lips of sinners<br/>unto whom he came,<br/>he became a witness,<br/>faithful to the last,<br/>and returned victorious,<br/>when from death he passed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In your hearts enthrone him;<br/>There let him make new<br/>all that is not holy,<br/>all that is not true;<br/>He is God the Saviour,<br/>he is Christ the Lord,<br/>ever to be worshipped,<br/>trusted and adored.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When this same Lord Jesus<br/>shall appear again<br/>in his Father's glory,<br/>there with him to reign,<br/>then may we adore him,<br/>all before him bow,<br/>as our hearts confess him<br/>King of glory now.</lines>
+    </verse>
+  </lyrics>
+</song>

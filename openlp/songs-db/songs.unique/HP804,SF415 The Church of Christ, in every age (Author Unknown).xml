@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-06-16T16:41:38">
+  <properties>
+    <titles>
+      <title>HP804,SF415 The Church of Christ, in every age</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Church of Christ, in every age<br/>beset by change but Spirit-led,<br/>must claim and test its heritage<br/>and keep on rising from the dead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Across the world, across the street,<br/>the victims of injustice cry<br/>for shelter and for bread to eat,<br/>and never live until they die.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Then let the Servant Church arise,<br/>a caring Church, that longs to be<br/>a partner in Christ's sacrifice,<br/>and clothed in Christ's humanity.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For he alone, whose blood was shed,<br/>can cure the fever in our blood,<br/>and teach us how to share our bread<br/>and feed the starving multitude.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>We have no mission but to serve<br/>in full obedience to our Lord:<br/>to care for all, without reserve,<br/>and spread his liberating Word.</lines>
+    </verse>
+  </lyrics>
+</song>

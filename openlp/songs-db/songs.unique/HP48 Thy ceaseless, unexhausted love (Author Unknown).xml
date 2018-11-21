@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:41">
+  <properties>
+    <titles>
+      <title>HP48 Thy ceaseless, unexhausted love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thy ceaseless, unexhausted love,<br/>Unmerited and free,<br/>Delights our evil to remove,<br/>And help our misery.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou waitest to be gracious still;<br/>Thou dost with sinners bear,<br/>That, saved, we may thy goodness feel,<br/>And all thy grace declare.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thy goodness and thy truth to me,<br/>To every soul, abound,<br/>A vast, unfathomable sea,<br/>Where all our thoughts are drowned.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Its streams the whole creation reach,<br/>So plenteous is the store,<br/>Enough for all, enough for each,<br/>Enough for evermore.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Faithful, O Lord, thy mercies are,<br/>A rock that cannot move;<br/>A thousand promises declare<br/>Thy constancy of love.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Throughout the universe it reigns,<br/>Unalterably sure;<br/>And while the truth of God remains<br/>The goodness must endure.</lines>
+    </verse>
+  </lyrics>
+</song>

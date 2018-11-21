@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:02">
+  <properties>
+    <titles>
+      <title>SF25 God is here! As we his people</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God is here! As we his people<br/>Meet to offer praise and prayer,<br/>May we find in fuller measure<br/>What it is in Christ we share.<br/>Here, as in the world around us,<br/>All our varied skills and arts<br/>Wait the coming of his Spirit<br/>Into open minds and hearts.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Here are symbols to remind us<br/>Of our lifelong need of grace;<br/>Here are table, font and pulpit;<br/>Here the cross has central place.<br/>Here in honesty of preaching,<br/>Here in silence, as in speech,<br/>Here, in newness and renewal,<br/>God the Spirit comes to each.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Here our children find a welcome<br/>In the Shepherd's flock and fold;<br/>Here as bread and wine are taken,<br/>Christ sustains us, as of old;<br/>Here the servants of the Servant<br/>Seek in worship to explore<br/>What it means in daily living<br/>To believe and to adore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord of all, of Church and Kingdom,<br/>In an age of change and doubt,<br/>Keep us faithful to the gospel,<br/>Help us work your purpose out.<br/>Here, in this day's dedication,<br/>All we have to give, receive:<br/>We, who cannot live without you,<br/>We adore you! We believe!</lines>
+    </verse>
+  </lyrics>
+</song>

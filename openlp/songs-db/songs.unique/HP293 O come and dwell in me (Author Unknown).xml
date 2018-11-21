@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:07">
+  <properties>
+    <titles>
+      <title>HP293 O come and dwell in me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O come and dwell in me,<br/>Spirit of power within,<br/>And bring the glorious liberty<br/>From sorrow, fear, and sin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The seed of sin's disease,<br/>Spirit of health, remove,<br/>Spirit of finished holiness,<br/>Spirit of perfect love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Hasten the joyful day<br/>Which shall my sins consume,<br/>When old things shall be passed away,<br/>And all things new become.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I want the witness, Lord,<br/>That all I do is right,<br/>According to thy will and word,<br/>Well-pleasing in thy sight.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>I ask no higher state;<br/>Indulge me but in this,<br/>And soon or later then translate<br/>To my eternal bliss.</lines>
+    </verse>
+  </lyrics>
+</song>

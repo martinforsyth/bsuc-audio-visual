@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:42">
+  <properties>
+    <titles>
+      <title>SF576 Bread is blest and Broken</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>1  Bread is blessed and broken,<br/>wine is blessed and poured:<br/>take this and remember<br/>Christ the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2  Share the food of heaven<br/>earth can not afford.<br/>Here is grace in essence -<br/>Christ the Lord.<br/>.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3  Know yourself forgiven,<br/>find yourself restored,<br/>meet a friend for ever -<br/>Christ the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4  God has kept his promise<br/>sealed by sign and word:<br/>here, for those who want him -<br/>Christ the Lord.<br/>John L. Bell (b. 1949) and Graham Maule (b. 1958)</lines>
+    </verse>
+  </lyrics>
+</song>

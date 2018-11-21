@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:13">
+  <properties>
+    <titles>
+      <title>MP565 Praise You, Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise You, Lord,<br/>For the wonder of Your healing.<br/>Praise You, Lord,<br/>For Your love so freely given;<br/>Outpouring, anointing,<br/>Flowing in to heal our wounds:<br/>Praise You, Lord, for Your love for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Praise You, Lord,<br/>For Your gift of liberation.<br/>Praise You, Lord,<br/>You have set the captives free;<br/>The chains that bind are broken<br/>By the sharpness of Your sword:<br/>Praise You, Lord, You gave Your life for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Praise You, Lord,<br/>You have borne the depths of sorrow.<br/>Praise You, Lord,<br/>For Your anguish on the tree;<br/>The nails that tore Your body<br/>And the pain that tore Your soul:<br/>Praise You, Lord, Your tears they fell for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Praise You, Lord,<br/>You have turned our thorns to roses.<br/>Glory, Lord,<br/>As they bloom upon Your brow;<br/>The path of pain is hallowed,<br/>For Your love has made it sweet:<br/>Praise You, Lord, and may I love You now.</lines>
+    </verse>
+  </lyrics>
+</song>

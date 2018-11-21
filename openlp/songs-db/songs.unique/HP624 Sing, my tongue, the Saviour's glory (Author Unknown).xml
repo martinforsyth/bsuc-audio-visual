@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:34">
+  <properties>
+    <titles>
+      <title>HP624 Sing, my tongue, the Saviour's glory</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing, my tongue, the Saviour's glory,<br/>Of his cross the mystery sing;<br/>Lift on high the wondrous trophy,<br/>Tell the triumph of the King:<br/>He, the world's Redeemer, conquers<br/>Death, through death now vanquishing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Born for us, and for us given,<br/>Born a man like us below,<br/>He, as man with men abiding,<br/>Dwelt, the seeds of truth to sow;<br/>And at last faced death undaunted,<br/>Thus his greatest deed to show.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>On the night of that last supper<br/>Seated with his chosen band,<br/>He, the paschal victim eating,<br/>First fulfils the law's command,<br/>Then as food to all his brethren<br/>Gives himself with his own hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Word made flesh! His word life-giving,<br/>Gives his flesh our meat to be,<br/>Bids us drink his blood, believing,<br/>Through his death, we life shall see:<br/>Blessed they who thus receiving<br/>Are from death and sin set free.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Low in adoration bending,<br/>Now our hearts our God revere;<br/>Faith her aid to sight is lending,<br/>Though unseen the Lord is near;<br/>Ancient types and shadows ending,<br/>Christ our paschal Lamb is here.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Praise for ever, thanks and blessing,<br/>Thine, O gracious Father, be;<br/>Praise be thine, O Christ, who bringest<br/>Life and immortality;<br/>Praise be thine, thou quickening Spirit,<br/>Praise through all eternity.<br/>(Amen.)</lines>
+    </verse>
+  </lyrics>
+</song>

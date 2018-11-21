@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:45">
+  <properties>
+    <titles>
+      <title>HP688 Who would true valour see</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Who would true valour see,<br/>Let him come hither;<br/>One here will constant be,<br/>Come wind, come weather;<br/>There's no discouragement<br/>Shall make him once relent<br/>His first avowed intent<br/>To be a pilgrim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Whoso beset him round<br/>With dismal stories<br/>Do but themselves confound;<br/>His strength the more is.<br/>No lion can him fright;<br/>He'll with a giant fight;<br/>But he will have a right<br/>To be a pilgrim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Hobgoblin nor foul fiend<br/>Can daunt his spirit;<br/>He knows he at the end<br/>Shall life inherit.<br/>Then fancies fly away,<br/>He'll fear not what men say;<br/>He'll labour night and day<br/>To be a pilgrim.</lines>
+    </verse>
+  </lyrics>
+</song>

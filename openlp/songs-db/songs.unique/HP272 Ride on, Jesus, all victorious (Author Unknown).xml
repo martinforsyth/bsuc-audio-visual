@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:04">
+  <properties>
+    <titles>
+      <title>HP272 Ride on, Jesus, all victorious</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Ride on, Jesus, all-victorious,<br/>Bear thy sword upon thy side;<br/>None on earth can e'er withstand thee,<br/>Nor yet hell, for all its pride:<br/>At thy mighty name tremendous<br/>Every foe is forced to yield -<br/>Hushed in awe, creation trembles:<br/>Come then, Jesus, take the field.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Rescue now our souls from bondage,<br/>In thy morn of victory,<br/>Batter down the doors of Babel,<br/>Break the bars and set us free:<br/>Let thy rescued hosts, exulting,<br/>Troop to freedom, wave on wave,<br/>Like the surge of mighty waters:<br/>O come quickly, come and save!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Hark! I hear already, faintly,<br/>Songs of vict'ry from afar,<br/>Where the heirs of thy redemption<br/>Hail thy triumph in the war.<br/>Clad in robes of shining glory,<br/>Palms of conquest in each hand,<br/>Joyful hosts, to freedom marching,<br/>Enter now the promised land.</lines>
+    </verse>
+  </lyrics>
+</song>

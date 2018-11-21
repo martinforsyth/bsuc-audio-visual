@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:22">
+  <properties>
+    <titles>
+      <title>HP391 I greet thee, who my sure Redeemer art</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I greet thee, who my sure Redeemer art,<br/>My only trust and Saviour of my heart,<br/>Who pain didst undergo for my poor sake;<br/>I pray thee from us anxious cares to take.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou art the King of mercy and of grace,<br/>Reigning omnipotent in every place;<br/>So come, O King, and our whole being sway;<br/>Shine on us with the light of thy pure day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thou art the Life, by which alone we live,<br/>And all our substance and our strength receive;<br/>Sustain us by thy faith and by thy power,<br/>And give us strength in every trying hour.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thou hast the true and perfect gentleness,<br/>No harshness hast thou and no bitterness:<br/>O grant to us the grace we find in thee,<br/>That we may dwell in perfect unity.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Our hope is in no other save in thee;<br/>Our faith is built upon thy promise free;<br/>Lord, give us peace, and make us calm and sure,<br/>That in thy strength we evermore endure.</lines>
+    </verse>
+  </lyrics>
+</song>

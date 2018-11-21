@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:16">
+  <properties>
+    <titles>
+      <title>SF165 Advent candles tell their story</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Advent candles tell their story<br/>as we watch and pray,<br/>longing for the Day of Glory,<br/>'Come, Lord, soon,' we say.<br/>Pain and sorrow, tears and sadness<br/>changed for gladness<br/>on that day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Prophet voices loudly crying,<br/>making pathways clear,<br/>glimpsing glory, self-denying,<br/>calling all to hear.<br/>Through their message - challenged, shaken -<br/>hearts awaken:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>John the Baptist, by his preaching<br/>and by water poured,<br/>brought to those who heard his teaching<br/>news of hope restored:<br/>'Keep your vision strong and steady,<br/>and be ready<br/>for the Lord.'</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Mary's gift, beyond all telling,<br/>was to give Christ room.<br/>She gave God a human dwelling<br/>in a mother's womb.<br/>Who could guess the final story?<br/>- cross and glory;<br/>empty tomb!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Advent candles tell their story<br/>on this Christmas Day.<br/>Those who waited for God's glory:<br/>they prepared the way.<br/>Christ is with us: loving, giving,<br/>in us living,<br/>here today!</lines>
+    </verse>
+  </lyrics>
+</song>

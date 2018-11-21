@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:59">
+  <properties>
+    <titles>
+      <title>HP237 Hills of the North, rejoice</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hills of the North, rejoice,<br/>River and mountain spring,<br/>Hark to the advent voice,<br/>Valley and lowland, sing:<br/>Christ comes in righteousness and love,<br/>he brings salvation from above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Isles of the Southern seas,<br/>Sing to the listening earth;<br/>Carry on every breeze<br/>Hope of a world's new birth;<br/>In Christ shall all the be made anew;<br/>His word is sure, his promise true.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lands of the east, arise!<br/>He is your brightest morn;<br/>Greet him with joyous eyes,<br/>Let praise his path adorn;<br/>Your seers have longed to know your Lord;<br/>To you he comes,the final Word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Shores of the utmost West,<br/>Lands of the setting sun,<br/>Welcome the heavenley guest<br/>In whom the dawn has come:<br/>He brings a never-ending light,<br/>Who triumphed o'er our darkest night.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Shout, as you journey on;<br/>Songs be in every mouth!<br/>Lo, from the north they come,<br/>From east and wesy and south:<br/>In Jesus all shall find their nest,<br/>In him the universe be blest.</lines>
+    </verse>
+  </lyrics>
+</song>

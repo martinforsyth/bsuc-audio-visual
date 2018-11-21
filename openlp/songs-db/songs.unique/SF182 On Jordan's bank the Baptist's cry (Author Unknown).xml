@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:17">
+  <properties>
+    <titles>
+      <title>SF182 On Jordan's bank the Baptist's cry</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>On Jordan's bank the Baptist's cry<br/>announces that the Lord is nigh;<br/>awake and hearken, for he brings<br/>glad tidings from the King of kings!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Then cleansed be every life from sin;<br/>make straight the way for God within,<br/>and let us all our hearts prepare<br/>for Christ to come and enter there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For you are our salvation, Lord,<br/>our refuge, and our great reward;<br/>without your grace we waste away<br/>like flowers that wither and decay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>To heal the sick stretch out your hand,<br/>and bid the fallen sinner stand;<br/>shine forth, and let your light restore<br/>earth's own true loveliness once more.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>To God the Son all glory be<br/>whose advent sets his people free,<br/>whom, with the Father, we adore,<br/>and Holy Spirit, evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

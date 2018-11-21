@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:12">
+  <properties>
+    <titles>
+      <title>HP325 Spirit of faith, come down</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Spirit of faith, come down,<br/>Reveal the things of God;<br/>And make to us the Godhead known,<br/>And witness with the blood.<br/>'Tis Thine the blood to apply,<br/>And give us eyes to see<br/>Who did for every sinner die<br/>Hath surely died for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>No man can truly say<br/>That Jesus is the Lord,<br/>Unless Thou take the veil away,<br/>And breathe the living word.<br/>Then, only then, we feel,<br/>Our interest in His blood.<br/>And cry, with joy unspeakable:<br/>Thou art my Lord, my God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O that the world might know<br/>The all-atoning Lamb!<br/>Spirit of faith, descend, and show<br/>The virtue of His name.<br/>The grace which all may find<br/>The saving power impart;<br/>And testify to all mankind,<br/>And speak in every heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Inspire the living faith,<br/>Which whosoe'er receives,<br/>The witness in himself he hath,<br/>And consciously believes.<br/>The faith that conquers all,<br/>And doth the mountain move,<br/>And saves whoe'er on Jesus  call,<br/>And perfects them in love.</lines>
+    </verse>
+  </lyrics>
+</song>

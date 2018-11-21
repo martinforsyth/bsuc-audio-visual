@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:40">
+  <properties>
+    <titles>
+      <title>HP663 Awake, our souls; away our fears</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Awake, our souls; away, our fears;<br/>Let every trembling thought be gone;<br/>Awake, and run the heavenly race,<br/>And put a cheerful courage on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>True, 'tis a strait and thorny road,<br/>And mortal spirits tire and faint;<br/>But they forget the mighty God<br/>Who feeds the strength of every saint -</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thee, mighty God, whose matchless power<br/>Is ever new and ever young,<br/>And firm endures, while endless years<br/>Their everlasting circles run!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>From thee, the overflowing spring,<br/>Our souls shall drink a fresh supply,<br/>While such as trust their native strength<br/>Shall faint away, and droop, and die.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Swift as an eagle cuts the air,<br/>We'll mount aloft to thine abode:<br/>On wings of love our souls shall fly,<br/>Nor tire along the heavenly road.</lines>
+    </verse>
+  </lyrics>
+</song>

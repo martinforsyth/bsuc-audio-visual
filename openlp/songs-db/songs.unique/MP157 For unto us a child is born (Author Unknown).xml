@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:28">
+  <properties>
+    <titles>
+      <title>MP157 For unto us a child is born</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>For unto us a child is born,<br/>Unto us a son is giv'n,<br/>And the government shall be upon His shoulders.<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And there shall be no end<br/>To the increase of His rule,<br/>To the increase of His government and peace.<br/>For he shall sit on David's throne<br/>Upholding righteousness.<br/>Our God shall accomplish this.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For he is the mighty God,<br/>He is the Prince of Peace,<br/>The King of kings and Lord of lords.<br/>All honour to the King,<br/>All glory to His name,<br/>For now and evermore.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And he will be called wonderful,<br/>Wonderful Counsellor, mighty God,<br/>The everlasting Father,<br/>Prince of Peace, mighty God.</lines>
+    </verse>
+  </lyrics>
+</song>

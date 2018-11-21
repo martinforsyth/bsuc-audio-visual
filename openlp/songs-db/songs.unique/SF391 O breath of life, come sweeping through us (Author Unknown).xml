@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:32">
+  <properties>
+    <titles>
+      <title>SF391 O breath of life, come sweeping through us</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O breath of life, come sweeping through us,<br/>revive your Church with life and power;<br/>O breath of life, come, cleanse, renew us,<br/>and fit your Church to meet this hour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O wind of God, come, bend us, break us,<br/>till humbly we confess our need;<br/>then in your tenderness remake us,<br/>revive, restore; for this we plead.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O breath of love, come, breathe within us,<br/>renewing thought and will and heart;<br/>come, love of Christ, afresh to win us,<br/>revive your Church in every part.</lines>
+    </verse>
+  </lyrics>
+</song>

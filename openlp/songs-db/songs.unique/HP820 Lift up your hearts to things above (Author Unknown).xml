@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:25">
+  <properties>
+    <titles>
+      <title>HP820 Lift up your hearts to things above</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lift up your hearts to things above,<br/>Ye followers of the Lamb,<br/>And join with us to praise his love<br/>And glorify his name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>To Jesu's name give thanks and sing,<br/>Whose mercies never end:<br/>Rejoice! Rejoice! The Lord is King;<br/>The King is now our friend!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Our life is hid with Christ in God;<br/>Our Life shall soon appear,<br/>And shed his glory all abroad<br/>In all his members here.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Our souls are in his mighty hand,<br/>And he shall keep them still;<br/>And you and I shall surely stand<br/>With him on Zion's hill.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Him face to face we there shall see,<br/>Illustrious we shall shine:<br/>O what a glorious company,<br/>When saints and angels join!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:01">
+  <properties>
+    <titles>
+      <title>MP462 May the fragrance of Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>May the fragrance of Jesus fill this place<br/>(may the fragrance of Jesus fill this place).<br/>May the fragrance of Jesus fill this place<br/>(lovely fragrance of Jesus),<br/>Rising from the sacrifice<br/>Of lives laid down in adoration.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>May the glory of Jesus fill His church<br/>(may the glory of Jesus fill His church).<br/>May the glory of Jesus fill His church<br/>(radiant glory of Jesus),<br/>Shining from our faces<br/>As we gaze in adoration.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>May the beauty of Jesus fill my life<br/>(may the beauty of Jesus fill my life).<br/>May the beauty of Jesus fill my life<br/>(perfect beauty of Jesus),<br/>Fill my thoughts, my words, my deeds;<br/>May I give in adoration.<br/>Fill my thoughts, my words, my deeds;<br/>May I give in adoration.</lines>
+    </verse>
+  </lyrics>
+</song>

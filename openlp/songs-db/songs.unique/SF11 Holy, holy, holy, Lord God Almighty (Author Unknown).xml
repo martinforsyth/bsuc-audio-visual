@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:01">
+  <properties>
+    <titles>
+      <title>SF11 Holy, holy, holy, Lord God Almighty</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Holy, holy, holy, Lord God Almighty!<br/>Early in the morning our song shall rise to thee:<br/>holy, holy, holy, merciful and mighty,<br/>God in three Persons, blessed Trinity!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Holy, holy, holy!  All the saints adore thee,<br/>casting down their golden crowns around the glassy sea;<br/>cherubim and seraphim falling down before thee,<br/>who wert, and art, and evermore shalt be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Holy, holy, holy!  Though the darkness hide thee,<br/>though the sinful human eye thy glory may not see,<br/>only thou art holy; there is none beside thee,<br/>perfect in power, in love, and purity.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Holy, holy, holy, Lord God Almighty!<br/>All thy works shall praise thy name in earth and sky and sea;<br/>holy, holy, holy, merciful and mighty,<br/>God in three Persons, blessed Trinity!</lines>
+    </verse>
+  </lyrics>
+</song>

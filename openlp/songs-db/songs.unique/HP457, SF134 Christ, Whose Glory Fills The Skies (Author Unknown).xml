@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:43">
+  <properties>
+    <titles>
+      <title>HP457, SF134 Christ, Whose Glory Fills The Skies</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ, whose glory fills the skies<br/>Christ, the true, the only light,<br/>Sun of righteousness, arise,<br/>Triumph o'er the shades of night:<br/>Day-spring from on high, be near;<br/>Day-star, in my heart appear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Dark and cheerless is the morn<br/>unaccompanied by Thee;<br/>joyless is the day's return,<br/>till Thy mercy's beams I see;<br/>till they inward light impart,<br/>glad my eyes, and warm my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Visit then this soul of mine;<br/>pierce the gloom of sin and grief;<br/>fill me, radiancy divine;<br/>scatter all my unbelief;<br/>more and more Thyself display,<br/>shining to the perfect day.</lines>
+    </verse>
+  </lyrics>
+</song>

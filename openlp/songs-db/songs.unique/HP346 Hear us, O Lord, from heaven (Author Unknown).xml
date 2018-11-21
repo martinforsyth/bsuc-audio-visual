@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:15">
+  <properties>
+    <titles>
+      <title>HP346 Hear us, O Lord, from heaven</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hear us, O Lord, from heaven, thy dwelling-place:<br/>Like them of old, in vain we toil all night,<br/>Unless with us thou go, who art the light;<br/>Come then, O Lord, that we may see thy face.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou, Lord, dost rule the raging of the sea,<br/>When loud the storm and furious is the gale;<br/>Strong is thine arm; our little barques are frail:<br/>Send us thy help; remember Galilee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Our wives and children we commend to thee:<br/>For them we plough the land and plough the deep,<br/>For them by day the golden corn we reap,<br/>By night the silver harvest of the sea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We thank thee, Lord, for sunshine, dew, and rain,<br/>Broadcast from heaven by thine almighty hand -<br/>Source of all life, unnumbered as the sand -<br/>Bird, beast, and fish, herb, fruit, and golden grain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O Bread of Life, thou in thy word hast said:<br/>'Who feeds in faith on me shall never die'.<br/>In mercy hear thy hungry children's cry:<br/>'Father, give us this day our daily bread!'</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Sow in our hearts the seeds of thy dear love,<br/>That we may reap contentment, joy, and peace;<br/>And when at last our earthly labours cease,<br/>Grant us to join thy harvest home above.</lines>
+    </verse>
+  </lyrics>
+</song>

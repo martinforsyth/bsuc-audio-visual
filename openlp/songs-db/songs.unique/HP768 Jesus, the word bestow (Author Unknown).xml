@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:59">
+  <properties>
+    <titles>
+      <title>HP768 Jesus, the word bestow</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, the word bestow,<br/>The true immortal seed;<br/>Thy gospel then shall greatly grow,<br/>And all our land o'erspread;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Through earth extended wide<br/>Shall mightily prevail,<br/>Destroy the works of self and pride,<br/>And shake the gates of hell.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Its energy exert<br/>In the believing soul;<br/>Diffuse thy grace through every part,<br/>And sanctify the whole;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Its utmost virtue show<br/>In pure consummate love,<br/>And fill with all thy life below,<br/>And give us thrones above.</lines>
+    </verse>
+  </lyrics>
+</song>

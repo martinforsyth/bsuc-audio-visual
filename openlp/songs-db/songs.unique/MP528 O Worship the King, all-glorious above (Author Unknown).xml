@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:09">
+  <properties>
+    <titles>
+      <title>MP528 O Worship the King, all-glorious above</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Worship the King, all-glorious above;<br/>O gratefully sing his power and his love:<br/>Our Shield and Defender, the Ancient of Days,<br/>Pavilioned in splendour, and girded with praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O tell of his might, O sing of his grace,<br/>Whose robe is the light, whose canopy space;<br/>His chariots of wrath the deep thunder-clouds form,<br/>And dark is his path on the wings of the storm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The earth with its store of wonders untold,<br/>Almighty, thy power hath founded of old;<br/>Hath stablished it fast by a changeless decree,<br/>And round it hath cast, like a mantle, the sea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thy bountiful care what tongue can recite?<br/>It breathes in the air, it shines in the light;<br/>It streams from the hills, it descends to the plain,<br/>And sweetly distils in the dew and the rain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Frail children of dust, and feeble as frail,<br/>In thee do we trust, nor find thee to fail;<br/>Thy mercies how tender, how firm to the end,<br/>Our Maker, Defender, Redeemer, and Friend.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O Lord of all might, how boundless Thy love,<br/>While angels delight to hymn thee above,<br/>Thy humbler creation, though feeble their lays,<br/>With true adoration shall sing to thy praise.</lines>
+    </verse>
+  </lyrics>
+</song>

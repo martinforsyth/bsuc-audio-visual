@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:39">
+  <properties>
+    <titles>
+      <title>MP812 Christ Is Risen!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Love's work is done,<br/>The battle is won:<br/>Where now, O death, is your sting?<br/>He rose again<br/>To rule and to reign,<br/>Jesus our conquering King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord over sin,<br/>Lord over death,<br/>At His feet Satan must fall!<br/>Every knee bow,<br/>All will confess<br/>Jesus is Lord over all!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Tell it abroad<br/>'Jesus is Lord!'<br/>Shout it and let your praise ring!<br/>Gladly we raise<br/>Our songs of praise,<br/>Worship is our offering.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Christ is risen!<br/>Hallelujah, hallelujah!<br/>Christ is risen!<br/>Risen indeed, hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

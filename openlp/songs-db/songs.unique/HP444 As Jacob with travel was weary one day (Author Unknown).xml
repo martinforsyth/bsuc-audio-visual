@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:36">
+  <properties>
+    <titles>
+      <title>HP444 As Jacob with travel was weary one day</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>As Jacob with travel was weary one day,<br/>At night on a stone for a pillow he lay;<br/>He saw in a vision a ladder so high<br/>That its foot was on earth and its top in the sky:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>This ladder is long, it is strong and well made,<br/>Has stood hundreds of years and is not yet decayed;<br/>Many millions have climbed it and reached Zion's hill,<br/>And thousands by faith are climbing it still:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come, let us ascend! All may climb it who will,<br/>For the angels of Jacob are guarding it still;<br/>And remember, each step that by faith we pass o'er,<br/>Some prophet or martyr has trod it before:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And when we arrive at the haven of rest<br/>We shall hear the glad words: 'Come up hither, ye blest,<br/>Here are regions of light, here are mansions of bliss.'<br/>O who would not climb such a ladder as this?</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Alleluia to Jesus, who died on the tree,<br/>And has raised up a ladder of mercy for me!</lines>
+    </verse>
+  </lyrics>
+</song>

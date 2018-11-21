@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:50">
+  <properties>
+    <titles>
+      <title>HP180 When I survey</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When I survey the wondrous cross,<br/>on which the Prince of Glory died,<br/>my richest gain I count but loss,<br/>and pour contempt on all my pride.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Forbid it, Lord, that I should boast<br/>save in the death of Christ my God;<br/>all the vain things that charm me most,<br/>I sacrifice them to his blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>See from his head, his hands, his feet,<br/>sorrow and love flow mingled down;<br/>did e'er such love and sorrow meet,<br/>or thorns compose so rich a crown?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>His dying crimson, like a robe,<br/>spreads o'er his body on the tree;<br/>then am I dead to all the globe,<br/>and all the globe is dead to me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Were the whole realm of nature mine  that were an offering far too small<br/>love so amazing, so divine,<br/>demands my soul, my life, my all.</lines>
+    </verse>
+  </lyrics>
+</song>

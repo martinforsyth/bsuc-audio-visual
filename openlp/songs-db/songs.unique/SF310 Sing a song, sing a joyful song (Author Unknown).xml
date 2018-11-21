@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:28">
+  <properties>
+    <titles>
+      <title>SF310 Sing a song, sing a joyful song</title>
+    </titles>
+    <verseOrder>v1 c1 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing a song, sing a joyful song,<br/>sing a joyful song to celebrate!<br/>Sing a song, sing a joyful song,<br/>sing a joyful song to celebrate!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Clap your hands, clap your hands like this,<br/>clap your hands like this to celebrate!<br/>Clap your hands, clap your hands like this,<br/>clap your hands like this to celebrate!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jump up and down, up and down and around,<br/>up and down and around to celebrate!<br/>Jump up and down, up and down and around,<br/>up and down and around to celebrate!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Dance to the beat, to the beat of the drum,<br/>to the beat of the drum to celebrate!<br/>Dance to the beat, to the beat of the drum,<br/>to the beat of the drum to celebrate!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Wave your hands, wave your hands in the air,<br/>wave your hands in the air to celebrate!<br/>Wave your hands, wave your hands in the air,<br/>wave your hands in the air to celebrate!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Jesus is alive, you know,<br/>he's risen from the dead!<br/>He was crucified<br/>but now he's risen like he said.<br/>(Hallelujah!)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:40">
+  <properties>
+    <titles>
+      <title>HP40 Thee will I love, my God and King</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thee will I love, my God and King,<br/>Thee will I sing,<br/>My strength and tower;<br/>For evermore thee will I trust,<br/>O God most just<br/>Of truth and power;<br/>Who all things hast<br/>In order placed,<br/>Yea, for thy pleasure hast created;<br/>And on thy throne<br/>Unseen, unknown,<br/>Reignest alone<br/>In glory seated.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Set in my heart thy love I find;<br/>My wandering mind<br/>To thee thou leadest:<br/>My trembling hope, my strong desire<br/>With heavenly fire<br/>Thou kindly feedest.<br/>Lo, all things fair<br/>Thy path prepare,<br/>Thy beauty to my spirit calleth,<br/>Thine to remain In joy or pain,<br/>And count it gain<br/>Whate'er befalleth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O more and more thy love extend,<br/>My life befriend<br/>With heavenly pleasure;<br/>That I may win thy paradise,<br/>Thy pearl of price,<br/>Thy countless treasure;<br/>Since but in thee<br/>I can go free<br/>From earthly care and vain oppression,<br/>This prayer I make<br/>For Jesus' sake,<br/>That thou me take<br/>In thy possession.</lines>
+    </verse>
+  </lyrics>
+</song>

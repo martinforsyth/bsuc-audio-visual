@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:49">
+  <properties>
+    <titles>
+      <title>HP704 O Jesus, I have promised</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Jesus, I have promised<br/>To serve thee to the end;<br/>Be thou for ever near me,<br/>My master and my friend;<br/>I shall not fear the battle<br/>If thou art by my side,<br/>Nor wander from the pathway<br/>If thou wilt be my guide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O let me feel thee near me;<br/>The world is ever near;<br/>I see the sights that dazzle,<br/>The tempting sounds I hear;<br/>My foes are ever near me,<br/>Around me and within;<br/>But, Jesus, draw thou nearer,<br/>And shield my soul from sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O let me hear thee speaking<br/>In accents clear and still,<br/>Above the storms of passion,<br/>The murmurs of self-will;<br/>O speak to reassure me,<br/>To hasten or control.<br/>O speak, and make me listen,<br/>Thou guardian of my soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O Jesus, thou hast promised<br/>To all who follow thee,<br/>That where thou art in glory<br/>There shall thy servant be;<br/>O guide me, call me, draw me,<br/>uphold me to the end:<br/>O give me grace to follow<br/>My master and my friend!</lines>
+    </verse>
+  </lyrics>
+</song>

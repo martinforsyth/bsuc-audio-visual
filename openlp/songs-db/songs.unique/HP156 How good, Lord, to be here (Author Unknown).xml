@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:48">
+  <properties>
+    <titles>
+      <title>HP156 How good, Lord, to be here</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How good, Lord, to be here!<br/>Your glory fills the night;<br/>Your face and garments, like the sun,<br/>Shine with unborrowed light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>How good, Lord, to be here,<br/>Your beauty to behold,<br/>Where Moses and Elijah stand,<br/>Your messengers of old.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Fulfiller of the past,<br/>Promise of things to be:<br/>We hail your body glorified,<br/>And our redemption see.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Before we taste of death,<br/>We see your kingdom come;<br/>We still would hold the vision bright,<br/>And make this hill our home.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>How good, Lord, to be here!<br/>Yet we may not remain;<br/>But since you bid us leave the mount<br/>Come with us to the plain.</lines>
+    </verse>
+  </lyrics>
+</song>

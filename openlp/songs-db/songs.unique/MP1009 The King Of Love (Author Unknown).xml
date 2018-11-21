@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:10">
+  <properties>
+    <titles>
+      <title>MP1009 The King Of Love</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The king of love is my delight,<br/>His eyes are fire, His face is light,<br/>The First and Last, the Living One,<br/>His name is Jesus.<br/>And from His mouth there comes a sound<br/>That shakes the earth and splits the ground,<br/>And yet this voice is life to me,<br/>The voice of Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My Lover's breath is sweetest wine,<br/>I am His prize, and He is mine;<br/>How can a sinner know such joy?<br/>Because of Jesus.<br/>The wounds of love are in His hands,<br/>The price is paid for sinful man;<br/>Accepted child, forgiven son,<br/>Because of Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And my desire is to have You near;<br/>Lord, You know that You are welcome here.<br/>Before such love, before such grace<br/>I will let the walls come down.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And I will sing my songs of love,<br/>Calling out across the earth;<br/>The King has come,<br/>The King of love has come.<br/>And troubled minds can know His peace,<br/>Captive hearts can be released;<br/>The King has come,<br/>The King of love has come.</lines>
+    </verse>
+  </lyrics>
+</song>

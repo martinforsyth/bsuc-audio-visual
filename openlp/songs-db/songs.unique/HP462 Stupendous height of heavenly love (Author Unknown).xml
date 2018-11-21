@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:47">
+  <properties>
+    <titles>
+      <title>HP462 Stupendous height of heavenly love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Stupendous height of heavenly love,<br/>Of pitying tenderness divine;<br/>It brought the Saviour from above,<br/>It caused the springing day to shine;<br/>The Sun of Righteousness to appear,<br/>And gild our gloomy hemisphere.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God did in Christ himself reveal,<br/>To chase our darkness by his light,<br/>Our sin and ignorance dispel,<br/>Direct our wandering feet aright;<br/>And bring our souls, with pardon blest,<br/>To realms of everlasting rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come then, O Lord, thy light impart,<br/>The faith that bids our terrors cease;<br/>Into thy love direct my heart,<br/>Into thy way of perfect peace;<br/>And cheer my soul, of death afraid,<br/>And guide me through the dreadful shade.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Answer thy mercy's whole design,<br/>My God incarnated for me;<br/>My spirit make thy radiant shrine,<br/>My light and full salvation be;<br/>And through the darkened vale unknown<br/>Conduct me to thy dazzling throne.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:49">
+  <properties>
+    <titles>
+      <title>HP466 Almighty God, thy word is cast</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Almighty God, thy word is cast<br/>Like seed into the ground;<br/>Now let the sun and rain be given,<br/>And righteous fruits abound.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Let not the universal foe<br/>This holy seed remove,<br/>But give it root in every heart<br/>To bring forth fruits of love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Let not the world's deceitful cares<br/>The rising plant destroy,<br/>But let it yield a hundredfold<br/>The fruits of peace and joy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Oft as the precious seed is sown,<br/>Thy quickening grace bestow,<br/>That all whose lives thy truth receive<br/>Thy saving power may know.</lines>
+    </verse>
+  </lyrics>
+</song>

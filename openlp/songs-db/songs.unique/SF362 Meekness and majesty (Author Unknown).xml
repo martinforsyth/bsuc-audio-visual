@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:31">
+  <properties>
+    <titles>
+      <title>SF362 Meekness and majesty</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Meekness and majesty,<br/>manhood and deity,<br/>in perfect harmony -<br/>the man who is God.<br/>Lord of eternity,<br/>dwells in humanity,<br/>kneels in humility<br/>and washes our feet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Father's pure radiance,<br/>perfect in innocence,<br/>yet learns obedience<br/>to death on a cross:<br/>suffering to give us life,<br/>conquering through sacrifice -<br/>and as they crucify,<br/>prays, 'Father forgive.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Wisdom unsearchable,<br/>God the invisible,<br/>love indestructible<br/>in frailty appears:<br/>Lord of infinity,<br/>stooping so tenderly,<br/>lifts our humanity<br/>to the heights of his throne.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Oh, what a mystery -<br/>meekness and majesty:<br/>bow down and worship,<br/>for this is your God,<br/>this is your God!</lines>
+    </verse>
+  </lyrics>
+</song>

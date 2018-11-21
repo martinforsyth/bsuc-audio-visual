@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:33">
+  <properties>
+    <titles>
+      <title>MP753 When I feel the touch</title>
+    </titles>
+    <verseOrder>v1 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When I feel the touch<br/>Of your hand upon my life,<br/>It causes me to sing a song<br/>That I love you, Lord.<br/>So from deep within<br/>My spirit singeth unto thee,<br/>You are my King,<br/>You are my God,<br/>And I love you, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

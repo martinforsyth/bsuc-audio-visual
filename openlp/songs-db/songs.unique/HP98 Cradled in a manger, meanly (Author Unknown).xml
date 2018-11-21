@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:44">
+  <properties>
+    <titles>
+      <title>HP98 Cradled in a manger, meanly</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Cradled in a manger, meanly<br/>Laid the Son of Man his head;<br/>Sleeping his first earthly slumber<br/>Where the oxen had been fed.<br/>Happy were those shepherds listening<br/>To the holy angel's word;<br/>Happy they within that stable,<br/>Worshipping their infant Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Happy all who hear the message<br/>Of his coming from above;<br/>Happier still who hail his coming,<br/>And with praises greet his love.<br/>Blessed Saviour, Christ most holy,<br/>In a manger thou didst rest;<br/>Canst thou stoop again, yet lower,<br/>And abide within my breast?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Evil things are there before thee;<br/>In the heart, where they have fed,<br/>Wilt thou pitifully enter,<br/>Son of Man, and lay thy head?<br/>Enter, then, O Christ most holy;<br/>Make a Christmas in my heart;<br/>Make a heaven of my manger:<br/>It is heaven where thou art.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And to those who never listened<br/>To the message of thy birth,<br/>Who have winter, but no Christmas<br/>Bringing them thy peace on earth,<br/>Send to these the joyful tidings;<br/>By all people, in each home,<br/>Be there heard the Christmas anthem:<br/>Praise to God, the Christ has come!</lines>
+    </verse>
+  </lyrics>
+</song>

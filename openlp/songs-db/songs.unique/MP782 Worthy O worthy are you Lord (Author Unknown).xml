@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:36">
+  <properties>
+    <titles>
+      <title>MP782 Worthy O worthy are you Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Worthy, O worthy are you, Lord,<br/>Worthy to be thanked and praised<br/>And worshipped and adored.<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Singing hallelujah,<br/>Lamb upon the throne,<br/>We worship and adore you,<br/>Make your glory known.<br/>Hallelujah, glory to the King:<br/>You're more than a conqueror,<br/>You're Lord of everything.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:04">
+  <properties>
+    <titles>
+      <title>HP269 O Jesus, King most wonderful</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Jesus, King most wonderful;<br/>Thou Conqueror renowned,<br/>Thou sweetness most ineffable,<br/>In whom all joys are found!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When once thou visitest the heart,<br/>Then truth begins to shine,<br/>Then earthly vanities depart,<br/>Then kindles love divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O Jesus, light of all below!<br/>Thou fount of living fire,<br/>Surpassing all the joys we know,<br/>And all we can desire:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus, may all confess thy name,<br/>Thy wondrous love adore;<br/>And, seeking thee, themselves inflame<br/>To seek thee more and more.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thee may our tongues for ever bless,<br/>Thee may we love alone,<br/>And ever in our lives express<br/>The image of thine own.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Abide with us, and let thy light<br/>Shine, Lord, on every heart;<br/>Dispel the darkness of our night,<br/>And joy to all impart.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Jesus, our love and joy, to thee,<br/>The Father's only Son,<br/>All might, and praise, and glory be,<br/>While endless ages run.</lines>
+    </verse>
+  </lyrics>
+</song>

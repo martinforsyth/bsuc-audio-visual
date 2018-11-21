@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-09-29T21:26:35">
+  <properties>
+    <titles>
+      <title>SF460 Come, let us anew our journey pursue</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, let us anew<br/>our journey pursue,<br/>roll round with the year,<br/>and never stand still till the Master appear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>His adorable will<br/>let us gladly fulfil,<br/>and our talents improve,<br/>by the patience of hope and the labour of love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Our life is a dream,<br/>our time as a stream<br/>glides swiftly away,<br/>and the fugitive moment refuses to stay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The arrow is flown,<br/>the moment is gone;<br/>the millennial year<br/>rushes on to our view, and eternity's here.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O that each in the day<br/>of his coming may say:<br/>'I have fought my way through,<br/>I have finished the work that you gave me to do!'</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O that each from his Lord<br/>may receive the glad word:<br/>'Well and faithfully done;<br/>enter into my joy, and sit down on my throne!'</lines>
+    </verse>
+  </lyrics>
+</song>

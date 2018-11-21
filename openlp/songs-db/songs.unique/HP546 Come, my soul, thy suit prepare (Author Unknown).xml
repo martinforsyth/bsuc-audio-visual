@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:08">
+  <properties>
+    <titles>
+      <title>HP546 Come, my soul, thy suit prepare</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, my soul, thy suit prepare,<br/>Jesus loves to answer prayer;<br/>He himself has bid thee pray,<br/>Therefore will not say thee nay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou art coming to a King:<br/>Large petitions with thee bring;<br/>For his grace and power are such,<br/>None can ever ask too much.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>With my burden I begin:<br/>Lord, remove this load of sin;<br/>Let thy blood, for sinners spilt,<br/>Set my conscience free from guilt.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, I come to thee for rest;<br/>Take possession of my breast;<br/>There thy blood-bought right maintain,<br/>And without a rival reign.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>While I am a pilgrim here,<br/>Let thy love my spirit cheer;<br/>As my guide, my guard, my friend,<br/>Lead me to my journey's end.</lines>
+    </verse>
+  </lyrics>
+</song>

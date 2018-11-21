@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:25">
+  <properties>
+    <titles>
+      <title>HP822 There is a land of pure delight</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There is a land of pure delight,<br/>Where saints immortal reign;<br/>Infinite day excludes the night,<br/>And pleasures banish pain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There everlasting spring abides,<br/>And never-withering flowers;<br/>Death, like a narrow sea, divides<br/>This heavenly land from ours.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Sweet fields beyond the swelling flood<br/>Stand dressed in living green;<br/>So to the Jews old Canaan stood,<br/>While Jordan rolled between.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>But timorous mortals start and shrink<br/>To cross this narrow sea,<br/>And linger, shivering on the brink,<br/>And fear to launch away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O could we make our doubts remove,<br/>Those gloomy thoughts that rise,<br/>And see the Canaan that we love<br/>With unbeclouded eyes:</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Could we but climb where Moses stood,<br/>And view the landscape o'er,<br/>Not Jordan's stream, nor death's cold flood,<br/>Should fright us from the shore!</lines>
+    </verse>
+  </lyrics>
+</song>

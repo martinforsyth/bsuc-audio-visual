@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:09">
+  <properties>
+    <titles>
+      <title>SF98 Your love is amazing</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Your love is amazing,<br/>Steady and unchanging;<br/>Your love is a mountain<br/>Firm beneath my feet.<br/>Your love is a mystery,<br/>How you gently lift me;<br/>When I am surrounded,<br/>Your love carries me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your love is surprising,<br/>I can feel it rising,<br/>All the joy that's growing deep inside of me.<br/>Every time I see you,<br/>All your goodness shines through,<br/>I can feel this God song<br/>Rising up in me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Hallelujah, Hallelujah, Hallelujah,<br/>Your love makes me sing<br/>Hallelujah, Hallelujah, Hallelujah,<br/>Your love makes me sing</lines>
+    </verse>
+  </lyrics>
+</song>

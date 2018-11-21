@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:37">
+  <properties>
+    <titles>
+      <title>HP11 Lord of all being, throned afar</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord of all being, throned afar,<br/>Thy glory flames from sun and star;<br/>Centre and soul of every sphere,<br/>Yet to each loving heart how near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sun of our life, Thy quickening ray<br/>Sheds on our path the glow of day;<br/>Star of our hope, Thy softened light<br/>Cheers the long watches of the night.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Our midnight is Thy smile withdrawn;<br/>Our noontide is Thy gracious dawn;<br/>Our rainbow arch, Thy mercy's sign;<br/>All, save the clouds of sin, are Thine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord of all life, below, above,<br/>Whose light is truth, whose warmth is love,<br/>Before Thy ever-blazing throne<br/>We ask no lustre of our own.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Grant us Thy truth to make us free,<br/>And kindling hearts that burn for Thee,<br/>Till all Thy living altars claim<br/>One holy light, one heavenly flame.</lines>
+    </verse>
+  </lyrics>
+</song>

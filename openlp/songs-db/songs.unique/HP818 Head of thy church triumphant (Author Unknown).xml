@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:23">
+  <properties>
+    <titles>
+      <title>HP818 Head of thy church triumphant</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Head of thy church triumphant,<br/>We joyfully adore thee;<br/>Till thou appear,<br/>Thy members here<br/>Shall sing like those in glory.<br/>We lift our hearts and voices<br/>With blest anticipation,<br/>And cry aloud,<br/>And give to God<br/>The praise of our salvation.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The name we still acknowledge<br/>That burst our bonds in sunder,<br/>And loudly sing<br/>Our conquering King,<br/>In songs of joy and wonder.<br/>In every day's deliverance<br/>Our Jesus we discover;<br/>'Tis he, 'tis he That smote the sea,<br/>And led us safely over!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>While in affliction's furnace,<br/>And passing through the fire,<br/>Thy love we praise,<br/>Which knows our days<br/>And ever brings us nigher.<br/>We clap our hands exulting<br/>In thine almighty favour;<br/>The love divine<br/>Which made us thine<br/>Shall keep us thine for ever.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>By faith we see the glory<br/>To which thou shalt restore us;<br/>The cross despise<br/>For that high prize<br/>Which thou hast set before us.<br/>And if thou count us worthy,<br/>We each, as dying Stephen,<br/>Shall see thee stand<br/>At God's right hand<br/>To take us up to heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

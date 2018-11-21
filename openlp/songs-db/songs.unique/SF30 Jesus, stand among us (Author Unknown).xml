@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:02">
+  <properties>
+    <titles>
+      <title>SF30 Jesus, stand among us</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, stand among us<br/>at the meeting of our lives,<br/>be our sweet agreement<br/>at the meeting of our eyes.<br/>O Jesus, we love you, so we gather here,<br/>join our hearts in unity and take away our fear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>So to you we're gathering<br/>out of each and ev'ry land,<br/>Christ the love between us<br/>at the joining of our hands.<br/>O Jesus, we love you, so we gather here,<br/>join our hearts in unity and take away our fear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, stand among us<br/>at the breaking of the bread;<br/>join us as one body<br/>as we worship you, our Head.<br/>O Jesus, we love you, so we gather here,<br/>join our hearts in unity and take away our fear.</lines>
+    </verse>
+  </lyrics>
+</song>

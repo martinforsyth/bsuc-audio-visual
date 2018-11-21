@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:48">
+  <properties>
+    <titles>
+      <title>HP464 Walk in the light: so shalt thou know</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Walk in the light: so shalt thou know<br/>That fellowship of love<br/>His Spirit only can bestow,<br/>Who reigns in light above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Walk in the light: and thou shalt find<br/>Thy heart made truly his<br/>Who dwells in cloudless light enshrined,<br/>In whom no darkness is.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Walk in the light: and thou shalt own<br/>Thy darkness passed away,<br/>Because that Light has on thee shone<br/>In which is perfect day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Walk in the light: and e'en the tomb<br/>No fearful shade shall wear;<br/>Glory shall chase away its gloom,<br/>For Christ has conquered there.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Walk in the light: and thine shall be<br/>No thornless path, but bright;<br/>For God, by grace, shall dwell in thee,<br/>And God himself is Light.</lines>
+    </verse>
+  </lyrics>
+</song>

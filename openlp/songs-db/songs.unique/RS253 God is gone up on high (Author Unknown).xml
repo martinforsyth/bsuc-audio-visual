@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:47">
+  <properties>
+    <titles>
+      <title>RS253 God is gone up on high</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God is gone up on high,<br/>With a triumphant noise;<br/>The clarions of the sky<br/>Proclaim the angelic joys!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God in the flesh below,<br/>For us He reigns above:<br/>Let all the nations know<br/>Our Jesu's conquering love!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All power to our great Lord<br/>Is by the Father given;<br/>By angel hosts adored,<br/>He reigns supreme in heaven:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>High on His holy seat<br/>He bears the righteous sway;<br/>His foes beneath His feet<br/>Shall sink and die away:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>His foes and ours are one,<br/>Satan, the world, and sin;<br/>But He shall tread them down,<br/>And bring His kingdom in:</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Till all the earth, renewed,<br/>In righteousness divine.<br/>With all the hosts of God<br/>In one great chorus join:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Join all on earth, rejoice and sing;<br/>Glory ascribe to glory's King.</lines>
+    </verse>
+  </lyrics>
+</song>

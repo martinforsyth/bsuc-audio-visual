@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:28">
+  <properties>
+    <titles>
+      <title>HP422 I want a principle within</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I want a principle within<br/>Of jealous, godly fear,<br/>A sensibility of sin,<br/>A pain to feel it near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I want the first approach to feel<br/>Of pride or fond desire,<br/>To catch the wandering of my will,<br/>And quench the kindling fire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>That I from thee no more may part,<br/>No more thy goodness grieve,<br/>The filial awe, the fleshly heart,<br/>The tender conscience, give.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Quick as the apple of an eye,<br/>O God, my conscience make;<br/>Awake my soul when sin is nigh,<br/>And keep it still awake.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O may the least omission pain<br/>My well-instructed soul,<br/>And drive me to the blood again<br/>Which makes the wounded whole.</lines>
+    </verse>
+  </lyrics>
+</song>

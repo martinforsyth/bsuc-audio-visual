@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:18">
+  <properties>
+    <titles>
+      <title>HP366 Happy the home that welcomes you, Lord Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Happy the home that welcomes you, Lord Jesus,<br/>Truest of friends, most honoured guest of all,<br/>Where hearts and eyes are bright with joy to greet you,<br/>Your lightest wishes eager to fulfil.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Happy the home where man and wife together<br/>Are of one mind believing in your love;<br/>Through love and pain, prosperity and hardship,<br/>Through good and evil days your care they prove.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Happy the home, O loving friend of children,<br/>Where they are giv'n to you with hands of prayer,<br/>Where at your feet they early learn to listen<br/>To your own words, and thank you for your care.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Happy the home where work is done to please you,<br/>In tasks both great and small, that you may see<br/>Your servants doing all as you would wish them<br/>As members of your household, glad and free.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Happy the home that knows your healing comfort,<br/>Where, unforgotten, every joy you share,<br/>Until they all, their work on earth completed,<br/>Come to your Father's house to meet you there.</lines>
+    </verse>
+  </lyrics>
+</song>

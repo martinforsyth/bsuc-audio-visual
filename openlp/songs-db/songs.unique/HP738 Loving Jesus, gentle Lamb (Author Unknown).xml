@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:55">
+  <properties>
+    <titles>
+      <title>HP738 Loving Jesus, gentle Lamb</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Loving Jesus, gentle Lamb,<br/>In thy gracious hands I am;<br/>Make me, Saviour, what thou art;<br/>Live thyself within my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Fain I would to thee be brought;<br/>Gracious Lord, forbid it not;<br/>In the kingdom of thy grace<br/>Give a little child a place.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Fain I would be as thou art;<br/>Give me thy obedient heart;<br/>Thou art pitiful and kind;<br/>Let me have thy loving mind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Let me above all fulfil<br/>God my heavenly Father's will;<br/>Never his good Spirit grieve,<br/>Only to his glory live.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>I shall then show forth thy praise,<br/>Serve thee all my happy days;<br/>Then the world shall always see<br/>Christ, the holy child, in me.</lines>
+    </verse>
+  </lyrics>
+</song>

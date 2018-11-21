@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:13">
+  <properties>
+    <titles>
+      <title>MP568 Reconciled</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Reconciled, I'm reconciled,<br/>I'm reconciled to God for ever;<br/>Know He took away my sin,<br/>I know His love will leave me never.<br/>Reconciled, I am His child,<br/>I know it was on me He smiled,<br/>I'm reconciled, I'm reconciled to God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Hallelujah, I'm justified, I'm justified,<br/>It's just as if I'd never sinned,<br/>And once I knew such guilty fear,<br/>But now I know His peace within me.<br/>Justified, I'm justified,<br/>It's all because my Jesus died,<br/>I'm justified, I'm justified by God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Hallelujah I'll magnify, I'll magnify,<br/>I'll magnify His name for ever,<br/>Wear the robe of righteousness<br/>And bless the name of Jesus, Saviour.<br/>Magnify the One who died,<br/>The One who reigns for me on high,<br/>I'll magnify, I'll magnify my God.</lines>
+    </verse>
+  </lyrics>
+</song>

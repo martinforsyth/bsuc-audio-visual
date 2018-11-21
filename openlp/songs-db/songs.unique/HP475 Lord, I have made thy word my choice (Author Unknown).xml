@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:49">
+  <properties>
+    <titles>
+      <title>HP475 Lord, I have made thy word my choice</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, I have made thy word my choice,<br/>My lasting heritage;<br/>There shall my noblest powers rejoice,<br/>My warmest thoughts engage.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I'll read the histories of thy love,<br/>And keep the laws in sight;<br/>While through thy promises I rove,<br/>With ever fresh delight.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In this broad land of wealth unknown,<br/>Where springs of life arise,<br/>Seeds of immortal bliss are sown,<br/>And hidden glory lies.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The best relief that mourners have,<br/>It makes our sorrows blest;<br/>Our fairest hope beyond the grave,<br/>And our eternal rest.</lines>
+    </verse>
+  </lyrics>
+</song>

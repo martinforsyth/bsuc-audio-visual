@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:00">
+  <properties>
+    <titles>
+      <title>JP258 This little light of mine</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The light that shines is the light of love,<br/>Lights the darkness from above,<br/>It shines on me and it shines on you,<br/>And shows what the power of love can do,<br/>I'm gonna shine my light both far and near,<br/>I'm gonna shine by light both bright and clear,<br/>Where there's a dark corner in this land<br/>I'm gonna let my little light shine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Monday he gave me the gift of love,<br/>Tuesday, peace came from above,<br/>On Wednesday he told me to have more faith,<br/>On Thursday he gave me a little more grace,<br/>Friday he told me just to watch and pray,<br/>Saturday he told me just what to say,<br/>On Sunday he gave me the pow'r divine<br/>To let my little light shine.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>This little light of mine,<br/>I'm gonna let it shine,<br/>This little light of mine,<br/>I'm gonna let it shine,<br/>This little light of mine,<br/>I'm gonna let it shine,<br/>Let it shine, let it shine, Let it shine.</lines>
+    </verse>
+  </lyrics>
+</song>

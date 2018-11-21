@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:24">
+  <properties>
+    <titles>
+      <title>MP1129 With a prayer</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>With a prayer You fed the hungry,<br/>With a cry You stilled the storm;<br/>With a look You had compassion<br/>On the desperate and forlorn.<br/>With a touch You healed the leper,<br/>With a shout You raised the dead;<br/>With a word expelled the demons,<br/>With a blessing broke the bread.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>As a sheep before the shearer<br/>You were silent in Your pain;<br/>You endured humiliation<br/>At the hands of those You'd made.<br/>And as hell unleashed its fury<br/>You were lifted on a tree,<br/>Crying 'Father God, forgive them,<br/>Place their punishment on me.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I will feed the poor and hungry,<br/>I will stand up for the truth;<br/>I will take my cross and follow<br/>To the corners of the earth.<br/>And I ask that You so fill me<br/>With Your peace, Your power, Your breath,<br/>That I never love my life so much<br/>So shrink from facing death.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Love incarnate, love divine,<br/>Captivate this heart of mine<br/>Till all I do speaks of You.</lines>
+    </verse>
+  </lyrics>
+</song>

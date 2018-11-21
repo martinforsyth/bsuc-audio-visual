@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:39">
+  <properties>
+    <titles>
+      <title>HP27 Let us with a gladsome mind</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Let us with a gladsome mind<br/>Praise the Lord for He is kind;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Let us sound His name abroad,<br/>For of gods He is the God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He, with all-commanding might<br/>Filled the new-made world with light.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>All things living He doth feed,<br/>His full hand supplies their need.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>He His chosen race did bless<br/>In the wasteful wilderness.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>He hath with a piteous eye<br/>Looked upon our misery;</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Let us then with gladsome mind<br/>Praise the Lord, for He is kind.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>For His mercies shall endure,<br/>Ever faithful, eversure.</lines>
+    </verse>
+  </lyrics>
+</song>

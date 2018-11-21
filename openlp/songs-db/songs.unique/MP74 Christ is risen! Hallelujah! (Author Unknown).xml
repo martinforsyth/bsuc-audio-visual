@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:23">
+  <properties>
+    <titles>
+      <title>MP74 Christ is risen! Hallelujah!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ is risen! Hallelujah!<br/>Risen our victorious Head.<br/>Sing His praises! Hallelujah!<br/>Christ is risen from the dead.<br/>Gratefully our hearts adore Him,<br/>As His light once more appears;<br/>Bowing down in joy before Him,<br/>Rising up from grief and tears.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ is risen! All the sadness<br/>Of His earthly life is o'er,<br/>Through the open gates of gladness<br/>He returns to life once more;<br/>Death and hell before Him bending,<br/>He doth rise, the Victor now,<br/>Angels on His steps attending,<br/>Glory round His wounded brow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Christ is risen! Henceforth never<br/>Death or hell shall us enthral,<br/>We are Christ's, in Him for ever<br/>We have triumphed over all;<br/>All the doubting and dejection<br/>Of our trembling hearts have ceased:<br/>'Tis His day of resurrection,<br/>Let us rise and keep the feast.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Christ Is risen! Hallelujah!<br/>Risen our victorious Head.<br/>Sing His praise! Hallelujah!<br/>Christ is risen from the dead.</lines>
+    </verse>
+  </lyrics>
+</song>

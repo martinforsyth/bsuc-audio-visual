@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:41">
+  <properties>
+    <titles>
+      <title>HP50 Behold, the mountain of the Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Behold, the mountain of the Lord<br/>In latter days shall rise<br/>On mountain-tops, above the hills,<br/>And draw the wondering eyes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>To this the joyful nations round,<br/>All tribes and tongues, shall flow;<br/>Up to the hill of God, they'll say,<br/>And to his house, we'll go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The beam that shines from Zion's hill<br/>Shall lighten every land;<br/>The King who reigns in Salem's towers<br/>Shall all the world command.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Among the nations he shall judge;<br/>His judgements truth shall guide;<br/>His sceptre shall protect the just,<br/>And quell the sinner's pride.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>No strife shall vex Messiah's reign<br/>Or mar the peaceful years;<br/>To ploughshares men shall beat their swords,<br/>To pruning-hooks their spears.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>No longer hosts, encountering hosts,<br/>Shall crowds of slain deplore;<br/>They hang the trumpet in the hall,<br/>And study war no more.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Come then, O come from every land<br/>To worship at his shrine;<br/>And, walking in the light of God,<br/>With holy beauties shine.</lines>
+    </verse>
+  </lyrics>
+</song>

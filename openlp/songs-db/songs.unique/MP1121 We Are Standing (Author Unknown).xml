@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:21">
+  <properties>
+    <titles>
+      <title>MP1121 We Are Standing</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We are standing on Holy ground,<br/>And I know that there are angels all around.<br/>Let us praise Jesus now.<br/>We are standing in His presence on holy ground.</lines>
+    </verse>
+  </lyrics>
+</song>

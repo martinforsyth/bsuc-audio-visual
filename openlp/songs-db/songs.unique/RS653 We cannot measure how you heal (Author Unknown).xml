@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:59">
+  <properties>
+    <titles>
+      <title>RS653 We cannot measure how you heal</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We cannot measure how you heal<br/>or answer every sufferer's prayer,<br/>yet we believe your grace responds<br/>where faith and doubt unite to care.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The pain that will not go away,<br/>the guilt that clings from things long past,<br/>the fear of what the future holds<br/>are present as if meant to last.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>But present too is love which tends<br/>the hurt we never hoped to find,<br/>the private agonies inside,<br/>the memories that haunt the mind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Your hands, though bloodied on the cross,<br/>survive to hold and heal and warn,<br/>to carry all through death to life<br/>and cradle children yet unborn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>So some have come who need your help,<br/>and some have come to make amends:<br/>your hands which shaped and saved the world<br/>are present in the touch of friends.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Lord, let your Spirit meet us here<br/>to mend the body, mind and soul,<br/>to disentangle peace from pain<br/>and make your broken people whole.</lines>
+    </verse>
+  </lyrics>
+</song>

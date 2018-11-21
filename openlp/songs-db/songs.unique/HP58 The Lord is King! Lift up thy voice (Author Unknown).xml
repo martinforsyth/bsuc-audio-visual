@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:42">
+  <properties>
+    <titles>
+      <title>HP58 The Lord is King! Lift up thy voice</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Lord is King! Lift up thy voice,<br/>O earth, and all ye heavens, rejoice!<br/>From world to world the joy shall ring:<br/>'The Lord omnipotent is King!'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The Lord is King! Who then shall dare<br/>Resist his will, distrust his care,<br/>Or murmur at his wise decrees,<br/>Or doubt his royal promises?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The Lord is King! Child of the dust,<br/>The Judge of all the earth is just;<br/>Holy and true are all his ways;<br/>Let every creature speak his praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He reigns! Ye saints, exalt your strains;<br/>Your God is King, your Father reigns:<br/>And he is at the Father's side,<br/>The Man of love, the Crucified.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Alike pervaded by his eye<br/>All parts of his dominion lie,<br/>This world of ours and worlds unseen:<br/>How thin the boundary between!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>One Lord, one empire, all secures:<br/>He reigns, and life and death are yours;<br/>Through earth and heaven one song shall ring:<br/>'The Lord omnipotent is King!'</lines>
+    </verse>
+  </lyrics>
+</song>

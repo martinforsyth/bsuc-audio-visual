@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:08">
+  <properties>
+    <titles>
+      <title>HP805 Thy faithfulness, Lord, each moment we find</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thy faithfulness, Lord, each moment we find,<br/>So true to thy word, so loving and kind;<br/>Thy mercy so tender to all the lost race,<br/>The vilest offender may turn and find grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O let me commend my Saviour to you,<br/>I set to my seal that Jesus is true;<br/>You all may find favour who come at his call;<br/>O come to my Saviour! His grace is for all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>To save what was lost, from heaven he came;<br/>Come, sinners, and trust in Jesus's name;<br/>He offers you pardon, he bids you be free:<br/>'If sin be your burden, O come unto me!'</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then let us submit his grace to receive,<br/>Fall down at his feet and gladly believe;<br/>We all are forgiven for Jesus's sake;<br/>Our title to heaven his merits we take.</lines>
+    </verse>
+  </lyrics>
+</song>

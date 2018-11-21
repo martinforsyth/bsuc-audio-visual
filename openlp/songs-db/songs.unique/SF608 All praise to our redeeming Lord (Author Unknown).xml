@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:43">
+  <properties>
+    <titles>
+      <title>SF608 All praise to our redeeming Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All praise to our redeeming Lord,<br/>who joins us by His grace,<br/>and bids us, each to each restored,<br/>together seek His face.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He bids us build each other up;<br/>and, gathered into one,<br/>to our high calling's glorious hope<br/>we hand in hand go on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The gift which He on one bestows,<br/>we all delight to prove;<br/>the grace through every vessel flows,<br/>in purest streams of love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Ev'n now we think and speak the same,<br/>and cordially agree;<br/>concentred all, through Jesu's name,<br/>in perfect harmony.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>We all partake the joy of one,<br/>the common peace we feel,<br/>a peace to sensual minds unknown,<br/>a joy unspeakable.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>And if our fellowship below<br/>in Jesus be so sweet,<br/>what heights of rapture shall we know<br/>when round His throne we meet!</lines>
+    </verse>
+  </lyrics>
+</song>

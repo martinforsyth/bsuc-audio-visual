@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:41">
+  <properties>
+    <titles>
+      <title>MP833 God Of Grace</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of grace, I turn my face<br/>To You, I cannot hide;<br/>My nakedness, my shame, my guilt,<br/>Are all before Your eyes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Strivings and all anguished dreams<br/>In rags lie at my feet,<br/>And only grace provides the way<br/>For me to stand complete.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And Your grace clothes me in righteousness,<br/>And Your mercy covers me in love.<br/>Your life adorns and beautifies,<br/>I stand complete in You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:30">
+  <properties>
+    <titles>
+      <title>MP1201 Longing for Light,we wait in darkness</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Longing for light,we wait in darkness.<br/>Longing for truth.We turn to You.<br/>Make us your own,Your holy people;<br/>light for the world to see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Longing for peace,<br/>our world is troubled.<br/>Longing for hope, many despair.<br/>Your word  alone has power to save us.<br/>Make us Your living voice.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Longing for food, many are hungry.<br/>Longing for water, many still thirst.<br/>Make us Your bread, broken for others,<br/>shared until all are fed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Longing for shelter,<br/>many are homeless,<br/>longing for warmth, many are cold.<br/>Make us your building, sheltering others,<br/>walls made of  living stone.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Many the gifts, many the people,<br/>many the hearts that yearn to belong.<br/>Let us be servants to one another,<br/>making Your kingdom come.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Christ, be our light!<br/>Shine in our hearts,<br/>shine through the darkness.<br/>Christ, be our light!<br/>Shine in Your church<br/>gathered today.</lines>
+    </verse>
+  </lyrics>
+</song>

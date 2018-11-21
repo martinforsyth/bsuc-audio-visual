@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:44">
+  <properties>
+    <titles>
+      <title>MP868 It Is The Cry Of My Heart</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Teach me Your Holy ways, O Lord,<br/>So I can walk in Your truth.<br/>Teach me Your holy ways, O Lord,<br/>And make me wholly devoted to You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Open my eyes so I can see<br/>The wonderful things that You do.<br/>Open my heart up more and more<br/>And make it wholly devoted to You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>It is the cry of my heart to follow You.<br/>It is the cry of my heart to be close to You.<br/>It is the cry of my heart to follow<br/>All of the days of my life.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:46">
+  <properties>
+    <titles>
+      <title>SF672 Where can we find you, Lord Jesus our Master</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Allan Charles Dickinson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Where can we find you, Lord Jesus our Master?<br/>We want to serve you, to answer your call.<br/>Where do you lead us and ask us to follow?<br/>What should we do in our service to all?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Go to the hungry, to those who have nothing;<br/>go where the farmlands are empty and bare.<br/>I broke the bread for the people around me;<br/>out of my plenty, think what you can share.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'Go to the homeless, to those who have nowhere;<br/>go where my people sleep out in the rain.<br/>I had no comforts but what others gave me;<br/>offer them shelter, give ease to their pain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>'Go to the outcast, to those who have no-one;<br/>go where my sheep are rejected and lost.<br/>I dined with sinners and reached out to lepers;<br/>go and do likewise, and don't count the cost.'</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Where will we find you, Lord Jesus our Master?<br/>We are your servants who answer your call.<br/>You go before us, and there we will follow,<br/>taking our cross in the service of all.</lines>
+    </verse>
+  </lyrics>
+</song>

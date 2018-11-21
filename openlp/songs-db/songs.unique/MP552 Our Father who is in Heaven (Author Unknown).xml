@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:11">
+  <properties>
+    <titles>
+      <title>MP552 Our Father who is in Heaven</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Our Father who is in heaven,<br/>hallowed be Your name,<br/>Your Kingdom come,<br/>Your will be done,<br/>hallowed be Your name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>On earth as it is in heaven,<br/>hallowed be Your name,<br/>give us this day our daily bread,<br/>hallowed be Your name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Forgive us all our trespasses,<br/>hallowed be Your name,<br/>as we forgive those<br/>who trespass against us<br/>hallowed be Your name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And lead us not into temptation,<br/>hallowed be Your name<br/>but deliver us from all that is evil,<br/>hallowed be Your name.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>For Yours is the Kingdom,<br/>the power and the glory,<br/>hallowed be Your name,<br/>for ever and for ever,<br/>hallowed be Your name.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Amen,amen, it shall be so,<br/>hallowed be Your name,<br/>amen, amen, it shall be so,<br/>hallowed be Your name.</lines>
+    </verse>
+  </lyrics>
+</song>

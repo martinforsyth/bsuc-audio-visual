@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:40">
+  <properties>
+    <titles>
+      <title>HP43 The God of love my Shepherd is</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The God of love my Shepherd is,<br/>And he that doth me feed;<br/>While he is mine, and I am his,<br/>What can I want or need?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He leads me to the tender grass,<br/>Where I both feed and rest;<br/>Then to the streams that gently pass:<br/>In both I have the best.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Or if I stray, he cloth convert<br/>And bring my mind in frame:<br/>And all this not for my desert,<br/>But for his holy name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Yea in death's shady black abode<br/>Well may I walk, not fear;<br/>For thou art with me, and thy rod<br/>To guide, thy staff to bear.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Surely thy sweet and wondrous love<br/>Shall measure all my days;<br/>And, as it never shall remove,<br/>So neither shall my praise.</lines>
+    </verse>
+  </lyrics>
+</song>

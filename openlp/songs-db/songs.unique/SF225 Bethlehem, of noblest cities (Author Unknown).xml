@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:23">
+  <properties>
+    <titles>
+      <title>SF225 Bethlehem, of noblest cities</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Bethlehem, of noblest cities<br/>none can once with thee compare;<br/>thou alone the Lord from heaven<br/>didst for us incarnate bear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Fairer than the sun at morning<br/>was the star that told his birth,<br/>to the world its God announcing<br/>seen in fleshly form on earth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Eastern sages at his cradle<br/>make oblations rich and rare;<br/>see them give, in deep devotion,<br/>gold and frankincense and myrrh.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Sacred gifts of mystic meaning:<br/>incense doth their God disclose,<br/>gold the King of kings proclaimeth,<br/>myrrh his sepulchre foreshows.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Holy Jesus, in thy brightness<br/>to the Gentile world displayed,<br/>with the Father and the Spirit<br/>endless praise to thee be paid.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:40">
+  <properties>
+    <titles>
+      <title>HP666 Behold the amazing gift of love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Behold the amazing gift of love<br/>The Father has bestowed<br/>On us, the sinful sons of men,<br/>To call us sons of God!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Concealed as yet this honour lies,<br/>By this dark world unknown,<br/>A world that knew not when he came,<br/>Ev'n God's eternal Son.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>High is the rank we now possess;<br/>But higher we shall rise;<br/>Though what we shall hereafter be<br/>Is hid from mortal eyes:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Our lives, we know, when he appears,<br/>Shall bear his image bright;<br/>For all his glory, full disclosed,<br/>Shall open to our sight.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>A hope so great and so divine<br/>May trials well endure;<br/>And purify us all from sin,<br/>As Christ himself is pure.</lines>
+    </verse>
+  </lyrics>
+</song>

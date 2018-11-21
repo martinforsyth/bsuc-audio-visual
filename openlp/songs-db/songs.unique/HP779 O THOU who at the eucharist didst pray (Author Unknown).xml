@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:01">
+  <properties>
+    <titles>
+      <title>HP779 O THOU who at the eucharist didst pray</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O THOU who at the eucharist didst pray<br/>That all thy church might be forever one,<br/>Grant us at every eucharist to say<br/>With longing heart and soul: 'Thy will be done';<br/>O may we all one bread, one body be,<br/>One through this sacrament of unity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For all thy church, O lord, we interced;<br/>Make thou our sad divisions soon to cease;<br/>Draw us the nearer each to each, we plead,<br/>By drawing all to thee, O Prince of Peace;<br/>Thus may we all one bread, one body be,<br/>One through this sacrament of unity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We pray thee too for wanderers from thy fold;<br/>O bring them back, Good Shepherd of the sheep,<br/>Back to the faith which saints believed of old,<br/>Back to thy church which still one faith doth keep;<br/>Soon may we all one bread, one body be,<br/>One through this sacrament of unity.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>So, lord, at length when sacraments shall cease,<br/>May we be one with all thy church above,<br/>One with thy saints in undivided peace,<br/>One with thy saints in one unbounded love;<br/>More blessed still, in peace and love to be<br/>One with the Trinity in Unity.</lines>
+    </verse>
+  </lyrics>
+</song>

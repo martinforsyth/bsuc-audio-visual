@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:59">
+  <properties>
+    <titles>
+      <title>HP763 See, Jesus, thy disciples see</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>See, Jesus, thy disciples see,<br/>The promised blessing give;<br/>Met in thy name, we look to thee,<br/>Expecting to receive.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thee we expect, our faithful Lord,<br/>Who in thy name are joined;<br/>We wait, according to thy word,<br/>Thee in the midst to find.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>With us thou art assembled here;<br/>But O thyself reveal!<br/>Son of the living God, appear!<br/>Let us thy presence feel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Whom now we seek, O may we meet!<br/>Jesus the crucified,<br/>Show us thy bleeding hands and feet,<br/>Thou who for us hast died.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Cause us the record to receive,<br/>Speak, and the tokens show:<br/>'O be not faithless, but believe<br/>In me, who died for you!'</lines>
+    </verse>
+  </lyrics>
+</song>

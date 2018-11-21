@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:39">
+  <properties>
+    <titles>
+      <title>HP26High in the heavens, eternal God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>High in the heavens, eternal God,<br/>Thy goodness in full glory shines;<br/>Thy truth shall break through every cloud<br/>That veils and darkens thy designs.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For ever firm thy justice stands,<br/>As mountains their foundations keep;<br/>Wise are the wonders of thy hands;<br/>Thy judgements are a mighty deep.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thy providence is kind and large,<br/>Both man and beast thy bounty share;<br/>The whole creation is thy charge,<br/>But saints are thy peculiar care.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>My God, how excellent thy grace,<br/>Whence all our hope and comfort springs!<br/>The race of Adam in distress<br/>Flies to the shadow of thy wings.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Life, like a fountain rich and free,<br/>Springs from the presence of the Lord;<br/>And in thy light our souls shall see<br/>The glories promised in thy word.</lines>
+    </verse>
+  </lyrics>
+</song>

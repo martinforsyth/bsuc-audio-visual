@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:18">
+  <properties>
+    <titles>
+      <title>MP606 Soften My Heart, Lord</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Soften my heart, Lord,<br/>Soften my heart.<br/>From all indifference<br/>Set me apart,<br/>To feel Your compassion,<br/>To weep with Your tears;<br/>Come soften my heart, O Lord,<br/>Soften my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:02">
+  <properties>
+    <titles>
+      <title>HP789 Christ for the world, we sing</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ for the world, we sing!<br/>The world to Christ we bring<br/>With fervent prayer:<br/>The wayward and the lost,<br/>By restless passions tossed,<br/>Redeemed at countless cost<br/>From dark despair.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ for the world, we sing!<br/>The world to Christ we bring<br/>With one accord;<br/>With us the work to share,<br/>With us reproach to dare,<br/>With us the cross to bear,<br/>For Christ our Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Christ for the world, we sing!<br/>The world to Christ we bring<br/>With joyful song:<br/>The new-born souls, whose days,<br/>Reclaimed from error's ways,<br/>Inspired with hope and praise,<br/>To Christ belong.</lines>
+    </verse>
+  </lyrics>
+</song>

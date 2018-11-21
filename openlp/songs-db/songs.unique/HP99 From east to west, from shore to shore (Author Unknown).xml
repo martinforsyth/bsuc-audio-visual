@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:45">
+  <properties>
+    <titles>
+      <title>HP99 From east to west, from shore to shore</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v4 b1 b1 b1 b1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>From east to west, from shore to shore,<br/>Let earth awake and sing<br/>The holy child whom Mary bore,<br/>The Christ, the Lord, the King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For lo! The world's Creator wears<br/>The fashion of a slave:<br/>Our human flesh the Godhead bears,<br/>His creature, man, to save.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He shrank not from the oxen's stall,<br/>Nor scorned the manger-bed;<br/>And he, whose bounty feedeth all,<br/>At Mary's breast was fed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>To shepherds poor the Lord most high,<br/>Great Shepherd, was revealed;<br/>While angel choirs sang joyously<br/>Above the midnight field.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>All glory be to God above,<br/>And on the earth be peace<br/>To all who long to taste his love,<br/>Till time itself shall cease.</lines>
+    </verse>
+  </lyrics>
+</song>

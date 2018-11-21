@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:14">
+  <properties>
+    <titles>
+      <title>MP1039 Colours of day dawn into the mind</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Colours of day dawn into the mind,<br/>the sun has come up, the night is behind.<br/>Go down in the city, into the streets,<br/>and let's give the message to the people we meet:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Go through the park, on into the town;<br/>the sun still shines on, it never goes down.<br/>The light of the world is risen again;<br/>the people of darkness are needing our friend.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Open your eyes, look into the sky;<br/>the darkness has come, the Son came to die.<br/>The evening draws on, the sun disappears,<br/>but Jesus is living, his Spirit is here:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>So light up the fire and let the flame burn,<br/>open the door, let Jesus return.<br/>Take seeds of his Spirit, let the fruit grow,<br/>tell the people of Jesus, let his love show.</lines>
+    </verse>
+  </lyrics>
+</song>

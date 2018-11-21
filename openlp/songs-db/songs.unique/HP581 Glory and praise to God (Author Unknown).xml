@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:28">
+  <properties>
+    <titles>
+      <title>HP581 Glory and praise to God</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Glory and praise to God<br/>Who loves the human race<br/>His all-creating word<br/>Provides each child a place</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Glory and praise to Christ<br/>Who from the Father came<br/>The saviour of the world<br/>Who calls this child by name</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O Holy Spirit come<br/>Your gifts of grace instil<br/>All the good will of God<br/>In this new life fulfil</lines>
+    </verse>
+  </lyrics>
+</song>

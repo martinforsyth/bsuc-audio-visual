@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:22">
+  <properties>
+    <titles>
+      <title>SF224 As with gladness men of old</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>As with gladness men of old<br/>Did the guiding star behold,<br/>As with joy they hailed its light,<br/>Leading onward, beaming bright,<br/>So, most gracious Lord, may we<br/>Evermore be led to thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>As with joyful steps they sped,<br/>Saviour, to thy lowly bed,<br/>There to bend the knee before<br/>Thee, whom heaven and earth adore,<br/>So may we with willing feet<br/>Ever seek thy mercy-seat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>As they offered gifts most rare<br/>At thy cradle rude and bare,<br/>So may we with holy joy,<br/>Pure, and free from sin's alloy,<br/>All our costliest treasures bring,<br/>Christ, to thee, our heavenly King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Holy Jesus, every day<br/>Keep us in the narrow way;<br/>And, when earthly things are past,<br/>Bring our ransomed souls at last<br/>Where they need no star to guide,<br/>Where no clouds thy glory hide.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>In the heavenly country bright<br/>Need they no created light;<br/>Thou its light, its joy, its crown,<br/>Thou its sun which goes not down;<br/>There for ever may we sing<br/>Alleluias to our King.</lines>
+    </verse>
+  </lyrics>
+</song>

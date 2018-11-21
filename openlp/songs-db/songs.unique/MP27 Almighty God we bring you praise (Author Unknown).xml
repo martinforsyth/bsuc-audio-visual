@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:18">
+  <properties>
+    <titles>
+      <title>MP27 Almighty God we bring you praise</title>
+    </titles>
+    <verseOrder>v1 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Almighty God, we bring you praise<br/>For your Son, the Word of God,<br/>By whose pow'r the world was made,<br/>By whose blood we are redeemed.<br/>Morning star, the Father's glory,<br/>We now worship and adore you.<br/>In our hearts your light has risen;<br/>Jesus, Lord, we worship you.</lines>
+    </verse>
+  </lyrics>
+</song>

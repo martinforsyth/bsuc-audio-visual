@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:10">
+  <properties>
+    <titles>
+      <title>HP558 Shepherd divine, our wants relieve</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Shepherd divine, our wants relieve<br/>In this our evil day,<br/>To all thy tempted followers give<br/>The power to watch and pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Long as our fiery trials last,<br/>Long as the cross we bear,<br/>O let our souls on thee be cast<br/>In never-ceasing prayer!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thy Spirit's interceding grace<br/>Give us in faith to claim;<br/>To wrestle till we see thy face,<br/>And know thy hidden name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Till thou thy perfect love impart,<br/>Till thou thyself bestow,<br/>Be this the cry of every heart:<br/>I will not let thee go -</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>I will not let thee go, unless<br/>Thou tell thy name to me,<br/>With all thy great salvation bless,<br/>And make me all like thee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Then let me on the mountain-top<br/>Behold thine open face,<br/>Where faith in sight is swallowed up,<br/>And prayer in endless praise.</lines>
+    </verse>
+  </lyrics>
+</song>

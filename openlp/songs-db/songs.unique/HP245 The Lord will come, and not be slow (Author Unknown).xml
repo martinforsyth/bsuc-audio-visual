@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:00">
+  <properties>
+    <titles>
+      <title>HP245 The Lord will come, and not be slow</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Lord will come, and not be slow;<br/>His footsteps cannot err;<br/>Before him righteousness shall go,<br/>His royal harbinger.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Truth from the earth, like to a flower,<br/>Shall bud and blossom then;<br/>And justice, from her heavenly bower,<br/>Look down on mortal men.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Surely to such as do him fear<br/>Salvation is at hand;<br/>And glory shall ere long appear<br/>To dwell within our land.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Rise, Lord, judge thou the earth in might,<br/>This wicked earth redress;<br/>For thou art he who shall by right<br/>The nations all possess.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The nations all whom thou hast made<br/>Shall come, and all shall frame<br/>To bow them low before thee, Lord,<br/>And glorify thy name.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>For great thou art, and wonders great<br/>By thy strong hand are done:<br/>Thou in thine everlasting seat<br/>Remainest God alone.</lines>
+    </verse>
+  </lyrics>
+</song>

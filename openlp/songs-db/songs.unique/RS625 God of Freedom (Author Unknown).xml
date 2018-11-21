@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:57">
+  <properties>
+    <titles>
+      <title>RS625 God of Freedom</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of freedom, God of justice ,<br/>God whose love is strong as death,<br/>God who saw the dark of prison,<br/>God who new the price of faith:touch our world of sad oppression<br/>with your Spirit's healing breath.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Rid the earth of tortures's terror,<br/>God whose hands were nailed to wood;<br/>hear the cries of pain and protest<br/>God who shed the tears and blood;<br/>move in us the power of pity,<br/>restless for the common good.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Make in us a captive conscience<br/>quick to hear, to act, to plead;<br/>make us truly sisters, brothers,<br/>of what ever  race or creed:<br/>teach us to be fully human,<br/>open to each other's need.</lines>
+    </verse>
+  </lyrics>
+</song>

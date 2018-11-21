@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:54">
+  <properties>
+    <titles>
+      <title>HP499 King of Glory, King of Peace</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>King of Glory, King of Peace,<br/>I will love thee;<br/>And that love may never cease<br/>I will move thee.<br/>Thou hast granted my request,<br/>Thou hast heard me;<br/>Thou didst note my working breast,<br/>Thou hast spared me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Wherefore with my utmost art<br/>I will sing thee,<br/>And the cream of all my heart<br/>I will bring thee.<br/>Though my sins against me cried,<br/>Thou didst clear me, -<br/>And alone, when they replied,<br/>Thou didst hear me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Seven whole days, not one in seven,<br/>I will praise thee;<br/>In my heart, though not in heaven,<br/>I can raise thee.<br/>Small it is, in this poor sort<br/>To enrol thee:<br/>E'en eternity's too short<br/>To extol thee.</lines>
+    </verse>
+  </lyrics>
+</song>

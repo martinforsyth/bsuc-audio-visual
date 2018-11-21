@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:10">
+  <properties>
+    <titles>
+      <title>HP560 Shine thou upon us, Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Shine thou upon us, Lord,<br/>The world's true light, today;<br/>And through the written word<br/>Thy very self display;<br/>That so, from hearts which burn<br/>With gazing on thy face,<br/>The little ones may learn<br/>The wonders of thy grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Breathe thou upon us, Lord,<br/>Thy Spirit's living flame,<br/>That so with one accord<br/>Our lips may tell thy name;<br/>Speak thou for us, O Lord,<br/>In all we say of thee;<br/>According to thy word<br/>Let all our teaching be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Live thou within us, Lord;<br/>Thy mind and will be ours;<br/>Be thou beloved, adored,<br/>And served, with all our powers;<br/>That so our lives may teach<br/>Thy children what thou art,<br/>And plead, by more than speech,<br/>For thee with every heart.</lines>
+    </verse>
+  </lyrics>
+</song>

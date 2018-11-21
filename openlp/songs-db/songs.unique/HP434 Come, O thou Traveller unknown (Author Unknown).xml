@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:31">
+  <properties>
+    <titles>
+      <title>HP434 Come, O thou Traveller unknown</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, O thou Traveller unknown,<br/>Whom still I hold, but cannot see!<br/>My company before is gone,<br/>And I am left alone with thee;<br/>With thee all night I mean to stay,<br/>And wrestle till the break of day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I need not tell thee who I am,<br/>My misery and sin declare.<br/>Thyself hast called me by my name;<br/>Look on thy hands, and read it there:<br/>But who, I ask thee, who art thou?<br/>Tell me thy name, and tell me now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In vain thou strugglest to get free;<br/>I never will unloose my hold!<br/>Art thou the Man that died for me?<br/>The secret of thy love unfold:<br/>Wrestling, I will not let thee go,<br/>Till I thy name, thy nature know.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Wilt thou not yet to me reveal<br/>Thy new, unutterable name?<br/>Tell me, I still beseech thee, tell;<br/>To know it now resolved I am:<br/>Wrestling, I will not let thee go,<br/>Till I thy name, thy nature know.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>What though my shrinking flesh complain,<br/>And murmur to contend so long?<br/>I rise superior to my pain,<br/>When I am weak, then I am strong;<br/>And when my all of strength shall fail,<br/>I shall with the God-Man prevail.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Yield to me now; for I am weak,<br/>But confident in self-despair;<br/>Speak to my heart, in blessings speak,<br/>Be conquered by my instant prayer;<br/>Speak, or thou never hence shalt move,<br/>And tell me if thy name is Love.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>'Tis Love! 'Tis Love! Thou diedst for me!<br/>I hear thy whisper in my heart;<br/>The morning breaks, the shadows flee,<br/>Pure, universal love thou art;<br/>To me, to all, thy mercies move:<br/>Thy nature and thy name is Love.</lines>
+    </verse>
+  </lyrics>
+</song>

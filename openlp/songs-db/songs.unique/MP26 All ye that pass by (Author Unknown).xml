@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:18">
+  <properties>
+    <titles>
+      <title>MP26 All ye that pass by</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All ye that pass by,<br/>To Jesus draw nigh:<br/>To you is it nothing that Jesus should die?<br/>Your ransom and peace,<br/>Your surety He is:<br/>Come, see if there ever was sorrow like His.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He dies to atone<br/>For sins not His own;<br/>Your debt He hath paid, and your work<br/>He hath done.<br/>Ye all may receive<br/>The peace He did leave,<br/>Who made intercession- "My Father, forgive!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For you and for me<br/>He prayed on the tree:<br/>The prayer is accepted, the sinner is free.<br/>That sinner am I,<br/>Who on Jesus rely,<br/>And come for the pardon God will not deny.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>His death is my plea;<br/>My Advocate see,<br/>And hear the blood speak that hath answered for me.<br/>My ransom He was<br/>When He bled on the cross:<br/>And by losing His life He hath carried my cause.</lines>
+    </verse>
+  </lyrics>
+</song>

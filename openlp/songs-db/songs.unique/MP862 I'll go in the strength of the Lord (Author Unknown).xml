@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:44">
+  <properties>
+    <titles>
+      <title>MP862 I'll go in the strength of the Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I'll go in the strength of the Lord<br/>In paths He has marked for my feet;<br/>I'll follow the light of His word,<br/>Nor shrink from the dangers I meet.<br/>His presence my steps shall attend,<br/>His fulness my wants shall supply;<br/>On Him, 'til my journey shall end,<br/>My unwavering faith will rely.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I'll go in the strength of the Lord<br/>To work He appoints me to do;<br/>In joy which his smile doth afford<br/>My soul shall its vigour renew.<br/>His wisdom shall guard me from harm,<br/>His power my sufficiency prove;<br/>I'll trust His omnipotent arm,<br/>And prove His unchangeable love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I'll go in the strength of the Lord<br/>To conflicts which faith will require,<br/>His grace as my shield and reward,<br/>My courage and zeal shall inspire.<br/>Since he gives the word of command,<br/>To meet and encounter the foe,<br/>With his sword of truth in my hand,<br/>To suffer and triumph I'll go.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>I'll go (I'll go,) I'll go in the strength,<br/>I'll go in the strength of the Lord,<br/>(I'll go),<br/>I'll go,(I'll go,) I'll go in the strength,<br/>I'll go in the strength of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

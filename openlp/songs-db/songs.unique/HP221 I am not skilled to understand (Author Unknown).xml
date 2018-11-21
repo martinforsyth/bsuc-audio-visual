@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:55">
+  <properties>
+    <titles>
+      <title>HP221 I am not skilled to understand</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I am not skilled to understand<br/>What God has willed, what God has planned;<br/>I only know at his right hand<br/>Stands one who is my Saviour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I take God at his word and deed:<br/>Christ died to save me, this I read;<br/>And in my heart I find a need<br/>Of him to be my Saviour.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And was there then no other way<br/>For God to take? I cannot say;<br/>I only bless him, day by day,<br/>Who saved me through my Saviour.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>That he should leave his place on high<br/>And come for sinners once to die,<br/>You count it strange? So do not I,<br/>Since I have known my Saviour.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>And O that he fulfilled may see<br/>The travail of his soul in me,<br/>And with his work contented be,<br/>As I with my dear Saviour!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Yea, living, dying, let me bring<br/>My strength, my solace, from this spring,<br/>That he who lives to be my King<br/>Once died to be my Saviour.</lines>
+    </verse>
+  </lyrics>
+</song>

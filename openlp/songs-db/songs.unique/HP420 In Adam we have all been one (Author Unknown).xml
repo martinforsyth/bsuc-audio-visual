@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:27">
+  <properties>
+    <titles>
+      <title>HP420 In Adam we have all been one</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In Adam we have all been one,<br/>One in rebellious man:<br/>We all have fled that evening voice<br/>That sought us as we ran.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We fled thee and, in losing thee,<br/>We lost our brother too;<br/>Each singly sought and claimed his own,<br/>Each man his brother slew.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>But thy strong love, it sought us still,<br/>And sent thine only Son<br/>That we might hear his Shepherd's voice<br/>And, hearing him, be one.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O thou who, when we loved thee not,<br/>Didst love and save us all,<br/>Thou great Good Shepherd of mankind,<br/>O hear us when we call.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Send us thy Spirit, teach us truth;<br/>Thou Son, O set us free<br/>From fancied wisdom, self sought ways,<br/>To make us one in thee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Then shall our song united rise<br/>To thine eternal throne,<br/>Where with the Father evermore<br/>And Spirit thou art one.</lines>
+    </verse>
+  </lyrics>
+</song>

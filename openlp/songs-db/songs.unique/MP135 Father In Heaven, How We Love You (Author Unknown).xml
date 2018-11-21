@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:26">
+  <properties>
+    <titles>
+      <title>MP135 Father In Heaven, How We Love You</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father in heaven, how we love You.<br/>We lift Your name in all the earth.<br/>May Your Kingdom be established in our praises<br/>As Your people declare Your mighty works.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Blessed be the Lord God almighty<br/>Who was and is and is to come.<br/>Blessed be the Lord God Almighty<br/>Who reigns for evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

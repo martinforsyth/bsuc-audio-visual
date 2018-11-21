@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:06">
+  <properties>
+    <titles>
+      <title>SF76 Give me joy in my heart</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Give me joy in my heart, keep me praising,<br/>Give me joy in my heart, I pray;<br/>Give me joy in my heart, keep me praising,<br/>Keep me praising till the break of day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Give me peace in my heart, keep me loving,<br/>Give me peace in my heart, I pray;<br/>Give me peace in my heart, keep me loving,<br/>Keep me loving till the break of day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Give me love in my heart, keep me serving,<br/>Give me love in my heart, I pray;<br/>Give me love in my heart, keep me serving,<br/>Keep me serving till the break of day</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Sing hosanna! Sing hosanna!<br/>Sing hosanna to the King of kings,<br/>Sing hosanna! Sing Hosanna!<br/>Sing hosanna to the King.</lines>
+    </verse>
+  </lyrics>
+</song>

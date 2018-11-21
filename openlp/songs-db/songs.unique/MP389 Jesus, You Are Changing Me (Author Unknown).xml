@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:47">
+  <properties>
+    <titles>
+      <title>MP389 Jesus, You Are Changing Me</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, You are changing me,<br/>By Your Spirit You're making me like You.<br/>Jesus, You're transforming me,<br/>That Your loveliness may be seen in all I do.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>You are the potter and I am the clay,<br/>Help me to be willing to let You have Your way.<br/>Jesus, You are changing me,<br/>As I let You reign supreme within my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

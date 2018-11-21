@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:40">
+  <properties>
+    <titles>
+      <title>HP35 Glory, love, and praise, and honour</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Glory, love, and praise, and honour,<br/>For our food<br/>Now bestowed<br/>Render we the Donor.<br/>Bounteous God, we now confess thee,<br/>God, who thus<br/>Blessest us,<br/>Meet it is to bless thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Knows the ox his master's stable,<br/>And shall we<br/>Not know thee,<br/>Nourished at thy table?<br/>Yes, of all good gifts the Giver<br/>Thee we own,<br/>Thee alone<br/>Magnify for ever.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thankful for our every blessing,<br/>Let us sing<br/>Christ the Spring,<br/>Never, never ceasing.<br/>Source of all our gifts and graces<br/>Christ we own,<br/>Christ alone<br/>Calls for all our praises.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He dispels our sin and sadness,<br/>Life imparts,<br/>Cheers our hearts,<br/>Fills with food and gladness.<br/>Who himself for all has given,<br/>Us he feeds,<br/>Us he leads<br/>To a feast in heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

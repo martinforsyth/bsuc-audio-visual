@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:49">
+  <properties>
+    <titles>
+      <title>RS321 Your words to me are life and health</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Your words to me are life and health;<br/>They fortify my soul,<br/>Enable, guide, and teach my heart<br/>To reach its perfect goal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your words to me are light and truth;<br/>From day to day they show<br/>Their wisdom, passing earthly lore,<br/>As in their truth I grow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Your words to me are full of joy,<br/>Of beauty, peace and grace;<br/>From them I learn your blessed will,<br/>Through them I see your face.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Your words are perfected in One,<br/>Yourself, the living Word;<br/>Within my heart your image print<br/>In clearest lines, O Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

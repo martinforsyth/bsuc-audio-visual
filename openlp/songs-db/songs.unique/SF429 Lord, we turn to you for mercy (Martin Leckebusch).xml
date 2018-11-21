@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-02T14:52:46">
+  <properties>
+    <titles>
+      <title>SF429 Lord, we turn to you for mercy</title>
+    </titles>
+    <authors>
+      <author>Martin Leckebusch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, we turn to you for mercy:<br/>may our prayerful words express<br/>something of our heartfelt sorrow<br/>for the sins we now confess.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We have trusted far too often<br/>in our human strength and skill;<br/>we have proudly disregarded<br/>what we knew to be your will.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Yet by your immense compassion<br/>you invite, accept, restore,<br/>leading us to greater wholeness<br/>than we ever knew before.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Your forgiveness lifts our burdens,<br/>setting heart and spirit free<br/>to fulfil our true potential,<br/>all that we were meant to be.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>For you teach a way of wisdom<br/>we may clearly understand:<br/>walking with the God of mercy<br/>step by step, and hand in hand.</lines>
+    </verse>
+  </lyrics>
+</song>

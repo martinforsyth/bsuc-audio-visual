@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:44">
+  <properties>
+    <titles>
+      <title>HP93 A Virgin most pure, as prophets do tell</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>A virgin most pure, as the prophets do tell,<br/>Hath brought forth a baby, as it hath befell,<br/>To be our Redeemer from death, hell, and sin,<br/>Which Adam's transgression hath wrapped us in:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>At Bethlem in Jewry a city there was,<br/>Where Joseph and Mary together did pass,<br/>And there to be taxed with many one mo',<br/>For Caesar commanded the same should be so:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>But when they had entered the city so fair,<br/>A number of people so mighty was there,<br/>That Joseph and Mary, whose substance was small,<br/>Could find in the inn there no lodging at all:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then they were constrained in a stable to lie,<br/>Where horses and asses they used for to tie;<br/>Their lodging so simple they took it no scorn,<br/>But against the next morning our Saviour was born:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The King of all kings to this world being brought,<br/>Small store of fine linen to wrap him was sought;<br/>And when she had swaddled her young son so sweet<br/>Within an ox-manger she laid him to sleep:</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Then God sent an angel from heaven so high,<br/>To certain poor shepherds in fields where they lie,<br/>And bade them no longer in sorrow to stay,<br/>Because that our Saviour was born on this day:</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Then presently after the shepherds did spy<br/>A number of angels that stood in the sky;<br/>They joyfully talked, and sweetly did sing,<br/>To God be all glory, our heavenly King:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Aye and therefore be merry,<br/>Set sorrows aside;<br/>Christ Jesus our Saviour<br/>was born on this tide.</lines>
+    </verse>
+  </lyrics>
+</song>

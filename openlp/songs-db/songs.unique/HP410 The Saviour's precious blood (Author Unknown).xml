@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:26">
+  <properties>
+    <titles>
+      <title>HP410 The Saviour's precious blood</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Saviour's precious blood<br/>Has made all nations one.<br/>United let us praise this deed<br/>The Father's love has done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In this vast world of men,<br/>A world so full of sin,<br/>No other theme can be our prayer<br/>Than this: your kingdom come!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In this sad world of war<br/>Can peace be ever found?<br/>Unless the love of Christ prevail,<br/>True peace will not abound.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The Master's new command<br/>Was: love each other well!<br/>O brothers, let us all unite<br/>To do his holy will.</lines>
+    </verse>
+  </lyrics>
+</song>

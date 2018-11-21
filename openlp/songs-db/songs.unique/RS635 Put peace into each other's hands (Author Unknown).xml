@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:58">
+  <properties>
+    <titles>
+      <title>RS635 Put peace into each other's hands</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Put peace into each other's hands<br/>and like a treasure hold it,<br/>protect it like a candle-flame,<br/>with tenderness enfold it.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Put peace into each other's hands<br/>with loving expectation;<br/>be gentle in your words and ways,<br/>in touch with God's creation.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Put peace into each other's hands<br/>like bread we break for sharing<br/>look people warmly in the eye:<br/>our life is meant for caring.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>As at communion, shape your hands<br/>into a waiting cradle;<br/>the gift of Christ receive, revere,<br/>united round the table.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Put Christ into each other's hands<br/>he is love's deepest measure<br/>in love make peace, give peace a chance,<br/>and share it like a treasure.</lines>
+    </verse>
+  </lyrics>
+</song>

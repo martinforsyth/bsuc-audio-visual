@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:30">
+  <properties>
+    <titles>
+      <title>MP1214 Have faith in God,</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Oh Lord, You lead me,<br/>By the still waters,<br/>Quietly restoring my soul.<br/>You speak words of wisdom,<br/>The promise of glory,<br/>The pow'r of the presence of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Oh Lord, You guide me,<br/>Through all the darkness,<br/>Turning my nights into day.<br/>And You'll never leave me,<br/>Never forsake me,<br/>The pow'r of the presence of God</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Have faith in God,<br/>Let your hope rest on the faith<br/>He has placed in your heart,<br/>Never give up,<br/>Never let go of the faith<br/>He has placed in your heart.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:45">
+  <properties>
+    <titles>
+      <title>MP382 Jesus Take Me As I Am</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus take me as I am,<br/>I can come no other way.<br/>Take me deeper into You,<br/>Make my flesh life melt away.<br/>Make me like a precious stone,<br/>Crystal clear and finely honed,<br/>Life of Jesus shining through,<br/>Giving glory back to You.</lines>
+    </verse>
+  </lyrics>
+</song>

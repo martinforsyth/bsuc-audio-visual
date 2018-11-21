@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:57">
+  <properties>
+    <titles>
+      <title>HP229 O love, how deep, how broad, how high</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O love, how deep, how broad, how high!<br/>It fills the heart with ecstasy,<br/>That God, the Son of God, should take<br/>Our mortal form, for mortals' sake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For us he was baptized, and bore<br/>His holy fast, and hungered sore;<br/>For us temptation sharp he knew,<br/>For us the tempter overthrew.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For us he prayed, for us he taught,<br/>For us his daily works he wrought:<br/>By words and signs and actions thus<br/>Still seeking, not himself, but us.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For us to wicked men betrayed,<br/>Scourged, mocked, in purple robe arrayed,<br/>He bore the shameful cross and death,<br/>For us at length gave up his breath.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>For us he rose from death again;<br/>For us he went on high to reign;<br/>For us he sent his Spirit here<br/>To guide, to strengthen, and to cheer.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>To him whose boundless love has won<br/>Salvation for us through his Son,<br/>To God the Father. glory be,<br/>Both now and through eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

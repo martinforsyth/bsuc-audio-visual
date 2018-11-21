@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:59">
+  <properties>
+    <titles>
+      <title>MP960 Whatever Is True</title>
+    </titles>
+    <verseOrder>c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Whatever is true, whatever is right,<br/>Whatever is pure, whatever is lovely,<br/>We will fix our thoughts on these things.<br/>Jesus You're true, Jesus You're right,<br/>Jesus You're pure, You are lovely,<br/>We will fix our thoughts on You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Jesus, who is like You,<br/>Who is like You,<br/>Who is like You,<br/>Who is like You,<br/>Who is like You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:17">
+  <properties>
+    <titles>
+      <title>HP813 Come, ye faithful, raise the anthem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, ye faithful, raise the anthem,<br/>Cleave the skies with shouts of praise;<br/>Sing to Him who found the ransom,<br/>Ancient of eternal days,<br/>God of God, the Word incarnate,<br/>Whom the heaven of heaven obeys.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Ere He raised the lofty mountains,<br/>Formed the seas, or built the sky,<br/>Love eternal, free, and boundless,<br/>Moved the Lord of life to die,<br/>Fore-ordained the Prince of princes<br/>For the throne of Calvary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There, for us and our redemption,<br/>See Him all his life-blood pour!<br/>There He wins our full salvation,<br/>Dies that we may die no more;<br/>Then, arising, lives for ever,<br/>Reigning where He was before.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Yet this earth He still remembers,<br/>Still by Him the flock are fed;<br/>Yea, He gives them food immortal,<br/>Gives Himself, the living Bread;<br/>Leads them where the precious fountain<br/>From the smitten rock is shed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Trust Him, then, ye fearful pilgrims;<br/>Who shall pluck you from His hand?<br/>Pledged He stands for your salvation,<br/>Leads you to the promised land.<br/>O that we, with all the faithful,<br/>There around His throne may stand!</lines>
+    </verse>
+  </lyrics>
+</song>

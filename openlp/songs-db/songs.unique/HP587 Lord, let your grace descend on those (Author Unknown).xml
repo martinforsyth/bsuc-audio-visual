@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:29">
+  <properties>
+    <titles>
+      <title>HP587 Lord, let your grace descend on those</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, let your grace descend on those<br/>Who, hoping in your word,<br/>This day do publicly declare<br/>That Jesus is their Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>With cheerful feet may they advance,<br/>And run the Christian race ;<br/>And through the troubles of ;he way<br/>Find all-sufficient grace.</lines>
+    </verse>
+  </lyrics>
+</song>

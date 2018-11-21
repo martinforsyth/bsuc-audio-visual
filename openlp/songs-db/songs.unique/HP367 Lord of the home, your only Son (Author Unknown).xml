@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:18">
+  <properties>
+    <titles>
+      <title>HP367 Lord of the home, your only Son</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord of the home, your only Son<br/>Received a mother's tender love,<br/>And from an earthly father won<br/>His vision of your home above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Help us, O Lord, our homes to make<br/>Your Holy Spirit's dwelling-place;<br/>Our hands and hearts' devotion take<br/>To be the servants of your grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Teach us to keep our homes so fair<br/>That, were our Lord a child once more,<br/>He might be glad our hearth to share,<br/>And find a welcome at our door.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, may your Spirit sanctify<br/>Each household duty we fulfil;<br/>May we our Master glorify<br/>In glad obedience to your will.</lines>
+    </verse>
+  </lyrics>
+</song>

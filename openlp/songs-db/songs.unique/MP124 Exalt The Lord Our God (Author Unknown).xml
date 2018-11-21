@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:25">
+  <properties>
+    <titles>
+      <title>MP124 Exalt The Lord Our God</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Exalt the Lord our God,<br/>Exalt the Lord our God,<br/>And worship at His footstool,<br/>Worship at His footstool;<br/>Holy is He, holy is He.</lines>
+    </verse>
+  </lyrics>
+</song>

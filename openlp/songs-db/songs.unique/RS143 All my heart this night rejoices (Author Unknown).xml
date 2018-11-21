@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:41">
+  <properties>
+    <titles>
+      <title>RS143 All my heart this night rejoices</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All my heart this night rejoices,<br/>As I hear,<br/>Far and near,<br/>Sweetest angel voices:<br/>'Christ is born!' their choirs are singing,<br/>Till the air<br/>Everywhere<br/>Now with joy is ringing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Hark, a voice from yonder manger,<br/>Soft and sweet,<br/>Doth entreat,<br/>'Flee from woe and danger;<br/>Come, O come; from all doth grieve you;<br/>You are freed,<br/>All you need<br/>I will surely give you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come then, let us hasten yonder;<br/>Here let all,<br/>Great and small,<br/>Kneel in awe and wonder;<br/>Love him who with love is yearning;<br/>Hail the star<br/>That from far<br/>Bright with hope is burning!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thee, O Lord, with heed I'll cherish,<br/>Live to thee,<br/>And with thee<br/>Dying, shall not perish;<br/>But shall dwell with thee for ever,<br/>Far on high,<br/>In the joy<br/>That can alter never .</lines>
+    </verse>
+  </lyrics>
+</song>

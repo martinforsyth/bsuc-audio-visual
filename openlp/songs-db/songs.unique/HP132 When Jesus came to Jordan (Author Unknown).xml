@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:47">
+  <properties>
+    <titles>
+      <title>HP132 When Jesus came to Jordan</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When Jesus came to Jordan<br/>to be baptized by John,<br/>he did not come to pardon,<br/>but as his Father's son.<br/>He came to share repentance<br/>with all who mourn their sins,<br/>to speak the vital sentence<br/>with which good news begins.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He came to share temptation,<br/>our utmost woe and loss,<br/>for us and our salvation<br/>to die upon the cross.<br/>So when the Dove descended<br/>on him, the Son of Man,<br/>the hidden years had ended,<br/>the age of grace began.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come, Holy Spirit, aid us<br/>to keep the vows we make;<br/>this very day invade us,<br/>and every bondage break.<br/>Come, give our lives direction,<br/>the gift we covet most:<br/>to share the resurrection<br/>that leads to Pentecost.</lines>
+    </verse>
+  </lyrics>
+</song>

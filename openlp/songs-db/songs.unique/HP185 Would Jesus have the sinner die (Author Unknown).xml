@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:51">
+  <properties>
+    <titles>
+      <title>HP185 Would Jesus have the sinner die</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Would Jesus have the sinner die?<br/>Why hangs he then on yonder tree?<br/>What means that strange expiring cry?<br/>Sinners, he prays for you and me:<br/>Forgive them, Father, O forgive!<br/>They know not that by me they live.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou loving, all-atoning Lamb,<br/>Thee-by thy painful agony,<br/>Thy sweat of blood, thy grief and shame,<br/>Thy cross and passion on the tree,<br/>Thy precious death and life-<br/>I pray: Take all, take all my sins away!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O let me kiss thy bleeding feet,<br/>And bathe and wash them with my tears,<br/>The story of thy love repeat<br/>In every drooping sinner's ears;<br/>That all may hear the quickening sound,<br/>Since I, even I, have mercy found.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O let thy love my heart control,<br/>Thy love for every sinner free,<br/>That every fallen human soul<br/>May taste the grace that found out me;<br/>That all mankind with me may prove<br/>Thy sovereign, everlasting love!</lines>
+    </verse>
+  </lyrics>
+</song>

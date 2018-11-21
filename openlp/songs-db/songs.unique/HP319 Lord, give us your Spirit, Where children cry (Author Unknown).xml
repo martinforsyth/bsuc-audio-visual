@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:12">
+  <properties>
+    <titles>
+      <title>HP319 Lord, give us your Spirit, Where children cry</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Where children cry, let us wipe their tears away;<br/>And where children fall, let us lift them to their feet:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Where there is pain, let us be your healing hands;<br/>And where there is grief, let us comfort with your love:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Where people hate, let us dwell among them with love;<br/>And where people fight, let us bind their deepest wounds:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Lord, give us your Spirit, your Spirit that is love.<br/>Lord, fill us with your life, freely given for the world.</lines>
+    </verse>
+  </lyrics>
+</song>

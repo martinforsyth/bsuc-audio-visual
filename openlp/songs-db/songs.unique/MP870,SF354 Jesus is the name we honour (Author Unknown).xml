@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-09-01T06:43:14">
+  <properties>
+    <titles>
+      <title>MP870,SF354 Jesus is the name we honour</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus is the name we honour;<br/>Jesus is the name we praise.<br/>Majestic name above all other names,<br/>the highest heav'n and earth proclaim<br/>that Jesus is our God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus is the name we worship;<br/>Jesus is the name we trust.<br/>He is the King above all other kings,<br/>let all creation stand and sing<br/>that Jesus is our God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus is the Father's splendour;<br/>Jesus is the Father's joy.<br/>He will return to reign in majesty,<br/>and every eye at last will see<br/>that Jesus is our God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>We will glorify,<br/>we will lift him high,<br/>we will give him honour and praise.<br/>We will glorify,<br/>we will lift him high,<br/>we will give him honour and praise.</lines>
+    </verse>
+  </lyrics>
+</song>

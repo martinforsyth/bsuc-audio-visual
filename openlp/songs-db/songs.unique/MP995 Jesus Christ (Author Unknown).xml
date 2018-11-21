@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:06">
+  <properties>
+    <titles>
+      <title>MP995 Jesus Christ</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus Christ, I think upon Your sacrifice,<br/>You became nothing, poured out to death.<br/>Many times I've wondered at Your gift of life,<br/>And I'm in that place once again.<br/>And I'm in that place once again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Now You are exalted to the highest place,<br/>King of the heavens, where one day I'll bow.<br/>But for now, I marvel at this saving grace,<br/>And I'm full of praise once again.<br/>I'm full of praise once again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thank You for the cross,<br/>Thank You for the cross,<br/>Thank You for the cross, my Friend.<br/>(Repeat)</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And once again I look upon<br/>The cross where You died,<br/>I'm humbled by Your mercy<br/>And I'm broken inside.<br/>Once again I thank You,<br/>Once again I pour out my life.</lines>
+    </verse>
+  </lyrics>
+</song>

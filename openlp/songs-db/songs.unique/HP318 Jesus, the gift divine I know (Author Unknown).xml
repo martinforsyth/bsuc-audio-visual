@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:11">
+  <properties>
+    <titles>
+      <title>HP318 Jesus, the gift divine I know</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, the gift divine I know,<br/>The gift divine I ask of thee;<br/>That living water now bestow -<br/>Thy Spirit and thyself, on me;<br/>Thou, Lord, of life the fountain art;<br/>Now let me find thee in my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thee let me drink, and thirst no more<br/>For drops of finite happiness;<br/>Spring up, O Well, in heavenly power,<br/>In streams of pure perennial peace,<br/>In joy that none can take away,<br/>In life which shall for ever stay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Father, on me the grace bestow,<br/>Unblamable before thy sight,<br/>Whence all the streams of mercy flow;<br/>Mercy, thine own supreme delight,<br/>To me, for Jesus' sake, impart,<br/>And plant thy nature in my heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thy mind throughout my life be shown,<br/>While, listening to the sufferer's cry,<br/>The widow's and the orphan's groan,<br/>On mercy's wings I swiftly fly,<br/>The poor and helpless to relieve,<br/>My life, my all, for them to give.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thus may I show thy Spir't within,<br/>Which purges me from every stain;<br/>Unspotted from the world and sin,<br/>My faith's integrity maintain;<br/>The truth of my religion prove<br/>By perfect purity and love.</lines>
+    </verse>
+  </lyrics>
+</song>

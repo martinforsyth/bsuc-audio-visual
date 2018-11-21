@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:49">
+  <properties>
+    <titles>
+      <title>RS340 I have no bucket, and the well is deep</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I have no bucket, and the well is deep.<br/>My thirst is endless, and my throat is dry.<br/>I ask you, stranger, silent at my side,<br/>can words refresh my longings if you speak?<br/>I have no bucket, and the well is deep.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Can love unbar the strongrooms of the mind<br/>and scour the tombs and warrens underground<br/>for toys and treasures lost, or never found,<br/>for all I cannot name, yet ache to find?<br/>I have no bucket and the well is deep.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Who are you, strange yet friendly at my side,<br/>and can you see and judge, yet understand<br/>my hidden self, and heal with wounded hands?<br/>Are you the path, the gateway and the guide,<br/>the keys the living water, and the light.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Come break the rock, and bid the rivers flow<br/>from deep unending wells of joy and worth,<br/>for tears, for drinking, drowning and new birth,<br/>and I shall find and give myself, and know<br/>the keys the living water, and the light.</lines>
+    </verse>
+  </lyrics>
+</song>

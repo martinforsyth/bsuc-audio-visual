@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:25">
+  <properties>
+    <titles>
+      <title>MP665 The Spirit Of The Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Spirit of the Lord,<br/>The sovereign Lord is on me<br/>Because He has anointed me<br/>To preach good news to the poor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And He has called on me.<br/>To bind up all the broken hearts,<br/>To minister release<br/>To every captivated soul.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Let righteousness arise<br/>And blossom as a garden.<br/>Let praise begin to spring<br/>In every tongue and nation.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Proclaiming Jesus, only Jesus.<br/>It is Jesus, Saviour, Healer, and<br/>Baptiser and the mighty King,<br/>The Victor and Deliverer,<br/>He is Lord, He is Lord,<br/>He is Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

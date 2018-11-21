@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:03">
+  <properties>
+    <titles>
+      <title>HP262 Jesus, the Conqueror, reigns</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, the Conqueror, reigns,<br/>In glorious strength arrayed,<br/>His kingdom over all maintains,<br/>And bids the earth be glad.<br/>Ye peoples all, rejoice<br/>In Jesus' mighty love;<br/>Lift up your heart, lift up your voice,<br/>To him who rules above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Extol his kingly power,<br/>Kiss the exalted Son,<br/>Who died; and lives, to die no more,<br/>High on his Father's throne:<br/>Our Advocate with God,<br/>He undertakes our cause,<br/>And spreads through all the earth abroad<br/>The vict'ry of his cross.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'Courage!' your Captain cries,<br/>Who all your toil foreknew;<br/>'Toil ye shall have; yet all despise,<br/>I have o'ercome for you.'<br/>This is the victory!<br/>Before our faith they fall;<br/>Jesus has died for you and me;<br/>Believe, and conquer all!</lines>
+    </verse>
+  </lyrics>
+</song>

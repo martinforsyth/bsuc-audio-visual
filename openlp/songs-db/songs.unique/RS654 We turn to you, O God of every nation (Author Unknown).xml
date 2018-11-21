@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:59">
+  <properties>
+    <titles>
+      <title>RS654 We turn to you, O God of every nation</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We turn to you, O God of every nation,<br/>Giver of good and origin of life;<br/>Your love is at the heart of all creation,<br/>Your hurt is people's pain in war and death</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We turn to you, that we may be forgiven<br/>For crucifying Christ on earth again,<br/>We know that we have never wholly striven,<br/>To share with all the promise of your reign..</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Free every heart from pride and self-reliance;<br/>Our ways of thought inspire with simple grace;<br/>Break down among us barriers of defiance;<br/>Speak to the soul of all the human race.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>On all who work on Earth for right relations.<br/>We pray the light of love from hour to hour.<br/>Grant wisdom to the leaders of the nations,<br/>The gift of carefulness to those in power.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Teach us, good Lord, to serve the needs of others;<br/>Help us to give and not to count the cost;<br/>Unite us all, to live as sister's brothers,<br/>Defeat our Babel with your Pentecost.</lines>
+    </verse>
+  </lyrics>
+</song>

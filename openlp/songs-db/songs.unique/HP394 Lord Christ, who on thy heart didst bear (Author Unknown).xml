@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:23">
+  <properties>
+    <titles>
+      <title>HP394 Lord Christ, who on thy heart didst bear</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord Christ, who on thy heart didst bear<br/>The burden of our shame and sin,<br/>And now on high dost stoop to share<br/>The fight without, the fear within;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thy patience cannot know defeat,<br/>Thy pity will not be denied,<br/>Thy loving-kindness still is great,<br/>Thy tender mercies still abide.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>So in our present need we pray<br/>To thee, our living, healing lord,<br/>That we thy people, day by day,<br/>May follow thee and keep thy word;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>That we may care, as thou hast cared,<br/>For sick and lame, for deaf and blind,<br/>And freely share, as thou hast shared,<br/>In all the sorrows of mankind;</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>That ours may be the holy task<br/>To help and bless, to heal and save;<br/>This is the privilege we ask,<br/>And this the happiness we crave.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>So in thy mercy make us wise,<br/>And lead us in the ways of love,<br/>Until, at last, our wondering eyes<br/>Look on thy glorious face above.</lines>
+    </verse>
+  </lyrics>
+</song>

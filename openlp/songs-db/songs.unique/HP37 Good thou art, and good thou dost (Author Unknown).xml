@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:40">
+  <properties>
+    <titles>
+      <title>HP37 Good thou art, and good thou dost</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Good thou art, and good thou dost,<br/>Thy mercies reach to all,<br/>Chiefly those who on thee trust,<br/>And for thy mercy call;<br/>New they every morning are;<br/>As parents when their children cry,<br/>Us thou dost in pity spare,<br/>And all our wants supply.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Mercy o'er thy works presides;<br/>Thy providence displayed<br/>Still preserves, and still provides<br/>For all thy hands have made;<br/>Keeps with most distinguished care<br/>The man who on thy love depends;<br/>Watches every numbered hair,<br/>And all his steps attends.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Who can sound the depths unknown<br/>Of thy redeeming grace,<br/>Grace that gave thine only Son<br/>To save a ruined race?<br/>Millions of transgressors poor<br/>Thou hast for Jesus' sake forgiven,<br/>Made them of thy favour sure,<br/>And snatched from hell to heaven.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Millions more thou ready art<br/>To save, and to forgive;<br/>Every soul and every heart<br/>Of man thou wouldst receive:<br/>Father, now accept of mine,<br/>Which now, through Christ, I offer thee;<br/>Tell me now, in love divine,<br/>That thou hast pardoned me.</lines>
+    </verse>
+  </lyrics>
+</song>

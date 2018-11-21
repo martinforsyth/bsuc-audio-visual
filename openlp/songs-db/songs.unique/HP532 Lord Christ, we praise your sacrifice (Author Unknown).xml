@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:04">
+  <properties>
+    <titles>
+      <title>HP532 Lord Christ, we praise your sacrifice</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord Christ, we praise your sacrifice,<br/>Your life in love so freely given;<br/>For those who took your life away<br/>You prayed, that they might be forgiven;<br/>And there in helplessness arrayed,<br/>God's power was perfectly displayed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Once helpless in your mother's arms,<br/>Dependant on her mercy then,<br/>You made yourself again, by choice,<br/>As helpless in the hands of men;<br/>And, at their mercy crucified<br/>You claimed your victory and died.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Though helpless and rejected then,<br/>You reign as living Lord acclaimed;<br/>For ever by your victory<br/>Is God's eternal love proclaimed<br/>The love which goes through death to find<br/>New life and hope for humankind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>So, living Lord, prepare us now<br/>Your willing helplessness to share;<br/>To give ourselves in sacrifice<br/>To overcome the world's despair;<br/>In love to give our lives away<br/>And claim your victory today.</lines>
+    </verse>
+  </lyrics>
+</song>

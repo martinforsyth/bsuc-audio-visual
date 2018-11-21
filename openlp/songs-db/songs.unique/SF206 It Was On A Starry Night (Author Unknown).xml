@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:21">
+  <properties>
+    <titles>
+      <title>SF206 It Was On A Starry Night</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It Was On A Starry Night when the hills were bright,<br/>Earth lay sleeping, sleeping calm and still;<br/>Then in a cattle shed, in a manger bed<br/>A boy was born, King of all the world.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Soon the shepherds came that way, where the baby lay,<br/>And were kneeling, kneeling by His side.<br/>And their hearts believed again, for the peace of men;<br/>For a boy was born, King of all the world.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And all the angels sang for Him,<br/>The bells of heaven rang for Him;<br/>For a boy was born, King of all the world.<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

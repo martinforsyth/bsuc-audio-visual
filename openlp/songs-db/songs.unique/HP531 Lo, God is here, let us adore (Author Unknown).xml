@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:03">
+  <properties>
+    <titles>
+      <title>HP531 Lo, God is here, let us adore</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lo, God is here, let us adore!<br/>How awe-inspiring is this place!<br/>Let all within us feel his power,<br/>And silent bow before his face;<br/>Who know his power, his grace who prove,<br/>Serve him with fear, with reverence love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lo, God is here! Him day and night<br/>The united choirs of angels sing;<br/>To him, enthroned above all height,<br/>Heaven's host their noblest praises bring;<br/>Disdain not, Lord, our meaner song,<br/>Who praise thee with a stammering tongue.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Gladly the things of earth we leave,<br/>Wealth, honour, fame, for thee alone;<br/>To thee our will, soul, flesh, we give;<br/>O take, O seal them for thine own!<br/>Thou art the God, thou art the Lord;<br/>Be thou by all thy works adored.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Being of beings, may our praise<br/>Thy courts with grateful fragrance fill;<br/>Still may we stand before thy face,<br/>Still bear and do thy sovereign will;<br/>To thee may all our thoughts arise,<br/>Ceaseless, accepted sacrifice.</lines>
+    </verse>
+  </lyrics>
+</song>

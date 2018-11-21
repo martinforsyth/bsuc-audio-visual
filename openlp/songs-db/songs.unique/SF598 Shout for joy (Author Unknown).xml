@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:43">
+  <properties>
+    <titles>
+      <title>SF598 Shout for joy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>1  Shout for joy!  The Lord has let us feast;<br/>heaven's own fare has fed the last and least;<br/>Christ's own peace is shared again on earth;<br/>God the Spirit fills us with new worth</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2  No more doubting, no more senseless dread:<br/>God's good self has graced our wine and bread;<br/>all the wonder heaven has kept in store<br/>now is ours to keep for evermore.<br/>.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3  Celebrate with saints who dine on high,<br/>witnesses that love can never die.<br/>'Hallelujah!' - thus their voices ring:<br/>nothing less in gratitude we bring.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4  Praise the Maker, praise the Maker's Son,<br/>praise the Spirit - three yet ever one;<br/>praise the God whose food and friends avow<br/>heaven starts here!  The kingdom beckons now!<br/>John L. Bell (b. 1949) and Graham Maule (b. 1958</lines>
+    </verse>
+  </lyrics>
+</song>

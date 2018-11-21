@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:26">
+  <properties>
+    <titles>
+      <title>MP676 There is no love like the love of Jesus</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There is no love like the love of Jesus,<br/>Never to fade or fall,<br/>Till into the fold of the peace of God<br/>He has gathered us all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There is no eye like the eye of Jesus,<br/>Piercing so far away;<br/>Ne'er out of the sight of its tender light<br/>Can the wanderer stray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There is no voice like the voice of Jesus,<br/>Tender and sweet its chime,<br/>Like musical ring of a flowing spring<br/>in the bright summer time</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>There is no heart like the heart of Jesus,<br/>Filled with a tender love,<br/>No throb nor throe that our hearts can know<br/>But He feels it above.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Jesus' love, precious love,<br/>Boundless and pure and free!<br/>O turn to that love, weary wandering soul,<br/>Jesus pleadeth with thee.</lines>
+    </verse>
+  </lyrics>
+</song>

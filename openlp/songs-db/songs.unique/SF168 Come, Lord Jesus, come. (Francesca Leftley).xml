@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-08-08T09:51:19">
+  <properties>
+    <titles>
+      <title>SF168 Come, Lord Jesus, come.</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Francesca Leftley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, Lord Jesus, come.<br/>Come, Lord Jesus, come.<br/>Come, Lord Jesus, come,<br/>to this world of ours.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, we need you now;<br/>Lord, we need you now;<br/>Lord, we need you now<br/>in this world of ours.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Fill us with your peace;<br/>fill us with your peace;<br/>fill us with your peace<br/>in this world of ours.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Touch us with your love;<br/>touch us with your love;<br/>touch us with your love<br/>in this world of ours.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>May we see your light;<br/>may we see your light;<br/>may we see your light<br/>in this world of ours.</lines>
+    </verse>
+  </lyrics>
+</song>

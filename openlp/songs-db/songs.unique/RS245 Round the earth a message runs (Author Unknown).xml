@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:46">
+  <properties>
+    <titles>
+      <title>RS245 Round the earth a message runs</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Round the earth a message runs:<br/>Awake, awake, you drowsy ones!<br/>Now leaps the sap in every stem<br/>to chant the winter's requiem.<br/>No more of sloth and dullness sing:<br/>sing love, sing joy, for Christ is King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Round the earth a message runs:<br/>Arise, arise, you doleful ones!<br/>Cast off your chains, you captives all<br/>who long have lain in sorrow's thrall.<br/>no more of grief and anguish sing:<br/>sing love, sing joy, for Christ is King!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Round the earth a message runs:<br/>For shame, for shame, you brawling ones!<br/>You shall more true adventure find<br/>in friendliness of heart and mind.<br/>No more of hate and envy sing:<br/>sing love, sing joy, for Christ is King!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Round the earth a message runs:<br/>Rejoice, rejoice, you happy ones!<br/>Now fall the gods of wrath and pain,<br/>now comes your Prince of joy to reign;<br/>to him your brave allegiance sing:<br/>sing love, sing joy, for Christ is King!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-10T16:18:01">
+  <properties>
+    <titles>
+      <title>SF215 See, amid the winter's snow</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Edward Caswall</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>See, amid the winter's snow,<br/>born for us on earth below,<br/>see, the Lamb of God appears,<br/>promised from eternal years!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Hail, the ever-blessed morn!<br/>Hail, redemption's happy dawn!<br/>Sing through all Jerusalem:<br/>Christ is born in Bethlehem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lo, within a manger lies<br/>he who built the starry skies,<br/>he who, throned in height sublime,<br/>sits amid the cherubim!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Say, you holy shepherds, say,<br/>what your joyful news today;<br/>why then have you left your sheep<br/>on the lonely mountain steep?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>'As we watched at dead of night,<br/>lo, we saw a wondrous light:<br/>angels, singing "Peace on earth,"<br/>told us of the Saviour's birth.'</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Sacred infant, holy child,<br/>tender love so pure and mild<br/>comes from heaven's highest bliss<br/>down to such a world as this!</lines>
+    </verse>
+  </lyrics>
+</song>

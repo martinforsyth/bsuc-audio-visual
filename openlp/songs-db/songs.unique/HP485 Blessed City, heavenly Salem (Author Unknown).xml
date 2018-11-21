@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:51">
+  <properties>
+    <titles>
+      <title>HP485 Blessed City, heavenly Salem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Blessed city, heavenly Salem,<br/>Vision dear of peace and love,<br/>Who of living stones art builded<br/>In the height of heaven above,<br/>And by angel hosts encircled<br/>As a bride dost earthward move!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ is made the sure foundation,<br/>Christ the head and corner-stone,<br/>Chosen of the Lord, and precious,<br/>Binding all the church in one,<br/>Holy Zion's help for ever,<br/>And her confidence alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>To this temple, where we call thee,<br/>Come, O Lord of Hosts, today;<br/>With thy wonted loving-kindness<br/>Hear thy servants as they pray;<br/>And thy fullest benediction<br/>Shed within its walls alway.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Here vouchsafe to all thy servants<br/>What they ask of thee to gain,<br/>What they gain from thee for ever<br/>With the blessed to retain,<br/>And hereafter in thy glory<br/>Evermore with thee to reign.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Laud and honour to the Father,<br/>Laud and honour to the Son,<br/>Laud and honour to the Spirit,<br/>Ever Three, and ever One,<br/>Consubstantial, co-eternal,<br/>While unending ages run.</lines>
+    </verse>
+  </lyrics>
+</song>

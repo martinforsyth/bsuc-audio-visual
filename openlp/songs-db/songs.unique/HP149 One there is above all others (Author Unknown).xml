@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:48">
+  <properties>
+    <titles>
+      <title>HP149 One there is above all others</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>One there is above all others<br/>Well deserves the name of friend,.<br/>His is love beyond a brother's,<br/>Costly, free, and knows no end;<br/>They who once his kindness prove<br/>Find it everlasting love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Which of all our friends, to save us,<br/>Could or would have shed his blood?<br/>But our Jesus died to have us<br/>Reconciled in him to God;<br/>This was boundless love indeed;<br/>Jesus is a friend in need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When he lived on earth abased,<br/>Friend of sinners was his name;<br/>Now, above all glory raised,<br/>He rejoices in the same;<br/>Still he calls them brethren, friends,<br/>And to all their wants attends.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O for grace our hearts to soften!<br/>Teach us, Lord, at length to love;<br/>We, alas, forget too often<br/>What a friend we have above;<br/>But when home our souls are brought<br/>We shall love thee as we ought.</lines>
+    </verse>
+  </lyrics>
+</song>

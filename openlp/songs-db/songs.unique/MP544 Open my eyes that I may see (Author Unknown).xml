@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:10">
+  <properties>
+    <titles>
+      <title>MP544 Open my eyes that I may see</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Open my eyes that I may see<br/>glimpses of truth Thou hast for me;<br/>place in my hands the wonderful key<br/>that shall unclasp and set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Open my mind that I may read<br/>more of Thy love in word and deed:<br/>what shall I fear while yet Thou dost lead?<br/>Only for light from Thee I plead.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Silently now I wait for Thee,<br/>ready, my God, Thy will to see;<br/>open my eyes, illumine me,<br/>Spirit divine!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:33">
+  <properties>
+    <titles>
+      <title>HP438 Great is our redeeming Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Great is our redeeming Lord<br/>In power, and truth, and grace;<br/>Him, by highest heaven adored,<br/>His church on earth cloth praise.<br/>In the city of our God,<br/>In his holy mount below,<br/>Publish, spread his name abroad,<br/>And all his greatness show.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For thy loving-kindness, Lord,<br/>We in thy temple stay;<br/>Here thy faithful love record,<br/>Thy saving power display.<br/>With thy name thy praise is known,<br/>Glorious thy perfections shine;<br/>Earth's remotest bounds shall own<br/>Thy works are all divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>See the gospel church secure,<br/>And founded on a rock;<br/>All her promises are sure;<br/>Her bulwarks who can shock?<br/>Count her every precious shrine;<br/>Tell, to after-ages tell:<br/>Fortified by power divine,<br/>The church can never fail.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Zion's God is all our own,<br/>Who on his love rely;<br/>We his pardoning love have known,<br/>And live to Christ, and die.<br/>To the new Jerusalem<br/>He our faithful guide shall be:<br/>Him we claim, and rest in him,<br/>Through all eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-06-16T16:43:08">
+  <properties>
+    <titles>
+      <title>MP582,SF434 Rock of ages, cleft for me,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Rock of ages, cleft for me,<br/>let me hide myself in Thee;<br/>let the water and the blood,<br/>from Thy riven side which flowed,<br/>be of sin the double cure,<br/>cleanse me from its guilt and power.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Not the labours of my hands<br/>can fulfil thy law's demands;<br/>could my zeal no respite know,<br/>could my tears for ever flow,<br/>all for sin could not atone;<br/>Thou must save, and Thou alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Nothing in my hand I bring,<br/>simply to thy cross I cling;<br/>naked, come to thee for dress,<br/>helpless, look to thee for grace,<br/>foul, I to the fountain fly;<br/>wash me, Saviour, or I die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>While I draw this fleeting breath,<br/>when my eyelids close in death,<br/>when I soar to worlds unknown,<br/>see thee on thy judgment throne,<br/>Rock of ages, cleft for me,<br/>let me hide myself in Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

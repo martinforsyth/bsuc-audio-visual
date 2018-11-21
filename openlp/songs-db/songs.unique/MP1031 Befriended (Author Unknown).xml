@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:13">
+  <properties>
+    <titles>
+      <title>MP1031 Befriended</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Befriended,<br/>Befriended by the King above all kings.<br/>Surrendered,<br/>Surrendered to the Friend above all friends.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Invited,<br/>Invited deep into this mystery.<br/>Delighted,<br/>Delighted by the wonders I have seen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Astounded,<br/>Astounded that Your gospel beckoned me.<br/>Surrounded,<br/>Surrounded, but I've never been so free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Determined,<br/>Determined now to live this life for You.<br/>You're so worthy,<br/>My greatest gift would be the least<br/>You're due.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>This will be my story,<br/>This will be my song.<br/>You'll always be my Saviour,<br/>Jesus, You will always have my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

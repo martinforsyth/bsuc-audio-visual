@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:38">
+  <properties>
+    <titles>
+      <title>HP447 Deep in the shadows of the past</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Deep in the shadows of the past,<br/>Far out from settled lands,<br/>Some nomads travelled with their God<br/>Across the desert sands.<br/>The dawn of hope for humankind<br/>Was glimpsed by them alone -<br/>A promise calling them ahead,<br/>A future yet unknown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>While others bowed to changeless gods,<br/>They met a mystery:<br/>God with an uncompleted name,<br/>'I am what I will be';<br/>And by their tents, around their fires,<br/>In story, song and law,<br/>They praised, remembered, handed on<br/>A past that promised more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>From Abraham to Nazareth<br/>The promise changed and grew,<br/>While some, remembering the past,<br/>Recorded what they knew,<br/>And some, in letters or laments,<br/>In prophecy and praise,<br/>Recovered, held, and re-expressed<br/>New hope for changing days.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For all the writings that survived,<br/>For leaders, long ago,<br/>Who sifted, chose, and then preserved<br/>The Bible that we know,<br/>Give thanks, and find its promise yet<br/>Our comfort, strength, and call,<br/>The working model for our faith,<br/>Alive with hope for all.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:38">
+  <properties>
+    <titles>
+      <title>JP87 I Am a Lighthouse</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I am a lighthouse, a shining and bright house,<br/>Out in the waves of a stormy sea.<br/>The oil of the Spirit keeps my lamp burning;<br/>Jesus, my Lord, is the light in me.<br/>And when people see the good things that I do,<br/>They'll give praises to God who has sent us Jesus.<br/>We'll send out a lifeboat of love and forgiveness<br/>And give them a hand to get in.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>While the storm is raging, whoosh, whoosh,<br/>And the wind is blowing, ooo, ooo,<br/>And the waves are crashing,<br/>Crash! crash! crash! crash!</lines>
+    </verse>
+  </lyrics>
+</song>

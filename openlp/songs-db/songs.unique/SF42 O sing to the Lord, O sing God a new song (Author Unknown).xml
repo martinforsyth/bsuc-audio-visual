@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-05-02T10:21:05">
+  <properties>
+    <titles>
+      <title>SF42 O sing to the Lord, O sing God a new song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O sing to the Lord, O sing God a new song.<br/>O sing to the Lord, O sing God a new song.<br/>O sing to the Lord, O sing God a new song.<br/>O sing to our God, O sing to our God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>By this holy power our God has done wonders.<br/>By this holy power our God has done wonders.<br/>By this holy power our God has done wonders.<br/>O sing to our God, O sing to our God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>So dance for our God and blow all the trumpets.<br/>So dance for our God and blow all the trumpets.<br/>So dance for our God and blow all the trumpets.<br/>O sing to our God, O sing to our God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O shout to our God, who gave us the Spirit.<br/>O shout to our God, who gave us the Spirit.<br/>O shout to our God, who gave us the Spirit.<br/>O sing to our God, O sing to our God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>For Jesus is Lord! Amen, alleluia.<br/>For Jesus is Lord! Amen, alleluia.<br/>For Jesus is Lord! Amen, alleluia.<br/>O sing to our God, O sing to our God.</lines>
+    </verse>
+  </lyrics>
+</song>

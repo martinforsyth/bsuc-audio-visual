@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:20">
+  <properties>
+    <titles>
+      <title>HP374 Thou God of truth and love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thou God of truth and love,<br/>We seek thy perfect way,<br/>Ready thy choice to approve,<br/>Thy providence to obey:<br/>Enter into thy wise design,<br/>And sweetly lose our will in thine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Why hast thou cast our lot<br/>In the same age and place,<br/>And why together brought<br/>To see each other's face,<br/>To join with loving sympathy,<br/>And mix our friendly souls in thee?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Didst thou not make us one,<br/>That we might one remain,<br/>Together travel on,<br/>And share our joy and pain,<br/>Till all thy utmost goodness prove,<br/>And rise renewed in perfect love?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then let us ever bear<br/>The blessed end in view,<br/>And join, with mutual care,<br/>To fight our passage through;<br/>And kindly help each other on,<br/>Till all receive the starry crown.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O may thy Spirit seal<br/>Our souls unto that day,<br/>With all thy fullness fill,<br/>And then transport away:<br/>Away to our eternal rest,<br/>Away to our Redeemer's breast.</lines>
+    </verse>
+  </lyrics>
+</song>

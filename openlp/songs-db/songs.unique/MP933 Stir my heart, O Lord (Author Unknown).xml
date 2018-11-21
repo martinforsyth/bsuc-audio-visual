@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:49">
+  <properties>
+    <titles>
+      <title>MP933 Stir my heart, O Lord</title>
+    </titles>
+    <verseOrder>c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines><br/>Stir my heart, O Lord,<br/>Let Your holy fire burn;<br/>Spark a flame within me,<br/>Strengthen my desire.<br/>May my heart, O Lord,<br/>Be so tender in Your hand;<br/>Breathe Your life within me,<br/>Stir my heart, O Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

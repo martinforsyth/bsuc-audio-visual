@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:34">
+  <properties>
+    <titles>
+      <title>MP758 When the Lord in glory comes.</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When the Lord in glory comes<br/>not the trumpets, not the drums,<br/>not the anthem, not the psalm,<br/>not the thunder, not the calm,<br/>not the shout the heavens raise,<br/>not the chorus, not the praise,<br/>not the silences sublime,<br/>not the sounds of space and time,<br/>but His voice when He appears<br/>shall be music to my ears;<br/>but His voice when He appears<br/>shall be music to my ears.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When the Lord is seen again,<br/>not the glories of his reign,<br/>not the lightnings through the storm,<br/>not the radiance of His form,<br/>not His pomp and power alone,<br/>not the splendours of His throne,<br/>not His robe and diadems,<br/>not the gold and not the gems,<br/>but His face upon my sight,<br/>shall be darkness into light;<br/>but His face upon my sight<br/>shall be darkness into light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When the Lord to human eyes,<br/>shall bestride our narrow skies,<br/>not the child of humble birth,<br/>not the carpenter of earth,<br/>not the man by all denied,<br/>not the victim crucified,<br/>but the God who died to save,<br/>but the victor of the grave,<br/>He it is to whom I fall,<br/>Jesus Christ, my all in all;<br/>He it is to whom I fall,<br/>Jesus Christ, my all in all.</lines>
+    </verse>
+  </lyrics>
+</song>

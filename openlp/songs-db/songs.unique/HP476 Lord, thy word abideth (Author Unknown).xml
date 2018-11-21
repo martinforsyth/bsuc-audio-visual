@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:50">
+  <properties>
+    <titles>
+      <title>HP476 Lord, thy word abideth</title>
+    </titles>
+    <verseOrder>v1 v4 v3 v2 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, thy word abideth,<br/>And our footsteps guideth;<br/>Who its truth believeth<br/>Light and joy receiveth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When our foes are near us,<br/>Then thy word doth cheer us,<br/>Word of consolation,<br/>Message of salvation.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When the storms are o'er us<br/>And dark clouds before us,<br/>Then its light directeth,<br/>And our way protecteth.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Who can tell the pleasure,<br/>Who recount the treasure,<br/>By thy word imparted<br/>To the simple-hearted?</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Word of mercy, giving<br/>Succour to the living;<br/>Word of life, supplying<br/>Comfort to the dying!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O that we, discerning<br/>Its most holy learning,<br/>Lord, may love and fear thee,<br/>Evermore be near thee.</lines>
+    </verse>
+  </lyrics>
+</song>

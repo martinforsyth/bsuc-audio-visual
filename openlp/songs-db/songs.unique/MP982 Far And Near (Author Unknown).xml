@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:04">
+  <properties>
+    <titles>
+      <title>MP982 Far And Near</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Far and near hear the call,<br/>Worship Him, Lord of all;<br/>Families of nations come,<br/>Celebrate what God has done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Deep and wide is the love<br/>Heaven sent from above;<br/>God's own Son for sinners died,<br/>Rose again, He is alive.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>At His name let praise begin,<br/>Oceans roar, nature sing.<br/>For He comes to judge the earth<br/>In righteousness and in His truth.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Say it loud, say it strong,<br/>Tell the world what God has done;<br/>Say it loud, praise His name,<br/>Let the earth rejoice<br/>For the Lord reigns.</lines>
+    </verse>
+  </lyrics>
+</song>

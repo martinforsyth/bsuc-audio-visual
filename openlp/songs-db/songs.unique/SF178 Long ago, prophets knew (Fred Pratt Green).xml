@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-02T14:47:22">
+  <properties>
+    <titles>
+      <title>SF178 Long ago, prophets knew</title>
+    </titles>
+    <authors>
+      <author>Fred Pratt Green</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Long ago, prophets knew<br/>Christ would come, born a Jew,<br/>come to make all things new;<br/>bear his people's burden,<br/>freely love and pardon:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Ring, bells, ring, ring, ring!<br/>Sing, choirs, sing, sing, sing!<br/>When he comes,<br/>when he comes,<br/>who will make him welcome?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God in time, God in man,<br/>this is God's timeless plan:<br/>he will come, as a man,<br/>born himself of woman,<br/>God divinely human:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Mary, hail! Though afraid,<br/>she believed, she obeyed.<br/>In her womb, God is laid;<br/>till the time expected,<br/>nurtured and protected:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Journey ends! Where afar<br/>Bethlem shines, like a star,<br/>stable door stands ajar.<br/>Unborn Son of Mary,<br/>Saviour, do not tarry!</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>Ring, bells, ring, ring, ring!<br/>Sing, choirs, sing, sing, sing!<br/>Jesus comes!<br/>Jesus comes!<br/>We will make him welcome!</lines>
+    </verse>
+  </lyrics>
+</song>

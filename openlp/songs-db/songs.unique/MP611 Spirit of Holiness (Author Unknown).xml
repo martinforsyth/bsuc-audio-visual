@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:19">
+  <properties>
+    <titles>
+      <title>MP611 Spirit of Holiness</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You came to interpret<br/>and teach us effectively<br/>all that the Saviour<br/>has spoken and done;<br/>to glorify Jesus is all Your activity<br/>Promise and Gift<br/>of the Father and Son:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>You came with Your gifts<br/>to supply all our poverty,<br/>pouring Your love<br/>on the church in her need;<br/>You came with Your fruit<br/>for our growth to maturity,<br/>richly refreshing the souls<br/>that You feed:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Spirit of holiness<br/>wisdom and faithfulness<br/>Wind of the Lord,<br/>blowing strongly and free:<br/>strength of our serving<br/>and joy of our worshipping<br/>Spirit of God,<br/>bring Your fulness to me!</lines>
+    </verse>
+  </lyrics>
+</song>

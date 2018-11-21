@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:06">
+  <properties>
+    <titles>
+      <title>MP509 O Lord, The Clouds Are Gathering</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Lord, the clouds are gathering,<br/>The fire of judgement burns,<br/>How we have fallen!<br/>O Lord, You stand appalled to see<br/>Your laws of love so scorned,<br/>And lives so broken.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O Lord, over the nations now<br/>Where is the dove of peace?<br/>Her wings are broken.<br/>O Lord, while precious children starve<br/>The tools of war increase;<br/>Their bread is stolen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O Lord, dark powers are poised to flood<br/>Our streets with hate and fear;<br/>We must awaken!<br/>O Lord, let love reclaim the lives<br/>That sin would sweep away<br/>And let Your kingdom come.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Yet, O Lord, Your glorious cross shall tower<br/>Triumphant in this land,<br/>Evil confounding.<br/>Through the fire Your suffering church display<br/>The glories of her Christ:<br/>Praises resounding!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Have mercy, Lord, (men)<br/>Have mercy, Lord, (Women)<br/>Forgive us, Lord, (Men)<br/>Forgive us, Lord, (Women)<br/>Restore us, Lord, (All)<br/>Revive Your church again.<br/>Let justice flow (Men)<br/>Let justice flow (Women)<br/>Like rivers, (Men)<br/>Like rivers, (Women)<br/>And righteousness like a<br/>Never failing stream.    (All)</lines>
+    </verse>
+  </lyrics>
+</song>

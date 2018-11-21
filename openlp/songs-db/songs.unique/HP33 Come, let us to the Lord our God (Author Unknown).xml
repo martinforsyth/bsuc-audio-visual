@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:39">
+  <properties>
+    <titles>
+      <title>HP33 Come, let us to the Lord our God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, let us to the Lord our God<br/>With contrite hearts return;<br/>Our God is gracious, nor will leave<br/>The desolate to mourn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>His voice commands the tempest forth,<br/>And stills the stormy wave;<br/>And though His arm be strong to smite,<br/>'Tis also strong to save.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Long hath the night of sorrow reigned;<br/>The dawn shall bring us light;<br/>God shall appear, and we shall rise<br/>With gladness in His sight.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Our hearts, if God we seek to know,<br/>Shall know Him and rejoice;<br/>His coming like the morn shall be,<br/>Like morning songs His voice.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>As dew upon the tender herb,<br/>Diffusing fragrance round;<br/>As showers that usher in the spring,<br/>And cheer the thirsty ground.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>So shall His presence bless our souls,<br/>And shed a joyful light;<br/>That hallowed morn shall chase away<br/>The sorrows of the night.</lines>
+    </verse>
+  </lyrics>
+</song>

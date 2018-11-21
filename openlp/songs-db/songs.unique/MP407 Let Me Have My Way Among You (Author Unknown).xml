@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:52">
+  <properties>
+    <titles>
+      <title>MP407 Let Me Have My Way Among You</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Let me have my way among You,<br/>Do not strive, do not strive.<br/>Let Me have My way among you,<br/>Do not strive, do not strive.<br/>For Mine is the power and the glory<br/>For ever and ever the same.<br/>Let Me have My way among you,<br/>Do not strive, do not strive.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We'll let You have Your way among us,<br/>We'll not strive, we'll not strive.<br/>We'll let You have Your way among us,<br/>We'll not strive, we'll not strive.<br/>For Yours is the power and the glory<br/>For ever and ever the same.<br/>We'll let You have Your way among us,<br/>We'll not strive, we'll not strive.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Let My peace rule within your hearts,<br/>Do not strive, do not strive.<br/>Let My peace rule within your hearts,<br/>Do not strive, do not strive.<br/>For Mine is the power and the glory,<br/>For ever and ever the same.<br/>Let My peace rule within your hearts,<br/>Do not strive, do not strive.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We'll let Your peace rule within our hearts,<br/>We'll not strive, we'll not strive.<br/>We'll let Your peace rule within our hearts,<br/>We'll not strive, we'll not strive.<br/>For Yours is the power and the glory,<br/>For ever and ever the same.<br/>We'll let Your peace rule within our hearts,<br/>We'll not strive, we'll not strive.</lines>
+    </verse>
+  </lyrics>
+</song>

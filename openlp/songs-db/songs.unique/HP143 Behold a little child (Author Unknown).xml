@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:47">
+  <properties>
+    <titles>
+      <title>HP143 Behold a little child</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Behold a little child,<br/>Laid in a manger bed;<br/>The wintry blasts blow wild<br/>Around his infant head.<br/>But who is this, so lowly laid?<br/>'Tis he by whom the worlds were made.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The hands that all things made<br/>An earthly craft pursue;<br/>Where Joseph plies his trade,<br/>There Jesus labours too,<br/>That weary men in him may rest,<br/>And faithful toil through him be blest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Christ, Master Carpenter,<br/>We come rough-hewn to thee.<br/>At last, through wood and nails,<br/>Thou mad'st us whole and free.<br/>In this thy world remake us, planned<br/>To truer beauty of thine hand.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:38">
+  <properties>
+    <titles>
+      <title>RS53 To thee O lord our hearts we raise</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>To thee, O Lord, our hearts we raise<br/>In hymns of adoration,<br/>To thee bring sacrifice of praise<br/>With shouts of exultation;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Bright robes of gold the fields adorn,<br/>The hills with joy are ringing,<br/>The valleys stand so thick with corn<br/>That even they are singing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And now on this our festal day,<br/>Thy bounteous hand confessing,<br/>Before thee thankfully we lay<br/>The first-fruits of thy blessing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>By thee thy children's souls are fed<br/>With gifts of grace supernal;<br/>Thou who dost give us earthly bread,<br/>Give us the bread eternal.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O blessed is that land of God<br/>Where saints abide forever,<br/>Where golden fields spread far and broad,<br/>Where flows the crystal river.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>The strains of all its holy throng<br/>With ours today are blending;<br/>Thrice blessed is that harvest song<br/>Which never has an ending.</lines>
+    </verse>
+  </lyrics>
+</song>

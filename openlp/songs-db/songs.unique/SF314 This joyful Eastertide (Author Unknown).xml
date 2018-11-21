@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:29">
+  <properties>
+    <titles>
+      <title>SF314 This joyful Eastertide</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>This joyful Eastertide,<br/>What need is there for grieving?<br/>Cast all your cares aside<br/>And be not unbelieving:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>No work for him is vain,<br/>No faith in him mistaken,<br/>For Easter makes it plain<br/>His kingdom is not shaken:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Then put your trust in Christ,<br/>In waking and in sleeping.<br/>His grace on earth sufficed;<br/>He'll never quit his keeping.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Come share our Easter joy<br/>That death could not imprison,<br/>Nor any power destroy,<br/>Our Christ, who is arisen.</lines>
+    </verse>
+  </lyrics>
+</song>

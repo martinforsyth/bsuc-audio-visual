@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:17">
+  <properties>
+    <titles>
+      <title>SF177 Lo, he comes with clouds descending</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lo, he comes with clouds descending,<br/>Once for favoured sinners slain;<br/>Thousand thousand saints attending<br/>Swell the triumph of his train:<br/>Alleluia!<br/>God appears on earth to reign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Every eye shall now behold him<br/>Robed in glorious majesty;<br/>We who set at nought and sold him,<br/>Pierced and nailed him to the tree,<br/>Deeply wailing,<br/>Shall the true Messiah see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Those dear tokens of his passion<br/>Still his dazzling body bears;<br/>Cause of endless exultation<br/>To his ransomed worshippers:<br/>With what rapture<br/>Gaze we on those glorious scars.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Sing, amen, let all adore thee,<br/>High on thine eternal throne;<br/>Saviour, take the power and glory,<br/>Claim the kingdom for thine own:<br/>Come, Lord Jesus!<br/>Everlasting God, come down!</lines>
+    </verse>
+  </lyrics>
+</song>

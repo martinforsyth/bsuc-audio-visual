@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:29">
+  <properties>
+    <titles>
+      <title>SF317 At the name of Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>At the name of Jesus<br/>every knee shall bow,<br/>every tongue confess him<br/>King of Glory now.<br/>'Tis the Father's pleasure<br/>we should call him Lord,<br/>who from the beginning<br/>was the mighty Word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Humbled for a season,<br/>to receive a name<br/>from the lips of sinners<br/>unto whom he came,<br/>faithfully he bore it<br/>spotless to the last,<br/>brought it back victorious<br/>when from death he passed:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Bore it up triumphant<br/>with its human light,<br/>through all ranks of creatures<br/>to the central height,<br/>to the throne of Godhead,<br/>to the Father's breast;<br/>filled it with the glory<br/>of that perfect rest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In your hearts enthrone him;<br/>there let him subdue<br/>all that is not holy,<br/>all that is not true;<br/>crown him as your captain<br/>in temptation's hour:<br/>let his will enfold you<br/>in its light and power.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>For this same Lord Jesus<br/>shall return again,<br/>with his Father's glory,<br/>with his angel train;<br/>all the wreaths of empire<br/>meet upon his brow,<br/>and our hearts confess him<br/>King of Glory now.</lines>
+    </verse>
+  </lyrics>
+</song>

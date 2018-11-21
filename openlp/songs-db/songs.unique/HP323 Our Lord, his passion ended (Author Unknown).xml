@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:12">
+  <properties>
+    <titles>
+      <title>HP323 Our Lord, his passion ended</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Our Lord, his passion ended,<br/>Has gloriously ascended,<br/>Yet though from him divided,<br/>He leaves us not unguided;<br/>All his benefits to crown<br/>He has sent his Spirit down,<br/>Burning like a flame of fire,<br/>His disciples to inspire.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God's Spirit is directing;<br/>No more they sit expecting,<br/>But forth to all the nation<br/>They go with exultation;<br/>That which God in them has wrought<br/>Fills their life and soul and thought;<br/>So their witness now can do<br/>Work as great in others too.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The centuries go gliding,<br/>But still we have abiding<br/>With us that Spirit holy,<br/>To make us brave and lowly -<br/>Lowly, for we feel our need,<br/>God alone is strong indeed;<br/>Brave, for with the Spirit's aid<br/>We can venture unafraid.</lines>
+    </verse>
+  </lyrics>
+</song>

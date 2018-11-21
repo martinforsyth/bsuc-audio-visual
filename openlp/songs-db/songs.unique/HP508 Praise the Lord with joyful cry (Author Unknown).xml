@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:57">
+  <properties>
+    <titles>
+      <title>HP508 Praise the Lord with joyful cry</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise the Lord with joyful cry;<br/>Let the mood of praise run high.<br/>Praise him who with mighty deeds<br/>Human greatness far exceeds.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Praise him with the sound that swings<br/>With percussion, brass and strings.<br/>Let the world at every chance<br/>Praise him with a song and dance</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Praise with life and voice the Lord,<br/>Him who speaks in deed and word,<br/>Who to life the world ordained:<br/>Let our praise be unrestrained.</lines>
+    </verse>
+  </lyrics>
+</song>

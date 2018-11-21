@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:39">
+  <properties>
+    <titles>
+      <title>HP27O what a gift! What a wonderful gift</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In the stillness of the night, when the world was asleep,<br/>The almighty Word leapt out;<br/>He came to Mary, he came to us,<br/>Christ came to the land of Galilee:<br/>Christ our Lord and our King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>On the night before he died it was Passover night,<br/>And he gathered his friends together.<br/>He broke the bread, he blessed the wine;<br/>It was the gift of his love and his life:<br/>Christ our Lord and our King!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>On the hill of Calvary the world held its breath;<br/>For there, for the world to see,<br/>God gave his Son, his very own Son,<br/>For the love of you and me:<br/>Christ our Lord and our King!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Early on that morning, when the guards were sleeping,<br/>Back to life came he!<br/>He conquered death, he conquered sin,<br/>But the vict'ry he gave to you and me!<br/>Christ our Lord and our King!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Some day with the saints we will come before our Father,<br/>And then we will shout and dance and sing,<br/>For in our midst, for our eves to see,<br/>Will be Christ our Lord and our King,<br/>Christ our Lord and our King!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>O what a gift! What a wonderful gift!<br/>Who can tell the wonders of the Lord?<br/>Let us open our eyes, our ears, and out. hearts;<br/>It is Christ the Lord, it is he!</lines>
+    </verse>
+  </lyrics>
+</song>

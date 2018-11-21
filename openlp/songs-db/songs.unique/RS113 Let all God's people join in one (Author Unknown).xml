@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:40">
+  <properties>
+    <titles>
+      <title>RS113 Let all God's people join in one</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Let all God's people join in one<br/>to lift the heart and voice,<br/>the Lord hath done great things for us,<br/>and therefore we rejoice:<br/>and therefore we rejoice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We with our ears have heard the tale,<br/>the tale apostles told,<br/>what wonders God for them and us<br/>did in the time of old:<br/>did in the time of old:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>They sowed the seed and watered it<br/>in sorrow and in care;<br/>but God alone the increase gave<br/>and made it blossom fair:<br/>and made it blossom fair:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>All praise to him whose bounty crowns<br/>with flowers and fruit the year;<br/>God is our hope and strength today,<br/>therefore we will not fear:<br/>therefore we will not fear.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>For the harvest of bygone ages,<br/>in the hope of the coming days,<br/>go into his gates with thankfulness<br/>and into his courts with praise.</lines>
+    </verse>
+  </lyrics>
+</song>

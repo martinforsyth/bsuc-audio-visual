@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:22">
+  <properties>
+    <titles>
+      <title>SF214 Once in royal David's city</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Once in royal David's city<br/>stood a lowly cattle shed,<br/>where a mother laid her baby<br/>in a manger for his bed:<br/>Mary was that mother mild,<br/>Jesus Christ her little child.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He came down to earth from heaven<br/>who is God and Lord of all,<br/>and his shelter was a stable,<br/>and his cradle was a stall;<br/>with the needy, poor and lowly<br/>lived on earth our Saviour holy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And our eyes at last shall see him,<br/>through his own redeeming love,<br/>for that child so dear and gentle<br/>is our Lord in heaven above;<br/>and he leads his children on<br/>to the place where he is gone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Not in that poor lowly stable,<br/>with the oxen standing by,<br/>we shall see him; but in heaven,<br/>set at God's right hand on high;<br/>there his children gather round<br/>bright like stars, with glory crowned.</lines>
+    </verse>
+  </lyrics>
+</song>

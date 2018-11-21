@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:50">
+  <properties>
+    <titles>
+      <title>HP179 The royal banners forward go</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The royal banners forward go,<br/>The myst'ry of the cross to show,<br/>When he in flesh, all flesh who made,<br/>Is on the tree of death displayed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For us he bore those pains severe,<br/>The cruel wounds, the soldier's spear;<br/>By blood and water from his side<br/>Our souls from sin are purified.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Fulfilled is now what David told<br/>In faithful prophet's song of old,<br/>Inviting all the world to see:<br/>Our God has suffered on the tree!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O tree, most beautiful, most glad,<br/>O tree in royal purple clad,<br/>Chosen from noble stock to bear<br/>The holy limbs that suffer there!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O tree, on whose blest arms is laid<br/>The price that has the balance swayed,<br/>Our souls from slav'ry to regain,<br/>And rescue us from hell's domain!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>To thee, eternal Three in One<br/>Let homage due by all be done;<br/>Whom by the cross thou dost restore,<br/>Preserve and govern evermore.<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

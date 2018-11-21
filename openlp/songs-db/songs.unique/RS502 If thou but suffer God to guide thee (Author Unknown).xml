@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:53">
+  <properties>
+    <titles>
+      <title>RS502 If thou but suffer God to guide thee</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>If thou but suffer God to guide thee,<br/>And hope in him through all thy ways,<br/>He'll give thee strength, whate'er betide thee,<br/>And bear thee through the evil days;<br/>Who trusts in God's unchanging love<br/>Builds on the rock that nought can move.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Only be still, and wait his leisure<br/>In cheerful hope, with heart content<br/>To take whate'er thy Father's pleasure<br/>And all-discerning love have sent;<br/>Nor doubt our inmost wants are known<br/>To him who chose us for his own.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Sing, pray, and keep his ways unswerving;<br/>So do thine own part faithfully,<br/>And trust his word: though undeserving,<br/>Thou yet shalt find it true for thee;<br/>God never yet forsook at need<br/>The soul that trusted him indeed.</lines>
+    </verse>
+  </lyrics>
+</song>

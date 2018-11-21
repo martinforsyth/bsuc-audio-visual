@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:43">
+  <properties>
+    <titles>
+      <title>HP680 Jesus, my strength, my hope</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, my strength, my hope,<br/>On thee I cast my care,<br/>With humble confidence look up,<br/>And know thou hear'st my prayer.<br/>Give me on thee to wait,<br/>Till I can all things do,<br/>On thee, almighty to create,<br/>Almighty to renew.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I want a godly fear,<br/>A quick-discerning eye<br/>That looks to thee when sin is near,<br/>And sees the tempter fly:<br/>A spirit still prepared,<br/>And armed with jealous care,<br/>For ever standing on its guard<br/>And watching unto prayer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I want a true regard,<br/>A single, steady aim,<br/>Unmoved by threatening or reward,<br/>To thee and thy great name;<br/>A jealous, just concern<br/>For thine immortal praise;<br/>A pure desire that all may learn<br/>And glorify thy grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I want with all my heart<br/>Thy pleasure to fulfil,<br/>To know thyself, and what thou art,<br/>And what thy perfect will -<br/>This blessing over all,<br/>Always to pray, I want,<br/>Out of the deep on thee to call,<br/>And never, never faint.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>I rest upon thy word;<br/>The promise is for me;<br/>My succour and salvation, Lord,<br/>Shall surely come from thee:<br/>But let me still abide,<br/>Nor from my hope remove,<br/>Till thou my patient spirit guide<br/>Into thy perfect love.</lines>
+    </verse>
+  </lyrics>
+</song>

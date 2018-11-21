@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:31">
+  <properties>
+    <titles>
+      <title>SF368 When morning gilds the skies</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When morning gilds the skies,<br/>my heart awaking cries:<br/>'May Jesus Christ be praised!'<br/>Alike at work and prayer<br/>to Jesus I repair:<br/>'May Jesus Christ be praised!'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Does sadness fill my mind?<br/>A solace here I find:<br/>'May Jesus Christ be praised!'<br/>When evil thoughts are near,<br/>these words will calm my fear:<br/>'May Jesus Christ be praised!'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>To God, the Word, on high<br/>the hosts of angels cry:<br/>'May Jesus Christ be praised!'<br/>Let mortals, too, upraise<br/>their voice in hymns of praise:<br/>'May Jesus Christ be praised!'</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Let earth's wide circle round<br/>in joyful notes resound:<br/>'May Jesus Christ be praised!'<br/>Let air, and sea, and sky,<br/>from depth to height, reply:<br/>'May Jesus Christ be praised!'</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Be this while life is mine<br/>my song of love divine:<br/>'May Jesus Christ be praised!'<br/>Be this the eternal song,<br/>through all the ages long:<br/>'May Jesus Christ be praised!'</lines>
+    </verse>
+  </lyrics>
+</song>

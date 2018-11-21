@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:26">
+  <properties>
+    <titles>
+      <title>MP672 There is a name I love to hear (dup) (Five Verses)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There is a name I love to hear,<br/>I love to speak its worth;<br/>it sounds like music in my ear,<br/>the sweetest name on earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>It tells me if a Saviour's love,<br/>who died to set me free;<br/>it tells me of His precious blood,<br/>the sinner's perfect plea.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>It tells of one whose loving heart<br/>can feel my deepest woe,<br/>who in my sorrow bears a part<br/>that none can bear below.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>It bids my trembling heart rejoice,<br/>It dries each rising tear;<br/>it tells me in a 'still, small voice'<br/>to trust and never fear.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Jesus, the name I love so well,<br/>the name I love to hear!<br/>No saints on earth its worth can tell,<br/>no heart conceive how dear!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>O how I love the Saviour's name,<br/>O how I love the Saviour's name<br/>O how I love the Saviour's name,<br/>the sweetest name on earth.</lines>
+    </verse>
+  </lyrics>
+</song>

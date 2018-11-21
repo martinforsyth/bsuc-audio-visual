@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:37">
+  <properties>
+    <titles>
+      <title>SF469 I watch the sunrise</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v6 v3 v6 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I watch the sunrise lighting the sky<br/>casting its shadows near.<br/>And on this morning bright though it be<br/>I feel those shadows near me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I watch the sunlight shine through the clouds<br/>warming the earth below<br/>And at the mid-day life seems to say,<br/>I feel your brightness near me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I watched the sunset fading away.<br/>Lighting the clouds with sleep.<br/>And as the evening closes its eyes.<br/>I feel your presence near me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I watch the moonlight guarding the night,<br/>waiting till morning comes.<br/>The air is silent. earth is at rest.<br/>only your peace is near me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Yes you are always close to me<br/>following all my ways.<br/>May I be always close to you.<br/>Following all your ways Lord.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>For you are always close to me<br/>Following all my ways<br/>May I be always close to you.<br/>Following all your ways Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>But you are always close to me<br/>Following all my ways<br/>May I be always close to you.<br/>Following all your ways Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

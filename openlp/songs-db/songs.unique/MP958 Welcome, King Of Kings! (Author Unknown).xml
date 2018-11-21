@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:58">
+  <properties>
+    <titles>
+      <title>MP958 Welcome, King Of Kings!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You rule the nations,<br/>They shake at the sound of Your name.<br/>To You is given all power,<br/>And You shall reign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Let all creation bow down<br/>At the sound of Your name.<br/>Let every tongue now confess,<br/>The Lord God reigns.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Welcome, king of kings!<br/>How great is Your name.<br/>You come in majesty<br/>Forever to reign.</lines>
+    </verse>
+  </lyrics>
+</song>

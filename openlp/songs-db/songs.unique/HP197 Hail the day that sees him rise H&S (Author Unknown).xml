@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:51">
+  <properties>
+    <titles>
+      <title>HP197 Hail the day that sees him rise H&amp;S</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hail the day that sees him rise<br/>Alleluia<br/>Ravished from our wistful eyes!<br/>Christ, awhile to mortals given,<br/>Reascends his native heaven:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There the glorious triumph waits:<br/>Lift your heads, eternal gates;<br/>Wide unfold the radiant scene;<br/>Take the king of Glory in!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Him through highest heaven receives,<br/>Still he loves the earth he leaves;<br/>Through returning to his throne,<br/>Still he calls mankind his own:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>See! He lifts his hands above;<br/>See! He shows the prints of love;<br/>Hark! His gracious lips bestow;<br/>Blessings on his church below;</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Master, parted from our sight,<br/>High above you azure height,<br/>Grant our hearts may thither rise,<br/>Following thee beyound the skies:</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>There we shall with thee remain,<br/>Partners of thy endless reign:<br/>There thy face forever see,<br/>Find our heaven of heavens in thee!</lines>
+    </verse>
+  </lyrics>
+</song>

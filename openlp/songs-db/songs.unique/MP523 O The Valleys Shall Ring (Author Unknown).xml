@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:08">
+  <properties>
+    <titles>
+      <title>MP523 O The Valleys Shall Ring</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O the valleys shall ring<br/>With the sound of praise,<br/>And the lion shall lie with the lamb.<br/>Of His government there shall be no end,<br/>And His glory shall fill the earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>May Your will be done,<br/>May Your kingdom come,<br/>Let it rule, let it reign in our lives.<br/>There's a shout in the camp as we answer the call,<br/>Hail the King, Hail the Lord of lords!</lines>
+    </verse>
+  </lyrics>
+</song>

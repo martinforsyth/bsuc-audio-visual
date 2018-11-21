@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:29">
+  <properties>
+    <titles>
+      <title>HP428 There is no moment in my life</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There is no moment in my life,<br/>No place where I may go,<br/>No action which God does not see,<br/>No thought he does not know.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Before I speak, my words are known,<br/>And all that I decide,<br/>To come or go; God knows my choice,<br/>And makes himself my guide.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>If I should close my eyes to him,<br/>He comes to give me sight;<br/>If I should go where all is dark,<br/>He makes my darkness light.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He knew my days before all days,<br/>Before I came to be;<br/>He keeps me, loves me, in my ways -<br/>No lover such as he.</lines>
+    </verse>
+  </lyrics>
+</song>

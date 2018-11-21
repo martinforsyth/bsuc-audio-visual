@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:08">
+  <properties>
+    <titles>
+      <title>HP550 Lamb of God, whose dying love</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lamb of God, whose dying love<br/>We now recall to mind,<br/>Send the answer from above,<br/>And let us mercy find;<br/>Think on us, who think on thee;<br/>And every struggling soul release:<br/>O remember Calvary,<br/>And bid us go in peace!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>By thine agonising pain<br/>And sweat of blood, we pray,<br/>By thy dying love to man,<br/>Take all our sins away;<br/>Burst our bonds, and set us free;<br/>From all iniquity release:<br/>O remember Calvary,<br/>And bid us go in peace!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, we would not hence depart<br/>Till thou our wants relieve,<br/>Write forgiveness on our heart,<br/>And all thine image give.<br/>Still our souls shall cry to thee,<br/>Till perfected in holiness:<br/>O remember Calvary,<br/>And bid us go in peace!</lines>
+    </verse>
+  </lyrics>
+</song>

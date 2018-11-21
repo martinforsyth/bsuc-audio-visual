@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:12">
+  <properties>
+    <titles>
+      <title>SF129 To thee, O Lord, our hearts we raise</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>To thee, O Lord, our hearts we raise<br/>in hymns of adoration,<br/>to thee bring sacrifice of praise<br/>with shouts of exultation;<br/>Bright robes of gold the fields adorn,<br/>the hills with joy are ringing,<br/>the valleys stand so thick with corn<br/>that even they are singing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And now, on this our festal day,<br/>thy bounteous hand confessing,<br/>before thee thankfully we lay<br/>the first-fruits of thy blessing.<br/>By thee thy children's souls are fed<br/>with gifts of grace supernal;<br/>thou who dost give us earthly bread,<br/>give us the bread eternal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We bear the burden of the day,<br/>and often toil seems dreary;<br/>but labour ends with sunset ray,<br/>and rest comes for the weary:<br/>May we, the angel-reaping o'er,<br/>stand at the last accepted,<br/>Christ's golden sheaves for evermore<br/>to garners bright elected.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O blessed is that land of God<br/>where saints abide for ever,<br/>where golden fields spread far and broad,<br/>where flows the crystal river.<br/>The strains of all its holy throng<br/>with ours today are blending;<br/>thrice blessed is that harvest song<br/>which never has an ending.</lines>
+    </verse>
+  </lyrics>
+</song>

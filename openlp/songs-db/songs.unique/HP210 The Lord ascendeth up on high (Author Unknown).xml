@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:53">
+  <properties>
+    <titles>
+      <title>HP210 The Lord ascendeth up on high</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Lord ascendeth up on high,<br/>The Lord hath triumphed gloriously,<br/>In power and might excelling;<br/>The grave and hell are captive led,<br/>Lo! He returns, our glorious Head,<br/>To his eternal dwelling.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The heavens with joy receive their Lord,<br/>By saints, by angel hosts adored;<br/>O day of exultation!<br/>O earth, adore thy glorious King!<br/>His rising, his ascension sing<br/>With grateful adoration!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Our great High Priest hath gone before,<br/>Now on his church his grace to pour,<br/>And still his love he giveth.<br/>O may our hearts to him ascend;<br/>May all within us upward tend<br/>To him who ever liveth!</lines>
+    </verse>
+  </lyrics>
+</song>

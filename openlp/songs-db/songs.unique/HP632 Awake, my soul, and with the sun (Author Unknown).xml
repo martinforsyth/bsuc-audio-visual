@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:35">
+  <properties>
+    <titles>
+      <title>HP632 Awake, my soul, and with the sun</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Awake, my soul, and with the sun<br/>Thy daily stage of duty run;<br/>Shake off dull sloth, and joyful rise<br/>To pay thy morning sacrifice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Redeem thy misspent moments past,<br/>And live this day as if thy last;<br/>Improve thy talent with due care.<br/>For the great day thyself prepare.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Let all thy converse be sincere,<br/>Thy conscience as the noonday clear;<br/>Think how all-seeing God thy ways<br/>And all thy secret thoughts surveys.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Wake, and lift up thyself, my heart,<br/>And with the angels bear thy part,<br/>Who all night long unwearied sing<br/>High praise to the eternal King.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Direct, control, suggest, this day,<br/>All I design, or do, or say,<br/>That all my powers, with all their might,<br/>In thy sole glory may unite.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Praise God, from whom all blessings flow;<br/>Praise him, all creatures here below;<br/>Praise him above, ye heavenly host;<br/>Praise Father, Son, and Holy Ghost.</lines>
+    </verse>
+  </lyrics>
+</song>

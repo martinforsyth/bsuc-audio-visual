@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:26">
+  <properties>
+    <titles>
+      <title>MP127 Father, although I cannot see</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, although I cannot see<br/>the future You have planned,<br/>and though the path is sometimes dark<br/>and hard to understand:<br/>yet give me faith, through joy and pain,<br/>to trace Your loving hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When I recall that in the past<br/>Your promises have stood<br/>through each perplexing circumstance<br/>and every changing mood,<br/>I rest content that all things work<br/>together for my good.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Whatever, then, the future brings<br/>of good or seeming ill,<br/>I ask for strength to follow You<br/>and grace to trust You still;<br/>and I would look for no reward,<br/>except to do Your will.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:44">
+  <properties>
+    <titles>
+      <title>SF635 My troubled soul</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My troubled soul, why so weighed down?<br/>You were not made to bear this heavy load.<br/>Cast all Your burdens upon the Lord;<br/>Jesus cares, He cares for you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus cares, He cares for you.<br/>And all your worrying<br/>Won't help you make it through.<br/>Cast all your burdens upon the Lord.<br/>And trust again in the promise of His love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>My anxious heart, why so upset?<br/>When trials come, how you so easily forget<br/>To cast your burdens upon the Lord.<br/>Jesus cares, He cares for you.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>I will praise the mighty name of Jesus,<br/>Praise the Lord, the lifter of my head.<br/>Praise the Rock of my salvation,<br/>All my days are in His faithful hands.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:07">
+  <properties>
+    <titles>
+      <title>HP802 O Master, let me walk with thee</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Master, let me walk with thee<br/>In lowly paths of service free;<br/>Teach me thy secret; help me bear<br/>The strain of toil, the fret of care;<br/>Help me the slow of heart to move<br/>By some clear winning word of love;<br/>Teach me the wayward feet to stay,<br/>And guide them in the homeward way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Teach me thy patience; still with thee<br/>In closer, dearer company,<br/>In work that keeps faith sweet and strong,<br/>In trust that triumphs over wrong,<br/>In hope that sends a shining ray<br/>Far down the future's broadening way,<br/>In peace that only thou canst give,<br/>With thee, O Master, let me live!</lines>
+    </verse>
+  </lyrics>
+</song>

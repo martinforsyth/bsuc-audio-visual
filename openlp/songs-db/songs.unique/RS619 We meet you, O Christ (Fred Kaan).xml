@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:57">
+  <properties>
+    <titles>
+      <title>RS619 We meet you, O Christ</title>
+    </titles>
+    <authors>
+      <author>Fred Kaan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We meet You, O Christ, in many a guise:<br/>Your image we see in simple and wise.<br/>You live in a palace, exist in a shack.<br/>We see You, the gardener, a tree on Your back.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In millions alive, away and abroad;<br/>Involved in our life You live down the road.<br/>Imprisoned in systems, You long to be free.<br/>We see You, Lord Jesus, still bearing Your tree.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We hear You, O Christ, in agony cry.<br/>For freedom You march, in riots You die.<br/>Your face in the papers we read and we see.<br/>The tree must be planted by human decree.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>You choose to be made at one with the earth;<br/>The dark of the grave prepares for Your birth.<br/>Your death is Your rising, creative Your word:<br/>The tree springs to life and our hope is restored.</lines>
+    </verse>
+  </lyrics>
+</song>

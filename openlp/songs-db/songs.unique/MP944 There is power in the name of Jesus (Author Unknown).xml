@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:53">
+  <properties>
+    <titles>
+      <title>MP944 There is power in the name of Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There is pow'r in the name of Jesus;<br/>We believe in His name.<br/>We have called on the name of Jesus;<br/>We are saved! We are saved!<br/>At His name the demons flee.<br/>At His name captives are freed,<br/>For there is no other name that is higher<br/>Than Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There is pow'r in the name of Jesus,<br/>Like a sword in our hands.<br/>We declare in the name of Jesus<br/>We shall stand! We shall stand!<br/>At His name God's enemies<br/>Shall be crushed beneath our feet,<br/>For there is no other name that is higher<br/>Than Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

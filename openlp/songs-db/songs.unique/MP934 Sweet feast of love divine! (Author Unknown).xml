@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:49">
+  <properties>
+    <titles>
+      <title>MP934 Sweet feast of love divine!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sweet feast of love divine!<br/>'Tis grace that makes us free<br/>To feed upon this bread and wine,<br/>In memory, Lord, of Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Here every welcome guest<br/>Waits, Lord, from Thee to learn<br/>The secrets of Thy Father's breast,<br/>And all Thy grace discern.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Here conscience ends its strife,<br/>And faith delights to prove<br/>The sweetness of the bread of life,<br/>The fulness of Thy love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The blood that flowed for sin,<br/>In symbol here we see,<br/>And feel the blessed pledge within<br/>That we are loved of Thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O if this glimpse of love<br/>Is so divinely sweet,<br/>What will it be, O Lord, above,<br/>Thy gladdening smile to meet!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>To see Thee face to face,<br/>Thy perfect likeness wear,<br/>And all Thy ways of wondrous grace<br/>Through endless years declare!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:48">
+  <properties>
+    <titles>
+      <title>SF713 Show me how to stand for justice</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Show me how to stand for justice<br/>How to work for what is right,<br/>How to challenge false assumptions,<br/>How to walk within the light.<br/>May I learn to share more freely<br/>In a world so full of greed,<br/>Showing your immense compassion<br/>By the life I choose to lead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Teach my heart to treasure mercy,<br/>Whether given or received<br/>For my need has not diminished<br/>Since the day I first believed.<br/>Let me seek no satisfaction<br/>Boasting of what I have done.<br/>But rejoice that I am pardoned<br/>And accepted in your Son.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Gladly I embrace a lifestyle<br/>Modelled on your living word,<br/>In humility submitting<br/>To the truth that I have heard;<br/>Make me conscious of your presence<br/>Every day in all I do:<br/>By your Spirit's gracious prompting<br/>May I learn to walk with you.</lines>
+    </verse>
+  </lyrics>
+</song>

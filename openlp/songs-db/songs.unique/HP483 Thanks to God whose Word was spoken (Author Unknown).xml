@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:51">
+  <properties>
+    <titles>
+      <title>HP483 Thanks to God whose Word was spoken</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thanks to God whose Word was spoken<br/>In the deed that made the earth.<br/>His the voice that called a nation.<br/>His the fires that tried her worth.<br/>God has spoken:<br/>Praise him for his open word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thanks to God whose Word incarnate<br/>Human flesh has glorified,<br/>Who by life and death and rising<br/>Grace abundant has supplied.<br/>God has spoken:<br/>Praise him for his open word.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thanks to God whose word was written<br/>In the Bible's sacred page.<br/>Record of the revelation<br/>Showing god to every age.<br/>God has spoken:<br/>Praise him for his open word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thanks to God whose word is published<br/>In the tongues of every race.<br/>See its glory undiminished<br/>By the change of time or place.<br/>God has spoken:<br/>Praise him for his open word.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thanks to God whose word is answered<br/>By the Spirit's voice within.<br/>Here we drink of joy unmeasured,<br/>Life redeemed from death and sin.<br/>God is speaking:<br/>Praise him for his open word.</lines>
+    </verse>
+  </lyrics>
+</song>

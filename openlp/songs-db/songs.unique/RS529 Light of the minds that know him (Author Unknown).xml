@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:54">
+  <properties>
+    <titles>
+      <title>RS529 Light of the minds that know him</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Light of the minds that know him;<br/>may Christ be the light to mine;<br/>my sun in risen splendour,<br/>my light of truth divine<br/>my guide in doubt and darkness,<br/>my true and living way,<br/>my clear light ever shining,<br/>my dawn of heaven's day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Life of the souls that love him;<br/>may Christ be life indeed;<br/>the living bread from heaven<br/>on whom our spirits feed;<br/>who died for love of sinners<br/>to bear our guilty load,<br/>and make of life's brief journey<br/>a new Emmaus road.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Stength of the wills that serve him;<br/>may Christ be the strength to me,<br/>who stilled the storm and tempest,<br/>who calmed the tossing sea;<br/>his Spirit's power to move me,<br/>his will to master mine,<br/>his cross to carry daily<br/>and conquer in his sign.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>May it be ours to know him<br/>that we may truly love,<br/>and loving, fully serve him<br/>as serve the saints above;<br/>till in that home of glory<br/>with fadeless splendour bright,<br/>we serve in perfect freedom<br/>our Strength, our Life, our Light.</lines>
+    </verse>
+  </lyrics>
+</song>

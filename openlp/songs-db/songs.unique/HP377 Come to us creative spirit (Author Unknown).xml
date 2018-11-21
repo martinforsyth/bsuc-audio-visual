@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:20">
+  <properties>
+    <titles>
+      <title>HP377 Come to us creative spirit</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come to us, creative Spirit,<br/>In our Father's house,<br/>Every natural talent foster,<br/>Hidden skills arouse,<br/>That within your earthly temple<br/>Wise and simple<br/>May rejoice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Poet, painter, music-maker,<br/>All your treasures bring;<br/>Craftsman, actor, graceful dancer,<br/>Make you offering;<br/>Join your hands in celebration!<br/>Let creation<br/>Shout and sing!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Word from God eternal springing,<br/>Fill our minds, we pray,<br/>And in all artistic vision<br/>Give integrity,<br/>Mat the flame, within us burning,<br/>Kindle yearning<br/>Day by day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In all places and for ever<br/>Glory be expressed<br/>To the Son, with God the Father,<br/>And the Spirit blest.<br/>In our worship and our living,<br/>Keep us striving<br/>Towards the best.</lines>
+    </verse>
+  </lyrics>
+</song>

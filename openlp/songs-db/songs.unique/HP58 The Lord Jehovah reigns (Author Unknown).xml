@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:42">
+  <properties>
+    <titles>
+      <title>HP58 The Lord Jehovah reigns</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Lord Jehovah reigns;<br/>His throne is built on high<br/>The garments He assumes<br/>Are light and majesty:<br/>His glories shine with beams so bright,<br/>No mortal eye can bear the sight.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The thunders of His hand<br/>Keep the wide world in awe;<br/>His wrath and justice stand<br/>To guard His holy law;<br/>And where His love resolves to bless<br/>His truth confirms and seals the grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Through all His mighty works<br/>Amazing wisdom shines,<br/>Confounds the powers of hell,<br/>And breaks their dark designs;<br/>Strong is His arm, and shall fulfil,<br/>His great decrees and sovereign will.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And will this sovereign King<br/>Of Glory condescend?<br/>And will He write His name<br/>My Father and my Friend?<br/>I love His name, I love His word,<br/>Join all my powers to praise the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:53">
+  <properties>
+    <titles>
+      <title>HP209 The head that once was crowned with thorns</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The head that once was crowned with thorns<br/>Is crowned with glory now;<br/>A royal diadem adorns<br/>The mighty victor's brow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The highest place that Heaven affords<br/>Is his, is his by right,<br/>The King of kings and Lord of lords<br/>And Heaven's eternal light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The joy of all who dwell above,<br/>The joy of all below<br/>To whom he manifests his love,<br/>And grants his name to know.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>To them the cross, with all its shame,<br/>With all its grace, is given,<br/>Their name an everlasting name,<br/>Their joy the joy of Heaven.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>They suffer with their Lord below,<br/>They reign with Him above;<br/>Their profit and their joy to know<br/>The mystery of His love.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>The cross he bore is life and health,<br/>Though shame and death to him,<br/>His people's hope, his people's wealth,<br/>Their everlasting theme.</lines>
+    </verse>
+  </lyrics>
+</song>

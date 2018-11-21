@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:44">
+  <properties>
+    <titles>
+      <title>HP682 My faith, it is an oaken staff</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My faith, it is an oaken staff,<br/>The traveller's well-loved aid;<br/>My faith, it is a weapon stout,<br/>The soldier's trusty blade.<br/>I'll travel on, and still be stirred<br/>To action at my Master's word;<br/>By all my perils undeterred,<br/>A soldier unafraid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My faith, it is an oaken staff;<br/>O let me on it lean!<br/>My faith, it is a sharpened sword;<br/>May falsehood find it keen.<br/>Thy Spirit, Lord, to me impart,<br/>O make me what thou ever art,<br/>Of patient and courageous heart,<br/>As all true saints have been.</lines>
+    </verse>
+  </lyrics>
+</song>

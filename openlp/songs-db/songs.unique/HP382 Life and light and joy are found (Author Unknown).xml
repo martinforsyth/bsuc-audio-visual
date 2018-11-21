@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:21">
+  <properties>
+    <titles>
+      <title>HP382 Life and light and joy are found</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Life and light and joy are found<br/>In the presence of the Lord:<br/>Life with richest blessing crowned,<br/>Light from many fountains poured -<br/>Life and light and holy joy,<br/>None can darken or destroy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Bring to him life's brightest hours,<br/>He will make them still more bright;<br/>Give to him your noblest powers,<br/>He will hallow all your might;<br/>Come to him with eager quest,<br/>You shall hear his high behest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All your questions large and deep,<br/>All the open thoughts of youth,<br/>Bring to him, and you shall reap<br/>All the harvest of his truth;<br/>You shall find in that great store<br/>Largest love and wisest lore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then when comes life's wider sphere<br/>And its busier enterprise,<br/>You shall find him ever near,<br/>Looking, with approving eyes,<br/>On all honest work and true<br/>His dear servants' hands can do.</lines>
+    </verse>
+  </lyrics>
+</song>

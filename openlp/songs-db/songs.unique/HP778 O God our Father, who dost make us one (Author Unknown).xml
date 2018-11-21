@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:01">
+  <properties>
+    <titles>
+      <title>HP778 O God our Father, who dost make us one</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God our Father, who dost make us one,<br/>Heart bound to heart, in love of thy dear Son,<br/>Now as we part and go our several ways,<br/>Touch every lip, may every voice be praise -</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Praise for the fellowship that here we find,<br/>The fellowship of heart and soul and mind,<br/>Praise for the bonds of love and brotherhood,<br/>Bonds wrought by thee, who makest all things good.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, make us strong, for thou alone dost know<br/>How oft we turn our faces from the foe;<br/>How oft, when claimed by dark temptation's hour,<br/>We lose our hold on thee, and of thy power.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Go with us, Lord, from hence; we only ask<br/>That thou be sharer in our daily task;<br/>So, side by side with thee, shall each one know<br/>The blessedness of heaven begun below.</lines>
+    </verse>
+  </lyrics>
+</song>

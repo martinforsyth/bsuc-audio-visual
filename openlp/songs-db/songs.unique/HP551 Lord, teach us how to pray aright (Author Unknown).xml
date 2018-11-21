@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:09">
+  <properties>
+    <titles>
+      <title>HP551 Lord, teach us how to pray aright</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, teach us how to pray aright,<br/>With reverence and with fear;<br/>Though dust and ashes in thy sight,<br/>We may, we must draw near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We perish if we cease from prayer;<br/>O grant us power to pray!<br/>And, when to meet thee we prepare,<br/>Lord, meet us by the way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Give deep humility; the sense<br/>Of godly sorrow give;<br/>A strong desiring confidence<br/>To hear thy voice and live;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Faith in the only sacrifice<br/>That can for sin atone;<br/>To build our hopes, to fix our eyes,<br/>On Christ, on Christ alone;</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Patience to watch, and wait, and weep,<br/>Though mercy long delay;<br/>Courage, our fainting souls to keep,<br/>And trust thee, though thou slay.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Give these, and then thy will be done:<br/>Thus strengthened with all might,<br/>We by thy Spirit and thy Son<br/>Shall pray, and pray aright.</lines>
+    </verse>
+  </lyrics>
+</song>

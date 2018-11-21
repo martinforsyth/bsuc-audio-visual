@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:07">
+  <properties>
+    <titles>
+      <title>MP1001 Let Everything That</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise You in the morning,<br/>Praise You in the evening,<br/>Praise You when I'm young<br/>And when I'm old.<br/>Praise You when I'm laughing,<br/>Praise You when I'm grieving,<br/>Praise You every season of the soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>If we could see how much You're worth,<br/>Your power, Your might, Your endless love,<br/>Then surely we would never cease to praise :</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Praise You in the heavens,<br/>Joining with the angels,<br/>Praising You forever and a day.<br/>Praise You on the earth now,<br/>Joining with creation,<br/>Calling all the nations to Your praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>If they could see how much You're worth,<br/>Your power, Your might, Your endless love,<br/>Then surely they would never cease to praise:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Let everything that,<br/>Everything that,<br/>Everything that has breath<br/>Praise the Lord.<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:03">
+  <properties>
+    <titles>
+      <title>MP486 Now thank we all our God</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Now thank we all our God,<br/>with heart and hands and voices;<br/>who wondrous things has done,<br/>in whom His world rejoices;<br/>Who from our mothers' arms,<br/>hath blessed us on our way<br/>with countless gifts of love,<br/>and still is ours today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O may this bounteous God<br/>through all our life be near us,<br/>with ever-joyful hearts<br/>and blessed peace to cheer us;<br/>and keep us in His grace,<br/>and guide us when perplexed;<br/>and free us from all ills,<br/>in this world and the next!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All praise and thanks to God<br/>the Father now be given;<br/>The Son and Him who reigns<br/>with Them in highest Heaven;<br/>the one eternal God,<br/>whom heaven and earth adore;<br/>for thus it was, is now,<br/>and shall be evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

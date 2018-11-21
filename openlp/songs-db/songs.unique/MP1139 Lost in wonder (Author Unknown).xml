@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:26">
+  <properties>
+    <titles>
+      <title>MP1139 Lost in wonder</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You chose the cross with every breath<br/>The perfect life, the perfect death<br/>You chose the cross<br/>A crown of thorns You wore for us<br/>And crowned us with eternal life<br/>You chose the cross<br/>And though Your soul was<br/>overwhelmed with pain<br/>Obedient to death, You overcame</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>You loosed the cords of sinfulness<br/>And broke the chains of my disgrace<br/>You chose the cross<br/>Up from the grave victorious<br/>You rose again so glorious<br/>You chose the cross<br/>The sorrow that surrounded You<br/>was mine<br/>'Yet not my will but Yours be done'<br/>You cried</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>I'm lost in wonder<br/>I'm lost in love<br/>I'm lost in praise for evermore<br/>Because of Jesus' unfailing love<br/>I am forgiven<br/>I am restored</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:02">
+  <properties>
+    <titles>
+      <title>MP979 Draw Me Close To The Cross</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Draw me close to the cross,<br/>To the place of Your love,<br/>To the place where You poured out Your mercy;<br/>Where the river of life<br/>That flows from Your wounded side<br/>Brings refreshing to those who draw near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Draw me close to Your throne<br/>Where Your majesty is shown,<br/>Where the crown of my life I lay down.<br/>Draw me close to Your side,<br/>Where my heart is satisfied,<br/>Draw me close to You, Lord,<br/>Draw me close.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:45">
+  <properties>
+    <titles>
+      <title>RS197 Jesus' hands were kind hands</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus' hands were kind hands, doing good to all,<br/>Healing pain and sickness, blessing children small,<br/>Washing tired feet and saving those who fall;<br/>Jesus' hands were kind hands, doing good to all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Take my hands, Lord Jesus, let them work for you;<br/>Make them strong and gentle, kind in all I do;<br/>Let me watch you, Jesus, till I'm gentle too,<br/>Till my hands are kind hands, quick to work for you.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:51">
+  <properties>
+    <titles>
+      <title>JP230Thank you for ev'ry new good morning.</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thank you for ev'ry new good morning,<br/>Thank you for ev'ry fresh new day,<br/>Thank you that I may cast my burden<br/>Wholly onto you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thank you for ev'ry friend I have, Lord,<br/>Thank you for ev'ry one I know,<br/>Thank you when I can feel forgiveness<br/>To my greatest foe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thank you for leisure and employment,<br/>Thank you for ev'ry heartfelt joy,<br/>Thank you for all that makes me happy<br/>And for melody.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thank you for ev'ry shade and sorrow,<br/>Thank you for comfort in your word,<br/>Thank you that I am guided by you<br/>Everywhere I go.</lines>
+    </verse>
+  </lyrics>
+</song>

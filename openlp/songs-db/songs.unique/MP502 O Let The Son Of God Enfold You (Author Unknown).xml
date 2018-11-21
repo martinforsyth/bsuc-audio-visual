@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:05">
+  <properties>
+    <titles>
+      <title>MP502 O Let The Son Of God Enfold You</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O let the Son of God enfold You<br/>With His Spirit and His love,<br/>Let Him fill your heart and satisfy your soul.<br/>O let Him have the things that hold you,<br/>And His Spirit like a dove<br/>Will descend upon your life and make you whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O come and sing this song with gladness<br/>As your hearts are filled with joy,<br/>Lift your hands in sweet surrender to His name.<br/>O give Him all your tears and sadness,<br/>Give Him all your years of pain,<br/>And you'll enter into life in Jesus' name.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Jesus, O Jesus,<br/>Come and fill Your lambs.<br/>Jesus, O Jesus,<br/>Come and fill Your lambs.</lines>
+    </verse>
+  </lyrics>
+</song>

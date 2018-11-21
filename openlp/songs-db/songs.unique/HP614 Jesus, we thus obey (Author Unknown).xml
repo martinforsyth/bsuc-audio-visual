@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:32">
+  <properties>
+    <titles>
+      <title>HP614 Jesus, we thus obey</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, we thus obey<br/>Thy last and kindest word;<br/>Here, in thine own appointed way,<br/>We come to meet thee, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our hearts we open wide<br/>To make the Saviour room;<br/>And lo! The Lamb, the Crucified,<br/>The sinners' friend, is come!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>His presence makes the feast;<br/>And now our spirits feel<br/>The glory not to be expressed,<br/>The joy unspeakable.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>With pure celestial bliss<br/>He doth our spirits cheer;<br/>His house of banqueting is this,<br/>And he hath brought us here.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>He bids us drink and eat<br/>Imperishable food;<br/>He gives his flesh to be our meat,<br/>And bids us drink his blood.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Whate'er the Almighty can<br/>To pardoned sinners give,<br/>The fullness of our God made man<br/>We here with Christ receive.</lines>
+    </verse>
+  </lyrics>
+</song>

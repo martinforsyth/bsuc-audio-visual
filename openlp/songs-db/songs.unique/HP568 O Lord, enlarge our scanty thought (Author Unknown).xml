@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:13">
+  <properties>
+    <titles>
+      <title>HP568 O Lord, enlarge our scanty thought</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Lord, enlarge our scanty thought<br/>To know the wonders thou hast wrought;<br/>Unloose our stammering tongues, to tell<br/>Thy love immense, unsearchable.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>What are our works but sin and death,<br/>Till thou thy quickening Spirit breathe?<br/>Thou giv'st the power thy grace to move:<br/>O wondrous grace! O boundless love!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>How can it be, thou heavenly King,<br/>That thou shouldst us to glory bring;<br/>Make slaves the partners of thy throne,<br/>Decked with a never-fading crown?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Hence our hearts melt, our eyes o'erflow,<br/>Our words are lost; nor will we know,<br/>Nor will we think of aught beside,<br/>My Lord, my Love is crucified!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>First-born of many brethren thou;<br/>To thee, lo! all our souls we bow;<br/>To thee our hearts and hands we give;<br/>Thine may we die, thine may we live!</lines>
+    </verse>
+  </lyrics>
+</song>

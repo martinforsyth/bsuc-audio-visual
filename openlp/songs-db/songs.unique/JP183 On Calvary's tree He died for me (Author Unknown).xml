@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:42">
+  <properties>
+    <titles>
+      <title>JP183 On Calvary's tree He died for me</title>
+    </titles>
+    <verseOrder>c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines><br/>On Calvary's tree He died for me,<br/>That I His love might know;<br/>To set me free He died for me<br/>That's why I love Him so</lines>
+    </verse>
+  </lyrics>
+</song>

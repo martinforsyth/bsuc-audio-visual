@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:20">
+  <properties>
+    <titles>
+      <title>HP818 Give me the wings of faith to rise</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Give me the wings of faith to rise<br/>Within the veil, and see<br/>The saints above, how great their joys,<br/>How bright their glories be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Once they were mourning here below,<br/>With sighing and with tears;<br/>They wrestled hard, as we do now,<br/>With sins and doubts and fears.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I ask them whence their victory came;<br/>They, with united breath,<br/>Ascribe their conquest to the Lamb,<br/>Their triumph to His death.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>They marked the footsteps that He trod,<br/>His zeal inspired their breast,<br/>And, following their incarnate God,<br/>Possess the promised rest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Our glorious Leader claims our praise<br/>For His own pattern given;<br/>While the long cloud of witnesses<br/>Show the same path to heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

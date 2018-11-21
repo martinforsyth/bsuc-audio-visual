@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:47">
+  <properties>
+    <titles>
+      <title>MP915 Open our eyes, O Lord we pray</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Open our eyes, O Lord we pray,<br/>enlighten heart and mind;<br/>that as we read Your word today<br/>we may its treasures find.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Open our ears, that, small and still,<br/>Your voice be clearly heard,<br/>to guide our steps and cleanse our will<br/>according to your word.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Open our lives to love's embrace,<br/>our dear redeeming Lord:<br/>Your word of life and truth and grace<br/>within our souls be stored.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Open our lips, O Lord, in praise<br/>to tell what love imparts:<br/>the work of grace about our ways,<br/>your word within our hearts.</lines>
+    </verse>
+  </lyrics>
+</song>

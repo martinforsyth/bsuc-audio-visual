@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:55">
+  <properties>
+    <titles>
+      <title>HP741 My gracious Lord, I own thy right</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My gracious Lord, I own thy right<br/>To every service I can pay;<br/>And call it my supreme delight<br/>To hear thy dictates and obey.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>What is my being, but for thee,<br/>Its sure support, its noblest end,<br/>Thy ever-smiling face to see,<br/>And serve the cause of such a friend?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I would not live for worldly joy,<br/>Or to increase my worldly good,<br/>Nor future days or powers employ<br/>To spread a sounding name abroad:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>'Tis to my Saviour I would live,<br/>To him who for my ransom died;<br/>Nor could untainted Eden give<br/>Such bliss as blossoms at his side.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>His work my hoary age shall bless,<br/>When youthful vigour is no more,<br/>And my last hour of life confess<br/>His love has animating power.</lines>
+    </verse>
+  </lyrics>
+</song>

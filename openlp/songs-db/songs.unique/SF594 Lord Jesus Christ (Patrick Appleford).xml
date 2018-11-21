@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-07-27T07:23:32">
+  <properties>
+    <titles>
+      <title>SF594 Lord Jesus Christ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Patrick Appleford</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord Jesus Christ,<br/>you have come to us,<br/>you are one with us,<br/>Mary's Son;<br/>cleansing our souls from all their sin,<br/>pouring your love and goodness in;<br/>Jesus, our love for you we sing,<br/>living Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord Jesus Christ,<br/>now and every day,<br/>teach us how to pray,<br/>Son of God.<br/>You have commanded us to do<br/>this, in remembrance, Lord, of you;<br/>into our lives your power breaks through,<br/>living Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord Jesus Christ,<br/>you have come to us,<br/>born as one of us,<br/>Mary's Son;<br/>led out to die on Calvary,<br/>risen from death to set us free;<br/>living Lord Jesus, help us see<br/>you are Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord Jesus Christ,<br/>we would come to you,<br/>live our lives for you,<br/>Son of God.<br/>All your commands we know are true;<br/>your many gifts will make us new;<br/>into our lives your power breaks through,<br/>living Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:34">
+  <properties>
+    <titles>
+      <title>MP766 Who Can Sound The Depths Of Sorrow</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Who can sound the depths of sorrow<br/>In the Father heart of God,<br/>For the children we've rejected,<br/>For the lives so deeply scarred?<br/>And each light that we've extinguished<br/>Has brought darkness to our land:<br/>Upon our nation, upon our nation,<br/>Have mercy, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We have scorned the truth You gave us,<br/>We have bowed to other lords.<br/>We have sacrificed the children<br/>On the altars of our gods.<br/>O let truth again shine on us,<br/>Let Your holy fear descend:<br/>Upon our nation, upon our nation,<br/>Have mercy, Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>(Men only)<br/>Who can stand before Your anger?<br/>Who can face Your piercing eyes?<br/>For You love the weak and helpless,<br/>And You hear the victims' cries.<br/>(AII)<br/>Yes, You are a God of justice,<br/>And Your judgement surely comes:<br/>Upon our nation, upon our nation,<br/>Have mercy, Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>(Women only)<br/>Who will stand against the violence?<br/>Who will comfort those who mourn?<br/>In an age of cruel rejection,<br/>Who will build for love a home?<br/>(All)<br/>Come and shake us into action,<br/>Come and melt our hearts of stone:<br/>Upon Your people, upon Your people,<br/>Have mercy, Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Who can sound the depths of mercy<br/>In the Father heart of God?<br/>For there is a Man of sorrows<br/>Who for sinners shed His blood.<br/>He can heal the wounds of nations,<br/>He can wash the guilty clean:<br/>Because of Jesus, because of Jesus,<br/>Have mercy, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

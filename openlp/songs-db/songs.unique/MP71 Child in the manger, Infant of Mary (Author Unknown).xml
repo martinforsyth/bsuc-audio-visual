@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:23">
+  <properties>
+    <titles>
+      <title>MP71 Child in the manger, Infant of Mary</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Child in the manger, Infant of Mary,<br/>Outcast and Stranger, Lord of all,<br/>Child Who inherits all our transgressions,<br/>All our demerits on Him fall.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Once the most holy Child of salvation<br/>Gently and lowly lived below.<br/>Now as our glorious mighty Redeemer,<br/>See Him victorious over each foe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Prophets foretold Him, Infant of wonder;<br/>Angels behold Him on His throne.<br/>Worthy our Savior of all our praises;<br/>Happy forever are His own.</lines>
+    </verse>
+  </lyrics>
+</song>

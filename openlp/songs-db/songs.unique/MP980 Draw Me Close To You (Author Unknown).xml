@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:03">
+  <properties>
+    <titles>
+      <title>MP980 Draw Me Close To You</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Draw me close to You,<br/>Never let me go.<br/>I lay it all down again,<br/>To hear You say that I'm Your friend.<br/>You are my desire,<br/>No one else will do.<br/>'Cause nothing else could take Your place,<br/>To feel the warmth of Your embrace.<br/>Help me find the way,<br/>Bring me back to You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>You're all I want,<br/>You're all I've ever needed.<br/>You're all I want,<br/>Help me know You are near.</lines>
+    </verse>
+  </lyrics>
+</song>

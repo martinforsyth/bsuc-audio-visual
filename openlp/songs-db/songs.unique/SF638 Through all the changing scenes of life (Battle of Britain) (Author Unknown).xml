@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-07-22T08:52:27">
+  <properties>
+    <titles>
+      <title>SF638 Through all the changing scenes of life (Battle of Britain)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Through all the changing scenes of life,<br/>In trouble and in joy,<br/>The praises of my God shall still<br/>My heart and tongue employ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Of His deliverance I will boast,<br/>Till all that are distressed<br/>From my example comfort take,<br/>And charm their griefs to rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O magnify the Lord with me,<br/>With me exalt his name;<br/>When in distress to him I called,<br/>He to my rescue came.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The hosts of God encamp around<br/>The dwellings of the just;<br/>Deliverance he affords to all<br/>Who on his succour trust.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O make but trial of his love,<br/>Experience will decide<br/>How blessed are they, and only they,<br/>Who in his truth confide.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Fear him, ye saints, and you will then<br/>Have nothing else to fear;<br/>Make you his service your delight,<br/>Your wants shall be his care.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>To Father, Son, and Holy Ghost,<br/>The God whom we adore,<br/>Be glory, as it was, is now,<br/>And shall be evermore</lines>
+    </verse>
+  </lyrics>
+</song>

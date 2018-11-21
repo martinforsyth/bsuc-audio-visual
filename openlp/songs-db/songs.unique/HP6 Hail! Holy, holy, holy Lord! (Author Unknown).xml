@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:36">
+  <properties>
+    <titles>
+      <title>HP6 Hail! Holy, holy, holy Lord!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hail! Holy, holy, holy Lord!<br/>Whom One in Three we know;<br/>By all thy heavenly host adored,<br/>By all thy church below.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>One undivided Trinity<br/>With triumph we proclaim;<br/>Thy universe is full of thee,<br/>And speaks thy glorious name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thee, holy Father, we confess,<br/>Thee, holy Son, adore,<br/>Thee, Spir't of truth and holiness,<br/>We worship evermore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Three Persons equally divine<br/>We magnify and love;<br/>And both the choirs ere long shall join<br/>To sing thy praise above:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Hail! Holy, holy, holy Lord!<br/>Our heavenly song shall be,<br/>Supreme, essential One, adored<br/>In co-eternal Three.</lines>
+    </verse>
+  </lyrics>
+</song>

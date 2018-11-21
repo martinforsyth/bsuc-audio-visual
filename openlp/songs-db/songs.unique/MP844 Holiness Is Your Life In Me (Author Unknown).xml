@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:42">
+  <properties>
+    <titles>
+      <title>MP844 Holiness Is Your Life In Me</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Holiness is Your life in me,<br/>Making me clean through Your blood.<br/>Holiness is Your fire in me,<br/>Purging my heart like a flood.<br/>I know You are perfect in holiness.<br/>Your life in me, setting me free,<br/>Making me holy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Only the blood of Jesus covers all of my sin.<br/>Only the life of Jesus renews me from within.<br/>Your blood is enough, Your mercy complete.<br/>Your work of atonement, paid for my debts,<br/>Making me holy.<br/>Only the blood of Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

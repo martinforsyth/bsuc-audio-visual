@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:47">
+  <properties>
+    <titles>
+      <title>MP913 One Thing I Ask</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>One thing I ask, one thing I seek,<br/>That I may dwell in Your house, O Lord.<br/>All of my days, all of my life,<br/>That I may see You, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Hear me, O Lord, hear me when I cry;<br/>Lord, do not hide Your face from me.<br/>You have been my strength,<br/>You have been my shield,<br/>And You will lift me up.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>One thing I ask,<br/>One thing I desire<br/>Is to see You,<br/>Is to see You.</lines>
+    </verse>
+  </lyrics>
+</song>

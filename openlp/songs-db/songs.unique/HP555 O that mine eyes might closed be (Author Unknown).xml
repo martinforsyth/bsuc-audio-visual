@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:09">
+  <properties>
+    <titles>
+      <title>HP555 O that mine eyes might closed be</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O that mine eyes might closed be<br/>To what concerns me not to see;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>That deafness might possess mine ear<br/>To what concerns me not to bear;</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>That truth my tongue might<br/>From ever speaking foolishly;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>That no vain thought might ever rest<br/>Or be conceived in my breast!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Wash, Lord, and purify my heart,<br/>And make it clean in every part;</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>And, when 'tis clean, Lord, keep it too;<br/>For that is more than I can do.</lines>
+    </verse>
+  </lyrics>
+</song>

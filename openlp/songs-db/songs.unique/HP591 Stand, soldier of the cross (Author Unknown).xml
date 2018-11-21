@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:29">
+  <properties>
+    <titles>
+      <title>HP591 Stand, soldier of the cross</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Stand, soldier of the cross,<br/>Thy high allegiance claim,<br/>And vow to hold the world but loss<br/>For thy Redeemer's name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Arise, and be baptized,<br/>And wash thy sins away;<br/>Thy league with God be solemnized,<br/>Thy faith avouched today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>No more thine own, but Christ's -<br/>With all the saints of old,<br/>Apostles, seers, evangelists,<br/>And martyr throngs enrolled.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In God's whole armour strong,<br/>Front hell's embattled powers;<br/>The warfare may be sharp and long,<br/>The vict'ry must be ours.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O bright the conqueror's crown,<br/>The song of triumph sweet,<br/>When faith casts every trophy down<br/>At our great Captain's feet!</lines>
+    </verse>
+  </lyrics>
+</song>

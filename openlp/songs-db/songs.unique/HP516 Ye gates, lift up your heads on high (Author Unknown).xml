@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:58">
+  <properties>
+    <titles>
+      <title>HP516 Ye gates, lift up your heads on high</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Ye gates, lift up your heads on high;<br/>Ye doors that last for aye,<br/>Be lifted up, that so the King<br/>Of glory enter may.<br/>But who of glory is the King?<br/>The mighty Lord is this;<br/>Ev'n that same Lord, that great in might<br/>And strong in battle is.<br/>Ev'n that same Lord, that great in might<br/>And strong in battle is.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Ye gates, lift up your heads; ye doors,<br/>Doors that do last for aye,<br/>Be lifted up, that so the King<br/>Of glory enter may.<br/>But who is he that is the King,<br/>The King of glory? Who is this?<br/>The Lord of hosts, and none but he,<br/>The King of glory is.<br/>The Lord of hosts, and none but he,<br/>The King of glory is.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Alleluia! Alleluia!<br/>Alleluia! Alleluia!<br/>Alleluia! Amen, amen, amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:59">
+  <properties>
+    <titles>
+      <title>HP766 Eternal Son, eternal Love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Eternal Son, eternal Love,<br/>Take to thyself thy mighty power;<br/>Let all earth's sons thy mercy prove,<br/>Let all thy saving grace adore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The triumphs of thy love display,<br/>In every heart reign thou alone,<br/>Till all thy foes confess thy sway,<br/>And glory ends what grace began.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Spirit of grace, and health, and power,<br/>Fountain of light and love below,<br/>Abroad thy healing influence shower,<br/>O'er all the nations let it flow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Wisdom, and might, and love are thine;<br/>Prostrate before thy face we fall,<br/>Confess thine attributes divine,<br/>And hail thee sovereign Lord of all.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thee, sovereign Lord, let all confess<br/>That moves in earth, or air, or sky,<br/>Revere thy power, thy goodness bless,<br/>Tremble before thy piercing eye.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Blessing and honour, praise and love,<br/>Co-equal, co-eternal Three,<br/>In earth below, and heaven above,<br/>By all thy works be paid to thee!</lines>
+    </verse>
+  </lyrics>
+</song>

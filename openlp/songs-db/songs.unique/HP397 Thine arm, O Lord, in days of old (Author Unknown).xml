@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:23">
+  <properties>
+    <titles>
+      <title>HP397 Thine arm, O Lord, in days of old</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thine arm, O Lord, in days of old<br/>Was strong to heal and save;<br/>It triumphed o'er disease and death,<br/>O'er darkness and the grave.<br/>To Thee they went, the blind, the dumb,<br/>The palsied and the lame,<br/>The leper with his tainted life,<br/>The sick with fevered frame;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And lo! Thy touch brought life and health,<br/>Gave speech, and strength, and sight;<br/>And youth renewed, and frenzy calmed,<br/>Owned Thee the Lord of light.<br/>And now, O Lord, be near to bless,<br/>Almighty as of yore,<br/>In crowded street, by restless couch,<br/>As by Gennesaret's shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Be Thou our great Deliverer still,<br/>Thou Lord of life and death;<br/>Restore and quicken, soothe and bless,<br/>With Thine Almighty breath.<br/>To hands that work, and eyes that see,<br/>Give wisdom's heavenly lore,<br/>That whole and sick and weak and strong<br/>h/lay praise Thee evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

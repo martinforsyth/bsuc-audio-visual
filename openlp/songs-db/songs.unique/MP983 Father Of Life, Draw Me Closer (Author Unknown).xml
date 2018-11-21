@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:04">
+  <properties>
+    <titles>
+      <title>MP983 Father Of Life, Draw Me Closer</title>
+    </titles>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father Of Life, Draw Me Closer,<br/>Lord, my heart is set on You:<br/>Let me run the race of time<br/>With Your life enfolding mine,<br/>And let the peace of God,<br/>Let it reign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O Holy Spirit, Lord, my comfort;<br/>Strengthen me, hold my head up high:<br/>And I stand upon Your truth,<br/>Bringing glory unto You,<br/>And let the peace of God,<br/>Let it reign.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>O Lord, I hunger for more of You;<br/>Rise up within me, let me know Your truth.<br/>O Holy Spirit, saturate my soul,<br/>And let the life of God fill me now,<br/>Let Your healing power<br/>Breathe life and make me whole,<br/>And the peace of God,<br/>Let it reign.</lines>
+    </verse>
+  </lyrics>
+</song>

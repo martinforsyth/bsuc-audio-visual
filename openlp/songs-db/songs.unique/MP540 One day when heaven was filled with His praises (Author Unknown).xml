@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:10">
+  <properties>
+    <titles>
+      <title>MP540 One day when heaven was filled with His praises</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>One day when heaven was filled with His praises,<br/>One day when sin was as black as could be,<br/>Jesus came forth to be born of a virgin,<br/>Dwelt amongst men, my example is He!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>One day they led Him up Calvary's mountain,<br/>One day they nailed Him to die on the tree;<br/>Suffering anguish, despised and rejected;<br/>Bearing our sins, my Redeemer is He!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>One day they left Him alone in the garden,<br/>One day He rested, from suffering free;<br/>Angels came down o'er His tomb to keep vigil;<br/>Hope of the hopeless, my Saviour is He!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>One day the grave could conceal Him no longer,<br/>One day the stone rolled away from the door;<br/>Then He arose, over death He had conquered;<br/>Now is ascended, my Lord evermore!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>One day the trumpet will sound for His coming,<br/>One day the skies with His glory will shine;<br/>Wonderful day my beloved ones bringing;<br/>Glorious Saviour, this Jesus is mine!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Living, He loved me; dying, He saved me,<br/>Buried, He carried my sins far away,<br/>Rising, He justified freely for ever:<br/>One day He's coming -- O glorious day.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:16">
+  <properties>
+    <titles>
+      <title>HP569 O what shall I do my Saviour to praise</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O What shall I do my Saviour to praise,<br/>So faithful and true, so plenteous in grace,<br/>So strong to deliver, so good to redeem<br/>The weakest believer that hangs upon him!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>How happy the man whose heart is set free,<br/>The people that can be joyful in thee;<br/>Their joy is to walk in the light of thy face,<br/>And still they are talking of Jesus's grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Their daily delight shall be in thy name;<br/>They shall as their right thy righteousness claim;<br/>Thy righteousness wearing, and cleansed by thy blood,<br/>Bold shall they appear in the presence of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For thou art their boast, their glory and power;<br/>And I also trust to see the glad hour,<br/>My soul's new creation, a life from the dead,<br/>The day of salvation, that lifts up my head.</lines>
+    </verse>
+  </lyrics>
+</song>

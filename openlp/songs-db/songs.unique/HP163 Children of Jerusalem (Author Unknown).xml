@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:49">
+  <properties>
+    <titles>
+      <title>HP163 Children of Jerusalem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Children of Jerusalem<br/>Sang the praise of Jesu's name;<br/>Children, too, of modern days,<br/>Join to sing the Saviour's praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We are taught to love the Lord,<br/>We are taught to read His Word,<br/>We are taught the way to Heaven:<br/>Praise for all to God be given.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Parents, teachers, old and young,<br/>All unite to swell the song:<br/>Higher and yet higher rise,<br/>Till hosannas reach the skies.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Hark, hark, hark! while infant voices sing,<br/>Hark, hark, hark! while infant voices sing<br/>Loud hosannas, loud hosannas,<br/>Loud hosannas to our King.</lines>
+    </verse>
+  </lyrics>
+</song>

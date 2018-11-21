@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:27">
+  <properties>
+    <titles>
+      <title>MP143 Fight the good fight with all thy might</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Fight the good fight with all thy might,<br/>Christ is thy strength, and Christ thy right;<br/>Lay hold on life, and it shall be<br/>Thy joy and crown eternally.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Run the straight race through God's good grace,<br/>Lift up thine eyes, and seek His Face;<br/>Life with its way before thee lies,<br/>Christ is the path, and Christ thy prize.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Cast care aside, lean on thy Guide;<br/>His boundless mercy will provide;<br/>Lean, and the trusting soul shall prove,<br/>Christ is its life, and Christ its love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Faint not, nor fear, His arms are near,<br/>He changeth not, and thou art dear;<br/>Only believe, and thou shalt see<br/>That Christ is all in all to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

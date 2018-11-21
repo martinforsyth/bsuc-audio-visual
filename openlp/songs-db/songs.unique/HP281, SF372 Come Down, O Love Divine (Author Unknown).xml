@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:05">
+  <properties>
+    <titles>
+      <title>HP281, SF372 Come Down, O Love Divine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come down, O Love divine,<br/>seek Thou this soul of mine<br/>and visit it with Thine own ardour glowing;<br/>O Comforter, draw near,<br/>within my heart appear,<br/>and kindle it, Thy holy flame bestowing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O let it freely burn,<br/>till earthly passions turn<br/>to dust and ashes, in its heat consuming;<br/>and let Thy glorious light<br/>shine ever on my sight,<br/>and clothe me round, the while my path illuming.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Let holy charity<br/>mine outward vesture be,<br/>and lowliness become mine inner clothing;<br/>true lowliness of heart,<br/>which takes the humbler part,<br/>and o'er its own shortcomings weeps with loathing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And so the yearning strong,<br/>with which the soul will long,<br/>shall far outpass the power of human telling;<br/>for none can guess its grace,<br/>till he become the place<br/>wherein the Holy Spirit makes His dwelling.</lines>
+    </verse>
+  </lyrics>
+</song>

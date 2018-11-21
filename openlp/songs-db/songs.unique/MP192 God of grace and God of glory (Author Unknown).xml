@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:30">
+  <properties>
+    <titles>
+      <title>MP192 God of grace and God of glory</title>
+    </titles>
+    <verseOrder>v1 v3 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of grace and God of glory,<br/>on your people pour your power;<br/>crown your ancient Church's story;<br/>bring her bud to glorious flower.<br/>Grant us wisdom,<br/>grant us courage,<br/>for the facing of this hour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lo! the hosts of evil round us<br/>scorn your Christ, assail his ways!<br/>Fears and doubts too long have bound us;<br/>free our hearts to work and praise.<br/>Grant us wisdom,<br/>grant us courage,<br/>for the living of these days.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Heal your children's warring madness;<br/>bend our pride to your control;<br/>shame our wanton, selfish gladness,<br/>rich in things and poor in soul.<br/>Grant us wisdom,<br/>grant us courage,<br/>less we miss your kingdom's goal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Set our feet in lofty places;<br/>gird our lives that they may be<br/>armoured with all Christ-like graces<br/>in the fight to set men free.<br/>Grant us wisdom,<br/>grant us courage,<br/>that we fail not man or Thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Save us from weak resignation<br/>to the evils we deplore;<br/>let the search for Thy salvation<br/>be our glory evermore.<br/>Grant us wisdom,<br/>grant us courage,<br/>serving Thee whom we adore.</lines>
+    </verse>
+  </lyrics>
+</song>

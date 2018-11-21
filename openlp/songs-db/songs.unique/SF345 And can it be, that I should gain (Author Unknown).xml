@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:30">
+  <properties>
+    <titles>
+      <title>SF345 And can it be, that I should gain</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>And can it be, that I should gain<br/>An interest in the Saviour's blood?<br/>Died he for me, who caused his pain?<br/>For me, who him to death pursued?<br/>Amazing love! How can it be<br/>That thou, my God, shouldst die for me?<br/>Amazing love! How can it be<br/>That thou, my God, shouldst die for me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Tis mystery all: the Immortal dies!<br/>Who can explore his strange design?<br/>In vain the first-born seraph tries<br/>To sound the depth of love divine!<br/>'Tis mercy all! Let earth adore,<br/>Let angel minds enquire no more.<br/>'Tis mercy all! Let earth adore,<br/>Let angel minds enquire no more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He left his Father's throne above<br/>So free, so infinite His grace -<br/>Emptied himself of all but love,<br/>And bled for Adam's helpless race:<br/>'Tis mercy all, immense and free,<br/>For, O my God, it found out me!<br/>'Tis mercy all, immense and free,<br/>For, O my God, it found out me!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Long my imprisoned spirit lay<br/>Fast bound in sin and nature's night;<br/>Thine eye diffused a quickening ray -<br/>I woke, the dungeon flamed with light:<br/>My chains fell off, my heart was free,<br/>I rose, went forth, and followed thee.<br/>My chains fell off, my heart was free,<br/>I rose, went forth, and followed thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>No condemnation now I dread;<br/>Jesus, and all in him, is mine;<br/>Alive in him, my living Head,<br/>And clothed in righteousness divine,<br/>Bold I approach the eternal throne,<br/>And claim the crown, through Christ my own.<br/>Bold I approach the eternal throne,<br/>And claim the crown, through Christ my own.</lines>
+    </verse>
+  </lyrics>
+</song>

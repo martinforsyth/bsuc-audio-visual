@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:13">
+  <properties>
+    <titles>
+      <title>HP337 O Lord of Heaven and earth and sea,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Lord of Heaven and earth and sea,<br/>To thee all praise and glory be;<br/>How shall we show our love to thee,<br/>Who givest all?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou didst not spare thine only Son,<br/>But gav'st him for a world undone,<br/>And freely with that blessed one<br/>Thou givest all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We lose what on ourselves we spend,<br/>We have as treasure without end<br/>Whatever, Lord, to Thee we lend,<br/>Who givest all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>To Thee, from whom we all derine<br/>Our life, our gifts, our power to give!<br/>O may we ever with Thee live,<br/>Who givest all.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thou giv'st the Spirit's blessed dower,<br/>Spirit of life, and love, and power,<br/>And dost His sevenfold graces shower,<br/>Upon us all</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>For souls redeemed, for sins forgiven,<br/>For means of grace and hopes of heaven,<br/>Father, all praise to thee be given,<br/>Who givest all.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:58">
+  <properties>
+    <titles>
+      <title>MP959 What kind of greatness can this be</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>What kind of greatness can this be,<br/>That chose to be made small?<br/>Exchanging untold majesty<br/>For a world so pitiful.<br/>That God should come as one of us,<br/>I'll never understand.<br/>The more I hear the story told,<br/>The more amazed I am.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The One in whom we live and move<br/>In swaddling clothes lies bound.<br/>The voice that cried, 'Let there be light',<br/>Asleep without a sound.<br/>The One who strode among the stars,<br/>And called each one by name,<br/>Lies helpless in a mother's arms<br/>And must learn to walk again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>What greater love could he have shown<br/>To shamed humanity,<br/>Yet human pride hates to believe<br/>In such deep humility.<br/>But nations now may see His grace<br/>And know that he is near,<br/>When His meek heart, His words, His works<br/>Are incarnate in us.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>O what else can I do<br/>But kneel and worship you,<br/>And come just as I am,<br/>My whole life an offering.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:08">
+  <properties>
+    <titles>
+      <title>SF90 Sweet is the work,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sweet is the work, my God, my King,<br/>to praise your name, give thanks, and sing;<br/>to show your love by morning light,<br/>and talk of all your truth at night.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sweet is the day of sacred rest,<br/>no mortal cares disturb my breast;<br/>O may my heart in tune be found<br/>like David's harp of solemn sound!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>My heart shall triumph in my Lord,<br/>and bless his works, and bless his word:<br/>your works of grace, how bright they shine!<br/>How deep your counsels, how divine!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then shall I bear a glorious part,<br/>when grace has well refined my heart,<br/>and fresh supplies of joy are shed,<br/>like holy oil to cheer my head.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Then shall I see, and hear, and know<br/>all I desired or wished below;<br/>and every power find sweet employ<br/>in that eternal world of joy.</lines>
+    </verse>
+  </lyrics>
+</song>

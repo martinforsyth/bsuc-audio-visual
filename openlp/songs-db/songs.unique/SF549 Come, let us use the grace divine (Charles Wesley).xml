@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-01-02T22:55:57">
+  <properties>
+    <titles>
+      <title>SF549 Come, let us use the grace divine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, let us use the grace divine,<br/>and all, with one accord,<br/>in a perpetual covenant join<br/>ourselves to Christ the Lord:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Give up ourselves, through Jesu's power,<br/>his name to glorify;<br/>and promise, in this sacred hour,<br/>for God to live and die.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The covenant we this moment make<br/>be ever kept in mind:<br/>we will no more our God forsake,<br/>or cast his words behind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We never will throw off his fear<br/>who hears our solemn vow;<br/>and if thou art well pleased to hear,<br/>come down, and meet us now.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>To each the covenant blood apply,<br/>which takes our sins away;<br/>and register our names on high,<br/>and keep us to that day.</lines>
+    </verse>
+  </lyrics>
+</song>

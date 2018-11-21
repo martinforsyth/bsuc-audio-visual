@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:04">
+  <properties>
+    <titles>
+      <title>HP271 None other Lamb, none other Name</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>None other Lamb, none other Name,<br/>None other hope in heaven or earth or sea,<br/>None other hiding-place from guilt and shame,<br/>None beside Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My faith burns low, My hope burns low;<br/>Only my heart's desire cries out in me,<br/>By the deep thunder of its want and woe,<br/>Cries out to Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, Thou art life, though I be dead;<br/>Love's fire Thou art, however cold I be:<br/>Nor heaven have I, nor place to lay my head,<br/>Nor home, but Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

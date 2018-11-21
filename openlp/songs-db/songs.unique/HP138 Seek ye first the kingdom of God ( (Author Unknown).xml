@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:47">
+  <properties>
+    <titles>
+      <title>HP138 Seek ye first the kingdom of God (</title>
+    </titles>
+    <verseOrder>v1 v3 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Seek ye first the kingdom of God<br/>And His righteousness,<br/>And all these things shall be added unto you,<br/>Allelu-, Alleluiah:<br/>Alleluiah! Alleluiah! Alleluiah!<br/>Allelu-, Alleluiah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Man shall not live by bread alone,<br/>But by every word<br/>That proceeds from the mouth of the Lord:<br/>Allelu-, Alleluiah:<br/>Alleluiah! Alleluiah! Alleluiah!<br/>Allelu-, Alleluiah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Ask and it shall be given unto you,<br/>Seek and ye shall find.<br/>Knock, and it shall be opened unto you,<br/>Allelu-, Alleluiah:<br/>Alleluiah! Alleluiah! Alleluiah!<br/>Allelu-, Alleluiah!</lines>
+    </verse>
+  </lyrics>
+</song>

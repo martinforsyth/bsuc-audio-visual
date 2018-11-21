@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:04">
+  <properties>
+    <titles>
+      <title>HP534 Now let us see thy beauty, Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Now let us see thy beauty, Lord,<br/>As we have seen before;<br/>And by thy beauty quicken us<br/>To love thee and adore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Tis easy when with simple mind<br/>Thy loveliness we see,<br/>To consecrate ourselves afresh<br/>To duty and to thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Our every feverish mood is cooled,<br/>And gone is every load,<br/>When we can lose the love of self,<br/>And find the love of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, it is coming to ourselves<br/>When thus we come to thee;<br/>The bondage of thy loveliness<br/>Is perfect liberty.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>So now we come to ask again<br/>What thou hast often given,<br/>The vision of that loveliness<br/>Which is the life of heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

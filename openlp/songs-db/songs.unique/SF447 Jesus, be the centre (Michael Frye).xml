@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-01-25T17:28:35">
+  <properties>
+    <titles>
+      <title>SF447 Jesus, be the centre</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 v1</verseOrder>
+    <authors>
+      <author>Michael Frye</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, be the centre,<br/>be my source, be my light,<br/>Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus, be the centre,<br/>be my hope, be my song,<br/>Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Be the fire in my heart,<br/>be the wind in these sails;<br/>be the reason that I live,<br/>Jesus, Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, be my vision,<br/>be my path, be my guide,<br/>Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

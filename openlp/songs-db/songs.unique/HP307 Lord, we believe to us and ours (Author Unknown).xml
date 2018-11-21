@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:10">
+  <properties>
+    <titles>
+      <title>HP307 Lord, we believe to us and ours</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, we believe to us and ours<br/>The apostolic promise given;<br/>We wait the pentecostal powers,<br/>The Holy Ghost sent down from heaven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>To every one whom God shall call<br/>The promise is securely made;<br/>To you far off - he calls you all;<br/>Believe the word which Christ hath said:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'The Holy Ghost, if I depart,<br/>The Comforter, shall surely come,<br/>Shall make the contrite sinner's heart<br/>His loved, his everlasting home.'</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Assembled here with one accord,<br/>Calmly we wait the promised grace,<br/>The purchase of our dying Lord:<br/>Come, Holy Ghost, and fill the place.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>If every one that asks may find,<br/>If still thou dost on sinners fall,<br/>Come as a mighty rushing wind;<br/>Great grace be now upon us all.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Behold, to thee our souls aspire,<br/>And languish thy descent to meet:<br/>Kindle in each thy living fire,<br/>And fix in every heart thy seat.</lines>
+    </verse>
+  </lyrics>
+</song>

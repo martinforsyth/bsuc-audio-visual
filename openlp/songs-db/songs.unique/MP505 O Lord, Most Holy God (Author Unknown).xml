@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:06">
+  <properties>
+    <titles>
+      <title>MP505 O Lord, Most Holy God</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Lord, most Holy God,<br/>Great are Your purposes,<br/>Great is Your will for us,<br/>Great is Your love.<br/>And we rejoice in You,<br/>And we will sing to You,<br/>O Father, have Your way,<br/>Your will be done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For You are building<br/>A temple without hands,<br/>A city without walls<br/>Enclosed by fire.<br/>A place for You to dwell,<br/>Built out of living stones,<br/>Shaped by a Father's hand<br/>And joined in love.</lines>
+    </verse>
+  </lyrics>
+</song>

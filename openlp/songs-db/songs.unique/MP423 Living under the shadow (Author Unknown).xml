@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:56">
+  <properties>
+    <titles>
+      <title>MP423 Living under the shadow</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Living under the shadow of His wing<br/>We find security.<br/>Standing in His presence we will bring<br/>Our worship, worship, worship to the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Bowed in adoration at His feet<br/>We dwell in harmony.<br/>Voices joined together that repeat,<br/>Worthy, worthy, worthy is the Lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Heart to heart embracing in His love<br/>Reveals His purity.<br/>Soaring in my spirit like a dove,<br/>Holy, holy, holy is the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

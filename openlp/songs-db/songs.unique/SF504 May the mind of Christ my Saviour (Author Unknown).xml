@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:38">
+  <properties>
+    <titles>
+      <title>SF504 May the mind of Christ my Saviour</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>May the mind of Christ my Saviour<br/>live in me from day to day,<br/>by his love and power controlling<br/>all I do or say.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>May the word of God dwell richly<br/>in my heart from hour to hour,<br/>so that all may see I triumph<br/>only through his power.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>May the peace of God my Father<br/>rule my life in everything,<br/>that I may be calm to comfort<br/>sick and sorrowing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>May the love of Jesus fill me,<br/>as the waters fill the sea;<br/>him exalting, self forgetting -<br/>this is victory.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>May I run the race before me,<br/>strong and brave to face the foe,<br/>looking only unto Jesus<br/>as I onward go.</lines>
+    </verse>
+  </lyrics>
+</song>

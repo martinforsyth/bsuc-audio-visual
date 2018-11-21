@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:20">
+  <properties>
+    <titles>
+      <title>MP625 Take time to be holy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Take time to be holy, ,<br/>speak oft with Thy Lord;<br/>abide in Him always,<br/>and feed on His word.<br/>Make friends with God's children,<br/>help those who are weak;<br/>forgetting in nothing<br/>His blessing to seek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Take time to be holy,<br/>the world rushes on;<br/>spend much time in secret<br/>with Jesus alone-<br/>by looking to Jesus,<br/>like him thou shalt be!<br/>Thy friends in thy conduct<br/>His likeness shall see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Take time to be holy,<br/>let Him be thy guide;<br/>and run not before Him,<br/>whatever betide;<br/>in joy or in sorrow<br/>still follow thy Lord<br/>and, looking to Jesus,<br/>still trust in his word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Take time to be holy,<br/>be calm in thy soul;<br/>each thought and each temper<br/>beneath His control;<br/>thus led by the Spirit<br/>to fountains of love,<br/>thou soon shall be fitted<br/>for service above.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:56">
+  <properties>
+    <titles>
+      <title>HP751 Ye faithful souls who Jesus know</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Ye faithful souls who Jesus know,<br/>If risen indeed with him ye are,<br/>Superior to the joys below,<br/>His resurrection's power declare.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your faith by holy tempers prove,<br/>By actions show your sins forgiven,<br/>And seek the glorious things above,<br/>And follow Christ, your Head, to heaven.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There your exalted Saviour see,<br/>Seated at God's right hand again,<br/>In all his Father's majesty,<br/>In everlasting power to reign.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>To him continually aspire,<br/>Contending for your native place;<br/>And emulate the angel choir,<br/>And only live to love and praise.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>For who by faith your Lord receive,<br/>Ye nothing seek or want beside;<br/>Dead to the world and sin ye live,<br/>Your creature-love is crucified.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Your real life, with Christ concealed,<br/>Deep in the Father's bosom lies;<br/>And, glorious as your Head revealed,<br/>Ye soon shall meet him in the skies.</lines>
+    </verse>
+  </lyrics>
+</song>

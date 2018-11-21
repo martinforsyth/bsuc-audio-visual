@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:54">
+  <properties>
+    <titles>
+      <title>RS551 O for a closer walk with God,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O for a closer walk with God,<br/>A calm and heavenly frame.<br/>A light to shine upon the road,<br/>That leads me to the Lamb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Where is the blessedness I knew<br/>When I once saw the Lord?<br/>Where is the soul refreshing view<br/>Living in His word?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>What peaceful hours I once enjoyed,<br/>how sweet their memory still!<br/>But they have left an aching void<br/>the world can never fill.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Return, O holy dove, return,<br/>sweet messenger of rest:<br/>I hate the sins that made thee mourn<br/>and drove thee from my breast.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The dearest idol I have known,<br/>whate'er that idol be,<br/>help me to tear it from thy throne<br/>and only worship thee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>So shall my walk be close with God<br/>With all the hopes made new.<br/>So purer light shall mark the road<br/>Leading to the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

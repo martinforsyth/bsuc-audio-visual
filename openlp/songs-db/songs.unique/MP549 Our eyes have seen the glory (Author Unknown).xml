@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:11">
+  <properties>
+    <titles>
+      <title>MP549 Our eyes have seen the glory</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Our eyes have seen the glory<br/>of our Saviour, Christ the Lord;<br/>He is seated at His Father's side<br/>in love and full accord;<br/>from there upon the waiting church<br/>His spirit is outpoured,<br/>all hail, ascended King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He came to earth at Christmas<br/>and was made a man like us;<br/>He taught, He healed, He suffered<br/>and they nailed Him to the cross;<br/>He rose again on Easter Day -<br/>our Lord victorious,<br/>all hail, ascended King!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The good news of His kingdom<br/>must be preached to every shore,<br/>trhe news of peace and pardon,<br/>and the end of strife and war;<br/>the secret of His kingdom<br/>is to serve Him evermore,<br/>all hail, ascended King!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>His kingdom is a family<br/>of folk of every race,<br/>they live their lives in harmony,<br/>enabled by His grace;<br/>they follow His example<br/>till they see Him face to face,<br/>all hail, ascended King!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Glory, glory, hallelujah,<br/>glory, glory, hallelujah,<br/>glory, glory, hallelujah,<br/>all hail, ascended King!</lines>
+    </verse>
+  </lyrics>
+</song>

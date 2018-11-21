@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:42">
+  <properties>
+    <titles>
+      <title>HP455 Christ is the world's Light</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ is the world's Light, he and none other;<br/>Born in the darkness, he became our brother.<br/>If we have seen him, we have seen the Father:<br/>Glory to God on high.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ is the world's Peace, he and none other;<br/>No one can serve him and despise his brother.<br/>Who else unites us, one in God the Father?<br/>Glory to God on high.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Christ is the world's Life, he and none other;<br/>Sold once for silver, murdered here, our Brother -<br/>He, who redeems us, reigns with God the Father:<br/>Glory to God on high.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Give God the Glory, God and none other;<br/>Give God the Glory, Spirit, Son, and Father;<br/>Give God the Glory, God in Man my brother:<br/>Glory to God on high.</lines>
+    </verse>
+  </lyrics>
+</song>

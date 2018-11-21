@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:38">
+  <properties>
+    <titles>
+      <title>SF503 Love divine, all loves excelling</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Love divine, all loves excelling,<br/>joy of heaven to earth come down,<br/>fix in us thy humble dwelling,<br/>all thy faithful mercies crown.<br/>Jesu, thou art all compassion,<br/>pure, unbounded love thou art;<br/>visit us with thy salvation,<br/>enter every trembling heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come, almighty to deliver,<br/>let us all thy life receive;<br/>suddenly return, and never,<br/>never more thy temples leave.<br/>Thee we would be always blessing,<br/>serve thee as thy hosts above,<br/>pray, and praise thee, without ceasing,<br/>glory in thy perfect love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Finish then thy new creation,<br/>pure and spotless let us be;<br/>let us see thy great salvation,<br/>perfectly restored in thee:<br/>changed from glory into glory,<br/>till in heaven we take our place,<br/>till we cast our crowns before thee,<br/>lost in wonder, love, and praise!</lines>
+    </verse>
+  </lyrics>
+</song>

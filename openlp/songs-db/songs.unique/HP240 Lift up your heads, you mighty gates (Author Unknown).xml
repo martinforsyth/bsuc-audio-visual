@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:59">
+  <properties>
+    <titles>
+      <title>HP240 Lift up your heads, you mighty gates</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lift up your heads, you mighty gates,<br/>Behold, the King of Glory waits,<br/>The King of kings is drawing near,<br/>The Saviour of the world is here.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O blest the land, the city blest<br/>Where Christ the ruler is confessed!<br/>O happy hearts and happy homes<br/>To whom this King in triumph conies!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Fling wide the portals of your heart,<br/>Make it a temple set apart<br/>From earthly use for heaven's employ,<br/>Adorned with prayer and love and joy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Come, Saviour, come, with us abide;<br/>Our hearts to thee we open wide:<br/>Thy Holy Spirit guide us on,<br/>Until our glorious goal is won.</lines>
+    </verse>
+  </lyrics>
+</song>

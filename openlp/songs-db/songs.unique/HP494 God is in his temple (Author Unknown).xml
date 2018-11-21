@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:53">
+  <properties>
+    <titles>
+      <title>HP494 God is in his temple</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God is in his temple,<br/>The Almighty Father;<br/>Round his footstool let us gather:<br/>Serve with adoration<br/>Him, the Lord most holy,<br/>Who has mercy on the lowly;<br/>Let us raise<br/>Hymns of praise,<br/>For his great salvation:<br/>God is in his temple.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ comes to his temple:<br/>We, his word receiving,<br/>Are made happy in believing,<br/>Now from sin delivered;<br/>He has turned our sadness,<br/>Our deep gloom, to light and gladness;<br/>Let us raise<br/>Hymns of praise,<br/>For our bonds are severed:<br/>Christ comes to his temple.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come and claim your temple,<br/>Gracious Holy Spirit,<br/>In our hearts your home inherit<br/>Make in us your dwelling,<br/>Your high work fulfilling,<br/>Into ours your will instilling;<br/>Till we raise<br/>Hymns of praise,<br/>Beyond mortal telling,<br/>In the eternal temple.</lines>
+    </verse>
+  </lyrics>
+</song>

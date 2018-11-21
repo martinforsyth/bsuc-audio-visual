@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:27">
+  <properties>
+    <titles>
+      <title>MP690 This Child</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>This Child, secretly comes in the night,<br/>Oh this Child, hiding a heavenly light,<br/>Oh this Child, coming to us like a stranger,<br/>This heavenly Child.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>This Child, rising on us like the sun,<br/>Oh this Child, given to light everyone,<br/>Oh this Child, guiding our feet on the pathway<br/>To peace on earth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Oh this Child, raising the humble and poor,<br/>Oh this Child, making the proud ones to fall;<br/>This Child, filling the hungry with good things,<br/>This heavenly Child.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>This Child, heaven come down now to be with us here.<br/>Heavenly love and mercy appear,<br/>Softly in awe and wonder come near,<br/>To this heavenly Child.</lines>
+    </verse>
+  </lyrics>
+</song>

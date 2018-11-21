@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:11">
+  <properties>
+    <titles>
+      <title>MP1013 This is my desire</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>This is my desire<br/>To honour You<br/>Lord with all my heart<br/>I worship You</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>All I have within me<br/>I give you praise<br/>All that I adore<br/>Is in You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Lord I give you my heart<br/>I give You my soul<br/>I live for You alone<br/>Ev'ry breath that I take<br/>Ev'ry moment I'm awake<br/>Lord have Your way in me</lines>
+    </verse>
+  </lyrics>
+</song>

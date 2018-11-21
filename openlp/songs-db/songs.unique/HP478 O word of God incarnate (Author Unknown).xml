@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:50">
+  <properties>
+    <titles>
+      <title>HP478 O word of God incarnate</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Word of God incarnate,<br/>O wisdom from on high,<br/>O truth unchanged, unchanging,<br/>O light of our dark sky,<br/>We praise thee for the radiance<br/>That from the hallowed page,<br/>A lantern to our footsteps,<br/>Shines on from age to age.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The church from her dear Master<br/>Received the gift divine,<br/>And still that light she lifteth,<br/>O'er all the earth to shine;<br/>It is the precious treasury<br/>Where gems of truth are stored;<br/>It is the heaven-drawn picture<br/>Of Christ, the living Word.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>It floateth like a banner<br/>Before God's host unfurled;<br/>It shineth like a beacon<br/>Above the shadowed world;<br/>It is the chart and compass<br/>That, o'er life's surging sea,<br/>'Mid mists, and rocks, and quicksands,<br/>Still guides, O Christ, to thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O make thy church, dear Saviour,<br/>A lamp of burnished gold,<br/>To bear before the nations<br/>Thy true light, as of old;<br/>O teach thy wandering pilgrims<br/>By this their path to trace,<br/>Till, clouds and darkness ended,<br/>They see thee face to face.</lines>
+    </verse>
+  </lyrics>
+</song>

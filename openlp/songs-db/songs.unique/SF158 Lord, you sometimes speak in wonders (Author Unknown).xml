@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:14">
+  <properties>
+    <titles>
+      <title>SF158 Lord, you sometimes speak in wonders</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, you sometimes speak in wonders,<br/>unmistakable and clear,<br/>mighty signs that show your presence,<br/>overcoming doubt and fear.<br/>O Lord, you sometimes speak in wonders.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, you sometimes speak in whispers,<br/>still and small and scarcely heard;<br/>only those who want to listen<br/>catch the all-important word.<br/>O Lord, you sometimes speak in whispers</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, you sometimes speak in silence,<br/>through our loud and noisy day;<br/>we can know and trust you better<br/>when we quietly wait and pray.<br/>O Lord, you sometimes speak in silence.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, you often speak in Scripture,<br/>words that summon from the page,<br/>shown and taught us by your Spirit<br/>with fresh light for every age.<br/>O Lord, you often speak in Scripture.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord, you always speak in Jesus,<br/>always new yet still the same:<br/>teach us now more of our Saviour,<br/>make our lives display his Name.<br/>O Lord, you always speak in Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

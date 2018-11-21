@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:09">
+  <properties>
+    <titles>
+      <title>MP1008 The Lord's My Shepherd (and I will trust in you alone)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Lord's my Shepherd, I'll not want.<br/>He makes me lie in pastures green.<br/>He leads me by the still, still waters,<br/>His goodness restores my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He guides my ways in righteousness,<br/>And He anoints my head with oil,<br/>And my cup, it overflows with joy,<br/>I feast on His pure delights.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And though I walk the darkest path,<br/>I will not fear the evil one,<br/>For You are with me, and Your rod and staff<br/>Are the comfort I need to know.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And I will trust in You alone.<br/>And I will trust in You alone,<br/>For Your endless mercy follows me,<br/>Your goodness will lead me home.</lines>
+    </verse>
+  </lyrics>
+</song>

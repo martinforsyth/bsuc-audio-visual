@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:30">
+  <properties>
+    <titles>
+      <title>HP433 Arm of the Lord, awake, awake</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Arm of the Lord, awake, awake!<br/>Thine own immortal strength put on;<br/>With terror clothed, hell's kingdom shake,<br/>And cast thy foes with fury down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>As in the ancient days appear;<br/>The sacred annals speak thy fame:<br/>Be now omnipotently near,<br/>To endless ages still the same.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thy arm, Lord, is not shortened now,<br/>It wants not now the power to save;<br/>Still present with thy people, thou<br/>Bear'st them through life's disparted wave.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>By death and hell pursued in vain,<br/>To thee the ransomed seed shall come;<br/>Shouting, their heavenly Zion gain,<br/>And pass through death triumphant home.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Where pure essential joy is found,<br/>The Lord's redeemed their heads shall raise,<br/>With everlasting gladness crowned,<br/>And filled with love, and lost in praise.</lines>
+    </verse>
+  </lyrics>
+</song>

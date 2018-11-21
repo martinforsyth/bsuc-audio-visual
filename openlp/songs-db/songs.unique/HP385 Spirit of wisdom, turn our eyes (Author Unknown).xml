@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:21">
+  <properties>
+    <titles>
+      <title>HP385 Spirit of wisdom, turn our eyes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Spirit of wisdom, turn our eyes<br/>From earth and earthly vanities<br/>To heavenly truth and love;<br/>Spirit of understanding true,<br/>Our souls with heavenly light endue<br/>To seek the things above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Spirit of counsel, be our guide;<br/>Teach us, by earthly struggles tried,<br/>Our heavenly crown to win;<br/>Spirit of fortitude, thy power<br/>Be with us in temptation's hour,<br/>To keep us pure from sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Spirit of knowledge, lead our feet<br/>In thine own paths, so safe and sweet,<br/>By angel footsteps trod;<br/>Where thou our guardian true shalt be,<br/>Spirit of gentle piety,<br/>To keep us close to God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Through all our life be ever near,<br/>Spirit of God's most holy fear,<br/>In our heart's inmost shrine;<br/>Our souls with aweful reverence fill,<br/>To worship his most holy will,<br/>All-righteous and divine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>So lead us, Lord, through peace or strife,<br/>Onward to everlasting life,<br/>To win our high reward:<br/>So may we fight our lifelong fight,<br/>Strong in thine own unearthly might,<br/>And reign with Christ our Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

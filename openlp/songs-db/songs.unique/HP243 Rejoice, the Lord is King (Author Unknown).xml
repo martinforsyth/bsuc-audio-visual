@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:00">
+  <properties>
+    <titles>
+      <title>HP243 Rejoice, the Lord is King</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Rejoice, the Lord is King!<br/>Your Lord and King adore;<br/>Mortals, give thanks, and sing,<br/>And triumph evermore:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus the Saviour reigns,<br/>The God of truth and love;<br/>When he had purged our stains,<br/>He took his seat above:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>His kingdom cannot fail,<br/>He rules o'er earth and heaven;<br/>The keys of death and hell<br/>Are to our Jesus given:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He sits at God's right hand<br/>Till all his foes submit,<br/>And bow to his command,<br/>And fall beneath his feet:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Rejoice in glorious hope;<br/>Jesus the Judge shall come,<br/>And take his servants up<br/>To their eternal home:</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>We soon shall hear the archangel's voice;<br/>The trump of God shall sound: Rejoice!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Lift up your heart, lift up your voice;<br/>Rejoice! Again I say: Rejoice!</lines>
+    </verse>
+  </lyrics>
+</song>

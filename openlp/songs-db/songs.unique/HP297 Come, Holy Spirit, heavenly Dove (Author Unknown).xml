@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:08">
+  <properties>
+    <titles>
+      <title>HP297 Come, Holy Spirit, heavenly Dove</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, Holy Spirit, heavenly Dove,<br/>With all thy quickening powers;<br/>Kindle a flame of sacred love<br/>In these cold hearts of ours.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In vain we tune our formal songs,<br/>In vain we strive to rise;<br/>Hosannas languish on our tongues,<br/>And our devotion dies.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And shall we then for ever live<br/>At this poor dying rate?<br/>Our love so faint, so cold to thee,<br/>And thine to us so great!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Come, Holy Spirit, heavenly Dove,<br/>With all thy quickening powers;<br/>Come, shed abroad the Saviour's love,<br/>And that shall kindle ours.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:42">
+  <properties>
+    <titles>
+      <title>MP342 Infant holy, Infant lowly</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Infant holy, Infant lowly,<br/>For his bed a cattle-stall;<br/>Oxen lowing, little knowing<br/>Christ the Babe is Lord of all.<br/>Swiftly winging angels singing,<br/>Nowells ringing, tidings bringing:<br/>Christ the Babe is Lord of all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Flocks were sleeping, shepherds keeping<br/>Vigil till the morning new;<br/>Saw the glory, heard the story,<br/>Tidings of a gospel true.<br/>Thus rejoicing, free from sorrow,<br/>Praises voicing, greet the morrow:<br/>Christ the Babe was born for you.</lines>
+    </verse>
+  </lyrics>
+</song>

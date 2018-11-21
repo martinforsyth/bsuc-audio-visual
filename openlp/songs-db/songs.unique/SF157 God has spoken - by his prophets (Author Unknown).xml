@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-09-26T07:55:02">
+  <properties>
+    <titles>
+      <title>SF157 God has spoken - by his prophets</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God has spoken - by his prophets,<br/>Spoken his unchanging word,<br/>Each from age to age proclaiming<br/>God, the one, the righteous Lord.<br/>'Mid the world's despair and turmoil<br/>One firm anchor holding fast:<br/>God eternal reigns forever,<br/>God the first, and God the last.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God has spoken - by Christ Jesus,<br/>Christ, the everlasting Son,<br/>Brightness of the Father's glory,<br/>With the Father ever one:<br/>Spoken by the Word incarnate,<br/>God from God, ere time was born,<br/>Light from Light, to earth decending ,<br/>Christ, revealing God to all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God is speaking - by the Spirit,<br/>Speaking to our hearts again,<br/>In the age-long word expounding<br/>God's own message, now as then,<br/>Through the rise and fall of nations<br/>One sure faith is standing fast:<br/>God still speaks, the Word unchanging,<br/>God the first, and God the last.</lines>
+    </verse>
+  </lyrics>
+</song>

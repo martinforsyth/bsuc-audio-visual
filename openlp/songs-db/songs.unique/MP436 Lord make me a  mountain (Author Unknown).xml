@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:59">
+  <properties>
+    <titles>
+      <title>MP436 Lord make me a  mountain</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, make me a mountain<br/>standing tall for You,<br/>strong and free and holy<br/>in everything I do.<br/>Lord, make me a river of water<br/>pure and sweet,<br/>Lord, make me a servant<br/>of everyone I meet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, make me a candle<br/>shining with Your light,<br/>steadfastly unflickering,<br/>standing for the right.<br/>Lord, make me fire<br/>burning strong for you,<br/>Lord, make me be humble<br/>in everything I do.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, make me a mountain<br/>standing tall for You,<br/>Lord, make me a fountain of water<br/>clear and new,<br/>Lord make me a shepherd<br/>that I may feed Your sheep,<br/>Lord, make me a servant<br/>of everyone I meet.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:25">
+  <properties>
+    <titles>
+      <title>MP115 There is a Day</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There is a day<br/>That all creation's waiting for,<br/>A day of freedom and liberation for the earth.<br/>And on that day<br/>The Lord will come to meet His bride,<br/>And when we see Him<br/>In an instant we'll be changed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The trumpet sounds<br/>And the dead will then be raised<br/>By His power,<br/>Never to perish again.<br/>Once only flesh,<br/>Now clothed with immortality;<br/>Death has now been<br/>Swallowed up in victory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>So lift your eyes<br/>To the things as yet unseen,<br/>That will remain now<br/>For all eternity.<br/>Though trouble's hard<br/>It's only momentary,<br/>And it's achieving<br/>Our future Glory.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>We will meet Him in the air<br/>And then we will be like Him,<br/>For we will see Him, as He is,<br/>Oh Yeah!<br/>Then all hurt and pain will cease,<br/>And we'll be with Him forever,<br/>And in His glory we will live,<br/>Oh yeah, oh yeah!</lines>
+    </verse>
+  </lyrics>
+</song>

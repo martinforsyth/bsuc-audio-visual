@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:31">
+  <properties>
+    <titles>
+      <title>MP737 We Shall Stand</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord You have chosen me for fruitfulness.<br/>To be transformed in to Your likeness.<br/>I'm gonna fight on through, till I see You face to face.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord as Your witnesses you've appointed us,<br/>And with Your Holy Spirit anointed us.<br/>And so I'll fight on through, till I see You, face to face.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>We shall stand, with our feet on the rock,<br/>Whatever men may say, we'll lift Your name up high.<br/>And we shall walk, through the darkest night.<br/>Setting our faces like flint we'll walk into the light.</lines>
+    </verse>
+  </lyrics>
+</song>

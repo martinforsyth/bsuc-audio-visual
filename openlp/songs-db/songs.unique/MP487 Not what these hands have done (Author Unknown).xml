@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:04">
+  <properties>
+    <titles>
+      <title>MP487 Not what these hands have done</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Not what these hands have done<br/>Can save this guilty soul;<br/>Not what this toiling flesh has borne<br/>Can make my spirit whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Not what I feel or do<br/>Can give me peace with God;<br/>Not all my prayers, and sighs, and tears<br/>Can bear my awful load.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thy work alone, O Christ,<br/>Can ease this weight of sin;<br/>Thy blood alone, O Lamb of God,<br/>Can give me peace within.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thy love to me, O God,<br/>Not mine, O Lord, to Thee,<br/>Can rid me of this dark unrest,<br/>And set my spirit free.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thy grace alone, O God,<br/>To me can pardon speak;<br/>Thy power alone, O Son of God,<br/>Can this sore bondage break.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>I bless the Christ of God,<br/>I rest on love divine,<br/>And with unfaltering lip and heart,<br/>I call this Saviour mine.</lines>
+    </verse>
+  </lyrics>
+</song>

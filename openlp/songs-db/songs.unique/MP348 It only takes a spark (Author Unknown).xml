@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:43">
+  <properties>
+    <titles>
+      <title>MP348 It only takes a spark</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It only takes a spark<br/>to get a fire going,<br/>and soon all those around<br/>can warm up with its glowing;<br/>that's how it is with God's love<br/>once you've experienced it:<br/>you spread His love to everyone;<br/>you want to pass it on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>What a wondrous time is spring<br/>when all the trees are budding,<br/>the birds begin to sing;<br/>and flowers start their blooming;<br/>that's how it is with God's love<br/>once you've experienced it:<br/>you want to sing,<br/>it's fresh like spring<br/>you want to pass it on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I wish for you, my friend,<br/>this happiness that I've found;<br/>you can depend on Him, it matters not<br/>where you're bound;<br/>I'll shout it from the mountaintop,<br/>I want the world to know;<br/>The Lord of love has come to me,<br/>I want to pass it on.</lines>
+    </verse>
+  </lyrics>
+</song>

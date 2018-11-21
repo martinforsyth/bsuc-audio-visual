@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:34">
+  <properties>
+    <titles>
+      <title>HP629 Victim divine, Thy grace we claim</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Victim divine, Thy grace we claim,<br/>While thus Thy precious death we show:<br/>Once offered up, a spotless Lamb,<br/>In Thy great temple here below,<br/>Thou didst for all mankind atone,<br/>And standest now before the throne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou standest in the holy place,<br/>As now for guilty sinners slain:<br/>The blood of sprinkling speaks, and prays,<br/>All prevalent for helpless man;<br/>Thy blood is still our ransom found<br/>And speaks salvation all around.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We need not now go up to heaven,<br/>To bring the long-sought Saviour down;<br/>Thou art to all already given,<br/>Thou dost e'en now Thy banquet crown:<br/>To every faithful soul appear,<br/>And show Thy real presence here.</lines>
+    </verse>
+  </lyrics>
+</song>

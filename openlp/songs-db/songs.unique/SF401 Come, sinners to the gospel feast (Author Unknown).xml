@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:32">
+  <properties>
+    <titles>
+      <title>SF401 Come, sinners to the gospel feast</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, sinners, to the gospel feast,<br/>Let every soul be Jesu's guest;<br/>You need not one be left behind,<br/>For God has called all humankind.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sent by my Lord, on you I call,<br/>The invitation is to all;<br/>Come, all the world; and witness how<br/>all things in Christ are ready now.<br/>.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come, all ye souls by sin oppressed,<br/>Ye restless wanderers after rest,<br/>Ye poor, and maimed, and sick and blind,<br/>In Christ a hearty welcome find.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>His love is mighty to compel;<br/>His conquering love consent to feel;<br/>Yield to his love's resistless power,<br/>And fight against your God no more.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>See him set forth before your eyes;<br/>Behold the bleeding sacrifice!<br/>His offered benefits embrace,<br/>And freely now be saved by grace.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>This is the time; no more delay!<br/>This is the Lord's accepted day;<br/>Come in, this moment, at his call,<br/>And live for him who died for all.</lines>
+    </verse>
+  </lyrics>
+</song>

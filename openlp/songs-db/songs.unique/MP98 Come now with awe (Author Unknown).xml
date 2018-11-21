@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:24">
+  <properties>
+    <titles>
+      <title>MP98 Come now with awe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come now with awe, earth's ancient vigil keeping:<br/>cold under starlight lies the stony way.<br/>Down from the hillside see the shepherds creeping,<br/>hear in our hearts the whispered news they say:<br/>'Laid in a manger lies an infant sleeping,<br/>Christ our Redeemer, born for us today.'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come now with joy to worship and adore Him;<br/>hushed in the stillness, wonder and behold -<br/>Christ in the stable where his mother bore Him,<br/>Christ whom the prophets faithfully foretold:<br/>High King of ages, low we kneel before Him,<br/>starlight for silver, lantern-light for gold.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come now with faith, the age-long secret guessing,<br/>hearts rapt in wonder, soul and spirit stirred -<br/>see in our likeness love beyond expressing,<br/>All God has spoken, all the prophets heard;<br/>born for us sinners, bearer of all blessing,<br/>Flesh of our flesh, behold the eternal Word!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Come now with love: beyond our comprehending<br/>Love in its fulness lies in mortal span!<br/>How should we love, whom Love is so befriending?<br/>Love rich in mercy since our race began<br/>now stoops to save us, sighs and sorrows ending,<br/>Jesus our Saviour, Son of God made man.</lines>
+    </verse>
+  </lyrics>
+</song>

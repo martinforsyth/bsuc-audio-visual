@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:49">
+  <properties>
+    <titles>
+      <title>MP396 Just as I am, without one plea,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Just as I am, without one plea,<br/>but that thy blood was shed for me,<br/>and that Thou bidd'st me come to Thee,<br/>O Lamb of God, I come, I come!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Just as I am, and waiting not,<br/>to rid my soul of one dark blot,<br/>to Thee, whose blood can cleanse each spot<br/>O Lamb of God, I come, I come!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Just as I am, though tossed about<br/>with many a conflict, many a doubt,<br/>fightings within, and fears without,<br/>O Lamb of God, I come, I come!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Just as I am, poor, wretched, blind;<br/>sight, riches, healing of the mind,<br/>yes, all I need, in Thee to find,<br/>O Lamb of God, I come, I come!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Just as I am, Thou wilt receive,<br/>wilt welcome, pardon, cleanse, relieve:<br/>because Thy promise I believe,<br/>O Lamb of God, I come, I come!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Just as I am, Thy love unknown<br/>hath broken every barrier down;<br/>now, to be Thine, yea, Thine alone,<br/>O Lamb of God, I come, I come!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:45">
+  <properties>
+    <titles>
+      <title>MP885 Lord, We Come In Adoration</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, we come in adoration,<br/>Lay our lives before You now.<br/>We are here to reach the nations,<br/>To tell the world of Jesus' power.<br/>We would seek Your awesome glory,<br/>All the gifts that You endow;<br/>Called to reach this generation,<br/>And now is the appointed hour to:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We believe that You have spoken<br/>Through Your Son to all the earth;<br/>Given us this great commission<br/>To spread the news of all Your worth.<br/>Set apart to serve You only,<br/>Let our lives display Your love;<br/>Hearts infused that tell the story<br/>Of God come down from heaven above.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Grant to us a fresh anointing,<br/>Holy Spirit, be our guide;<br/>Satisfy our deepest longing-<br/>Jesus Christ be glorified.<br/>Every tribe and every people,<br/>Hear the message that we bring;<br/>Christ has triumphed over evil,<br/>Bow the knee and worship Him.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Go in Your name;<br/>Go and proclaim Your kingdom.<br/>Go in Your name,<br/>For we have been chosen to tell all creation<br/>That Jesus is King of all kings.</lines>
+    </verse>
+  </lyrics>
+</song>

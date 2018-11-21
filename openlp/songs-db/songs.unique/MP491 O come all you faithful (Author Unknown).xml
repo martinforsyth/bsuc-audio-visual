@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:04">
+  <properties>
+    <titles>
+      <title>MP491 O come all you faithful</title>
+    </titles>
+    <verseOrder>v1 v3 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O come, all you faithful,<br/>Joyful and triumphant,<br/>O come now, O come now to Bethlehem;<br/>Come and behold Him<br/>Born the King of angels:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sing, like angels,<br/>Sing in exultation,<br/>Sing, with the citizens of heaven above,<br/>Glory to God<br/>glory in the highest:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O come let us adore Him,<br/>O come let us adore Him,<br/>O come let us adore Him,<br/>Christ the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

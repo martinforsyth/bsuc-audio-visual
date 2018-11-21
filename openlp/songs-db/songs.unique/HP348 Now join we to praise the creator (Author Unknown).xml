@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:15">
+  <properties>
+    <titles>
+      <title>HP348 Now join we to praise the creator</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Now join we, to praise the Creator,<br/>our voices in worship and song;<br/>we stand to recall with thanksgiving<br/>that to God all seasons belong:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We thank you, O Source of all goodness,<br/>for the joy and abundance of crops,<br/>for food that is stored in our larders,<br/>for all we can buy in the shops.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>But also of need and starvation<br/>we sing with concern and despair,<br/>of skills that are used for destruction,<br/>of land that is burnt and laid bare.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We cry for the plight of the hungry<br/>while harvests are left on the field,<br/>for orchards neglected and wasting,<br/>for produce from markets withheld.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The song grows in depth and in wideness;<br/>the earth and its people are one.<br/>There can be no thanks without giving,<br/>no words without deeds that are done.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Then teach us, O God of the harvest,<br/>to be humble in all that we claim,<br/>to share what we have with the nations,<br/>to care for the world in your name.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:16">
+  <properties>
+    <titles>
+      <title>MP583 Safe in the shadow of the Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Safe in the shadow of the Lord<br/>beneath His hand and power,<br/>I trust in Him,<br/>I trust in Him,<br/>my fortress and my tower.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My hope is set on God alone<br/>though Satan spreads his snare,<br/>I trust in Him,<br/>I trust in Him,<br/>to keep me in His care.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>From fears and phantoms of the night,<br/>from foes about my way,<br/>I trust in Him,<br/>I trust in Him,<br/>by darkness as by day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>His holy angels keep my feet<br/>secure from every stone;<br/>I trust in Him,<br/>I trust in Him,<br/>and unafraid go on.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Strong in the everlasting name,<br/>and in my Father's care,<br/>I trust in Him,<br/>I trust in Him,<br/>who hears and answers prayer,</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Safe in the shadow of the Lord,<br/>possessed by love divine,<br/>I trust in Him,<br/>I trust in Him,<br/>and meet His love with mine.</lines>
+    </verse>
+  </lyrics>
+</song>

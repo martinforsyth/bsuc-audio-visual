@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:01">
+  <properties>
+    <titles>
+      <title>HP249 Wake, O wake! With tidings thrilling</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Wake, O wake! With tidings thrilling<br/>The watchmen all the air are filling,<br/>Arise, Jerusalem, arise!<br/>Midnight strikes! No more delaying,<br/>'The hour has come!' we hear them saying,<br/>'Where are ye all, ye virgins wise?<br/>The Bridegroom comes in sight,<br/>Raise high your torches bright!' Alleluia!<br/>The wedding song<br/>Swells loud and strong:<br/>Go forth and join the festal throng.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Zion hears the watchmen shouting,<br/>Her heart leaps up with joy undoubting,<br/>She stands and waits with eager eyes;<br/>See her Friend from heaven descending,<br/>Adorned with truth and grace unending!<br/>Her light burns clear, her star doth rise.<br/>Now come, thou precious Crown,<br/>Lord Jesus, God's own Son! Alleluia!<br/>Let us prepare<br/>To follow there,<br/>Where in thy supper we may share.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Every soul in thee rejoices;<br/>From earth and from angelic voices<br/>Be glory given to thee alone!<br/>Now the gates of pearl receive us,<br/>Thy presence never more shall leave us,<br/>We stand with angels round thy throne.<br/>Earth cannot give below<br/>The bliss thou dost bestow. Alleluia!<br/>Grant us to raise,<br/>To length of days,<br/>The triumph-chorus of thy praise.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:29">
+  <properties>
+    <titles>
+      <title>MP178 Go forth and tell! O Church of God, awake</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Go forth and tell! O Church of God, awake!<br/>God's saving news to all the nations take:<br/>proclaim Christ Jesus, Saviour, Lord, and King,<br/>That all the world His worthy praise may sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Go forth and tell! God's love embraces all:<br/>He will in grace respond to all who call.<br/>how shall they call if they have never heard<br/>the gracious invitation of His word?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Go forth and tell! men still in darkness lie:<br/>in wealth or want, in sin they live and die.<br/>give us, O Lord, concern of heart and mind,<br/>a love like yours which cares for all mankind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Go forth and tell! The doors are open wide:<br/>share God's good gifts let no one be denied.<br/>live out your life as Christ, your Lord, shall choose,<br/>your ransomed powers for His sole glory use.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Go forth and tell! O Church of God, arise!<br/>go in the strength which Christ your Lord supplies;<br/>go till all nations His great name adore<br/>and serve Him, Lord and King for evermoe.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:38">
+  <properties>
+    <titles>
+      <title>HP646 BSun of my soul, thou Saviour dear</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sun of my soul, thou Saviour dear,<br/>It is not night if thou be near;<br/>O may no earth-born cloud arise<br/>To hide thee from thy servant's eyes!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When the soft dews of kindly sleep<br/>My wearied eyelids gently steep,<br/>Be my last thought: how sweet to rest<br/>For ever on my Saviour's breast!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Abide with me from morn till eve,<br/>For without thee I cannot live;<br/>Abide with me when night is nigh,<br/>For without thee I dare not die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>If some poor wandering child of thine<br/>Have spurned today the voice divine,<br/>Now, Lord, the gracious work begin;<br/>Let him no more lie down in sin.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Watch by the sick; enrich the poor<br/>With blessings from thy boundless store;<br/>Be every mourner's sleep tonight<br/>Like infant's slumbers, pure and light.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Come near and bless us when we wake,<br/>Ere through the world our way we take,<br/>Till in the ocean of thy love<br/>We lose ourselves in heaven above.</lines>
+    </verse>
+  </lyrics>
+</song>

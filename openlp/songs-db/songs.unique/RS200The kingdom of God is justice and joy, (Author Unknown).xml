@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:45">
+  <properties>
+    <titles>
+      <title>RS200The kingdom of God is justice and joy,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The kingdom of God is justice and joy,<br/>for Jesus restores what sin would destroy;<br/>God's power and glory in Jesus we know,<br/>and here and hereafter the kingdom shall grow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The kingdom of God is mercy and grace,<br/>the prisoners are freed the sinners find place,<br/>the outcast are welcomed God's banquet to share,<br/>and hope is awakened in place of despair.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The kingdom of God is challenge and choice,<br/>believe the good news, repent and rejoice!<br/>His love for us sinners brought Christ to his cross,<br/>our crisis of judgement for gain or for loss.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God's kingdom is come, the gift and the goal,<br/>in Jesus begun, in heaven made whole;<br/>the heirs of the kingdom shall answer his call,<br/>and all things cry 'Glory!' to God all in all.</lines>
+    </verse>
+  </lyrics>
+</song>

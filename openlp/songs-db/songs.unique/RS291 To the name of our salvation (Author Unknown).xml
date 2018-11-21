@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:48">
+  <properties>
+    <titles>
+      <title>RS291 To the name of our salvation</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>To the Name of our salvation,<br/>Laud and honour let us pay,<br/>Which for many a generation<br/>Hid in God's foreknowledge lay,<br/>But with holy exultation<br/>We may sing aloud today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus is the Name we treasure,<br/>Name beyond what words can tell;<br/>Name of gladness, Name of pleasure,<br/>Ear and heart delighting well;<br/>Name of sweetness passing measure,<br/>Saving us from sin and hell.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'Tis the Name that whoso preacheth<br/>Speaks like music to the ear;<br/>Who in prayer this Name beseecheth<br/>Sweetest comfort findeth near;<br/>Who its perfect wisdom reacheth,<br/>Heavenly joy possesseth here.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus is the Name exalted<br/>Over every other name;<br/>In this Name, whene'er assaulted,<br/>We can put our foes to shame:<br/>Strength to them who else had halted,<br/>Eves to blind, and feet to lame.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Therefore we in love adoring,<br/>This most blessed Name revere,<br/>Holy Jesu, thee imploring<br/>So to write it in us here<br/>That, hereafter heavenward soaring,<br/>We may sing with angels there.</lines>
+    </verse>
+  </lyrics>
+</song>

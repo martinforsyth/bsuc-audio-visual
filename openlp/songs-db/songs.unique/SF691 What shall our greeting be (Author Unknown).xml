@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:47">
+  <properties>
+    <titles>
+      <title>SF691 What shall our greeting be</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>What shall our greeting be:<br/>sign of our unity?<br/>'Jesus is Lord!'<br/>May we no more defend<br/>barriers he died to end:<br/>give me your hand, my friend -<br/>one Church, one Lord!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>What is our mission here?<br/>He makes his purpose clear:<br/>one world, one Lord!<br/>Spirit of truth, descend;<br/>all our confusions end:<br/>give me your hand, my friend -<br/>'Jesus is Lord!'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He comes to save us now:<br/>to serve him is to know<br/>life's true reward.<br/>May he our lives amend,<br/>all our betrayals end:<br/>give me your hand, my friend -<br/>'Jesus is Lord!'</lines>
+    </verse>
+  </lyrics>
+</song>

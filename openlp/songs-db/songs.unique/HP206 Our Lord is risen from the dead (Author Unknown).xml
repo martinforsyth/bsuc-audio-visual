@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:52">
+  <properties>
+    <titles>
+      <title>HP206 Our Lord is risen from the dead</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Our Lord is risen from the dead!<br/>Our Jesus is gone up on high!<br/>The powers of hell are captive led,<br/>Dragged to the portals of the sky:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There his triumphal chariot waits,<br/>And angels chant the solemn lay:<br/>Lift up your heads, ye heavenly gates;<br/>Ye everlasting doors, give way:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Loose all your bars of massy light,<br/>And wide unfold the ethereal scene:<br/>He claims these mansions as his right;<br/>Receive the King of Glory in!<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Who is this King of Glory, who?<br/>The Lord, that all his foes o'ercame,<br/>The world, sin, death, and hell o'erthrew;<br/>And Jesus is the conqueror's name:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lo! His triumphal chariot waits,<br/>And angels chant the solemn lay:<br/>Lift up your heads, ye heavenly gates;<br/>Ye everlasting doors, give way!<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Who is this King of Glory, who?<br/>The Lord, of glorious power possessed;<br/>The King of saints, and angels too,<br/>God over all, for ever blest!<br/>Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

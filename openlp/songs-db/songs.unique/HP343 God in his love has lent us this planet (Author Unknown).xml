@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:14">
+  <properties>
+    <titles>
+      <title>HP343 God in his love has lent us this planet</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God in his love has lent us this planet,<br/>Gave it a purpose in time and in space:<br/>Small as a spark from the fire of creation,<br/>Cradle of life and the home of our race.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thanks be to God for its bounty and beauty,<br/>Life that sustains us in body and mind:<br/>Plenty for all, if we learn how to share it,<br/>Riches undreamed of to fathom and find.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Long have our human wars ruined its harvest;<br/>Long has the earth bowed to the terror of force;<br/>Long have we wasted what others have need of,<br/>Poisoned the fountain of life at its source.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Earth is the Lord's: it is ours to enjoy it,<br/>Ours, as his stewards, to farm and defend<br/>From its pollution, misuse, and destruction,<br/>Good Lord, deliver us, world without end.</lines>
+    </verse>
+  </lyrics>
+</song>

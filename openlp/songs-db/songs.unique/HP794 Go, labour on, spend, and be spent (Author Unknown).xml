@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:02">
+  <properties>
+    <titles>
+      <title>HP794 Go, labour on, spend, and be spent</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Go, labour on, spend, and be spent,<br/>Thy joy to do the Father's will;<br/>It is the way the Master went,<br/>Should not the servant tread it still?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Go, labour on; 'tis not for nought,<br/>Thy earthly loss is heavenly gain;<br/>Men heed thee, love thee, praise thee not,<br/>The Master praises, what are men?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Men die in darkness at your side,<br/>Without a hope to cheer the tomb:<br/>Take up the torch, and wave it wide,<br/>The torch that lights time's thickest gloom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Toil on, and in thy toil rejoice,<br/>For toil comes rest, for exile home;<br/>Soon shalt thou hear the Bridegroom's voice,<br/>The midnight peal, "Behold, I come!"</lines>
+    </verse>
+  </lyrics>
+</song>

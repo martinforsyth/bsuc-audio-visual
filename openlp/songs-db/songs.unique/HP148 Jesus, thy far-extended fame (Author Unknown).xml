@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:47">
+  <properties>
+    <titles>
+      <title>HP148 Jesus, thy far-extended fame</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, thy far-extended fame<br/>My drooping soul exults to hear;<br/>Thy name, thy all-restoring name,<br/>Is music in a sinner's ear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sinners of old thou didst receive<br/>With comfortable words and kind,<br/>Their sorrows cheer, their wants relieve,<br/>Heal the diseased, and cure the blind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And art thou not the Saviour still,<br/>In every place and age the same?<br/>Hast thou forgot thy gracious skill,<br/>Or lost the virtue of thy name?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Faith in thy changeless name I have;<br/>The good, the kind physician, thou<br/>Art able now our souls to save,<br/>Art willing to restore them now.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Wouldst thou the body's health restore,<br/>And not regard the sin-sick soul?<br/>The soul thou lovest yet the more,<br/>And surely thou shalt make it whole.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>My soul's disease, my every sin,<br/>To thee, O Jesus, I confess;<br/>In pardon, Lord, my cure begin,<br/>And perfect it in holiness.</lines>
+    </verse>
+  </lyrics>
+</song>

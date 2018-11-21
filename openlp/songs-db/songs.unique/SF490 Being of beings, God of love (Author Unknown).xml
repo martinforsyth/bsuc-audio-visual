@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:38">
+  <properties>
+    <titles>
+      <title>SF490 Being of beings, God of love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Being of beings, God of love,<br/>To thee our hearts we raise:<br/>Thy all-sustaining power we prove,<br/>And gladly sing thy praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thine, wholly thine, we long to be:<br/>Our sacrifice receive;<br/>Made, and preserved, and saved by thee,<br/>To thee ourselves we give.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Heav'nward our every wish aspires;<br/>For all thy mercies' store,<br/>The sole return thy love requires<br/>Is that we ask for more.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For more we ask; we open then<br/>Our hearts to embrace thy will;<br/>Turn, and revive us, Lord, again,<br/>With all thy fullness fill.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Come, Holy Ghost, the Saviour's love<br/>Shed in our hearts abroad;<br/>So shall we ever live, and move,<br/>And be with Christ in God.</lines>
+    </verse>
+  </lyrics>
+</song>

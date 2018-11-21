@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:16">
+  <properties>
+    <titles>
+      <title>MP1060 How Great Are You, Lord</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How great are You, Lord,<br/>How great is Your mercy,<br/>How great are the things<br/>That You have done for me.<br/>How great are You, Lord,<br/>Your loving kindness<br/>Is filling my heart as I sing,<br/>How great are You, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>How great is Your love,<br/>It reaches to the heavens;<br/>How great is the heart<br/>That sought and rescued me.</lines>
+    </verse>
+  </lyrics>
+</song>

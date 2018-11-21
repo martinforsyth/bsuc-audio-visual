@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:27">
+  <properties>
+    <titles>
+      <title>MP1154 As We Bring Our Songs</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>As we bring our songs of love today,<br/>Do you hear a sound more glorious?<br/>Like the mighty roar of ocean waves,<br/>Many witnesses surround us.<br/>It's a harmony of costly praise<br/>From the lips of those who suffer,<br/>Of sighs and tears and martyrs' prayers<br/>Until this age is over.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, help us to live worthy of<br/>Our sisters and our brothers<br/>Who love You more than their own lives,<br/>Who worship as they suffer:<br/>To embrace the scandal of the cross.<br/>Not ashamed to tell Your story,<br/>To count all earthly gain as loss,<br/>To know You and Your glory.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>How long, Lord, till You come?<br/>How long till the earth<br/>Is filled with Your song?<br/>How long until Your justice<br/>Shines like the sun?<br/>How long, Lord, till You come?<br/>How long till the earth<br/>Is filled with Your song?<br/>How long? How long?</lines>
+    </verse>
+  </lyrics>
+</song>

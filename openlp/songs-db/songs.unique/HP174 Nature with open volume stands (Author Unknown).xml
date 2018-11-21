@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:49">
+  <properties>
+    <titles>
+      <title>HP174 Nature with open volume stands</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Nature with open volume stands<br/>To spread her Maker's praise abroad,<br/>And every labour of his hands<br/>Shows something worthy of a God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>But in the grace that rescued man<br/>His brightest form of glory shines;<br/>Here on the cross 'tis fairest drawn<br/>In precious blood and crimson lines.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Here his whole name appears complete;<br/>Nor wit can guess, nor reason prove,<br/>Which of the letters best is writ,<br/>The power, the wisdom, or the love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O the sweet wonders of that cross<br/>Where God the Saviour loved and died!<br/>Her noblest life my spirit draws<br/>From his dear wounds and bleeding side.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>I would for ever speak his name<br/>In sounds to mortal cars unknown,<br/>With angels join to praise the Lamb,<br/>And worship at his Father's throne.</lines>
+    </verse>
+  </lyrics>
+</song>

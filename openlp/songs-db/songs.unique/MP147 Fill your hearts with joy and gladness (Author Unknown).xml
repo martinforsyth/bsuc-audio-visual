@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:27">
+  <properties>
+    <titles>
+      <title>MP147 Fill your hearts with joy and gladness</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Fill your hearts<br/>with joy and gladness,<br/>sing and praise your God and mine!<br/>Great the Lord in love and wisdom,<br/>might and majesty divine!<br/>He who framed the starry heavens<br/>knows and names them as they shine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Praise the Lord, His people,<br/>praise Him!<br/>wounded souls His comfort know;<br/>those who fear Him find His mercies,<br/>peace for pain and joy for woe;<br/>humble hearts and high exalted,<br/>human pride and power laid low.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Praise the Lord for times and seasons,<br/>cloud and sunshine, wind and rain;<br/>spring to melt the snows of winter<br/>till the waters flow again;<br/>grass upon the mountain pastures,<br/>golden valleys thick with grain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Fill your hearts<br/>with joy and gladness,<br/>peace and plenty crown your days;<br/>love His laws, declare His judgements,<br/>walk in all His words and ways;<br/>He the Lord and we His children -<br/>praise the Lord, all people, praise!</lines>
+    </verse>
+  </lyrics>
+</song>

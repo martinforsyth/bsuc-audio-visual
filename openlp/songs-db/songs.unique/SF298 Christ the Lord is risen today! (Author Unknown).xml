@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:28">
+  <properties>
+    <titles>
+      <title>SF298 Christ the Lord is risen today!</title>
+    </titles>
+    <verseOrder>v1 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ the Lord is risen today! Alleluia!<br/>All creation joins to say Alleluia!<br/>Raise your joys and triumphs high; Alleluia!<br/>Sing, you heavens, let earth, reply; Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Love's redeeming work is done, Alleluia!<br/>Fought the fight, the battle won: Alleluia!<br/>Vain the stone, the watch, the seal, Alleluia!<br/>Christ hath burst the gates of hell; Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lives again our glorious King: Alleluia!<br/>Where, O death, is now your sting! Alleluia!<br/>Once He died our souls to save: Alleluia!<br/>Where's your victory, boasting grave? Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Soar we now where Christ hath led, Alleluia!<br/>Following our exalted Head: Alleluia!<br/>Made like Him, like Him we rise; Alleluia!<br/>Ours the Cross, the grave, the skies. Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>King of Glory! Soul of bliss! Alleluia!<br/>Everlasting life is this, Alleluia!<br/>Thee to know, your power to prove, Alleluia!<br/>Thus to sing, and thus to love Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

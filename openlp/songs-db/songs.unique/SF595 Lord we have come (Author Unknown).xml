@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:43">
+  <properties>
+    <titles>
+      <title>SF595 Lord we have come</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, we have come at your own invitation,<br/>chosen by you, to be counted your friends;<br/>yours is the strength that sustains dedication,<br/>ours a commitment we know never ends.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Here, at your table, confirm our intention,<br/>give it your seal of forgiveness and grace;<br/>each us to serve, without pride or pretension,<br/>Lord, in your Kingdom, whatever our place.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When, at your table, each time of returning,<br/>vows are renewed and our courage restored,<br/>may we increasingly glory in learning<br/>all that it means to accept you as Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>So, in the world, where each duty assigned us<br/>gives us the chance to create or destroy,<br/>help us to make those decisions that bind us,<br/>Lord, to yourself, in obedience and joy.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:37">
+  <properties>
+    <titles>
+      <title>SF478 Thank you, O God, for the time that is now</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thank you, O God, for the time that is now,<br/>for all the newness your minutes allow,<br/>make us alert with your presence of mind<br/>to fears and longings that move humankind.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thank you, O God, for the time that is past,<br/>for all the values and thoughts that will last.<br/>May we all stagnant tradition ignore,<br/>leaving behind things that matter no more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thank you for hopes of the day that will come,<br/>for all the change that will happen in time;<br/>God, for the future our spirits prepare,<br/>hallow our doubts and redeem us from fear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Make us afraid of the thoughts that delay,<br/>faithful in all the affairs of today;<br/>keep us, Creator, from playing it safe,<br/>thank you that now is the time of our life!</lines>
+    </verse>
+  </lyrics>
+</song>

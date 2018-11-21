@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:01">
+  <properties>
+    <titles>
+      <title>HP253 All praise to thee, for thou, O King divine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All praise to thee, for thou, O King divine,<br/>Didst yield the glory that of right was thine,<br/>That in our darkened hearts thy grace might shine:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou cam'st to us in lowliness of thought;<br/>By thee the outcast and the poor were sought,<br/>And by thy death was God's salvation wrought:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Let this mind be in us which was in thee,<br/>Who wast a servant that we might be free,<br/>Humbling thyself to death on Calvary:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Wherefore, by God's eternal purpose, thou<br/>Art high exalted o'er all creatures now,<br/>And given the name to which all knees shall bow:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Let every tongue confess with one accord<br/>In heaven and earth that Jesus Christ is Lord;<br/>And God the Father be by all adored:<br/>Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

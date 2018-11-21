@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:26">
+  <properties>
+    <titles>
+      <title>SF261 Transfigured Christ, none comprehends</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Transfigured Christ, none comprehends<br/>your majesty, whose splendour stuns<br/>all waking souls; whose light transcends<br/>the brightness of a thousand suns!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>You stand with Moses on the hill,<br/>you speak of your new exodus:<br/>the way through death, you will fulfil<br/>by dying helpless on the cross.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>You stand here with Elijah too,<br/>by whom the still small voice was heard:<br/>and you, yourself, will prove God true,<br/>made mute in death, Incarnate Word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>If we could bear your brightness here<br/>and stay for ever in your light,<br/>then we would conquer grief and fear,<br/>and scorn the terrors of the night.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>But, from the heights, you bring us down,<br/>to share earth's agonies with you,<br/>where piercing thorns are made your crown<br/>and death, accepted, proves love true.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Majestic Christ, God's well-loved Son,<br/>if we must share your grief and loss,<br/>transfigure us, when all is done,<br/>with glory shining from your cross.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:51">
+  <properties>
+    <titles>
+      <title>HP715 Oft in danger, oft in woe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Oft in danger, oft in woe,<br/>Onward, Christians, onward go;<br/>Bear the toil, maintain the strife,<br/>Strengthened with the Bread of Life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Onward, Christians, onward go,<br/>Join the war, and face the foe;<br/>Will ye flee in danger's hour?<br/>Know ye not your captain's power?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Let your drooping hearts be glad;<br/>March in heavenly armour clad;<br/>Fight, nor think the battle long,<br/>Vict'ry soon shall tune your song.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Let not sorrow dim your eye,<br/>Soon shall every tear be dry;<br/>Let not fears your course impede,<br/>Great your strength, if great your need.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Onward then in battle move;<br/>More than conquerors ye shall prove;<br/>Though opposed by many a foe,<br/>Christian soldiers, onward go!</lines>
+    </verse>
+  </lyrics>
+</song>

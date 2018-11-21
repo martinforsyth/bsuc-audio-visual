@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:06">
+  <properties>
+    <titles>
+      <title>MP504 O Lord, Have Mercy On Me</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Lord, have mercy on me, and heal me;<br/>O Lord, have mercy on me, and free me.<br/>Place my feet upon a rock,<br/>Put a new song in my heart, in my heart;<br/>O Lord, have mercy on me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O Lord, may Your love and Your grace protect me;<br/>O Lord, may Your ways and Your truth direct me.<br/>Place my feet upon a rock,<br/>Put a new song in my heart, in my heart;<br/>O Lord, have mercy on me.</lines>
+    </verse>
+  </lyrics>
+</song>

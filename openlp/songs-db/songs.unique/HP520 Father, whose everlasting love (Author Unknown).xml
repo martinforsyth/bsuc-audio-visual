@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:00">
+  <properties>
+    <titles>
+      <title>HP520 Father, whose everlasting love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, whose everlasting love<br/>Thy only Son for sinners gave,<br/>Whose grace to all did freely move,<br/>And sent him down the world to save:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Help us thy mercy to extol,<br/>Immense, unfathomed, unconfined;<br/>To praise the Lamb who died for all,<br/>The general Saviour of mankind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thy undistinguishing regard<br/>Was cast on Adam's fallen race;<br/>For all thou hast in Christ prepared<br/>Sufficient, sovereign, saving grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The world he suffered to redeem;<br/>For all he has the atonement made;<br/>For those that will not come to him<br/>The ransom of his life was paid.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Arise, O God, maintain thy cause!<br/>The fullness of the nations call;<br/>Lift up the standard of thy cross,<br/>And all shall own thou diedst for all.</lines>
+    </verse>
+  </lyrics>
+</song>

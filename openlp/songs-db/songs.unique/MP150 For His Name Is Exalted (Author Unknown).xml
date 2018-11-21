@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:27">
+  <properties>
+    <titles>
+      <title>MP150 For His Name Is Exalted</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>For His name is exalted,<br/>His glory above heaven and earth.<br/>Holy is the Lord God Almighty,<br/>Who was and who is and who is to come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For His name is exalted,<br/>His glory above heaven and earth.<br/>Holy is the Lord God Almighty,<br/>Who sitteth on the throne<br/>And who lives forever more.</lines>
+    </verse>
+  </lyrics>
+</song>

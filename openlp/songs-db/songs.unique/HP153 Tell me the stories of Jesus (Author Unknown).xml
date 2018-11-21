@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:48">
+  <properties>
+    <titles>
+      <title>HP153 Tell me the stories of Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Tell me the stories of Jesus<br/>I love to hear;<br/>Things I would ask him to tell me<br/>If he were here;<br/>Scenes by the wayside,<br/>Tales of the sea,<br/>Stories of Jesus,<br/>Tell them to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>First let me hear how the children<br/>Stood round his knee;<br/>That I may know of his blessing,<br/>resting on me<br/>Words full of kindness<br/>Deeds full of grace<br/>signs of the love found<br/>in Jesu's face</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Tell me, in words full of wonder,<br/>How rolled the sea,<br/>Tossing the boat in a tempest<br/>On Galilee;<br/>Jesus then doing<br/>His Father's will,<br/>ended the storm saying,<br/>"Peace,peace, be still"</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Into the city I'd follow<br/>The children's band,<br/>Waving a branch of the palm-tree<br/>High in my hand;<br/>Worshiping Jesus,<br/>Yes, I would sing<br/>Loudest hosannas,<br/>For He is King!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Show me that scene in the garden,<br/>Of bitter pain;<br/>And of the cross where my Saviour<br/>For me was slain;<br/>And, through the sadness,<br/>Help me to see<br/>How Jesus suffered<br/>For love of me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Gladly I'd hear of His rising<br/>out of the, grave;<br/>Living and strong and triumphant<br/>mighty to save.<br/>and how he sends us<br/>all men to bring<br/>Stories of Jesus,<br/>Jesus, their king.</lines>
+    </verse>
+  </lyrics>
+</song>

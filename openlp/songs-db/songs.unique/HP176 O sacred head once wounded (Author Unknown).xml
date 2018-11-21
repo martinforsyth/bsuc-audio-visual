@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:50">
+  <properties>
+    <titles>
+      <title>HP176 O sacred head once wounded</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O sacred head once wounded,<br/>With grief and pain weighed down,<br/>How scornfully surrounded<br/>With thorns, Thine only crown!<br/>How pale art Thou with anguish,<br/>With sore abuse and scorn!<br/>How does that visage languish<br/>Which once was bright as morn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O Lord of Life and Glory,<br/>What bliss till now was Thine<br/>I read the wondrous story,<br/>I joy to call Thee mine.<br/>Thy grief and Thy compassion<br/>Were all for sinner's gain;<br/>Mine, mine was the transgression,<br/>But Thine the deadly pain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>What language shall I borrow<br/>To praise Thee, heavenly Friend,<br/>For this Thy dying sorrow,<br/>Thy pity without end?<br/>Lord, make me Thine for ever,<br/>Nor let me faithless prove;<br/>O let me never, never<br/>Abuse such dying love!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Be near me, Lord when dying;<br/>O show Thyself to me;<br/>That I, for succour flying,<br/>My eyes may fix on thee;<br/>And then, thy grace receiving,<br/>Let faith my fears dispel,<br/>For whoso dies believing<br/>Dies safely through Thy love.</lines>
+    </verse>
+  </lyrics>
+</song>

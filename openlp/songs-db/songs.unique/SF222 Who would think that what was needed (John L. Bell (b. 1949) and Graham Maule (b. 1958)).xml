@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-23T08:24:56">
+  <properties>
+    <titles>
+      <title>SF222 Who would think that what was needed</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949) and Graham Maule (b. 1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Who would think that what was needed<br/>to transform and save the earth<br/>might not be a plan or army,<br/>proud in purpose, proved in worth?<br/>Who would think, despite derision,<br/>that a child might lead the way?<br/>God surprises earth with heaven,<br/>coming here on Christmas Day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Shepherds watch and wise men wonder,<br/>monarchs scorn and angels sing;<br/>such a place as none would reckon<br/>hosts a holy helpless thing.<br/>Stable beasts and by-passed strangers<br/>watch a baby laid in hay:<br/>God surprises earth with heaven,<br/>coming here on Christmas Day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Centuries of skill and science<br/>span the past from which we move,<br/>yet experience questions whether,<br/>with such progress, we improve.<br/>While the human lot we ponder,<br/>lest our hopes and humour fray,<br/>God surprises earth with heaven,<br/>coming here on Christmas Day.</lines>
+    </verse>
+  </lyrics>
+</song>

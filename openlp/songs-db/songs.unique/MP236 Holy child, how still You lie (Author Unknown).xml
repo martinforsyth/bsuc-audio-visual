@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:33">
+  <properties>
+    <titles>
+      <title>MP236 Holy child, how still You lie</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Holy child, how still You lie!<br/>safe the manger, soft the hay;<br/>faint upon the eastern sky<br/>breaks the dawn of Christmas Day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Holy child, whose birthday brings<br/>shepherds from their field and fold,<br/>angel-choirs and eastern kings,<br/>myrrh, frankincense and gold:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Holy child, what gift of grace<br/>from the Father freely willed!<br/>In your infant form we trace<br/>all God's promises fulfilled.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Holy child, whose human years<br/>span like ours delight and pain;<br/>one in human joys and tears,<br/>one in all but sin and stain:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Holy child, so far from home,<br/>all the lost to seek and save,<br/>to what dfreadful death You come,<br/>to what dark and silent grave</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Holy child, before whose name<br/>powers of darkness faint and fall<br/>conquered death and sin and shame -<br/>Jesus Christ is Lord of all!</lines>
+    </verse>
+  </lyrics>
+</song>

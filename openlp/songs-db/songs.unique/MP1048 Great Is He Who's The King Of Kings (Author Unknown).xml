@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:15">
+  <properties>
+    <titles>
+      <title>MP1048 Great Is He Who's The King Of Kings</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Great is He who's the King of kings<br/>And the Lord of lords,<br/>He is wonderful!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Alleluia, alleluia,<br/>Alleluia, He is wonderful!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Alleluia, salvation and glory,<br/>Honour and power, He is wonderful!</lines>
+    </verse>
+  </lyrics>
+</song>

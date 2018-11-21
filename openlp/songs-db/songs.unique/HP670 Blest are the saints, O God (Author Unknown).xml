@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:41">
+  <properties>
+    <titles>
+      <title>HP670 Blest are the saints, O God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Blest are the saints, O God,<br/>That stay themselves on thee!<br/>Who wait for thy salvation, Lord,<br/>Shall thy salvation see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When we in darkness walk,<br/>Nor feel the heavenly flame,<br/>Then is the time to trust our God,<br/>And rest upon his name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Soon shall our doubts and fears<br/>Subside at his control;<br/>His loving-kindness shall break through<br/>The midnight of the soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Wait till the shadows flee;<br/>Wait thy appointed hour;<br/>Wait till the Bridegroom of thy soul<br/>Reveals his love with power.</lines>
+    </verse>
+  </lyrics>
+</song>

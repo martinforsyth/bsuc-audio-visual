@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:31">
+  <properties>
+    <titles>
+      <title>MP738 We sing the praise of Him who died</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We sing the praise of Him who died,<br/>Of Him who died upon the cross;<br/>The sinner's hope let men deride,<br/>For this we count the world but loss.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Inscribed upon the cross we see<br/>In shining letters, "God is love";<br/>He bears our sins upon the tree,<br/>He brings us mercy from above.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The Cross! it takes our guilt away;<br/>It holds the fainting spirit up;<br/>It cheers with hope the gloomy day,<br/>And sweetens every bitter cup.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>It makes the coward spirit brave,<br/>And nerves the feeble arm for fight;<br/>It takes its terror from the grave,<br/>And gilds the bed of death with light.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The balm of life, the cure of woe,<br/>The measure and the pledge of love,<br/>The sinner's refuge here below,<br/>The angels' theme in heaven above.</lines>
+    </verse>
+  </lyrics>
+</song>

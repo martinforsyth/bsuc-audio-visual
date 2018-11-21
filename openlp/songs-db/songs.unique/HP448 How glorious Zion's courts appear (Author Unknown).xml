@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:39">
+  <properties>
+    <titles>
+      <title>HP448 How glorious Zion's courts appear</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How glorious Zion's courts appear,<br/>The city of our God!<br/>His throne he has established here,<br/>Here fixed his loved abode.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Its walls, defended by his grace,<br/>No power shall e'er o'erthrow;<br/>Salvation is its bulwark sure<br/>Against the assailing foe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lift up the everlasting gates,<br/>The doors wide open fling;<br/>Enter, ye nations, who obey<br/>The statutes of our King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Here those whose minds are stayed on thee<br/>Are kept in perfect peace:<br/>They who have known Jehovah's name<br/>And trusted in his grace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Trust in the Lord, for ever trust,<br/>And banish all your fears;<br/>Strength in the Lord Jehovah dwells<br/>Eternal as his years.</lines>
+    </verse>
+  </lyrics>
+</song>

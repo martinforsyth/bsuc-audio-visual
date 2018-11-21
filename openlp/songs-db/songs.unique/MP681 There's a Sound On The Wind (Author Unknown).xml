@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:27">
+  <properties>
+    <titles>
+      <title>MP681 There's a Sound On The Wind</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There's a sound on the wind like a victory song,<br/>Listen now, let it rest on your soul.<br/>It's a song that I learned from a heavenly King,<br/>It's the song of a battle royal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There's a loud shout of victory that leaps from our hearts<br/>As we wait for our conquering King.<br/>There's a triumph resounding from dark ages past<br/>To the victory song we now sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There'll be crowns for the conquerors and white robes to wear,<br/>There will be no more sorrow or pain.<br/>And the battles of earth shall be lost in the sight<br/>Of the glorious Lamb that was slain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Now the King of the ages approaches the earth,<br/>He will burst through the gates of the sky,<br/>And all men shall bow down to His beautiful name,<br/>We shall rise with a shout, we shall fly!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Come on heaven's children,<br/>The city is in sight.<br/>There will be no sadness<br/>On the other side.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:55">
+  <properties>
+    <titles>
+      <title>MP421 Like a river, glorious</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Like a river, glorious,<br/>Is God's perfect peace,<br/>Over all victorious<br/>In its bright increase;<br/>Perfect, yet it floweth<br/>Fuller every day,<br/>Perfect, yet it groweth<br/>Deeper all the way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Hidden in the hollow<br/>Of His blessed hand,<br/>Never foe can follow,<br/>Never traitor stand;<br/>Not a surge of worry<br/>Not a shade of care,<br/>Not a blast of hurry<br/>Touch the spirit there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Every joy or trial<br/>Falleth from above,<br/>Traced upon our dial<br/>By the Sun of Love.<br/>We may trust Him fully,<br/>All for us to do,<br/>They who trust Him wholly<br/>Find Him wholly true.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Stayed upon Jehovah,<br/>Hearts are fully blest,<br/>Finding, as He promised,<br/>Perfect peace and rest.</lines>
+    </verse>
+  </lyrics>
+</song>

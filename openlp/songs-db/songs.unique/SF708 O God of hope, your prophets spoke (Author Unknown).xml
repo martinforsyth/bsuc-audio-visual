@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:48">
+  <properties>
+    <titles>
+      <title>SF708 O God of hope, your prophets spoke</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God of hope, your prophets spoke<br/>of days when war would cease:<br/>when, taught to see each person's worth,<br/>and faithful stewards of the earth,<br/>we all would live in peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We pray that our divided world<br/>may hear their words anew:<br/>then lift for good the curse of war,<br/>let bread, with justice, bless the poor,<br/>and turn in hope to you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Earth's fragile web of life demands<br/>our reverence and our care,<br/>lest in our folly, sloth and greed,<br/>deaf both to you and others' need,<br/>we lay our planet bare.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Earth's rich resources give us power<br/>to build or to destroy:<br/>your Spirit urges us to turn<br/>from selfish, fear-bound ways, and learn<br/>God's selfless trust and joy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The Prince of Peace is calling us<br/>to shun the way of strife:<br/>he brings us healing through his pain;<br/>our shattered hope is born again<br/>through his victorious life.</lines>
+    </verse>
+  </lyrics>
+</song>

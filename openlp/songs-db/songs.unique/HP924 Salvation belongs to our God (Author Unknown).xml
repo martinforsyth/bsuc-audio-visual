@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:26">
+  <properties>
+    <titles>
+      <title>HP924 Salvation belongs to our God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Salvation belongs to our God,<br/>Who sits on the throne,<br/>And to the Lamb.<br/>Praise and glory, wisdom and thanks,<br/>Honour and power and strength.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And we, the redeemed, shall be strong<br/>In purpose and unity,<br/>Declaring aloud,<br/>Praise and glory, wisdom and thanks,<br/>Honour and power and strength.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Be to our God for ever and ever,<br/>Be to our God for ever and ever,<br/>Be to our God for ever and ever. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:46">
+  <properties>
+    <titles>
+      <title>MP387 Jesus, We Celebrate Your Victory</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It was for freedom that Christ has set us free,<br/>No longer to be subject to a yoke of slavery;<br/>So we're rejoicing in God's victory,<br/>Our hearts responding to His love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>His Spirit in us releases us from fear,<br/>The way to Him is open, with boldness we draw near;<br/>And in His presence our problems disappear,<br/>Our hearts responding to His love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Jesus, we celebrate Your victory<br/>Jesus, we revel in Your love.<br/>Jesus, we rejoice, You've set us free;<br/>Jesus, Your death has brought us life.</lines>
+    </verse>
+  </lyrics>
+</song>

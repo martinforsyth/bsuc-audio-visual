@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:37">
+  <properties>
+    <titles>
+      <title>MP254 I Am a New Creation</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I am a new creation,<br/>No more in condemnation<br/>Here in the grace of God I stand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My heart is overflowing,<br/>My love just keeps on growing,<br/>Here in the grace of God I stand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And I will praise You Lord,<br/>Yes I will praise You Lord,<br/>And I will sing of all that You have done.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>A joy that knows no limit,<br/>A lightness in my spirit,<br/>Here in the grace of God I stand.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-06-28T20:44:26">
+  <properties>
+    <titles>
+      <title>SF467 I need thee every hour</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Annie Sherwood Hawks</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>-</lines>
+    </verse>
+    <verse name="v1b">
+      <lines><br/>I need thee every hour,<br/>most gracious Lord;<br/>no tender voice like thine<br/>can peace afford:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>I need thee, O I need thee,<br/>every hour I need thee;<br/>O bless me now, my Saviour;<br/>I come to thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I need thee every hour;<br/>stay thou near by;<br/>temptations lose their power<br/>when thou art nigh:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I need thee every hour,<br/>in joy or pain;<br/>come quickly and abide,<br/>or life is vain:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I need thee every hour;<br/>teach me thy will,<br/>and thy rich promises<br/>in me fulfil:</lines>
+    </verse>
+  </lyrics>
+</song>

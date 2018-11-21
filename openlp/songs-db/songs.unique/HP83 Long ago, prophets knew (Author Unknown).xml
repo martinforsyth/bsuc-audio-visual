@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:43">
+  <properties>
+    <titles>
+      <title>HP83 Long ago, prophets knew</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Long ago, prophets knew<br/>Christ would come, born a Jew,<br/>come to make all things new;<br/>bear his People's burden,<br/>Freely love and pardon:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God in time, God in man,<br/>This is God's timeless plan:<br/>He will come, as a man,<br/>Born himself of woman,<br/>God divinely human;</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Mary hail! Though afraid,<br/>She believed, she obeyed.<br/>In her womb, God is laid:<br/>Till the time expected,<br/>Nurtured and protected:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Journey end's! Where afar<br/>Bethlem shines, like a star,<br/>Stable door stands ajar.<br/>Unborn Son of Mary,<br/>Saviour, do not tarry!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Ring, bells, ring, ring, ring!<br/>Sing, choirs, sing, sing, sing!<br/>When he comes,<br/>When he comes,<br/>Who will make him welcome ?</lines>
+    </verse>
+  </lyrics>
+</song>

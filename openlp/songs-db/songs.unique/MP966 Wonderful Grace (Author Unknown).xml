@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:59">
+  <properties>
+    <titles>
+      <title>MP966 Wonderful Grace</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Wonderful grace,<br/>That gives what I don't deserve,<br/>Pays me what Christ has earned,<br/>Then lets me go free.<br/>Wonderful grace,<br/>That gives me the time to change,<br/>Washes away the stains<br/>That once covered me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Wonderful love,<br/>That held in the face of death,<br/>Breathed in its latest breath<br/>Forgiveness for me.<br/>Wonderful love,<br/>Whose power can break every chain,<br/>Giving us life again,<br/>Setting us free.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And all that I have<br/>I lay at the feet<br/>Of the wonderful Saviour<br/>Who loves me.</lines>
+    </verse>
+  </lyrics>
+</song>

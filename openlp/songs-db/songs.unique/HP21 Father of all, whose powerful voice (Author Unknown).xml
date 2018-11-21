@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:38">
+  <properties>
+    <titles>
+      <title>HP21 Father of all, whose powerful voice</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father of all, whose powerful voice<br/>Called forth this universal frame,<br/>Whose mercies over all rejoice,<br/>Through endless ages still the same:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Inflame our hearts with perfect love,<br/>In us the work of faith fulfil;<br/>So not heaven's host shall swifter move<br/>Than we on earth, to do thy will.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>On thee we cast our care; we live<br/>Through thee, who know'st our every need;<br/>O feed us with thy grace, and give<br/>Our souls this day the living bread.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Eternal, spotless Lamb of God,<br/>Before the world's foundation slain,<br/>Sprinkle us ever with thy blood,<br/>O cleanse, and keep us ever clean!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Giver and Lord of life, whose power<br/>And guardian care for all are free,<br/>To thee, in fierce temptation's hour,<br/>From sin and Satan let us flee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Thine, Lord, we are, and ours thou art;<br/>In us be all thy goodness showed.<br/>Renew, enlarge, and fill our heart<br/>With peace, and joy, and heaven, and God.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Thrice holy! Thine the kingdom is,<br/>The power omnipotent is thine;<br/>And, when created nature dies,<br/>Thy never-ceasing glories shine.</lines>
+    </verse>
+  </lyrics>
+</song>

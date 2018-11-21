@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:40">
+  <properties>
+    <titles>
+      <title>HP39 Lord God, by whom all change is wrought</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord God, by whom all change is wrought,<br/>By whom new things to birth are brought,<br/>In whom no change is known.<br/>Whate'er. thou dost, whate'er thou art,<br/>Thy people still in thee have part;<br/>Still, still thou art our own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Ancient of Days, we dwell in thee;<br/>Out of thine own eternity<br/>Our peace and joy are wrought;<br/>We rest in our eternal God,<br/>And make secure and sweet abode<br/>With thee, who changest not.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Spirit, who makest all things new,<br/>Thou leadest onward; we pursue<br/>The heavenly march sublime.<br/>'Neath thv renewing fire we glow,<br/>And still from strength to strength we go,<br/>From height to height we climb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Darkness and dread we leave behind;<br/>New light, new glory still we find,<br/>New realms divine possess;<br/>New births of grace new raptures bring;<br/>Triumphant, the new song we sing,<br/>The great Renewer bless.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>To thee we rise, in thee we rest;<br/>We stay at home, we go in quest,<br/>Still thou art our abode.<br/>The rapture swells, the wonder grows,<br/>As full on us new life still flows<br/>From our unchanging God.</lines>
+    </verse>
+  </lyrics>
+</song>

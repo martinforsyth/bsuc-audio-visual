@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:40">
+  <properties>
+    <titles>
+      <title>MP827 Father of heaven, whose love profound</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father in heaven, whose love profound<br/>a ransom for our souls hath found,<br/>before Thy throne we sinners bend -<br/>to us Thy pardoning love extend.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Almighty Son, incarnate Word,<br/>our prophet, priest, Redeemer, Lord,<br/>before Thy throne we sinners bend -<br/>to us Thy saving grace extend.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Eternal Spirit, by whose breath<br/>our soul is raised from sin and death,<br/>before Thy throne we sinners bend -<br/>to us Thy quickening power extend.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thrice holy! Father, Spirit, Son,<br/>Mysterious Godhead, Three-in-One,<br/>before Thy throne we sinners bend -<br/>grace, pardon, life to us extend.</lines>
+    </verse>
+  </lyrics>
+</song>

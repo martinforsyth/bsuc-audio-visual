@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:39">
+  <properties>
+    <titles>
+      <title>HP649 Come, let us use the grace divine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, let us use the grace divine,<br/>And all, with one accord,<br/>In a perpetual cov'nant join<br/>Ourselves to Christ the Lord:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Give up ourselves, through Jesu's power,<br/>His name to glorify;<br/>And promise, in this sacred hour,<br/>For God to live and die.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The cov'nant we this moment make<br/>Be ever kept in mind:<br/>We will no more our God forsake,<br/>Or cast his words behind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We never will throw off his fear<br/>Who hears our solemn vow;<br/>And if thou art well pleased to hear,<br/>Come down, and meet us now.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>To each the cov'nant blood apply,<br/>Which takes our sins away;<br/>And register our names on high,<br/>And keep us to that day.</lines>
+    </verse>
+  </lyrics>
+</song>

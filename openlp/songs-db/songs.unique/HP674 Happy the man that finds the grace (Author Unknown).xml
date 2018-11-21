@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:42">
+  <properties>
+    <titles>
+      <title>HP674 Happy the man that finds the grace</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Happy the man that finds the grace,<br/>The blessing of God's chosen race,<br/>The wisdom coming from above,<br/>The faith that sweetly works by love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Happy beyond description he<br/>Who knows 'The Saviour died for me',<br/>The gift unspeakable obtains,<br/>And heav'nly understanding gains.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Wisdom divine! Who tells the price<br/>Of wisdom's costly merchandise?<br/>Wisdom to silver we prefer,<br/>And gold is dross compared to her.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Her hands are filled with length of days,<br/>True riches, and immortal praise,<br/>Riches of Christ, on all bestowed,<br/>And honour that descends from God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>To purest joys she all invites,<br/>Chaste, holy, spiritual delights;<br/>Her ways are ways of pleasantness,<br/>And all her flowery paths are peace.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Happy the man who wisdom gains,<br/>Thrice happy who his guest retains;<br/>He owns, and shall for ever own,<br/>Wisdom, and Christ, and heaven are one.</lines>
+    </verse>
+  </lyrics>
+</song>

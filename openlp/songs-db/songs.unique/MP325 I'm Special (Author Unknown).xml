@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:41">
+  <properties>
+    <titles>
+      <title>MP325 I'm Special</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I'm special because God has loved me,<br/>for He gave the best thing that He had to save me;<br/>His own Son Jesus, crucified to take the blame<br/>for all the bad things I have done.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Thank You Jesus, thank You Lord,<br/>for loving me so much.<br/>I know I don't deserve anything.<br/>help me feel Your love right now,<br/>to know deep in my heart<br/>that I'm Your special friend.</lines>
+    </verse>
+  </lyrics>
+</song>

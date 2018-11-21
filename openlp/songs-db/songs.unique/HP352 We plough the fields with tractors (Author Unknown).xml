@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:16">
+  <properties>
+    <titles>
+      <title>HP352 We plough the fields with tractors</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We plough the fields with tractors, with drills we sow the land;<br/>But growth is still the wondrous gift of God's almighty hand.<br/>We add our fertilisers to help the growing grain,<br/>But for its full fruition, it needs God's sun and rain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>With many new machines now, we do the work each day;<br/>We reap the fields with combines, we bale the new-mown hay.<br/>But God it is who gives us inventive skills and drives,<br/>Which lighten labour's drudgery and give us fuller lives.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He only is the Maker of all galaxies and stars,<br/>Of birds and beasts and flowers, and any life on Mars.<br/>Atomic powers obey Him; yet still the birds are fed;<br/>And still our prayer is answered, "Give us our daily bread".</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We thank Thee then, O Father, for life so rich and good,<br/>For seedtime and the harvest, the wealth of daily food.<br/>No gifts have we to offer, for all Thy love imparts,<br/>But what Thou most desirest, our humble, thankful hearts.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>All good gifts around us<br/>Are sent from heaven above;<br/>Then thank the Lord, O thank the Lord,<br/>For all his love.</lines>
+    </verse>
+  </lyrics>
+</song>

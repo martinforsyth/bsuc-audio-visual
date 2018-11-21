@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-06-16T17:11:34">
+  <properties>
+    <titles>
+      <title>Psalm100</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing to the Lord, all the world! <br/>Worship the Lord with joy; <br/>come before him with happy songs!<br/>Acknowledge that the Lord is God.<br/>He made us, and we belong to him; <br/>we are his people, we are his flock. <br/>Enter the Temple gates with thanksgiving; <br/>go into its courts with praise. <br/>Give thanks to him and praise him. <br/>The Lord is good; <br/>his love is eternal and his faithfulness lasts forever.</lines>
+    </verse>
+  </lyrics>
+</song>

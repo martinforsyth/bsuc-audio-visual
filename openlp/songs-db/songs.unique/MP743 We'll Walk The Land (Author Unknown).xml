@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:32">
+  <properties>
+    <titles>
+      <title>MP743 We'll Walk The Land</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We'll walk the land with hearts on fire,<br/>and every step will be a prayer.<br/>Hope is rising, new day dawning,<br/>Sound of singing fills the air.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Two thousand years, and still the flame<br/>is burning bright across the land.<br/>Hearts are waiting, longing, aching,<br/>For awakening once again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We'll walk for truth, speak out for love;<br/>in Jesus' name we shall be strong,<br/>to lift the fallen, to save the children,<br/>to fill the nation with Your song.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Let the flame burn brighter<br/>in the heart of the darkness,<br/>turning night to glorious day.<br/>Let the song grow louder<br/>as our love grows stronger,<br/>let it shine, let it shine.</lines>
+    </verse>
+  </lyrics>
+</song>

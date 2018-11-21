@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:06">
+  <properties>
+    <titles>
+      <title>HP286 Gracious Spirit, dwell with me!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Gracious spirit, dwell with me!<br/>I myself would gracious be,<br/>And with words that help and heal<br/>Would Thy life in mine reveal,<br/>And with actions bold and meek<br/>Would for Christ my Saviour speak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Truthful Spirit, dwell with me!<br/>I myself would truthful be,<br/>And with wisdom kind and clear<br/>Let Thy life in mine appear,<br/>And with actions brotherly<br/>Speak my Lord's sincerity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Tender Spirit, dwell with me!<br/>I myself would tender be:<br/>Shut my heart up like a flower<br/>At temptation's darksome hour;<br/>Open it when shines the sun,<br/>And His love by fragrance own.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Mighty Spirit, dwell with me!<br/>I myself would mighty be,<br/>Mighty so as to prevail<br/>Where unaided man must fail,<br/>Ever by a mighty hope<br/>Pressing on and bearing up.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Holy Spirit, dwell with me!<br/>I myself would holy be;<br/>Separate from sin, I would<br/>Choose and cherish all things good,<br/>And, whatever I can be,<br/>Give to Him who gave me Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

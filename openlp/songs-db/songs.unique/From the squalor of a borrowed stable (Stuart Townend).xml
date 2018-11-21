@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:07:24">
+  <properties>
+    <titles>
+      <title>From the squalor of a borrowed stable</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Stuart Townend</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>From the squalor of a borrowed stable,<br/>By the Spirit and a virgin's faith;<br/>To the anguish and the shame of scandal<br/>Came the Saviour of the human race.<br/>But the skies were filled with the praise of heaven,<br/>Shepherds listen as the angels tell<br/>Of the Gift of God come down to man<br/>At the dawning of Immanuel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>King of heaven now the Friend of sinners,<br/>Humble servant in the Father's hands,<br/>Filled with power and the Holy Spirit,<br/>Filled with mercy for the broken man.<br/>Yes, He walked my road and He felt my pain,<br/>Joys and sorrows that I know so well;<br/>Yet His righteous steps give me hope again -<br/>I will follow my Immanuel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Through the kisses of a friend's betrayal,<br/>He was lifted on a cruel cross;<br/>He was punished for a world's transgressions,<br/>He was suffering to save the lost.<br/>He fights for breath, He fights for me,<br/>Loosing sinners from the claims of hell;<br/>And with a shout our souls are free -<br/>Death defeated by Immanuel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Now He's standing in the place of honour,<br/>Crowned with glory on the highest throne,<br/>Interceding for His own beloved<br/>Till His Father calls to bring them home!<br/>Then the skies will part as the trumpet sounds<br/>Hope of heaven or the fear of hell;<br/>But the Bride will run to her Lover's arms,<br/>Giving glory to Immanuel!</lines>
+    </verse>
+  </lyrics>
+</song>

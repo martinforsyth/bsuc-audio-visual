@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:37">
+  <properties>
+    <titles>
+      <title>HP8 How shall I sing that majesty</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How  shall I sing that majesty<br/>Which angels do admire?<br/>Let dust in dust and silence lie;<br/>Sing, sing, ye heavenly choir.<br/>Thousands of thousands stand around<br/>Thy throne, O God most high;<br/>Ten thousand times ten thousand sound<br/>Thy praise; but who am l?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thy brightness unto them appears,<br/>Whilst I thy footsteps trace,<br/>A sound of God comes to my ears,<br/>But they behold thy face.<br/>They sing because thou art their Sun;<br/>Lord, send a beam on me;<br/>For where heav'n is but once begun<br/>There alleluias be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>How great a being, Lord, is thine,<br/>Which cloth all beings keep!<br/>Thy knowledge is the only line<br/>To sound so vast a deep.<br/>Thou art a sea without a shore,<br/>A sun without a sphere;<br/>Thy time is now and evermore,<br/>Thy place is everywhere.</lines>
+    </verse>
+  </lyrics>
+</song>

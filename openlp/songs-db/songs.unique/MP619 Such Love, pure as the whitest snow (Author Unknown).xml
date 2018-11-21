@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-08-15T18:34:56">
+  <properties>
+    <titles>
+      <title>MP619 Such Love, pure as the whitest snow</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Such love, pure as the whitest snow;<br/>such love weeps for the shame I know;<br/>such love, paying the debt I owe;<br/>O Jesus, such love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Such love, stilling my restlessness;<br/>such love, filling my emptiness;<br/>such love, showing me holiness;<br/>O Jesus, such love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Such love springs from eternity;<br/>such love, streaming through history;<br/>such love, fountain of life to me;<br/>O Jesus, such love.</lines>
+    </verse>
+  </lyrics>
+</song>

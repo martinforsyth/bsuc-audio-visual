@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:15">
+  <properties>
+    <titles>
+      <title>MP1055 Here in Your arms</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Here in Your arms,<br/>I am lost in Your love.<br/>Holding me close,<br/>Never let me fall.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Here, face to face,<br/>I am lost in praise.<br/>Love's hunger grows,<br/>Burning stronger still.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>I will worship You,<br/>I will worship You,<br/>Oh I, I will worship You, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-04-04T11:53:58">
+  <properties>
+    <titles>
+      <title>SF303 I know that my Redeemer lives</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>William Pennefather</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I know that my Redeemer lives<br/>what joy the blest assurance gives!<br/>He lives, he lives, who once was dead;<br/>he lives, my everlasting Head!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He lives, to bless me with his love;<br/>he lives, to plead for me above;<br/>he lives, my hungry soul to feed;<br/>he lives, to help in time of need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He lives, and grants me daily breath;<br/>he lives, and I shall conquer death;<br/>he lives, my mansion to prepare;<br/>he lives, to lead me safely there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He lives, all glory to his name;<br/>he lives, my Saviour, still the same;<br/>what joy the blest assurance gives,<br/>I know that my Redeemer lives!</lines>
+    </verse>
+  </lyrics>
+</song>

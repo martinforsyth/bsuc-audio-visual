@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:59">
+  <properties>
+    <titles>
+      <title>HP762 May the grace of Christ our Saviour</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>May the grace of Christ our Saviour,<br/>And the Father's boundless love,<br/>With the Holy Spirit's favour,<br/>Rest upon us from above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thus may we abide in union<br/>With each other and the Lord,<br/>And possess, in sweet communion,<br/>Joys which earth cannot afford.</lines>
+    </verse>
+  </lyrics>
+</song>

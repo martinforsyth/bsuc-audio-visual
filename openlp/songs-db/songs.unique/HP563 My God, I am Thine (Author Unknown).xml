@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:11">
+  <properties>
+    <titles>
+      <title>HP563 My God, I am Thine</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My God, I am Thine;<br/>What a comfort divine,<br/>What a blessing to know that my Jesus is mine !<br/>In the heavenly Lamb<br/>Thrice happy I am,<br/>And my heart it doth dance at the sound of His name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>True pleasures abound<br/>In the rapturous sound;<br/>And whoever hath found it hath paradise found.<br/>My Jesus to know,<br/>And feel His blood flow,<br/>'Tis life everlasting, 'tis heaven below.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Yet onward I haste<br/>To the heavenly feast:<br/>That, that is the fullness; but this is the taste!<br/>And this I shall prove,<br/>Till with joy I remove<br/>To the heaven of heavens in Jesu's love.</lines>
+    </verse>
+  </lyrics>
+</song>

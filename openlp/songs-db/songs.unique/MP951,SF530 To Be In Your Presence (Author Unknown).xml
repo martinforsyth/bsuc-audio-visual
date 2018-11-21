@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-08-18T06:17:59">
+  <properties>
+    <titles>
+      <title>MP951,SF530 To Be In Your Presence</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>To be in Your presence<br/>To sit at your feet<br/>Where your love surrounds me<br/>And makes me complete</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>To rest in your presence<br/>Not rushing away<br/>To cherish each moment<br/>Here I would stay</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>This is my desire, oh Lord<br/>This is my desire<br/>This is my desire, oh Lord<br/>This is my desire.</lines>
+    </verse>
+  </lyrics>
+</song>

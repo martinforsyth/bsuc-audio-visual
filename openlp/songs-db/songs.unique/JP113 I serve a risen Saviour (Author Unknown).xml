@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:39">
+  <properties>
+    <titles>
+      <title>JP113 I serve a risen Saviour</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I serve a risen Saviour,<br/>He's in the world today;<br/>I know that He is living,<br/>whatever men may say.<br/>I see His hand of mercy,<br/>I hear His voice of cheer;<br/>and just the time I need Him,<br/>He's always near.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In all the world around me<br/>I see his loving care,<br/>and though my heart grows weary<br/>I never will despair;<br/>I know that He is leading,<br/>through all the stormy blast,<br/>the days of His appearing<br/>will come at last.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Rejoice, rejoice, O Christian,<br/>lift up your voice and sing<br/>eternal hallelujahs<br/>to Jesus Christ the King!<br/>The hope of all who seek Him,<br/>The help of all who find,<br/>none other is so loving,<br/>so good and kind.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>He lives, He lives,<br/>Christ Jesus lives today!<br/>He walks with me and talks with me<br/>along life's narrow way.<br/>He lives, He lives,<br/>Salvation to impart!<br/>You ask me how I know He lives?<br/>He lives within my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

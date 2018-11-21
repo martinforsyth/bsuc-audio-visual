@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-09-12T22:16:16">
+  <properties>
+    <titles>
+      <title>SF137 New every morning is the love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>John Keble</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>New every morning is the love<br/>our wakening and uprising prove;<br/>through sleep and darkness safely brought,<br/>restored to life, and power, and thought.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>New mercies, each returning day<br/>hover around us while we pray;<br/>new perils past, new sins forgiven,<br/>new thoughts of God, new hopes of heaven.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>If on our daily course our mind<br/>be set to hallow all we find,<br/>new treasures still, of countless price,<br/>God will provide for sacrifice.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Old friends, old scenes, will lovelier be,<br/>as more of heaven in each we see;<br/>some softening gleam of love and prayer<br/>shall dawn on every cross and care.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The trivial round, the common task,<br/>will furnish all we ought to ask;<br/>room to deny ourselves, a road<br/>to bring us daily nearer God.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Prepare us, Lord, in your dear love<br/>for perfect rest with you above;<br/>and help us, this and every day,<br/>to live more nearly as we pray.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:01">
+  <properties>
+    <titles>
+      <title>MP973 All That I Am</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, be the strength within my weakness;<br/>Be the supply in every need,<br/>That I may prove Your promises to me,<br/>Faithful and true in word and deed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Into Your hands I place the future;<br/>The past is nailed to Calvary,<br/>That I may live in resurrection power,<br/>No longer I but Christ in me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>All that I am I lay before You;<br/>All I possess, Lord, I confess<br/>Is nothing without You.<br/>Saviour and King, I now enthrone You;<br/>Take my life, my living sacrifice to You.</lines>
+    </verse>
+  </lyrics>
+</song>

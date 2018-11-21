@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:51">
+  <properties>
+    <titles>
+      <title>HP189 Christ, above all glory seated</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ, above all glory seated!<br/>King triumphant, strong to save!<br/>Dying, thou hast death defeated;<br/>Buried, thou hast spoiled the grave.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou art gone where now is given,<br/>What no mortal might could gain,<br/>On the eternal throne of heaven<br/>In thy Father's power to reign.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There thy kingdoms all adore thee,<br/>Heaven above and earth below;<br/>While the depths of hell before thee<br/>Trembling and defeated bow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We, O Lord, with hearts adoring,<br/>Follow thee above the sky;<br/>Hear our prayers thy grace imploring,<br/>Lift our souls to thee on high.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>So when thou again in glory<br/>On the clouds of heaven shalt shine,<br/>We thy flock may stand before thee,<br/>Owned for evermore as thine.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Hail! All hail! In thee confiding,<br/>Jesus, thee shall all adore,<br/>In thy Father's might abiding<br/>With one Spirit evermore!</lines>
+    </verse>
+  </lyrics>
+</song>

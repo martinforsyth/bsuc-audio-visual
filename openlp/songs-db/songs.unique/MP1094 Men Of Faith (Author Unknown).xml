@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:18">
+  <properties>
+    <titles>
+      <title>MP1094 Men Of Faith</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Men of faith, rise up and sing<br/>Of the great and glorious King;<br/>You are strong when you feel weak,<br/>In your brokenness complete.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Rise up women of the truth,<br/>Stand and sing to broken hearts,<br/>Who can know the healing power<br/>Of our glorious King of love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We've been through fire,<br/>We've been through rain;<br/>We've been refined<br/>By the power of His name.<br/>We've fallen deeper in love with You,<br/>You've burned the truth on our lips.<br/>Rise up church with broken wings;<br/>Fill this place with songs again,<br/>Of our God who reigns on high:<br/>By His grace again we'll fly.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>(Last time)<br/>Lord of heaven and earth,<br/>Lord of heaven and earth,<br/>Lord of heaven and earth.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Shout to the north and the south,<br/>Sing to the east and the west:<br/>Jesus is Saviour to all,<br/>Lord of heaven and earth.</lines>
+    </verse>
+  </lyrics>
+</song>

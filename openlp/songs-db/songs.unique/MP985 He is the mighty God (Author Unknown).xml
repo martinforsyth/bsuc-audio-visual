@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:04">
+  <properties>
+    <titles>
+      <title>MP985 He is the mighty God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He is the mighty God,<br/>He is the risen King,<br/>He is the Lord of lords.<br/>He is the first and last,<br/>He is holy, he is true,<br/>He is the Lord of lords.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He is the One who gave<br/>His life for all the world,<br/>He is the Lord of lords,<br/>Who rose up from the grave,<br/>Defeated death and hell;<br/>He is the Lord of lords.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He's coming in the clouds<br/>And every eye shall see<br/>He is the Lord of lords;<br/>Then every knee shall bow<br/>And every tongue proclaim<br/>He is the Lord of lords.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And we know he is coming back again<br/>In pow'r and glory.<br/>He is coming back again<br/>To claim His people;<br/>He is coming back again<br/>To bring His children home with him,<br/>Home with him.</lines>
+    </verse>
+  </lyrics>
+</song>

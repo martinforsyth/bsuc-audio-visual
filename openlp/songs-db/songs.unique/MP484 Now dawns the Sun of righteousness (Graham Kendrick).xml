@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:03">
+  <properties>
+    <titles>
+      <title>MP484 Now dawns the Sun of righteousness</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Now dawns the sun of righteousness<br/>And the darkness will never his brightness dim<br/>True light that lights the hearts of men<br/>Only Son of the Father Jesus Christ</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Tell out, tell out the news<br/>On every street proclaim<br/>A child is born, a Son is given<br/>And Jesus is his name<br/>Tell out, tell out the news<br/>Our Saviour Christ has come<br/>In every tribe and nation<br/>Let songs of praise be sung<br/>Let songs of praise be sung!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Laughter and joy he will increase<br/>All our burdens be lifted<br/>Oppression cease<br/>The blood-stained battle-dress be burned<br/>And the art of our warfare<br/>Never more be learned</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>So let us go, his witnesses<br/>Spreading news of his kingdom<br/>Of righteousness<br/>Till the whole world has heard the song<br/>Till the harvest is gathered<br/>Then the end shall come</lines>
+    </verse>
+  </lyrics>
+</song>

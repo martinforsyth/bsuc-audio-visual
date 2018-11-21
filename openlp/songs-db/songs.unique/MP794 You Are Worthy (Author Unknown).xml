@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:37">
+  <properties>
+    <titles>
+      <title>MP794 You Are Worthy</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You are worthy,<br/>Lord, You're worthy,<br/>So I lift my heart, I lift my voice and cry 'Holy'.<br/>You have saved me, and I love You,<br/>Jesus ever more I live to praise Your name.</lines>
+    </verse>
+  </lyrics>
+</song>

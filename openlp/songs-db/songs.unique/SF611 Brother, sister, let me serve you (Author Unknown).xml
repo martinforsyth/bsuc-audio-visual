@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:43">
+  <properties>
+    <titles>
+      <title>SF611 Brother, sister, let me serve you</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Brother, sister, let me serve you,<br/>let me be as Christ to you;<br/>pray that I may have the grace<br/>to let you be my servant too.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We are pilgrims on a journey,<br/>and companions on the road;<br/>we are here to help each other<br/>walk the mile and bear the load.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I will hold the Christ-light for you<br/>in the night-time of your fear;<br/>I will hold my hand out to you,<br/>speak the peace you long to hear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I will weep when you are weeping;<br/>when you laugh I'll laugh with you;<br/>I will share your joy and sorrow<br/>till we've seen this journey through</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>When we sing to God in heaven<br/>we shall find such harmony,<br/>born of all we've known together<br/>of Christ's love and agony.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:26">
+  <properties>
+    <titles>
+      <title>MP141 Father, Your Love Is Precious</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, Your love is precious beyond all loves,<br/>Father, Your love overwhelms me.<br/>Father, Your love is precious beyond all loves,<br/>Father, Your love overwhelms me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>So I lift up my hands, an expression of my love,<br/>And I give You my heart in joyful obedience.<br/>Father, Your love is precious beyond all loves,<br/>Father, Your love overwhelms me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:03">
+  <properties>
+    <titles>
+      <title>HP530 Jesus, stand among us (dup)</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, stand among us<br/>In thy risen power;<br/>Let this time of worship<br/>Be a hallowed hour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Breathe The Holy spirit<br/>Into every heart:<br/>Bid the fears and sorrows<br/>From each soul depart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thus with quickened footsteps<br/>We'll pursue our way:<br/>Watching for the dawning<br/>Of eternal day.</lines>
+    </verse>
+  </lyrics>
+</song>

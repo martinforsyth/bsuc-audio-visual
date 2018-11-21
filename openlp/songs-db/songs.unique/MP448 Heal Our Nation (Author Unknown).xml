@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:00">
+  <properties>
+    <titles>
+      <title>MP448 Heal Our Nation</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord we long for You to move in power<br/>There's a hunger deep within our hearts<br/>To see healing in our nation<br/>Send your Spirit to revive us</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord we hear your Spirit coming closer<br/>A mighty wave to break upon our land<br/>Bringing justice, and forgiveness<br/>God we cry to you, "Revive us"</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Heal our nation x3<br/>Pour out your Spirit on this land</lines>
+    </verse>
+  </lyrics>
+</song>

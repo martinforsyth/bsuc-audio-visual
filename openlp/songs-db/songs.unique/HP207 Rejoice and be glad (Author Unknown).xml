@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:52">
+  <properties>
+    <titles>
+      <title>HP207 Rejoice and be glad</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Rejoice and be glad!<br/>The Redeemer has come!<br/>Go, look on His cradle,<br/>His Cross, and His tomb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Rejoice and be glad!<br/>It is sunshine at last!<br/>The clouds have departed,<br/>The shadows are past.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Rejoice and be glad!<br/>For the blood hath been shed;<br/>Redemption is finished,<br/>The price has been paid.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Rejoice and be glad!<br/>Now the pardon is free!<br/>The Just for the unjust<br/>Has died on the tree.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Rejoice and be glad!<br/>For the Lamb that was slain<br/>O'er death is triumphant,<br/>And liveth again.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Rejoice and be glad!<br/>For our King is on high;<br/>He pleadeth for us on<br/>His throne in the sky.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Rejoice and be glad!<br/>For He cometh again;<br/>He cometh in glory<br/>The Lamb that was slain.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Sound His praises, tell the story<br/>Of Him who was slain!<br/>Sound His praises, tell with gladness,<br/>He liveth again!</lines>
+    </verse>
+  </lyrics>
+</song>

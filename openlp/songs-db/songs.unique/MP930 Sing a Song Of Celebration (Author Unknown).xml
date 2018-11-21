@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:48">
+  <properties>
+    <titles>
+      <title>MP930 Sing a Song Of Celebration</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing a song of celebration,<br/>Lift up a shout of praise<br/>For the bridegroom will come,<br/>The glorious One.<br/>And oh, we will look on His face;<br/>We'll go to a much better place.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Dance with all your might,<br/>Lift up your hands and clap for joy:<br/>The time's drawing near<br/>When He will appear.<br/>And Oh, we will stand by His side;<br/>A strong, pure, spotless bride.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Sing aloud for the time of rejoicing is near.<br/>The risen King, our groom is soon to appear.<br/>The wedding feast to come is now near at hand.<br/>Lift up your voice, proclaim the coming Lamb.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Oh, we will dance on the streets that are golden,<br/>The glorious bride and the great Son of man,<br/>From every tongue and tribe and nation<br/>Will join in the song of the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

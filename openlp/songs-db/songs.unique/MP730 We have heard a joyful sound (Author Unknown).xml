@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:31">
+  <properties>
+    <titles>
+      <title>MP730 We have heard a joyful sound</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We have heard a joyful sound,<br/>Jesus saves;<br/>Spread the gladness all around,<br/>Jesus saves;<br/>Bear the news to every land,<br/>Climb the steeps and cross the waves<br/>Onward, 'tis our Lord's command,<br/>Jesus saves.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Waft it on the rolling tide,<br/>Jesus saves;<br/>Tell to sinners far and wide,<br/>Jesus saves;<br/>Sing ye islands of the sea,<br/>Echo back, ye ocean caves,<br/>Earth shall keep her jubilee,<br/>Jesus saves.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Sing above the battle's strife,<br/>Jesus saves;<br/>By His death and endless life,<br/>Jesus saves;<br/>Sing it softly through the gloom,<br/>When the heart for mercy craves,<br/>Sing in triumph o'er the tomb,<br/>Jesus saves.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Give the winds a mighty voice,<br/>Jesus saves;<br/>Let the nations now rejoice,<br/>Jesus saves;<br/>Shout salvation full and free,<br/>Highest hills and deepest caves,<br/>This our song of victory,<br/>Jesus saves.</lines>
+    </verse>
+  </lyrics>
+</song>

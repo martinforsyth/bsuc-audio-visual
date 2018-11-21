@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-01-02T22:53:04">
+  <properties>
+    <titles>
+      <title>SF604 alternative</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Linda Ashford</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Our God is a God who is faithful and tender,<br/>whose love to his children casts out every fear;<br/>a covenant God whose firm promise is binding;<br/>a promise renewed to us year upon year.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God’s covenant promise declared in the heavens,<br/>affirmed by his Son through the love he has shown,<br/>applied now to us by the work of his Spirit –<br/>that promise we trust as we make it our own.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The covenant God made is with all his people;<br/>the grace he has offered extends to us still.<br/>Responding in faith, we now pledge to live always<br/>with Christ at the center, his will to fulfill.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, show us a sign that your promise is certain<br/>as here we renew our own covenant today.<br/>“I’ll show you in bread and in wine at my table;<br/>a rolled away gravestone will show you the way”.</lines>
+    </verse>
+  </lyrics>
+</song>

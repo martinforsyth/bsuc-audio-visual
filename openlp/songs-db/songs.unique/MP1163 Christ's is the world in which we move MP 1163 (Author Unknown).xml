@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:28">
+  <properties>
+    <titles>
+      <title>MP1163 Christ's is the world in which we move MP 1163</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ's is the world in which we move.<br/>Christ's are the folk we're summoned to love,<br/>Christ's is the voice which calls us to care,<br/>and Christ is the One who meets us here.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Feel for the people we most avoid:<br/>strange or bereaved or never employed;<br/>Feel for the women and feel for the men<br/>who fear that their living is all in vain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Feel for the parents who've lost their child<br/>Feel for the woman whom men have defiled.<br/>Feel for the baby for whom there's no breast,<br/>and feel for the weary who find no rest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Feel for the lives by life confused,<br/>riddled with doubt, in loving abused;<br/>Feel for the lonely heart, conscious of sin,<br/>which longs to be pure but fears to begin.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>To the lost Christ shows his face;<br/>to the unloved He gives His embrace;<br/>to those who cry in pain or disgrace,<br/>Christ, makes, with His friends, a touching place.</lines>
+    </verse>
+  </lyrics>
+</song>

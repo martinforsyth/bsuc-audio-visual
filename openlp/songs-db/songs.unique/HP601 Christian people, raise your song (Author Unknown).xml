@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:30">
+  <properties>
+    <titles>
+      <title>HP601 Christian people, raise your song</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christian people, raise your song,<br/>chase away all grieving.<br/>Sing your joy and be made strong<br/>our Lord's life receiving.<br/>Nature's gifts of wheat and vine<br/>now are set before us:<br/>as we offer bread and wine<br/>Christ come to restore us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come to welcome Christ today,<br/>God's great revelation.<br/>He has pioneered the way<br/>of the new creation.<br/>Greet him, Christ our risen King<br/>gladly recognising,<br/>as with joy we greet the spring<br/>out of winter rising.</lines>
+    </verse>
+  </lyrics>
+</song>

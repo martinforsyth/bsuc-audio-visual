@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:02">
+  <properties>
+    <titles>
+      <title>SF28 Jesus calls us here to meet him</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus calls us here to meet him<br/>as,through word and song and prayer,<br/>we affirm God's promised presence<br/>where his people live and care.<br/>Praise the God; who keeps his promise;<br/>praise the Son who calls us friends;<br/>praise the Spirit who, among us ,<br/>to our hopes and fears attends.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus calls us to confess him<br/>Word of life and Lord of all,<br/>sharer of our flesh and frailness,<br/>saving all who fail or fall.<br/>Tell his holy human story;<br/>tell his tales that all may hear;<br/>tell the world that Christ in glory<br/>came to earth to meet us here.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus calls us to each other,<br/>vastly different though we are ;<br/>creed and colour,class and gender<br/>neither limit nor debar.<br/>Join the hand of friend and stranger;<br/>join the hand of age and youth;<br/>join the faithful and the doubter<br/>in their common search for truth</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:35">
+  <properties>
+    <titles>
+      <title>SF446 I Will Offer Up My Life</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I will offer up my life<br/>In spirit and truth,<br/>Pouring out the oil of love<br/>As my worship to You.<br/>In surrender I must give my every part;<br/>Lord receive the sacrifice<br/>Of a broken heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus what can I give, what can I bring<br/>To so faithful a friend, to so loving a King?<br/>Saviour what can be said, what can be sung<br/>As a praise of Your name<br/>For the things You have done?<br/>Oh, my words could not tell, not even in part,<br/>Of the debt of love that is owed<br/>By this thankful heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>You deserve my every breath<br/>For You've paid the great cost;<br/>Giving up Your life to death,<br/>Even death on a cross..<br/>You took all my shame away,<br/>There defeated my sin,<br/>Opened up the gates of heaven,<br/>And have beckoned me in.</lines>
+    </verse>
+  </lyrics>
+</song>

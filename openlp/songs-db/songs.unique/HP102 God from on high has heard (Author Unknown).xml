@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:45">
+  <properties>
+    <titles>
+      <title>HP102 God from on high has heard</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God from on high has heard;<br/>Let sighs and sorrows cease;<br/>The skies unfold, and lo!<br/>Descends the gift of peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Hark! On the midnight air<br/>Celestial voices swell;<br/>The hosts of heaven proclaim<br/>God comes on earth to dwell.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Haste with the shepherds; see<br/>The mystery of grace:<br/>A manger-bed, a child,<br/>Is all the eye can trace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Is this the eternal Son,<br/>Who on the starry throne<br/>Before the worlds begun<br/>Was with the Father one?</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Yes, faith can pierce the cloud<br/>Which shrouds his glory now,<br/>And hail him God and Lord,<br/>To whom all creatures bow.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O child! Thy silence speaks,<br/>And bids us not refuse<br/>To bear what flesh would shun,<br/>To spurn what flesh would choose.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Fill us with holy love,<br/>Heal thou our earthly pride;<br/>Born in each lowly heart,<br/>For ever there abide.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:57">
+  <properties>
+    <titles>
+      <title>RS621 Almighty Father who for us thy Son didst give</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Almighty Father, who for us thy Son didst give,<br/>That men and women through his precious death might live,<br/>In mercy guard us, lest by sloth and selfish pride<br/>We cause to stumble those for whom the Saviour died.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We are thy stewards; thine our talents, wisdom, skill,<br/>Our only glory that we will thy trust fulfil;<br/>That we thy pleasure in our neighbours' good pursue,<br/>If thou but workest in us both to will and do.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>On just and unjust thou thy care dost freely shower;<br/>Make us thy children, free from greed and lust for power,<br/>Lest human justice, yoked with man's unequal laws,<br/>Oppress the needy and neglect the humble cause.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Let not our worship blind us to the claims of love;<br/>But let thy manna lead us to the feast above,<br/>To seek the country which by faith we now possess,<br/>Where Christ, our treasure, reigns in peace and righteousness.</lines>
+    </verse>
+  </lyrics>
+</song>

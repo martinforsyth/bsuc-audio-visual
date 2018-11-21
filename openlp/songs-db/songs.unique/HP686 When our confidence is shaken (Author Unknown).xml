@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:45">
+  <properties>
+    <titles>
+      <title>HP686 When our confidence is shaken</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When our confidence is shaken<br/>In beliefs we thought secure;<br/>When the spirit in its sickness<br/>Seeks but cannot find a cure:<br/>God is active in the tensions<br/>Of a faith not yet mature.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Solar systems, void of meaning,<br/>Freeze the spirit into stone;<br/>Always our researches lead us<br/>To the ultimate Unknown:<br/>Faith must die, or come full circle<br/>To its source in God alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In the discipline of praying,<br/>When it's hardest to believe;<br/>In the drudgery of caring,<br/>When it's not enough to grieve:<br/>Faith, maturing, learns acceptance<br/>Of the insights we receive.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God is love; and he redeems us<br/>In the Christ we crucify:<br/>This is God's eternal answer<br/>To the world's eternal why;<br/>May we in this faith maturing<br/>Be content to live and die!</lines>
+    </verse>
+  </lyrics>
+</song>

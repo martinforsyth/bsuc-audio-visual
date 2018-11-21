@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:57">
+  <properties>
+    <titles>
+      <title>RS620 For the healing of the nations</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>For the healing of the nations,<br/>Lord, we pray with one accord;<br/>for a just and equal sharing<br/>of the things that earth affords.<br/>To a life of love and action<br/>help us rise and pledge our word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lead us, Father, into freedom;<br/>from despair your world release,<br/>that, redeemed from war and hatred,<br/>all may come and go in peace.<br/>Show us how through care and goodness<br/>fear will die and hope increase.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All that kills abundant living,<br/>let it from the earth be banned;<br/>pride of status race or schooling,<br/>dogmas that obscure your plan,<br/>In our common quest for justice<br/>may we hallow life's brief span</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>You, Creator-God, have written<br/>your great name on humankind;<br/>for our growing in your likeness<br/>bring the life of Christ to mind;<br/>that by our response and service<br/>earth its destiny may find.</lines>
+    </verse>
+  </lyrics>
+</song>

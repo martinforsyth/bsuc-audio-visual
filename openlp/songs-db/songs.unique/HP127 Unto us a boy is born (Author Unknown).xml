@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:46">
+  <properties>
+    <titles>
+      <title>HP127 Unto us a boy is born</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Unto us a boy is born!<br/>King of all creation,<br/>Came he to a world forlorn,<br/>The Lord of every nation.<br/>The Lord of every nation.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Cradled in a stall was he<br/>With sleepy cows and asses;<br/>But the very beasts could see<br/>That he all men surpasses.<br/>That he all men surpasses.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Herod then with fear was filled:<br/>'A prince', he said, 'in Jewry!'<br/>All the little boys he killed<br/>At Bethlem in his fury.<br/>At Bethlem in his fury.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Now may Mary's son, who came<br/>So long ago to love us,<br/>Lead us all with hearts aflame<br/>Unto the joys above us.<br/>Unto the joys above us.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Omega and Alpha he!<br/>Let the organ thunder,<br/>While the choir with peals of glee<br/>Doth rend the air asunder.<br/>Doth rend the air asunder.</lines>
+    </verse>
+  </lyrics>
+</song>

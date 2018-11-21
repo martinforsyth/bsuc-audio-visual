@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:07:24">
+  <properties>
+    <titles>
+      <title>SF351 In Christ alone my hope is found</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Keith Getty (b1974) and Stuart Townend (b1963)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In Christ alone my hope is found,<br/>he is my light, my strength, my song;<br/>this Cornerstone, this solid Ground,<br/>firm through the fiercest drought and storm.<br/>What heights of love, what depths of peace,<br/>when fears are stilled, when strivings cease!<br/>My Comforter, my All in All,<br/>here in the love of Christ I stand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In Christ alone! -- who took on flesh,<br/>fullness of God in helpless babe!<br/>This gift of love and righteousness,<br/>scorned by the ones he came to save:<br/>till on that cross as Jesus died,<br/>the wrath of God was satisfied<br/>for every sin on him was laid;<br/>here in the death of Christ I live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There in the ground his body lay,<br/>light of the world by darkness slain:<br/>then bursting forth in glorious Day<br/>up from the grave he rose again!<br/>And as he stands in victory,<br/>sin's curse has lost its grip on me,<br/>for I am his and he is mine --<br/>bought with the precious blood of Christ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>No guilt in life, no fear in death,<br/>this is the power of Christ in me;<br/>from life's first cry to final breath,<br/>Jesus commands my destiny.<br/>No power of hell, no scheme of man,<br/>can ever pluck me from his hand;<br/>till he returns or calls me home,<br/>here in the power of Christ I'll stand!</lines>
+    </verse>
+  </lyrics>
+</song>

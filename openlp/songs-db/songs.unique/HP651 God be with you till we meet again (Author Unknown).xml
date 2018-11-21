@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:39">
+  <properties>
+    <titles>
+      <title>HP651 God be with you till we meet again</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God be with you till we meet again;<br/>May he through the days direct you;<br/>May he in life's storms protect you;<br/>God be with you till we meet again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God be with you till we meet again;<br/>And when doubts and fears oppress you,<br/>May his holy peace possess you;<br/>God be with you till we meet again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God be with you till we meet again;<br/>In distress his grace sustain you;<br/>In success from pride restrain you;<br/>God be with you till we meet again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God be with you till we meet again;<br/>May he go through life beside you,<br/>And through death in safety guide you;<br/>God be with you till we meet again.</lines>
+    </verse>
+  </lyrics>
+</song>

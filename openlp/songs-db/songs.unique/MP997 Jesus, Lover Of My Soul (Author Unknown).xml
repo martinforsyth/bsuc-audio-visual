@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:06">
+  <properties>
+    <titles>
+      <title>MP997 Jesus, Lover Of My Soul</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, lover of my soul<br/>All consuming fire is in Your gaze<br/>Jesus, I want You to know<br/>I will follow You all my days<br/>For no one else in history is like You<br/>And history itself belongs to You<br/>Alpha and Omega You have loved me<br/>And I will share eternity with You</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>It's all about You, Jesus<br/>And all this is for You,<br/>For Your glory and Your fame<br/>It's not about me<br/>As if You should do things my way<br/>You alone are God and I surrender<br/>To your ways</lines>
+    </verse>
+  </lyrics>
+</song>

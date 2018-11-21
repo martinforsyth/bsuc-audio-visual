@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:54">
+  <properties>
+    <titles>
+      <title>RS530 Living God, your joyful spirit</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Living God, your joyful Spirit<br/>breaks the bounds of time and space,<br/>rests in love upon your people,<br/>drawn together in this place.<br/>Here we join in glad thanksgiving,<br/>here rejoice to pray and praise:<br/>Lord of all our past tradition,<br/>Lord of all our future days</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>As your bread may we be broken,<br/>scattered in community;<br/>we who know your greatest blessings<br/>called to share Christ's ministry.<br/>May we gently lead each other,<br/>share our hunger and our thirst;<br/>learn that only through our weakness<br/>shall we know the strength of Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, when we grow tired of giving,<br/>feel frustration, hurt and strain,<br/>by your Spirit's quiet compulsion,<br/>draw us back to you again.<br/>Guide us through the bitter searching<br/>when our confidence is lost;<br/>give us hope from desolation,<br/>arms outstretched upon the cross.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Living God, your power surrounds us,<br/>as we face the way Christ trod,<br/>challenge us to fresh commitment<br/>to the purposes of God;<br/>called to share a new creation,<br/>called to preach the living word,<br/>promised all the joys of heaven,<br/>through the grace of Christ our Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

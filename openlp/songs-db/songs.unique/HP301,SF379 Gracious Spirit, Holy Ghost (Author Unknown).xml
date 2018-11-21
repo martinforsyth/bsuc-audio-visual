@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-05-17T20:36:03">
+  <properties>
+    <titles>
+      <title>HP301,SF379 Gracious Spirit, Holy Ghost</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Gracious Spirit, Holy Ghost,<br/>Taught by thee, we covet most,<br/>Of thy gifts at Pentecost,<br/>Holy, heavenly love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Faith that mountains could remove,<br/>Tongues of earth or heaven above,<br/>Knowledge, all things, empty prove<br/>Without heavenly love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Prophecy will fade away,<br/>Melting in the light of day;<br/>Love will ever with us stay:<br/>Therefore give us love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Love is kind, and suffers long,<br/>Love is meek, and thinks no wrong,<br/>Love than death itself more strong:<br/>Therefore give us love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Faith, and hope, and love we see,<br/>Joining hand in hand, agree;<br/>But the greatest of the three,<br/>And the best, is love.</lines>
+    </verse>
+  </lyrics>
+</song>

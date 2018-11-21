@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:39">
+  <properties>
+    <titles>
+      <title>MP811 Called to a battle</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Called to a battle, heavenly war;<br/>Though we may struggle, victory is sure.<br/>Death will not triumph, though we may die;<br/>Jesus has promised our eternal life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Standing together, moving as one;<br/>We are God's army, called to overcome.<br/>We are commissioned, Jesus says go;<br/>In every nation, let His love be known.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>By the blood of the Lamb<br/>We shall overcome,<br/>See the accuser thrown down.<br/>By the word of the Lord<br/>We shall overcome,<br/>Raise a victory cry,<br/>Like thunder in the skies,<br/>Thunder in the skies.</lines>
+    </verse>
+  </lyrics>
+</song>

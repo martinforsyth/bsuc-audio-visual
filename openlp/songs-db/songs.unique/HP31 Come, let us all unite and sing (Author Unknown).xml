@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:39">
+  <properties>
+    <titles>
+      <title>HP31 Come, let us all unite and sing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, let us all unite and sing<br/>God is love!<br/>While heaven and earth their praises bring<br/>God is love!<br/>Let every soul from sin awake,<br/>Each in his heart sweet music make,<br/>And sweetly sing for Jesus' sake<br/>God is love!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O tell to earth's remotest bound<br/>God is love!<br/>In Christ is full redemption found<br/>God is love!<br/>His blood can cleanse our sins away;<br/>His Spirit-turns our night to day,<br/>And leads our souls with joy to say<br/>God is love!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>How happy is our portion here<br/>God is love!<br/>His promises our spirits cheer<br/>God is love!<br/>He is our sun and shield by day,<br/>By night he near our tents will stay,<br/>He will be with us all the way<br/>God is love!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In Zion we shall sing again<br/>God is love!<br/>Yes, this shall be our highest strain<br/>God is love!<br/>Whilst endless ages roll along,<br/>In concert with the heavenly throng,<br/>This shall be still our sweetest song<br/>God is love!</lines>
+    </verse>
+  </lyrics>
+</song>

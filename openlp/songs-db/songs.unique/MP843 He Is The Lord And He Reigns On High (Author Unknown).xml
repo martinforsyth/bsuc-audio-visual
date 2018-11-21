@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:42">
+  <properties>
+    <titles>
+      <title>MP843 He Is The Lord And He Reigns On High</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He is the Lord and He reigns on high<br/>(He is the Lord)<br/>Spoke into the darkness, created the light<br/>(He is the Lord)<br/>Who is like unto Him never ending in days<br/>(He is the Lord)<br/>And He comes in power when we call on His name<br/>(He is the Lord)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your gospel O Lord is the hope for our nation<br/>(You are the Lord)<br/>It's the power of God for our salvation<br/>(You are the Lord)<br/>We ask not for riches but look to the cross<br/>(You are the Lord)<br/>And for our inheritance give us the lost<br/>(You are the Lord)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Send your power, O Lord our God<br/>Send your power, O Lord our God<br/>Our God</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Show Your power, O Lord our God<br/>Show your power, O Lord our God<br/>Our God</lines>
+    </verse>
+  </lyrics>
+</song>

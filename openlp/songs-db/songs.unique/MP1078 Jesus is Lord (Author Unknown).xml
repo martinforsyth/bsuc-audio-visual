@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:17">
+  <properties>
+    <titles>
+      <title>MP1078 Jesus is Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>'Jesus is Lord' -<br/>The cry that echoes through creation: Resplendent power, eternal Word, our Rock.<br/>The Son of God,<br/>The King whose glory fills the heavens,<br/>Yet bids us come to taste this living Bread.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus is Lord -<br/>Whose voice sustains the stars and planets,<br/>Yet in His wisdom laid aside His crown.<br/>Jesus the Man,<br/>Who washed our feet, who bore our suffering,<br/>Became a curse to bring salvation's plan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus is Lord -<br/>The tomb is gloriously empty!<br/>Not even death could crush this King of love!<br/>The price is paid,<br/>The chains are loosed, and we're forgiven,<br/>And we can run into the arms of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>'Jesus is Lord' -<br/>A shout of joy, a cry of anguish,<br/>As He returns, and every knee bows low.<br/>Then every eye<br/>And every heart will see His glory,<br/>The Judge of all will take His children home.</lines>
+    </verse>
+  </lyrics>
+</song>

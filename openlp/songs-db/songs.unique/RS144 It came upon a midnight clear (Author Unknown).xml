@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:42">
+  <properties>
+    <titles>
+      <title>RS144 It came upon a midnight clear</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It came upon the midnight clear,<br/>that glorious song of old,<br/>from angels bending near the earth<br/>to touch their harps of gold:<br/>'Glory to God! On earth be peace',<br/>from heaven's all-gracious King';<br/>the world in solemn stillness lay<br/>to hear the angels sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Still through the cloven skies they come,<br/>with peaceful wings unfurled;<br/>and still their heavenly music floats<br/>o'er all the weary world;<br/>above its sad and lowly plains<br/>they bend on hovering wing;<br/>and ever o'er its Babel sounds<br/>the blessed angels sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Yet with the woes of sin and strife<br/>the world has suffered long;<br/>beneath the angel-strain have rolled<br/>two thousand years of wrong;<br/>and we, at bitter war, hear not<br/>the love-song which they bring:<br/>O hush the noise, and end the strife,<br/>to hear the angels sing!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For lo!, the days are hastening on,<br/>by prophet bards foretold,<br/>when with the ever-circling years<br/>comes round the age of gold;<br/>when peace shall over all the earth<br/>in ancient splendours fling,<br/>and all the world give back the song<br/>which now the angels sing.</lines>
+    </verse>
+  </lyrics>
+</song>

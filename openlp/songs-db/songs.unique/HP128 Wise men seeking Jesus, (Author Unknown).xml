@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:46">
+  <properties>
+    <titles>
+      <title>HP128 Wise men seeking Jesus,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Wise men seeking Jesus,<br/>Travelled from afar,<br/>Guided on their journey<br/>By a beauteous star.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>But if we desire him,<br/>He is close at hand;<br/>For our native country<br/>Is our Holy Land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Prayerful souls may find him<br/>By our quiet lakes,<br/>Meet him on the hillsides<br/>When the morning breaks.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In our fertile cornfields<br/>While the sheaves are bound,<br/>In our busy markets,<br/>Jesus may be found.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Fishermen talk with him<br/>By the great North Sea,<br/>As the first disciples<br/>Did in Galilee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Every town and village<br/>In our land might be<br/>Made by Jesus' presence<br/>Like sweet Bethany</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>He is more than near us<br/>If we love him well;<br/>For he seeketh ever<br/>In our hearts to dwell.</lines>
+    </verse>
+  </lyrics>
+</song>

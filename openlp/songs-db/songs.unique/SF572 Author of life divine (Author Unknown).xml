@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:42">
+  <properties>
+    <titles>
+      <title>SF572 Author of life divine</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Author of life divine,<br/>Who hast a table spread,<br/>Furnished with mystic wine<br/>And everlasting bread,<br/>Preserve the life thyself hast given,<br/>And feed and train us up for heaven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our needy souls sustain<br/>With fresh supplies of love,<br/>Till all thy life we gain,<br/>And all thy fullness prove,<br/>And, strengthened by thy perfect grace,<br/>Behold without a veil thy face.</lines>
+    </verse>
+  </lyrics>
+</song>

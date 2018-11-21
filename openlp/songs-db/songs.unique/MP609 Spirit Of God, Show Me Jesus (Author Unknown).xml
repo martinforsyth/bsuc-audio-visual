@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:18">
+  <properties>
+    <titles>
+      <title>MP609 Spirit Of God, Show Me Jesus</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Spirit of God, show me Jesus,<br/>Remove the darkness,<br/>Let truth shine through!<br/>Spirit of God, show me Jesus,<br/>Reveal the fulness of His love to me.</lines>
+    </verse>
+  </lyrics>
+</song>

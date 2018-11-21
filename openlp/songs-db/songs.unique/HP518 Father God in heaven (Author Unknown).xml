@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:59">
+  <properties>
+    <titles>
+      <title>HP518 Father God in heaven</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>FATHER God in heaven,<br/>Hallowed be thy name;<br/>Rule to thee be given,<br/>Power and all acclaim.<br/>Thee may we obey<br/>As the hosts above;<br/>Bread for us each day<br/>Broken by thy love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Pardoned, as we share<br/>In thy pardoning power,<br/>Kept from Satan's snare<br/>In temptation's hour:<br/>So from sin set free,<br/>Lord, we seek thy face,<br/>Son of liberty,<br/>Heirs of saving grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Grace to all men shown,<br/>All that grace must know,<br/>God, their Father, own,<br/>To their Father go.<br/>Christ will come at last,<br/>Even now so near,<br/>Night will soon be past<br/>And the dawn appear</lines>
+    </verse>
+  </lyrics>
+</song>

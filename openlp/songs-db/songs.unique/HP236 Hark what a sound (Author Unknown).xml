@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:58">
+  <properties>
+    <titles>
+      <title>HP236 Hark what a sound</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hark what a sound, and too divine for hearing,<br/>Stirs on the earth and trembles in the air!<br/>Is it the thunder of the Lord's appearing?<br/>Is it the music of his people's prayer?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Surely he cometh, and a thousand voices<br/>Shout to the saints, and to the deaf are dumb;<br/>Surely he cometh, and the earth rejoices,<br/>Glad in his coming who hath sworn: I come!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>This hath he done, and shall we not adore him?<br/>This shall he do, and can we still despair?<br/>Come, let us quickly fling ourselves before him,<br/>Cast at his feet the burden of our care.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Through life and death, through sorrow and through sinning,<br/>He shall suffice me, for he hath sufficed:<br/>Christ is the end, for Christ was the beginning,<br/>Christ the beginning, for the end is Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

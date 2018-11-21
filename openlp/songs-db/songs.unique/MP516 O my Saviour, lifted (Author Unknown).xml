@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:07">
+  <properties>
+    <titles>
+      <title>MP516 O my Saviour, lifted</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O my Saviour, lifted<br/>From the earth for me,<br/>Draw me, in Thy mercy,<br/>Nearer unto Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lift my earth-bound longings,<br/>Fix them, Lord, above;<br/>Draw me with the magnet<br/>Of Thy mighty love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And I come, Lord Jesus;<br/>Dare I turn away!<br/>No! Thy love hath conquered,<br/>And I come today.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Bringing all my burdens,<br/>Sorrow, sin, and care;<br/>At Thy feet I lay them,<br/>And I leave them there.</lines>
+    </verse>
+  </lyrics>
+</song>

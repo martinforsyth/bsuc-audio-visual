@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:04">
+  <properties>
+    <titles>
+      <title>HP798 O loving Lord, who art for ever seeking</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O loving Lord, who art for ever seeking<br/>Those of thy mind, intent to do thy will,<br/>Strong in thy strength, thy power and grace bespeaking,<br/>Faithful to thee, through good report and ill -</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>To thee we come, and humbly make confession,<br/>Faithless so oft, in thought and word and deed,<br/>Asking that we may have, in true possession,<br/>Thy free forgiveness in the hour of need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In duties small be thou our inspiration,<br/>In large affairs endue us with thy might;<br/>Through faithful service cometh full salvation;<br/>So may we serve, thy will our chief delight.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Not disobedient to the heavenly vision,<br/>Faithful in all things, seeking not reward;<br/>Then, following thee, may we fulfil our mission,<br/>True to ourselves, our neighbours, and our Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:37">
+  <properties>
+    <titles>
+      <title>JP47 For I'm building a people of power</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>For I'm building a people of power<br/>and I'm making a people of praise,<br/>that will move through this land by my Spirit<br/>and will glorify my precious name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Build your Church, Lord,<br/>make us strong, Lord,<br/>join our hearts Lord, through your Son<br/>make us one, Lord, in your body,<br/>in the kingdom of your Son.</lines>
+    </verse>
+  </lyrics>
+</song>

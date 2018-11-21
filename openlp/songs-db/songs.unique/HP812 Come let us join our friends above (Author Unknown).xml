@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:16">
+  <properties>
+    <titles>
+      <title>HP812 Come let us join our friends above</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come let us join our friends above<br/>That have obtained the prize,<br/>And on the eagle wings of love<br/>To joys celestial rise:<br/>Let all the saints terrestrial sing<br/>With those to glory gone;<br/>For all the servants of our King,<br/>In earth and heaven are, one.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>One family we dwell in him,<br/>One church, above, beneath,<br/>Though now divided by the stream,<br/>The narrow stream of death:<br/>One army of the living God,<br/>To his command we bow;<br/>Part of his host have crossed the flood,<br/>And part are crossing now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Ten thousand to their endless home<br/>This solemn moment fly;<br/>And we are to the margin come,<br/>And we expect to die;<br/>Ev'n now by faith we join our hands<br/>With those that went before,<br/>And greet the blood-bespeckled bands<br/>On the eternal shore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Our spirits too shall quickly join,<br/>Like theirs with glory crowned,<br/>And shout to see our captain's sign,<br/>To hear his trumpet sound.<br/>O that we now might grasp our guide!<br/>O that the word were given!<br/>Come, lord of hosts, the waves divide,<br/>And land us all in heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

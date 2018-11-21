@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:30">
+  <properties>
+    <titles>
+      <title>MP728 We have a gospel to proclaim</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We have a gospel to proclaim,<br/>good news for men in all  the earth;<br/>the gospel of a Saviour's name:<br/>we sing His glory, tell His worth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Tell of His birth in Bethlehem-<br/>not in a royal house or hall,<br/>but in a stable dark and dim,<br/>the Word made flesh, a light for all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Tell of His death at Calvary:<br/>hated by those He came to save,<br/>in lonely suffering on the cross,<br/>for all He loved His life He gave.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Tell of that glorious Easter morn:<br/>empty the tomb, for He was free.<br/>He broke the power of death and hell<br/>that we might share His victory.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Tell of His reign at God's right hand,<br/>by all creation glorified.<br/>He sends His Spirit on His church<br/>to live for Him, the Lamb who died.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Now we rejoice to name Him King:<br/>Jesus is Lord of all the earth.<br/>this gospel-message we proclaim:<br/>we sing His glory, tell His worth.</lines>
+    </verse>
+  </lyrics>
+</song>

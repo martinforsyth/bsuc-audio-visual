@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:51">
+  <properties>
+    <titles>
+      <title>HP194 Come, ye faithful, raise the strain</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, ye faithful, raise the strain<br/>Of triumphant gladness;<br/>God has brought his Israel<br/>Into joy from sadness,<br/>Loosed from Pharaoh's bitter yoke<br/>Jacob's sons and daughters,<br/>Led them with unmoistened foot<br/>Through the Red Sea waters.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Tis the spring of souls today;<br/>Christ has burst his prison,<br/>And from three days' sleep in death<br/>As a sun has risen;<br/>All the winter of our sins,<br/>Long and dark, is flying<br/>From his light, to whom we give<br/>Laud and praise undying.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Now the queen of seasons, bright<br/>With the day of splendour,<br/>With the royal feast of feasts<br/>Comes its joy to render;<br/>Comes to glad Jerusalem,<br/>Who with true affection<br/>Welcomes in unwearied strains<br/>Jesus' resurrection.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Neither could the gates of death,<br/>Nor the grave's dark portal,<br/>Nor the watchers, nor the seal,<br/>Hold thee as a mortal;<br/>But today amidst thine own<br/>Thou didst stand, bestowing<br/>Thine own peace, which evermore<br/>Passes human knowing.</lines>
+    </verse>
+  </lyrics>
+</song>

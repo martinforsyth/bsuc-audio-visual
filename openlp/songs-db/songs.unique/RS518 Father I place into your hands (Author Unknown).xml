@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:54">
+  <properties>
+    <titles>
+      <title>RS518 Father I place into your hands</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, I place into your hands<br/>the things that I can't do.<br/>Father, I place into your hands<br/>the times that I've been through.<br/>Father, I place into your hands<br/>the way that I should go,<br/>for I know I always can trust you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Father, I place into your hands<br/>my friends and family.<br/>Father, I place into your hands<br/>the things that trouble me.<br/>Father, I place into your hands<br/>the person I would be,<br/>for I know I always can trust you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Father, we love to see your face,<br/>we love to hear your voice.<br/>Father, we love to sing your praise<br/>and in your name rejoice.<br/>Father, we love to walk with you<br/>and in your presence rest,<br/>for we know we always can trust you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:22">
+  <properties>
+    <titles>
+      <title>MP1124 We Fall Down, we lay our crowns</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We Fall Down, we lay our crowns<br/>At the feet of Jesus.<br/>The greatness of mercy and love,<br/>At the feet of Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And we cry holy, holy, holy.<br/>And we cry holy, holy, holy.<br/>And we cry holy, holy, holy<br/>Is the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

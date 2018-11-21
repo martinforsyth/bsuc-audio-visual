@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:42">
+  <properties>
+    <titles>
+      <title>MP837 He Brought Me To His Banqueting Table</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He brought me to His banqueting table, (men-women echo)<br/>He brought me to His banqueting table, (Men-Women echo)<br/>And His banner over me is love. (All)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I am my Beloved's and He is mine, (Men-Women echo)<br/>I am my Beloved's and He is mine, (Men-Women echo)<br/>And His banner over me is love. (All)<br/>Yes, His banner over me is love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And we can feel the love of God in this place,<br/>We believe Your goodness, we receive Your grace.<br/>We delight ourselves at Your table, O God,<br/>You do all things well, just look at our lives.</lines>
+    </verse>
+  </lyrics>
+</song>

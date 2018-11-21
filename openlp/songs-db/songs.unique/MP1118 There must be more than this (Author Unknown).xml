@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:21">
+  <properties>
+    <titles>
+      <title>MP1118 There must be more than this</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There must be more than this:<br/>O Breath of God, come breathe within.<br/>There must be more than this:<br/>Spirit of God, we wait for You.<br/>Fill us anew, we pray;<br/>Fill us anew, we pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come like a rushing wind,<br/>Clothe us in power from on high.<br/>Now set the captives free;<br/>Leave us abandoned to Your praise.<br/>Lord, let Your glory fall;<br/>Lord, let Your glory fall.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Consuming fire,<br/>Fan into flame<br/>A passion for Your name.<br/>Spirit of God,<br/>Fall in this place.<br/>Lord, have Your way,<br/>Lord, have Your way with us.</lines>
+    </verse>
+  </lyrics>
+</song>

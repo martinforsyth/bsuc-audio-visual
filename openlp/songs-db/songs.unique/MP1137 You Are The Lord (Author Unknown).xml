@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:25">
+  <properties>
+    <titles>
+      <title>MP1137 You Are The Lord</title>
+    </titles>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You Are The Lord, the King of heaven<br/>And all the earth, You'll reign forever.<br/>First and the last, You are glorious.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Before Your throne the elders fall,<br/>And angels sing: 'Almighty God.'<br/>Bright Morning Star,<br/>You are glorious, You are glorious.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>To You, the nations will come,<br/>Every tribe, every tongue<br/>And worship before You,<br/>The Ancient of Days,<br/>The Name above all names,<br/>Who is worthy of all our praise.<br/>You are glorious.<br/>Yeah, You are glorious.</lines>
+    </verse>
+  </lyrics>
+</song>

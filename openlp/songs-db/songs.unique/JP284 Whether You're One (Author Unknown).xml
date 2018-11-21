@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:07">
+  <properties>
+    <titles>
+      <title>JP284 Whether You're One</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Whether you're one or whether you're two<br/>Or three or four or five,<br/>Six or seven or eight or nine it's good to be alive.<br/>It really doesn't matter how old you are,<br/>Jesus loves you whoever you are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Whether you're big or whether you're small<br/>Or somewhere in between,<br/>First in the class or middle or last,<br/>We're all the same to Him.<br/>It really doesn't matter how clever you are,<br/>Jesus loves you whoever you are.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>La, la, la, la, la, la, la, la, la,<br/>Jesus loves us all.<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

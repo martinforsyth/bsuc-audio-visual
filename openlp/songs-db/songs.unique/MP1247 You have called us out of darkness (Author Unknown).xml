@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:32">
+  <properties>
+    <titles>
+      <title>MP1247 You have called us out of darkness</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We are a chosen race,<br/>A royal priesthood by your grace.<br/>We are a holy nation<br/>Set apart for you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We are to take your light<br/>To every nation, tongue and tribe;<br/>So they may see your glory<br/>Shining through our lives.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>You have called us out of darkness,<br/>Out of darkness into your glorious light.<br/>You have saved us from the darkness,<br/>We rejoice in your power and might.<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:50">
+  <properties>
+    <titles>
+      <title>HP175 O love divine! what hast Thou done?</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O love divine! what hast Thou done?<br/>The immortal God hath died for me!<br/>The Father's co-eternal Son<br/>Bore all my sins upon the tree;<br/>The immortal God for me hath died;<br/>My Lord, my Love is crucified.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Behold Him, all ye that pass by,<br/>The bleeding Prince of life and peace!<br/>Come, sinners, see your Maker die,<br/>And say, was ever grief like His?<br/>Come, feel with me His blood applied:<br/>My Lord, my Love is crucified:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Is crucified for me and you,<br/>To bring us rebels back to God:<br/>Believe, believe the record true,<br/>Ye all are bought with Jesu's blood,<br/>Pardon for all flows from His side:<br/>My Lord, my Love is crucified.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then let us sit beneath His Cross,<br/>And gladly catch the healing stream,<br/>All things for Him account but loss,<br/>And give up all our hearts to Him:<br/>Of nothing think or speak beside:<br/>My Lord, my Love is crucified.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:41">
+  <properties>
+    <titles>
+      <title>MP323 I'm not ashamed to own my Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I'm not ashamed to own my Lord,<br/>Or to defend His cause;<br/>Maintain the honour of His Word,<br/>The glory of His cross.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus, my God, I know His name<br/>His name is all my trust,<br/>Nor will He put my soul to shame,<br/>Nor let my hope be lost.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Firm as His throne, His promise stands,<br/>And He can well secure<br/>What I've committed to His hands,<br/>Till the decisive hour.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then will He own my worthless name<br/>Before His Father's face;<br/>And in the new Jerusalem,<br/>Appoint my soul a place.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>At the cross, at the cross, where I first saw the light,<br/>And the burden of my heart rolled away,<br/>It was there by faith I received my sight,<br/>And now I am happy all the day.</lines>
+    </verse>
+  </lyrics>
+</song>

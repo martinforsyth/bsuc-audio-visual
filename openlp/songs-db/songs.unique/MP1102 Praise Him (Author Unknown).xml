@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:20">
+  <properties>
+    <titles>
+      <title>MP1102 Praise Him</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise Him you heavens,<br/>and all that's above.<br/>Praise Him you angels and heavenly hosts.<br/>let the whole earth praise Him.<br/>Praise Him the sun, moon<br/>and bright shining stars.<br/>Praise Him you heavens and waters and skies.<br/>let the whole earth praise Him.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Great in power, great in glory,<br/>Great in mercy, King of heaven.<br/>Great in battle, great in wonder,<br/>Great in zion, King of all the earth</lines>
+    </verse>
+  </lyrics>
+</song>

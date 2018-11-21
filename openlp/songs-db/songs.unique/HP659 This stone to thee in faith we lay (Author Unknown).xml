@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:40">
+  <properties>
+    <titles>
+      <title>HP659 This stone to thee in faith we lay</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>This stone to thee in faith we lay;<br/>We build the temple, Lord, to thee:<br/>Thine eye be open, night and day,<br/>To guard this house and sanctuary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Here, when thy people seek thy face,<br/>And dying sinners pray to live,<br/>Hear thou, in heaven thy dwelling-place,<br/>And when thou hearest, O forgive!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Here, when thy messengers proclaim<br/>The blessed gospel of thy Son,<br/>Still, by the power of his great name,<br/>Be mighty signs and wonders done.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>But will the eternal Father deign<br/>Here to abide, no transient guest?<br/>Will here the world's Redeemer reign,<br/>And here the Holy Spirit rest?</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>That glory never hence depart!<br/>Yet choose not, Lord, this house alone;<br/>Thy kingdom come to every heart:<br/>In all the world be thine the throne.</lines>
+    </verse>
+  </lyrics>
+</song>

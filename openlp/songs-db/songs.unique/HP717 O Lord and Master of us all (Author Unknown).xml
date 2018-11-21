@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:51">
+  <properties>
+    <titles>
+      <title>HP717 O Lord and Master of us all</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Lord and Master of us all,<br/>Whate'er our name or sign,<br/>We own thy sway, we hear thy call,<br/>We test our lives by thine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our thoughts lie open to thy sight;<br/>And, naked to thy glance,<br/>Our secret sins are in the light<br/>Of thy pure countenance.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Yet, weak and blinded though we be,<br/>Thou dost our service own;<br/>We bring our varying gifts to thee,<br/>And thou rejectest none.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>To thee our full humanity,<br/>Its joys and pains, belong;<br/>The wrong of each to each on thee<br/>Inflicts a deeper wrong.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Who hates, hates thee; who loves, becomes<br/>Therein to thee allied;<br/>All sweet accords of hearts and homes<br/>In thee are multiplied.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Apart from thee all gain is loss,<br/>All labour vainly done;<br/>The solemn shadow of thy cross<br/>Is better than the sun.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Our friend, our brother, and our Lord,<br/>What may thy service be?<br/>Nor name, nor form, nor ritual word,<br/>But simply following thee.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>We faintly hear, we dimly see,<br/>In differing phrase we pray;<br/>But, dim or clear, we own in thee<br/>The light, the Truth, the Way.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:39">
+  <properties>
+    <titles>
+      <title>RS108 The Love of God is broard</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The love of God is broard like beach and meadow,<br/>wide as the wind, and an eternal home.<br/>God leaves us free to seek him to reject him,<br/>he gives us room to answer YES or No.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We long for freedom where our truest being<br/>is given hope and courage to enfold.<br/>We seek in freedom space and scope fpr dreaming<br/>and look for ground where trees and plants can grow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>.But there are walls that keep us all devided<br/>we fence each other in with hate and war.<br/>Fear is the bricks and mortar of our prison,<br/>our pride of self the prison coat we wear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O judge us , Lord, and in your judgement free us ,<br/>and set our feet in freedom's open space;<br/>take us as far as your compassion wanders<br/>among the children of the human race..</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>The love of God is broard like beach and meadow,<br/>wide as rhe wind,and an eternal home.</lines>
+    </verse>
+  </lyrics>
+</song>

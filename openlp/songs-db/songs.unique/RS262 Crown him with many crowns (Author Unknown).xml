@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:47">
+  <properties>
+    <titles>
+      <title>RS262 Crown him with many crowns</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Crown him with many crowns,<br/>the Lamb upon his throne;<br/>hark, how the heavenly anthem drowns<br/>all music but its own!<br/>Awake, my soul, and sing<br/>of him who died for thee,<br/>and hail him as thy chosen King<br/>through all eternity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Crown him the Son of God<br/>before the worlds began:<br/>and ye who tread where he hath trod<br/>crown him the Son of Man;<br/>who every grief hath known<br/>that wrings the human breast,<br/>and takes and bears them for his own,<br/>that all in him may rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Crown him the Lord of life,<br/>who triumphed o'er the grave,<br/>and rose victorious in the strife<br/>for those he came to save:<br/>his glories now we sing<br/>who died and rose on high;<br/>who died eternal life to bring,<br/>and lives that death may die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Crown him, the Lord of Love!<br/>Behold His hands and side,<br/>rich wounds, yet visible above<br/>In beauty glorified.<br/>All hail, Redeemer, hail!<br/>For Thou hast died for me:<br/>thy praise shall never, never fail<br/>throughout eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

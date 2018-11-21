@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:06">
+  <properties>
+    <titles>
+      <title>JP274 What a wonderful Saviour is Jesus,</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>What a wonderful Saviour is Jesus,<br/>What a wonderful Friend is He,<br/>For he left all the glory of heaven,<br/>Came to earth to die on calvary:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He arose from the grave, Hallelujah,<br/>And He lives never more to die,<br/>At the Father's right hand interceding<br/>He will hear and heed our faintest cry.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He is coming some day to receive us,<br/>We'll be caught up to Heaven above,<br/>What a joy it will be to behold Him,<br/>Sing forever of His grace and love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Sing Hosanna! Sing Hosanna!<br/>Sing Hosanna to the King of Kings!<br/>Sing Hosanna! Sing Hosanna!<br/>Sing Hosanna to the King.</lines>
+    </verse>
+  </lyrics>
+</song>

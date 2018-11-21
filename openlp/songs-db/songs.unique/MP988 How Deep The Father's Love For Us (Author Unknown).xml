@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:05">
+  <properties>
+    <titles>
+      <title>MP988 How Deep The Father's Love For Us</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How deep the Father's love for us<br/>how vast beyond all measure,<br/>that He should give His only Son<br/>to make a wretch His treasure.<br/>How great the pain of searing loss<br/>the Father turns His face away,<br/>as wounds which mar the Chosen One<br/>bring many sons to glory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Behold the man upon a cross,<br/>my sin upon His shoulders;<br/>ashamed, I hear my mocking voice<br/>call out among the scoffers.<br/>It was my sin that held Him there<br/>until it was accomplished;<br/>His dying breath has brought me life -<br/>I know that it is finished.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I will not boast in anything,<br/>no gifts, no power, no wisdom;<br/>but I will boast in Jesus Christ,<br/>His death and resurrection.<br/>Why should I gain from His reward?<br/>I cannot give an answer,<br/>but this I know with all my heart,<br/>His wounds have paid my ransom.</lines>
+    </verse>
+  </lyrics>
+</song>

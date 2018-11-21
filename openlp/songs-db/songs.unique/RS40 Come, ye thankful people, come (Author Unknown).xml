@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:38">
+  <properties>
+    <titles>
+      <title>RS40 Come, ye thankful people, come</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, ye thankful people, come,<br/>raise the song of harvest-home!<br/>all is safely gathered in,<br/>ere the winter storms begin:<br/>God, our maker, doth provide<br/>for our wants to be supplied;<br/>come to God's own temple, come,<br/>raise the song of harvest-home!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>All this world is God's own field,<br/>fruit unto his praise to yield;<br/>wheat and tares together sown,<br/>unto joy or sorrow grown;<br/>first the blade and then the ear,<br/>then the full corn shall appear:<br/>grant, O harvest Lord that we<br/>wholesome grain and pure may be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Even so, Lord quickly come<br/>bring thy final harvest home;<br/>from thy field upon that day<br/>all offences purge away;<br/>gather thou thy people in,<br/>free from sorrow, free from sin,<br/>there for ever purified,<br/>in thy glory to abide.</lines>
+    </verse>
+  </lyrics>
+</song>

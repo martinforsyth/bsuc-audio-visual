@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:03">
+  <properties>
+    <titles>
+      <title>HP797 Lord of all good, our gifts we bring to thee</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord of all good, our gifts we bring to thee:<br/>Use them thy holy purpose to fulfil;<br/>Tokens of love and pledges they shall be<br/>That our whole life is offered to thy will.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We give our mind to understand thy ways;<br/>Hands, eyes, and voice to serve thy great design;<br/>Heart with the flame of thine own love ablaze,<br/>Till for thy glory all our powers combine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Father, whose bounty all creation shows,<br/>Christ, by whose willing sacrifice we live,<br/>Spirit, from whom all life in fullness flows,<br/>To thee with grateful hearts ourselves we give.</lines>
+    </verse>
+  </lyrics>
+</song>

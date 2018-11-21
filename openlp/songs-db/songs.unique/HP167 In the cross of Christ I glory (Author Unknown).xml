@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:49">
+  <properties>
+    <titles>
+      <title>HP167 In the cross of Christ I glory</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In the cross of Christ I glory:<br/>Towering o'er the wrecks of time,<br/>All the light of sacred story<br/>Gathers round its head sublime.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When the woes of life o'ertake me,<br/>Hopes deceive and fears annoy,<br/>Never shall the cross forsake me,<br/>Lo, it glows with peace and joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When the sun of bliss is beaming<br/>Light and love upon my way,<br/>From the cross the radiance streaming<br/>Adds more lustre to the day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Bane and blessing, pain and pleasure,<br/>By the cross are sanctified;<br/>Peace is there that knows no measure,<br/>Joys that through all time abide.</lines>
+    </verse>
+  </lyrics>
+</song>

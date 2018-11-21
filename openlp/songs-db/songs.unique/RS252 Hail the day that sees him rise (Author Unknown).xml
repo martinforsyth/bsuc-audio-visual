@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:47">
+  <properties>
+    <titles>
+      <title>RS252 Hail the day that sees him rise</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hail the day that sees him rise<br/>Alleluia!<br/>Taken from our wondering eyes!<br/>Alleluia!<br/>Christ, awhile to mortals given<br/>Alleluia!<br/>reascends his native heavan<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There the glorious triumph waits:<br/>lift your heads, eternal gates;<br/>Christ has conquered death and sin;<br/>let the King of glory in.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Though returning to his throne,<br/>still he calls the world his own;<br/>Him though highest heaven receives,<br/>still he loves the world he leaves.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>See he lifts his hands above;<br/>see! he shows the prints of love;<br/>hark! his gracious lips bestow<br/>blessings on his Church below.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Still for us he intercedes,<br/>his prevailing death he pleads;<br/>Near himself prepares our place,<br/>first fruits of our human race</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>There we shall with thee remain,<br/>partners of thine endless reign;<br/>there thy face unclouded see,<br/>find our heaven of heavens in thee.</lines>
+    </verse>
+  </lyrics>
+</song>

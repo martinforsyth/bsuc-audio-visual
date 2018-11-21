@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:39">
+  <properties>
+    <titles>
+      <title>HP34 Eternal depth of love divine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Eternal depth of love divine,<br/>In Jesus, God with us, displayed;<br/>How bright thy beaming glories shine!<br/>How wide thy healing streams are spread!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>With whom dost thou delight to dwell?<br/>Sinners, a vile and thankless race;<br/>O God, what tongue aright can tell<br/>How vast thy love, how great thy grace!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The dictates of thy sovereign will<br/>With joy our grateful hearts receive;<br/>All thy delight in us fulfil;<br/>Lo! All we are to thee we give.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>To thy sure love, thy tender care,<br/>Our flesh, soul, spirit, we resign:<br/>O fix thy sacred presence there,<br/>And seal the abode for ever thine!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O King of Glory! Thy rich grace<br/>Our feeble thought surpasses far;<br/>Yea, even our sins, though numberless,<br/>Less numerous than thy mercies are.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Still, Lord, thy saving health display,<br/>And arm our souls with heavenly zeal;<br/>So fearless shall we urge our way<br/>Through all the powers of earth and hell.</lines>
+    </verse>
+  </lyrics>
+</song>

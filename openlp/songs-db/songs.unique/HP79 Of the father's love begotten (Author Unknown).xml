@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:43">
+  <properties>
+    <titles>
+      <title>HP79 Of the father's love begotten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Of the Father's love begotten<br/>Ere the worlds began to be,<br/>He is Alpha and Omega,<br/>He the source, the ending he,<br/>Of the things that are, that have been,<br/>And that future years shall see,<br/>Evermore and evermore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>By his word was all created;<br/>He commanded and 'twas done;<br/>Earth and sky and boundless ocean,<br/>Universe of three in one,<br/>All that sees the moon's soft radiance,<br/>All that breathes beneath the sun,<br/>Evermore and evermore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>This is he whom seers in old time<br/>Chanted of with one accord,<br/>Whom the voices of the prophets<br/>Promised in their faithful word;<br/>Now he shines, the long-expected;<br/>Let creation praise its Lord,<br/>Evermore and evermore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O ye heights of heaven, adore him;<br/>Angel hosts, his praises sing;<br/>All dominions, bow before him,<br/>And extol our God and King;<br/>Let no tongue on earth be silent,<br/>Every voice in concert sing,<br/>Evermore and evermore!</lines>
+    </verse>
+  </lyrics>
+</song>

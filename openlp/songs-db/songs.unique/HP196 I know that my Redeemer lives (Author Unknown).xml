@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:51">
+  <properties>
+    <titles>
+      <title>HP196 I know that my Redeemer lives</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I know that my Redeemer lives,<br/>What joy the blest assurance gives.<br/>He lives, He lives, Who once was dead;<br/>He lives, my everlasting Head.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He lives, to bless me with His love;<br/>He lives, to plead for me above;<br/>He lives, my hungry soul to feed;<br/>He lives, to help in time of need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He lives, and grants me daily breath;<br/>He lives, and I shall conquer death;<br/>He lives, my mansion to prepare;<br/>He lives, to lead me safely there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He lives, all glory to His name;<br/>He lives, my Saviour, still the same;<br/>What joy the blest assurance gives,<br/>I know that my Redeemer lives!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:04">
+  <properties>
+    <titles>
+      <title>HP799 My heart is full of Christ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My heart is full of Christ, and longs<br/>Its glorious matter to declare!<br/>Of him I make my loftier songs,<br/>I cannot from his praise forbear;<br/>My ready tongue makes haste to sing<br/>The glories of my heavenly King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Fairer than all the earth-born race,<br/>Perfect in comeliness thou art;<br/>Replenished are thy lips with grace,<br/>And full of love thy tender heart:<br/>God ever blest! We bow the knee,<br/>And own all fullness dwells in thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Gird on thy thigh the Spirit's sword,<br/>And take to thee thy power divine;<br/>Stir up thy strength, almighty Lord,<br/>All power and majesty are thine:<br/>Assert thy worship and renown;<br/>O all-redeeming God, come down!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Come, and maintain thy righteous cause,<br/>And let thy glorious toil succeed;<br/>Dispread the victory of thy cross,<br/>Ride on, and prosper in thy deed;<br/>Through earth triumphantly ride on,<br/>And reign in every heart alone.</lines>
+    </verse>
+  </lyrics>
+</song>

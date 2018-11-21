@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:29">
+  <properties>
+    <titles>
+      <title>MP168 Give me the faith which can remove</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Give me the faith which can remove<br/>And sink the mountain to a plain;<br/>Give me the child-like praying love,<br/>Which longs to build Thy house again;<br/>Thy love let it my heart o'erpower,<br/>And all my simple soul devour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I would the precious time redeem,<br/>And longer live for this alone,<br/>To spend, and to be spent, for them<br/>Who have not yet my Saviour known;<br/>Fully on these my mission prove,<br/>And only breathe, to breathe Thy love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>My talents, gifts, and graces, Lord,<br/>Into Thy blessed hands receive;<br/>And let me live to preach Thy word,<br/>And let me to Thy glory live;<br/>My every sacred moment spend<br/>In publishing the sinner's Friend.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Enlarge, inflame, and fill my heart<br/>With boundless charity divine!<br/>So shall I all my strength exert,<br/>And love them with a zeal like Thine;<br/>And lead them to Thy open side,<br/>The sheep for whom their Shepherd died.</lines>
+    </verse>
+  </lyrics>
+</song>

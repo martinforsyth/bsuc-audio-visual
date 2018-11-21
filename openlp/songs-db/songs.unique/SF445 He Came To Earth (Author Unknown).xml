@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:35">
+  <properties>
+    <titles>
+      <title>SF445 He Came To Earth</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He came to earth, not to be served,<br/>But gave His life to be a ransom for many;<br/>The Son of God, the Son of man,<br/>He shared our pain and bore our sins in His body.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And so I stand, a broken soul,<br/>To see the pain that I have brought to Jesus;<br/>And yet each heart will be consoled,<br/>To be made new, the joy of all believers.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And from now on, through all my days,<br/>I vow to live each moment here for Jesus;<br/>Not looking back, but giving praise<br/>For all my Lord has done for this believer.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>King of kings and Lord of lords,<br/>I lift my voice in praise;<br/>Such amazing love, but I do believe<br/>This King has died for me.</lines>
+    </verse>
+  </lyrics>
+</song>

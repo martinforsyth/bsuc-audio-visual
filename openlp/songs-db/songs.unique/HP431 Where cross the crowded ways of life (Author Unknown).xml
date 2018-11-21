@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:30">
+  <properties>
+    <titles>
+      <title>HP431 Where cross the crowded ways of life</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Where cross the crowded ways of life,<br/>Where sound the cries of race and clan,<br/>Above the noise of selfish strife,<br/>We hear thy voice, O Son of Man.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In haunts of wretchedness and need,<br/>On shadowed thresholds dark with fears,<br/>From paths where hide the lures of greed,<br/>We catch the vision of thy tears.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The cup of water given for thee<br/>Still holds the freshness of thy grace;<br/>Yet long these multitudes to see<br/>The strong compassion of thy face.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O Master, from the mountain-side<br/>Make haste to heal these hearts of pain;<br/>Among these restless throngs abide,<br/>O tread the city's streets again:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Till sons of men shall learn thy love,<br/>And follow where thy feet have trod;<br/>Till glorious from thy heaven above<br/>Shall come the city of our God.</lines>
+    </verse>
+  </lyrics>
+</song>

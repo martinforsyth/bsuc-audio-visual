@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:32">
+  <properties>
+    <titles>
+      <title>MP1245 You Are The Lord</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>And for all You've done and yet to do,<br/>With every breath, I'm praising You.<br/>Desire of nations and every heart,<br/>You alone are God,<br/>You alone are God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The Morning Star is shining through,<br/>And every eye is watching You.<br/>Revealed by nature and miracles,<br/>You are beautiful, You are beautiful.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>You Are The Lord,<br/>The famous One, famous One;<br/>Great is Your name in all the earth.<br/>The heavens declare<br/>You're glorious, glorious;<br/>Great is Your fame beyond the earth.</lines>
+    </verse>
+  </lyrics>
+</song>

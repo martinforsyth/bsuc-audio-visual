@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:52">
+  <properties>
+    <titles>
+      <title>HP488 Command thy blessing from above</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Command thy blessing from above,<br/>O God, on all assembled here;<br/>Behold us with a Father's love,<br/>While we look up with filial fear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Command thy blessing, Jesus, Lord;<br/>May we thy true disciples be;<br/>Speak to each heart the mighty word,<br/>Say to the weakest, 'Follow me'.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Command thy blessing in this hour,<br/>Spirit of truth, and fill this place<br/>With humbling and exalting power,<br/>With quickening and confirming grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O thou, our Maker, Saviour, Guide,<br/>One true eternal God confessed:<br/>Whom thou hast joined may none divide,<br/>Nor dare to curse whom thou hast blessed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>With thee and these for ever bound,<br/>May all who here in prayer unite,<br/>With joyful songs thy throne surround,<br/>Rest in thy love, and reign in light.</lines>
+    </verse>
+  </lyrics>
+</song>

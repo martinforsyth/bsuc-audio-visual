@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:29">
+  <properties>
+    <titles>
+      <title>MP713 Tonight while all the world is sleeping</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Tonight, while all the world is sleeping,<br/>A light exploded in the skies.<br/>And then, as glory did surround us,<br/>A voice, an angel did appear!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Afraid, we covered up our faces,<br/>Amazed at what our ears did hear.<br/>Good news of joy for all the people<br/>Today a Saviour has appeared!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And so to Bethlehem<br/>To find it all was true;<br/>Despised and worthless shepherds,<br/>We were the first to know.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Glory to God in the highest,<br/>And on the earth all peace from heav'n!<br/>Glory to God in the highest,<br/>And on the earth all peace from heav'n!</lines>
+    </verse>
+  </lyrics>
+</song>

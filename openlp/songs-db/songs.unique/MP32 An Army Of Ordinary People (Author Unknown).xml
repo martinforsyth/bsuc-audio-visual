@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:19">
+  <properties>
+    <titles>
+      <title>MP32 An Army Of Ordinary People</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>An army of ordinary people,<br/>A kingdom where love is the key,<br/>A city, a light to the nations,<br/>Heirs to the promise are we.<br/>A people whose life is in Jesus,<br/>A nation together we stand.<br/>Only through grace are we worthy,<br/>Inheritors of the land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A people without recognition,<br/>But with Him a destiny sealed,<br/>Called to a heavenly vision,<br/>His purpose shall be fulfilled.<br/>Come, let us stand strong together,<br/>Abandon ourselves to the King,<br/>His love shall be ours forever,<br/>This victory song we shall sing.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>A new day is dawning,<br/>A new age to come,<br/>When the children of promise<br/>Shall flow together as one.<br/>A truth long neglected,<br/>But the time has now come<br/>When the children of promise<br/>Shall flow together as one.</lines>
+    </verse>
+  </lyrics>
+</song>

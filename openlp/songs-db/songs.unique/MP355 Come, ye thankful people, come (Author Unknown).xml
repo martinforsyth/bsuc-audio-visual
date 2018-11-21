@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:43">
+  <properties>
+    <titles>
+      <title>MP355 Come, ye thankful people, come</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, ye thankful people, come,<br/>raise the song of harvest-home!<br/>all is safely gathered in,<br/>ere the winter storms begin:<br/>God, our maker, doth provide<br/>for our wants to be supplied;<br/>come to God's own temple, come,<br/>raise the song of harvest-home!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>All this world is God's own field,<br/>fruit unto his praise to yield;<br/>wheat and tares together sown,<br/>unto joy or sorrow grown;<br/>first the blade and then the ear,<br/>then the full corn shall appear:<br/>grant, O harvest Lord that we<br/>wholesome grain and pure may be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For the Lord our God shall come,<br/>and shall take his harvest home;<br/>from his field shall in that day<br/>all offences purge away;<br/>give his angels charge at last<br/>in the fire the tares to cast,<br/>but the fruitful ears to store<br/>in his garner evermore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Even so, Lord, quickly come.<br/>bring this final harvest home:<br/>gather thou thy people in,<br/>free from sorrow, free from sin:<br/>there, for ever purified,<br/>in thy garner to abide:<br/>come, with all thine angels come,<br/>raise the glorious harvest-home.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:39">
+  <properties>
+    <titles>
+      <title>RS93 Begin, my tongue, some heavenly theme</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Begin, my tongue, some heavenly theme;<br/>and speak some boundless thing,<br/>The mighty works, or mightier name,<br/>Of our eternal King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Tell of His wondrous faithfulness,<br/>And sound His power abroad;<br/>Sing the sweet promise of His grace,<br/>And the fulfilling God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Engraved as in eternal brass,<br/>The mighty promise shines;<br/>Nor can the powers of darkness rase<br/>Those everlasting lines.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>His every word of grace is strong<br/>As that which built the skies:<br/>The voice that rolls the stars along<br/>Speaks all the promises.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O might I hear thy heavenly tongue<br/>but whisper, 'Thou art mine';<br/>those gentle words should raise my song<br/>to notes almost divine.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>How would my leaping heart rejoice<br/>To know my heaven secure:<br/>I trust the all-creating voice,<br/>And faith desires no more.</lines>
+    </verse>
+  </lyrics>
+</song>

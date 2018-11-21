@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:28">
+  <properties>
+    <titles>
+      <title>MP162From Heaven You Came</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>From heaven You came, helpless babe,<br/>entered our world, Your glory veiled;<br/>not to be served but to serve,<br/>and give Your life that we might live.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There in the garden of tears,<br/>my heavy load He chose to bear;<br/>His heart with sorrow was torn,<br/>'Yet not My will but Yours,' He said.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come see His hands and His feet,<br/>The scars that speak of sacrifice;<br/>Hands that flung stars into space<br/>To cruel nails surrendered.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>So let us learn how to serve,<br/>And in our lives enthrone Him;<br/>Each other's needs to prefer,<br/>For it is Christ we're serving.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>This is our God, the Servant King,<br/>He calls us now to follow Him,<br/>to bring our lives as a daily offering<br/>of worship to the Servant King.</lines>
+    </verse>
+  </lyrics>
+</song>

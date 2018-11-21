@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:25">
+  <properties>
+    <titles>
+      <title>HP408 The right hand of God is writing in our land</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The right hand of God is writing in our land,<br/>Writing with power and with love;<br/>Our conflicts and our fears,<br/>Our triumphs and our tears,<br/>Are recorded by the right hand of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The right hand of God is pointing in our land,<br/>Pointing the way we must go;<br/>So clouded is the way,<br/>So easily we stray,<br/>But we're guided by the right hand of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The right hand of God is striking in our land,<br/>Striking out at envy, hate and greed;<br/>Our selfishness and lust,<br/>Our pride and deeds unjust,<br/>Are destroyed by the right hand of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The right hand of God is lifting in our land,<br/>Lifting the fallen one by one;<br/>Each one is known by name,<br/>And lifted now from shame,<br/>By the lifting of the right hand of God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The right hand of God is healing in our land,<br/>Healing broken bodies, minds and souls;<br/>So wondrous is its touch,<br/>With love that means so much,<br/>When we're healed by the right hand of God.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>The right hand of God is planting in our land,<br/>Planting seeds of freedom, hope and love;<br/>In these many peopled lands,<br/>Let his children all join hands,<br/>Are be the one with the right hand of God.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:09">
+  <properties>
+    <titles>
+      <title>HP305 Let every Christian pray</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Let every Christian pray,<br/>This day, and every day,<br/>Come, Holy Spirit, come!<br/>Was not the Church we love<br/>Commissioned from above?<br/>Come, Holy Spirit, come!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The Spirit brought to birth<br/>The Church of Christ on earth<br/>To seek and save the lost;<br/>Never has he withdrawn,<br/>Since that tremendous dawn<br/>His gifts at Pentecost.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Age after age, he strove<br/>To teach her how to love;<br/>Come, Holy Spirit, come!<br/>Age after age, anew,<br/>She proved the gospel true;<br/>Come, Holy Spirit, come!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Only the Spirit's power<br/>Can fit us for this hour;<br/>Come, Holy Spirit, come!<br/>Instruct, inspire, unite;<br/>And make us see the light;<br/>Come, Holy Spirit, come!</lines>
+    </verse>
+  </lyrics>
+</song>

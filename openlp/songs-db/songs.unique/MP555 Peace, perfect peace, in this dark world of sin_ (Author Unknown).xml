@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:12">
+  <properties>
+    <titles>
+      <title>MP555 Peace, perfect peace, in this dark world of sin?</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Peace, perfect peace, in this dark world of sin?<br/>The blood of Jesus whispers peace within.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Peace, perfect peace, by thronging duties pressed'<br/>To do the will of Jesus, this is rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Peace, perfect peace, with sorrows surging round?<br/>In  Jesus' presence nought but calm is found.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Peace, perfect peace, with loved ones far away?<br/>In Jesus' keeping we are safe, and they.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Peace, perfect peace, our future all unknown!<br/>Jesus we know, and He is on the throne.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Peace, perfect peace, death shadowing us and ours!<br/>Jesus has vanquished death and all its powers.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>It is enough: earth's struggles soon shall cease,<br/>And Jesus call us to heaven's perfect peace.</lines>
+    </verse>
+  </lyrics>
+</song>

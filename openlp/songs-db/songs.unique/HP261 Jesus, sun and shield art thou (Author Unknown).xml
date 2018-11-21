@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:02">
+  <properties>
+    <titles>
+      <title>HP261 Jesus, sun and shield art thou</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, sun and shield art thou,<br/>Sun and shield for ever!<br/>Never canst thou cease to shine,<br/>Cease to guard us, never.<br/>Cheer our steps as on we go,<br/>Come between us and the foe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus, peace and joy art thou,<br/>Joy and peace for ever!<br/>Joy that fades not, changes not,<br/>Peace that leaves us never.<br/>Joy and peace we have in thee,<br/>Now and through eternity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, song and strength art thou,<br/>Strength and song for ever!<br/>Strength that never can decay,<br/>Song that ceaseth never.<br/>Still to us this strength and song<br/>Through eternal days prolong.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus, bread and wine art thou,<br/>Wine and bread for ever!<br/>Never canst thou cease to feed,<br/>Or refresh us, never.<br/>Feed we still on bread divine,<br/>Drink we still of heavenly wine.</lines>
+    </verse>
+  </lyrics>
+</song>

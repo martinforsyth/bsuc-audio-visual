@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:43">
+  <properties>
+    <titles>
+      <title>MP857 I, the Lord of sea and sky</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I, the Lord of sea and sky,<br/>I have heard My people cry.<br/>All who dwell in dark and sin,<br/>My hand will save<br/>I who made the stars of night,<br/>I will make their darkness bright.<br/>Who will bear My light to them?<br/>Whom shall I send?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I, the Lord of snow and rain,<br/>I have borne My people's pain<br/>I have wept for love of them.<br/>They turn away<br/>I will break their hearts of stone,<br/>give them hearts for love alone.<br/>I will speak My word to them.<br/>Whom shall I send?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I, the Lord of wind and flame,<br/>I will tend the poor and lame.<br/>I will set a feast for them.<br/>My hand will save.<br/>Finest bread I will provide<br/>till their hearts be satisfied.<br/>I will give My life to them.<br/>Whom shall I send?</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Here I am, Lord. Is it I Lord?<br/>I have heard you calling in the night<br/>I will go, Lord, if you lead me.<br/>I will hold your people in my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

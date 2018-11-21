@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:32">
+  <properties>
+    <titles>
+      <title>MP221 He Walked Where I Walk</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He walked where I walk, (echo)<br/>He stood where I stand, (echo)<br/>He felt what I feel, (echo)<br/>He understands. (echo)<br/>He knows my frailty, (echo)<br/>Shared my humanity, (echo)<br/>Tempted in every way, (echo)<br/>Yet without sin. (echo)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>One of a hated race, (echo)<br/>Stung by the prejudice, (echo)<br/>Suffering injustice, (echo)<br/>Yet He forgives. (echo)<br/>Wept for my wasted years, (echo)<br/>Paid for my wickedness, (echo)<br/>He died in my place (echo)<br/>That I might live. (echo)</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>God with us, so close to us. (all)<br/>God with us, Immanuel!<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:34">
+  <properties>
+    <titles>
+      <title>HP439 I'll praise my Maker while I've breath</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I'll praise my Maker while I've breath,<br/>And when my voice is lost in death,<br/>Praise shall employ my nobler powers;<br/>My days of praise shall ne'er be past,<br/>While life and thought and being last,<br/>Or immortality endures.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Happy the man whose hopes rely<br/>On Israel's God; He made the sky<br/>And earth and seas, with all their train;<br/>His truth for ever stands secure;<br/>He saves the oppressed, He feeds the poor,<br/>And none shall find His promise vain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The Lord gives eyesight to the blind;<br/>The Lord supports the fainting mind;<br/>He sends the labouring conscience peace;<br/>He helps the stranger in distress,<br/>The widow and the fatherless,<br/>And grants the prisoner sweet release.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I'll praise Him while He lends me breath,<br/>And when my voice is lost in death,<br/>Praise shall employ my nobler powers;<br/>My days of praise shall ne'er be past,<br/>While life and thought and being last,<br/>Or immortality endures.</lines>
+    </verse>
+  </lyrics>
+</song>

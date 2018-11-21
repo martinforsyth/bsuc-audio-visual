@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:53">
+  <properties>
+    <titles>
+      <title>HP729 God of my salvation</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of my salvation, hear,<br/>And help me to believe;<br/>Simply do I now draw near,<br/>Thy blessing to receive:<br/>Full of sin, alas! I am,<br/>But to thy wounds for refuge flee:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Standing now as newly slain,<br/>To thee I lift mine eye;<br/>Balm of all my grief and pain,<br/>Thy grace is always nigh:<br/>Now as yesterday the same<br/>Thou art, and wilt for ever be:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Nothing have I, Lord, to pay,<br/>Nor can thy grace procure;<br/>Empty send me not away,<br/>For I, thou know'st, am poor:<br/>Dust and ashes is my name,<br/>My all is sin and misery:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>No good word, or work, or thought<br/>Bring I to gain thy grace;<br/>Pardon I accept unbought,<br/>Thine offer I embrace,<br/>Coming, as at first I came,<br/>To take, and not bestow on thee:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Saviour, from thy wounded side<br/>I never will depart;<br/>Here will I my spirit hide<br/>When I am pure in heart:<br/>Till my place above I claim,<br/>This only shall be all my plea:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Friend of sinners, spotless Lamb,<br/>Thy blood was shed for me.</lines>
+    </verse>
+  </lyrics>
+</song>

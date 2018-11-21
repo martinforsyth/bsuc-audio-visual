@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:10">
+  <properties>
+    <titles>
+      <title>MP541 One Shall Tell Another</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>One shall tell another,<br/>and he shall tell his friend,<br/>husbands, wives and children<br/>shall come following on.<br/>From house to house in families<br/>shall more be gathered in,<br/>and lights will shine in every street,<br/>so warm and welcoming.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Compassion of the Father<br/>is ready now to flow,<br/>through acts of love and mercy<br/>we must let it show.<br/>He turns now from His anger<br/>to show a smiling face,<br/>and longs that men should stand beneath<br/>the fountain of His grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He longs to do much more than<br/>our faith has yet allowed,<br/>to thrill us and surprise us<br/>with His sovereign power.<br/>Where darkness has been darkest<br/>the brightest light will shine,<br/>His invitation comes to us,<br/>it's yours and it is mine.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Come on in and taste the new wine,<br/>the wine of the kingdom,<br/>the wine of the kingdom of God:<br/>here is healing and forgiveness,<br/>the wine of the kingdom,<br/>the wine of the kingdom of God.</lines>
+    </verse>
+  </lyrics>
+</song>

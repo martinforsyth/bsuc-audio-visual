@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:07">
+  <properties>
+    <titles>
+      <title>HP544 Thou hidden love of God, whose height</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thou hidden love of God, whose height,<br/>Whose depth unfathomed, no-one knows,<br/>I see from far thy beauteous light,<br/>Inly I sigh for thy repose;<br/>My heart is pained, nor can it be<br/>At rest, till it finds rest in thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thy secret voice invites me still<br/>The sweetness of thy yoke to prove;<br/>And fain I would, but though my will<br/>Seems fixed, yet wide my passions rove;<br/>Yet hindrances strew all the way;<br/>I aim at thee, yet from thee stray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'Tis mercy all, that thou hast brought<br/>My mind to seek her peace in thee;<br/>Yet, while I seek but find thee not,<br/>No peace my wandering soul shall see;<br/>O when shall all my wanderings end,<br/>And all my steps to thee-ward tend?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Each moment draw from earth away<br/>My heart, that lowly waits thy call;<br/>Speak to my inmost soul, and say,<br/>'I am thy Love, thy God, thy All!'<br/>To feel thy power, to hear thy voice,<br/>To know thy love, be all my choice.</lines>
+    </verse>
+  </lyrics>
+</song>

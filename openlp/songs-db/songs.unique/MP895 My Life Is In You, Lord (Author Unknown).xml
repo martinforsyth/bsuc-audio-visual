@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:46">
+  <properties>
+    <titles>
+      <title>MP895 My Life Is In You, Lord</title>
+    </titles>
+    <verseOrder>c1 c1 v1 c1 c1 v1 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I will praise You with all of my life;<br/>I will praise You with all of my strength.<br/>With all of my life,<br/>With all of my strength;<br/>All of my hope is in You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>My life is in You, Lord,<br/>My strength is in You, Lord,<br/>My hope is in You, Lord,<br/>In You, it's in You.</lines>
+    </verse>
+  </lyrics>
+</song>

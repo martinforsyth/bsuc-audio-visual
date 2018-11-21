@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:52">
+  <properties>
+    <titles>
+      <title>MP940 The love of God comes close</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The love of God comes close<br/>where stands an open door<br/>to let the stranger in,<br/>to mingle rich and poor.<br/>The love of God is here to stay;<br/>embracing those who walk his way,<br/>the love of God is here to stay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The peace of God comes close<br/>to those caught in the storm,<br/>forgoing lives of ease<br/>to ease the lives forlorn.<br/>The peace of God is here to stay.<br/>embracing those who walk his way,<br/>the peace of God is here to stay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The joy of God comes close<br/>where faith encounters fears,<br/>where heights and depths of life<br/>are found through smiles and tears.<br/>The joy of God is here to stay.<br/>embracing those who walk his way,<br/>the joy of God is here to stay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The grace of God comes close<br/>to those whose grace is spent,<br/>when hearts are tired and sore<br/>and hope is bruised and bent.<br/>The grace of God is here to stay.<br/>embracing those who walk his way,<br/>the grace of God is here to stay.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The Son of God comes close<br/>where people praise his name,<br/>where bread and wine are blessed<br/>and shared as when he came.<br/>The Son of God is here to stay.<br/>embracing those who walk his way,<br/>the Son of God is here to stay.</lines>
+    </verse>
+  </lyrics>
+</song>

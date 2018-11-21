@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:24">
+  <properties>
+    <titles>
+      <title>SF235 Christ our Redeemer knew temptation's hour</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ our Redeemer knew temptation's hour<br/>in desert places, silent and apart;<br/>and three times over met the tempter's power<br/>with God's word written, hidden in his heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He makes not bread what God has made a stone,<br/>he at whose bidding water turns to wine:<br/>we are not meant to live by bread alone<br/>but as God speaks the word of life divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He will not ask the fickle crowd's acclaim,<br/>nor flaunt the Sonship which is his by right,<br/>nor seem distrustful of the Father's Name<br/>who bids us walk by faith and not by sight.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He seeks no kingdom but by cross and grave,<br/>for love of sinners spurning Satan's throne:<br/>his triumph seen in those he died to save<br/>who, to his glory, worship God alone.</lines>
+    </verse>
+  </lyrics>
+</song>

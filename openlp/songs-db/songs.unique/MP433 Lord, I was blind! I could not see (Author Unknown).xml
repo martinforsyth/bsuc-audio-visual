@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:58">
+  <properties>
+    <titles>
+      <title>MP433 Lord, I was blind! I could not see</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, I was blind! I could not see<br/>in Your marred visage any grace;<br/>but now the beauty of Your face<br/>in radiant vision dawns on me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, I was deaf! I could not hear<br/>the thrilling music of Your voice;<br/>but now I hear You and rejoice,<br/>and all Your spoken words are dear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, I was dumb! I could not speak<br/>the grace and glory of Your name;<br/>but now, as touched with living flame,<br/>my lips will speak for Jesus' sake.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, I was dead! I could not move<br/>my lifeless soul from sin's dark grave:<br/>but now the power of life You gave<br/>has raised me up to know Your love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord, You have made the blind to see,<br/>the deaf to hear, the dumb to speak,<br/>the dead to live - and now I break<br/>the chains of my captivity!</lines>
+    </verse>
+  </lyrics>
+</song>

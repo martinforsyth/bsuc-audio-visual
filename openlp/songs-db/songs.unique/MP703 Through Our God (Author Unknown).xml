@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:28">
+  <properties>
+    <titles>
+      <title>MP703 Through Our God</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v1 c1 v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>For God has won the victory<br/>And set His people free;<br/>His word has slain the enemy,<br/>The earth shall stand and see that-</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Through our God we shall do valiantly,<br/>It is He who will tread down our enemies.<br/>We'll sing and shout His victory,<br/>Christ is King!<br/>Christ is King! Christ is King!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Through our God we shall do valiantly,<br/>It is He who will tread down our enemies.<br/>We'll sing and shout His victory,<br/>Christ is King!</lines>
+    </verse>
+  </lyrics>
+</song>

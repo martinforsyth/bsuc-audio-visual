@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:05">
+  <properties>
+    <titles>
+      <title>MP994 It's Rising Up</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v1 v2 v3 v4 v5 v3 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It's rising up, from coast to coast<br/>From north to south and east to west<br/>The cry of hearts that love your name<br/>Which with one voice we will proclaim</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The former things have taken place<br/>Can this be the new day of praise?<br/>A heavenly song that comes to birth<br/>And reaches out to all the earth<br/>Oh let the cry to nations ring<br/>That all may come and all may sing</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Holy is the Lord (every heart sing)<br/>Holy is the Lord (with one voice sing)<br/>Holy is the Lord (every heart sing)<br/>Holy is the Lord (with one voice sing)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And we have heard the lion's roar<br/>That speaks of heaven's love and power<br/>Is this the time, is this the call<br/>That ushers in your kingdom rule?<br/>Oh let the cry of nations ring<br/>That all may come and all may sing</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Jesus is alive (every heart sing)<br/>Jesus is alive (with one voice sing)<br/>Jesus is alive (all the earth sing)<br/>Jesus is alive</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:35">
+  <properties>
+    <titles>
+      <title>HP442 O God of Bethel, by whose hand</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God of Bethel, by whose hand<br/>Thy people still are fed;<br/>Who through this earthly pilgrimage<br/>Hast all our fathers led:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our vows, our prayers, we now present<br/>Before thy throne of grace:<br/>God of our fathers, be the God<br/>Of their succeeding race.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Through each perplexing path of life<br/>Our wandering footsteps guide;<br/>Give us each day our daily bread,<br/>And raiment fit provide.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O spread thy covering wings around,<br/>Till all our wanderings cease,<br/>And at our Father's loved abode<br/>Our souls arrive in peace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>To thee as to our Covenant-God<br/>We'll our whole selves resign;<br/>And this not as a tithe alone,<br/>For all we have is thine.</lines>
+    </verse>
+  </lyrics>
+</song>

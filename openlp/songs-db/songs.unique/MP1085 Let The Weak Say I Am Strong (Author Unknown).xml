@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:18">
+  <properties>
+    <titles>
+      <title>MP1085 Let The Weak Say I Am Strong</title>
+    </titles>
+    <verseOrder>v1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Let the weak say I am strong,<br/>Let the poor say I am rich,<br/>Let the blind say I can see,<br/>It's what the Lord has done in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Into the river I will wade,<br/>There my sins are washed away;<br/>From the heavens mercy streams<br/>Of the Saviour's love for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I will rise from waters deep<br/>Into the saving arms of God;<br/>I will sing salvation songs:<br/>Jesus Christ has set me free.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Hosanna, hosanna<br/>To the Lamb that was slain;<br/>Hosanna, hosanna,<br/>Jesus died and rose again.</lines>
+    </verse>
+  </lyrics>
+</song>

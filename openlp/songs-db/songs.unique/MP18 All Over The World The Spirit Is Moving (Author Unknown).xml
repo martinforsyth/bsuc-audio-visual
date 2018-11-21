@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:16">
+  <properties>
+    <titles>
+      <title>MP18 All Over The World The Spirit Is Moving</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All over the world the Spirit is moving,<br/>all over the world as the prophet said it would be;<br/>all over the world there's a mighty revelation<br/>of the glory of the Lord, as the waters cover the sea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>All over His Church God's Spirit is moving,<br/>all over His Church as the prophet said it would be;<br/>all over His Church there's a mighty revelation<br/>of the glory of the Lord, as the waters cover the sea.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Right here in this place the Spirit is moving,<br/>right here in this place as the prophet said it would be;<br/>right here in this place there's a mighty revelation<br/>of the glory of the Lord, as the waters cover the sea.</lines>
+    </verse>
+  </lyrics>
+</song>

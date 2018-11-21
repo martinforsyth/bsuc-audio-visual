@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-11-16T12:18:45">
+  <properties>
+    <titles>
+      <title>SF689 Summoned by the God who made us</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Delores Dufner</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Summoned by the God who made us<br/>rich in our diversity,<br/>gathered in the name of Jesus,<br/>richer still in unity.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Let us bring the gifts that differ<br/>and, in splendid, varied ways,<br/>sing a new Church into being<br/>one in faith and love and praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Radiant risen from the water,<br/>robed in holiness and light,<br/>male and female in God's image,<br/>male and female, God's delight.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Trust the goodness of creation;<br/>trust the Spirit strong within,<br/>dare to dream the vision promised<br/>sprung from seed of what has been.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Bring the hopes of every nation;<br/>bring the art of every race.<br/>Weave a song of peace and justice;<br/>let it sound through time and space.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Draw together at one table<br/>all the human family;<br/>shape a circle ever wider<br/>and a people ever free.</lines>
+    </verse>
+  </lyrics>
+</song>

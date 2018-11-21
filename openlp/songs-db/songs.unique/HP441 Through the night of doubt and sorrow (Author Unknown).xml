@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:35">
+  <properties>
+    <titles>
+      <title>HP441 Through the night of doubt and sorrow</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Through the night of doubt and sorrow<br/>Onward goes the pilgrim band,<br/>Singing songs of expectation,<br/>Marching to the Promised Land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>One the object of our journey,<br/>One the faith that never tires,<br/>One the earnest looking forward,<br/>One the hope our God inspires.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>One the strain that lips of thousands<br/>Lift as from the heart of one;<br/>One the conflict, one the peril,<br/>One the march in God begun.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>One the light of God's own presence,<br/>O'er His ransomed people shed,<br/>Chasing far the gloom and terror,<br/>Brightening all the path we tread.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>One the gladness of rejoicing<br/>On the far, eternal shore.<br/>Where the One Almighty Father<br/>Reigns in love for evermore.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Soon shall come the great awaking,<br/>Soon the rending of the tomb;<br/>Then the scattering of all shadows,<br/>And the end of toil and gloom.</lines>
+    </verse>
+  </lyrics>
+</song>

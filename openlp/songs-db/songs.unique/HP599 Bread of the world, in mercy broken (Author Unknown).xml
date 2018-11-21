@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:29">
+  <properties>
+    <titles>
+      <title>HP599 Bread of the world, in mercy broken</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Bread of the world, in mercy broken;<br/>Wine of the soul, in mercy shed;<br/>By whom the words of life were spoken,<br/>And in whose death our sins are dead:<br/>Look on the heart by sorrow broken,<br/>Look on the tears by sinners shed;<br/>And be thy feast to us the token<br/>That by thy grace our souls are fed.</lines>
+    </verse>
+  </lyrics>
+</song>

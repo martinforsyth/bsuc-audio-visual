@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:31">
+  <properties>
+    <titles>
+      <title>MP1224 Happy Day</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The greatest day in history, Death is beaten<br/>You have rescued me<br/>Sing it out Jesus is alive<br/>The empty cross, The empty grave<br/>Life eternal You have won the day<br/>Shout it out Jesus is alive<br/>He's alive</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When I stand, in that place<br/>Free at last, meeting face to face<br/>I am Yours Jesus You are mine<br/>Endless joy, perfect peace<br/>Earthly pain finally will cease<br/>Celebrate Jesus is alive<br/>He's alive</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Oh what a glorious day<br/>What a glorious way<br/>That You have saved me<br/>Oh what a glorious day<br/>What a glorious name</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Oh happy day, happy day<br/>You washed my sin away<br/>Oh happy day, happy day<br/>I'll never be the same<br/>Forever I am changed</lines>
+    </verse>
+  </lyrics>
+</song>

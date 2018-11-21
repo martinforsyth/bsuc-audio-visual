@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:28">
+  <properties>
+    <titles>
+      <title>HP425 Lord, save thy world</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, save thy world; in bitter need<br/>Thy children lift their cry to thee;<br/>We wait thy liberating deed<br/>To signal hope and set us free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, save thy world; our souls are bound<br/>In iron chains of fear and pride;<br/>High walls of ignorance around<br/>Our faces from each other hide.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, save thy world; we strive in vain<br/>To save ourselves without thine aid;<br/>What skill and science slowly gain<br/>Is soon to evil ends betrayed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, save thy world; but thou hast sent<br/>The Saviour whom we sorely need;<br/>For us his tears and blood were spent,<br/>That from our bonds we might be freed.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Then save us now, by Jesus' power,<br/>And use the lives thy love sets free,<br/>To bring at last the glorious hour<br/>When all will find thy liberty.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:13">
+  <properties>
+    <titles>
+      <title>MP558 Praise Him on the trumpet</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise him on the trumpet,<br/>The psaltery and harp,<br/>Praise Him on the timbrel and the dance,<br/>Praise Him with stringed instruments, too.<br/>Praise Him on the loud cymbals,<br/>Praise Him on the loud cymbals,<br/>Let everything that has breath praise the Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Hallelujah, praise the Lord,<br/>Hallelujah, praise the Lord,<br/>Let everything that has breath praise the Lord.<br/>Hallelujah, praise the Lord,<br/>Hallelujah, praise the Lord,<br/>Let everything that has breath praise the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:14">
+  <properties>
+    <titles>
+      <title>HP811 Earth, rejoice, our Lord is King</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Earth, rejoice, our Lord is King!<br/>Sons of men, his praises sing;<br/>Sing ye in triumphant strains,<br/>Jesus the Messiah reigns!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Power is all to Jesus given,<br/>Lord of hell, and earth, and heaven,<br/>Every knee to him shall bow;<br/>Satan, hear, and tremble now!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Angels and archangels join,<br/>All triumphantly combine,<br/>All in Jesu's praise agree,<br/>Carrying on his victory.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Though the sons of night blaspheme,<br/>More there are with us than them;<br/>God with us, we cannot fear;<br/>Fear, ye fiends, for Christ is here!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lo, to faith's enlightened sight,<br/>All the mountain flames with light!<br/>Hell is nigh, but God is nigher,<br/>Circling us with hosts of fire.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Christ the Saviour is come down,<br/>Points us to the victor's crown,<br/>Bids us take our seats above,<br/>More than conquerors in his love.</lines>
+    </verse>
+  </lyrics>
+</song>

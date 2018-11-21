@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:21">
+  <properties>
+    <titles>
+      <title>MP632 Thank You For The Cross</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thank You for the cross,<br/>The price You paid for us,<br/>How You gave Yourself,<br/>So completely,<br/>Precious Lord (precious Lord).<br/>Now our sins are gone,<br/>All forgiven,<br/>Covered by Your blood,<br/>All forgotten,<br/>Thank You, Lord (thank You, Lord).</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For our healing there,<br/>Lord, You suffered,<br/>And to take our fear<br/>You poured out Your love,<br/>Precious Lord (precious Lord).<br/>Calvary's work is done,<br/>You have conquered,<br/>Able now to save<br/>So completely,<br/>Thank You, Lord (thank You, Lord).</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Oh, I love You, Lord,<br/>Really love You, Lord.<br/>I will never understand<br/>Why You love me.<br/>You're my deepest joy,<br/>You're my heart's desire,<br/>And the greatest thing of all, O Lord, I see:<br/>You delight in me!</lines>
+    </verse>
+  </lyrics>
+</song>

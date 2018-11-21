@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:53">
+  <properties>
+    <titles>
+      <title>HP491 New songs of celebration render</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>New songs of celebration render<br/>to him who has great wonders done.<br/>Awed by his power, his foes surrender<br/>And fall before the Mighty One.<br/>He has made known his great salvation<br/>which all his friends with joy confess;<br/>he has revealed to every nation<br/>his everlasting righteousness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Joyfully, heartily resounding,<br/>let every instrument and voice<br/>peal out the praise of grace abounding,<br/>calling the whole world to rejoice.<br/>Trumpets and organs set in motion<br/>such sounds as make the heavens ring;<br/>all things that live in earth and ocean,<br/>make music for your mighty King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Rivers and seas and torrents roaring,<br/>honour the Lord with wild acclaim;<br/>mountains and stones look up adoring<br/>and find a voice to praise his Name.<br/>Righteous, commanding, ever glorious,<br/>praises be his that never cease;<br/>just is our God, whose truth victorious<br/>establishes the world in peace.</lines>
+    </verse>
+  </lyrics>
+</song>

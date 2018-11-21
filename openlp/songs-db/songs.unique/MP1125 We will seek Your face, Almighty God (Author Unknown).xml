@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:22">
+  <properties>
+    <titles>
+      <title>MP1125 We will seek Your face, Almighty God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We will seek Your face, Almighty God,<br/>Turn and pray for You to heal our land.<br/>Father, let revival start in us,<br/>Then every heart will know Your Kingdom come</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Never looking back, we'll run the race;<br/>Giving You our lives, we'll gain the prize.<br/>We will take the harvest given us,<br/>Though we sow in tears, we'll reap in joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Send revival, send revival,<br/>Send revival to us<br/>(repeat)</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Lifting up the name of the Lord<br/>In power and in unity,<br/>We will see the nations turn,<br/>Touching heaven, changing earth<br/>Lifting up the name of the Lord<br/>In power and in unity<br/>We will see the nations turn<br/>Touching heaven, changing earth<br/>Touching heaven, changing earth</lines>
+    </verse>
+  </lyrics>
+</song>

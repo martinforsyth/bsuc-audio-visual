@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:46">
+  <properties>
+    <titles>
+      <title>HP129 Christ, when for us you were baptized</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ, when for us you were baptized<br/>God's Spirit on you came,<br/>As peaceful as a dove, and yet<br/>As urgent as a flame.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God called you his beloved Son,<br/>Called you his Servant too;<br/>His kingdom you were called to preach,<br/>His holy will to do.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Straightway and steadfast until death<br/>You then obeyed his call,<br/>Freely as Son of Man to serve,<br/>And give your life for all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Baptize us with your Spirit, Lord,<br/>Your cross on us be signed,<br/>That likewise in God's service we<br/>May perfect freedom find.</lines>
+    </verse>
+  </lyrics>
+</song>

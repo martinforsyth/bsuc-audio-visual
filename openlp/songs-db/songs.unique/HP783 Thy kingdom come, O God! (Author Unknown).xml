@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:01">
+  <properties>
+    <titles>
+      <title>HP783 Thy kingdom come, O God!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thy kingdom come, O God!<br/>Thy rule, O Christ, begin!<br/>Break with thine iron rod<br/>The tyrannies of sin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Where is thy reign of peace,<br/>And purity and love?<br/>When shall all hatred cease,<br/>As in the realms above?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When comes the promised time<br/>That war shall be no more,<br/>And lust, oppression, crime,<br/>Shall flee thy face before?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We pray thee, Lord, arise,<br/>And come in thy great might;<br/>Revive our longing eyes,<br/>Which languish for thy sight.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Men scorn thy sacred name.<br/>And wolves devour thy fold;<br/>By many deeds of shame<br/>We learn that love grows cold.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O'er lands both near and far<br/>Thick darkness broodeth yet:<br/>Arise, O morning Star,<br/>Arise, and never set!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-07-15T08:49:18">
+  <properties>
+    <titles>
+      <title>SF673 Will you come and follow me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Will you come and follow me<br/>if I but call your name?<br/>Will you go where you don't know<br/>and never be the same?<br/>Will you let my love be shown,<br/>will you let my name be known,<br/>will you let my life be grown<br/>in you and you in me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Will you leave yourself behind<br/>if I but call your name?<br/>Will you care for cruel and kind<br/>and never be the same?<br/>Will you risk the hostile stare<br/>should your life attract or scare?<br/>Will you let me answer prayer<br/>in you and you in me?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Will you let the blinded see<br/>if I but call your name?<br/>Will you set the prisoners free<br/>and never be the same?<br/>Will you kiss the leper clean,<br/>and do such as this unseen,<br/>and admit to what I mean<br/>in you and you in me?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Will you love the 'you' you hide<br/>if I but call your name?<br/>Will you quell the fear inside<br/>and never be the same?<br/>Will you use the faith you've found<br/>to reshape the world around,<br/>through my sight and touch and sound<br/>in you and you in me?</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord, your summons echoes true<br/>when you but call my name.<br/>Let me turn and follow you<br/>and never be the same.<br/>In your company I'll go<br/>where your love and footsteps show.<br/>Thus I'll move and live and grow<br/>in you and you in me.</lines>
+    </verse>
+  </lyrics>
+</song>

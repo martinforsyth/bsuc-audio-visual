@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:37">
+  <properties>
+    <titles>
+      <title>MP795 You Laid Aside Your Majesty</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You laid aside Your majesty<br/>Gave up everything for me<br/>Suffered at the hands of those you had created<br/>You took all my guilt and shame<br/>When you died and rose again<br/>Now today you reign in heaven and earth exalted</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>I really want to worship You my Lord<br/>You have won my heart and I am yours<br/>Forever and ever, I will love you<br/>You are the only one who died for me<br/>Gave your life to set me free<br/>So I lift my voice to you in adoration</lines>
+    </verse>
+  </lyrics>
+</song>

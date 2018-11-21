@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:45">
+  <properties>
+    <titles>
+      <title>SF653 O Christ the healer we have come</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Christ, the Healer, we have come<br/>To pray for health, to plead for friends.<br/>How can we fail to be restored<br/>When reached by love that never ends?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>From every ailment flesh endures<br/>Our bodies clamour to be freed;<br/>Yet in our hearts we would confess<br/>That wholeness is our deepest need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>How strong, O Lord, are our desires,<br/>How weak our knowledge of ourselves!<br/>Release in us those healing truths<br/>Unconscious pride resists or shelves.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In conflicts that destroy our health<br/>We diagnose the world's disease;<br/>Our common life declares our ills:<br/>Is there no cure, O Christ for these?</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Grant that we all, made one in faith,<br/>In your community may find<br/>The wholeness that, enriching us,<br/>Shall reach the whole of humankind.</lines>
+    </verse>
+  </lyrics>
+</song>

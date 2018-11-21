@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-07-21T06:49:59">
+  <properties>
+    <titles>
+      <title>HP230,SF416 There's a wideness in God's mercy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There's a wideness in God's mercy<br/>Like the wideness of the sea;<br/>There's a kindness in His justice<br/>Which is more than liberty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There is plentiful redemption<br/>In the blood that has been shed;<br/>There is joy for all the members<br/>In the sorrows of the Head.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There is grace enough for thousands<br/>Of new worlds as great as this;<br/>There is room for fresh creations<br/>In that upper home of bliss.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For the love of God is broader<br/>Than the measures of man's  mind;<br/>And the heart of the Eternal<br/>Is most wonderfully kind.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>But we make His love too narrow<br/>By false limits of our own;<br/>And we magnify His strictness<br/>With a zeal he will not own.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>If our love were but more simple<br/>We should take Him at his word;<br/>And our lives would be illumined<br/>By the presence of our Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:43">
+  <properties>
+    <titles>
+      <title>MP846 How can I be free from sin</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How can I be free from sin, (SOLO)<br/>Lead me to the cross of Jesus, (ALL)<br/>From the guilt, the power, the pain? (SOLO)<br/>Lead me to the cross of Jesus. (ALL)<br/>There's no other way,<br/>No price that I could pay,<br/>Simply to the cross I cling.<br/>This is all I need, this is all I plead,<br/>That His blood was shed for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>How can I know peace within, (SOLO)<br/>Lead me to the cross of Jesus, (ALL)<br/>Sing a song of joy again? (SOLO)<br/>Lead me to the cross of Jesus. (ALL)<br/>Flowing from above, all forgiving love,<br/>From the Father's heart to me.<br/>What a gift of grace, His own righteousness<br/>Clothing me in purity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>How can I live day by day, (SOLO)<br/>Lead me to the cross of Jesus, (ALL)<br/>Following His narrow way, (SOLO)<br/>Lead me to the cross of Jesus. (ALL)</lines>
+    </verse>
+  </lyrics>
+</song>

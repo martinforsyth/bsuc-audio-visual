@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:37">
+  <properties>
+    <titles>
+      <title>SF481 The Lord's my shepherd, I'll not want</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Lord's my shepherd, I'll not want;<br/>he makes me lie in pastures green,<br/>he leads me by the still, still waters,<br/>his goodness restores my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He guides my ways in righteousness,<br/>and he anoints my head with oil;<br/>and my cup - it overflows with joy,<br/>I feast on his pure delights.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And though I walk the darkest path -<br/>I will not fear the evil one,<br/>for you are with me, and your rod and staff<br/>are the comfort I need to know.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And I will trust in you alone,<br/>and I will trust in you alone,<br/>for your endless mercy follows me,<br/>your goodness will lead me home</lines>
+    </verse>
+  </lyrics>
+</song>

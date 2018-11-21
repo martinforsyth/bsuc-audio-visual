@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:28">
+  <properties>
+    <titles>
+      <title>MP163 From The Rising Of The Sun</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>From the rising of the sun<br/>To the going down of the same,<br/>The Lord's name<br/>Is to be praised.<br/>From the rising of the sun<br/>To the going down of the same<br/>The Lord's name<br/>Is to be praised.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Praise ye the Lord,<br/>Praise Him all ye servants of the Lord,<br/>Praise the name of the Lord.<br/>Blessed be the name of the Lord<br/>From this time forth and forever more.</lines>
+    </verse>
+  </lyrics>
+</song>

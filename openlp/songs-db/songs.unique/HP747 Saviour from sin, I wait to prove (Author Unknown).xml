@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:56">
+  <properties>
+    <titles>
+      <title>HP747 Saviour from sin, I wait to prove</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Saviour from sin, I wait to prove<br/>That Jesus is thy healing name;<br/>To lose, when perfected in love,<br/>Whate'er I have, or can, or am.<br/>I stay me on thy faithful word:<br/>The servant shall be as his Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Answer that gracious end in me<br/>For which thy precious life was given;<br/>Redeem from all iniquity,<br/>Restore, and make me meet for heaven:<br/>Unless thou purge my every stain,<br/>Thy suffering and my faith are vain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Didst thou not die that I might live<br/>No longer to myself, but thee,<br/>Might body, soul, and spirit give<br/>To him who gave himself for me?<br/>Come then, my Master and my God,<br/>Take the dear purchase of thy blood.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thine own devoted servant claim<br/>For thine own truth and mercy's sake;<br/>Hallow in me thy glorious name;<br/>Me for thine own this moment take,<br/>And change, and throughly purify,-<br/>Thine only may I live and die.</lines>
+    </verse>
+  </lyrics>
+</song>

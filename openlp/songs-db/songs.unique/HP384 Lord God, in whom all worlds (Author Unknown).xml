@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:21">
+  <properties>
+    <titles>
+      <title>HP384 Lord God, in whom all worlds</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord God, in whom all worlds,<br/>All life, all work, began;<br/>Give us the faith to know<br/>We serve your master plan.<br/>How happy they who thus have found<br/>Contentment in the daily round.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>But when good work receives<br/>No adequate reward;<br/>When meaningless routines<br/>Leave willing workers bored;<br/>When time is spent in needless strife:<br/>Make us ashamed, O Lord of life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And if, in leaner years,<br/>What we had gained is lost;<br/>If progress must be bought<br/>At someone else's cost:<br/>Make us, one nation, swift to share<br/>The hardship others have to bear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>So for tomorrow's sake,<br/>Teach us new skills today,<br/>To do your perfect will<br/>In our imperfect way,<br/>And live as those whom you have called<br/>To be your work-force in the world.</lines>
+    </verse>
+  </lyrics>
+</song>

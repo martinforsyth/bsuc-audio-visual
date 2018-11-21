@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:14">
+  <properties>
+    <titles>
+      <title>MP572 Rejoice, Rejoice! Christ is in you</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Now is the time for us<br/>to march upon the land -<br/>into our hands<br/>He will give the ground we claim;<br/>He rides in majesty<br/>to lead us into victory<br/>the world shall see that Christ is Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God is at work in us,<br/>His purpose to perform -<br/>building a kingdom<br/>of power not of words;<br/>where things impossible<br/>by faith shall be made possible:<br/>lets give the glory to Him now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Though we are weak,<br/>His grace is everything we need -<br/>we're made of clay,<br/>but this treasure is within;<br/>He turns our weaknesses<br/>into his opportunities,<br/>so that the glory goes to Him.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Rejoice, Rejoice! Christ is in you<br/>the hope of glory in our hearts,<br/>He lives, He lives!<br/>His breath is in you.<br/>Arise! A mighty army we arise.</lines>
+    </verse>
+  </lyrics>
+</song>

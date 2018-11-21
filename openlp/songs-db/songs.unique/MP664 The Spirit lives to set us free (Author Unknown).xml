@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:24">
+  <properties>
+    <titles>
+      <title>MP664 The Spirit lives to set us free</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Spirit lives to set us free,<br/>walk, walk in the light:<br/>He binds us all in unity<br/>walk, walk in the light;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus promised life to all,<br/>walk, walk in the light;<br/>the dead were wakened by His call,<br/>walk, walk in the light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He died in pain on Calvary,<br/>walk, walk in the light;<br/>to save the lost like you and me,<br/>walk, walk in the light.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We know His death was not the end,<br/>walk, walk in the light;<br/>He gave His Spirit to be our friend,<br/>walk, walk in the light.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>By Jesus' love our wounds are healed,<br/>walk, walk in the light;<br/>the Father's kindness is revealed,<br/>walk, walk in the light.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>The Spirit lives in you and me,<br/>walk, walk in the light;<br/>His light will shine for all to see,<br/>walk, walk in the light.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Walk in the light,<br/>walk in the light,<br/>walk in the light,<br/>walk in the light of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

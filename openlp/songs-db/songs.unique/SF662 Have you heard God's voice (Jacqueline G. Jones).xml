@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-09-23T07:48:26">
+  <properties>
+    <titles>
+      <title>SF662 Have you heard God's voice</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Jacqueline G. Jones</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Have you heard God's voice;has your heart been stirred?<br/>Are you still prepared to follow?<br/>Have you made a choice to remain and serve,<br/>though the way be rough and narrow?<br/><br/>Will you walk the path that will cost you much<br/>and embrace the pain and sorrow?<br/>Will you trust in One who entrusts to you<br/>the disciples of tomorrow?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Will you use your voice;will you not sit down<br/>when the multitudes are silent?<br/>Will you make a choice to stand your ground<br/>when the crowds are turning violent?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In your city streets will you be God's heart?<br/>Will you listen to the voiceless?<br/>Will you stop and eat, and when friendships start,<br/>will you share your faith with the faithless?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Will you watch the news with the eyes of faith<br/>and believe it could be different?<br/>Will you share your views using words of grace?<br/>Will you leave a thoughtful imprint?<br/><br/>We will walk the path that will cost us much<br/>and embrace the pain and sorrow.<br/>We will trust in One who entrusts to us<br/>the disciples of tomorrow.</lines>
+    </verse>
+  </lyrics>
+</song>

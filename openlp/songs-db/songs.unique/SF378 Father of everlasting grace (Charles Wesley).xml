@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-06-16T10:15:36">
+  <properties>
+    <titles>
+      <title>SF378 Father of everlasting grace</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father of everlasting grace,<br/>your goodness and your truth we praise,<br/>your goodness and your truth we prove;<br/>you have, in honour of your Son,<br/>the gift unspeakable sent down,<br/>the Spirit of life, and power, and love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Send us the Spirit of your Son,<br/>to make the depths of Godhead known,<br/>to make us share the life divine;<br/>send him the sprinkled blood to apply,<br/>send him our souls to sanctify,<br/>to bless and seal us with this sign.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>So shall we pray, and never cease,<br/>so shall we thankfully confess<br/>your wisdom, truth, and power, and love,<br/>with joy unspeakable adore,<br/>and bless and praise you evermore,<br/>and serve you as your hosts above:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Till, added to that heavenly choir,<br/>we raise our songs of triumph higher,<br/>and praise you with a bolder voice,<br/>out-soar the first-born seraph's flight,<br/>and sing, with all our friends in light,<br/>with everlasting love rejoice.</lines>
+    </verse>
+  </lyrics>
+</song>

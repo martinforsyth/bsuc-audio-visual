@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-10-22T08:07:35">
+  <properties>
+    <titles>
+      <title>JP139 Jesus love is very wonderful (we)</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus love is very wonderful<br/>Jesus love is very wonderful<br/>Jesus love is very wonderful<br/>Oh, wonderful love</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>So high we can't get over it<br/>So low we can't get under it<br/>So wide we can't get around it<br/>Oh wonderful love</lines>
+    </verse>
+  </lyrics>
+</song>

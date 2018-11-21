@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:15">
+  <properties>
+    <titles>
+      <title>MP1054 Here I Am Once Again</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Here I am once again,<br/>I pour out my heart for I know that You hear<br/>Every cry; You are listening,<br/>No matter what state my heart is in.<br/>You are faithful to answer<br/>With words that are true<br/>And a hope that is real.<br/>As I feel Your touch,<br/>You bring a freedom to all that's within,<br/>In the safety of this place</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I'm longing to pour out my heart, to say that I love You,<br/>Pour out my heart, to say that I need You.<br/>Pour out my heart, to say that I'm thankful,<br/>Pour out my heart, to say that You're wonderful.<br/>P.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>..</lines>
+    </verse>
+  </lyrics>
+</song>

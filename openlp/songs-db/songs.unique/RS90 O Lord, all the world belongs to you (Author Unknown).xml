@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:39">
+  <properties>
+    <titles>
+      <title>RS90 O Lord, all the world belongs to you</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Lord, all the world belongs to you<br/>and you are always making all things new,<br/>What is wrong you forgive,<br/>and the new life you give<br/>is what's turning the world upside down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The world's only loving to its friends,<br/>but your way of loving never ends,<br/>loving enemies too;<br/>and this loving with you<br/>is what's turning the world upside down.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The world lives divided and apart,<br/>you draw us together, and we start<br/>in our friendship to see<br/>that in harmony we<br/>can be turning the world upside down</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The world wants the wealth to live in state,<br/>but you show a new way to be great;<br/>like a servant you came,<br/>and if we do the same,<br/>we'll be turning the world upside down</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O Lord, all the world belongs to you<br/>and you are always making all things new,<br/>What is wrong you forgive,<br/>and the new life you give<br/>is what's turning the world upside down.</lines>
+    </verse>
+  </lyrics>
+</song>

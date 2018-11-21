@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:38">
+  <properties>
+    <titles>
+      <title>MP806 Beauty for brokenness,</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Beauty for brokenness,<br/>Hope for despair,<br/>Lord, in Your suffering world<br/>This is our prayer:<br/>Bread for the children,<br/>Justice, joy, peace;<br/>Sunrise to sunset,<br/>Your kingdom increase!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Shelter for fragile lives,<br/>Cures for their ills,<br/>Work for the craftsman,<br/>Trade for their skills;<br/>Land for the dispossessed,<br/>Rights for the weak,<br/>Voices to plead the cause<br/>Of those who can't speak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Refuge from cruel wars,<br/>Havens from fear,<br/>Cities for sanctuary,<br/>Freedoms to share;<br/>Peace to the killing-fields,<br/>Scorched earth to green,<br/>Christ for the bitterness,<br/>His cross for the pain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Rest for the ravaged earth,<br/>Oceans and streams<br/>Plundered and poisoned-<br/>Our future, our dreams.<br/>Lord, end our madness,<br/>Carelessness, greed;<br/>Make us content with<br/>The things that we need.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lighten our darkness,<br/>Breathe on this flame<br/>Until Your justice<br/>Burns brightly again;<br/>Until the nations<br/>Learn of Your ways,<br/>Seek Your salvation<br/>And bring You their praise.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>God of the poor,<br/>Friend of the weak,<br/>Give us compassion we pray:<br/>Melt our cold hearts,<br/>Let tears fall like rain;<br/>Come, change our love<br/>From a spark to a flame.</lines>
+    </verse>
+  </lyrics>
+</song>

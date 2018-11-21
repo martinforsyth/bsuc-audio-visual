@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:42">
+  <properties>
+    <titles>
+      <title>HP55 Praise the Lord who reigns above</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise the Lord who reigns above<br/>And keeps his court below;<br/>Praise the holy God of love,<br/>And all his greatness show;<br/>Praise him for his noble deeds,<br/>Praise him for his matchless power:<br/>Him from whom all good proceeds<br/>Let earth and heaven adore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Celebrate the eternal God<br/>With harp and psaltery,<br/>Timbrels soft and cymbals loud<br/>In his high praise agree:<br/>Praise him every tuneful string;<br/>All the reach of heavenly art,<br/>All the powers of music bring,<br/>The music of the heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Him, in whom they move and live,<br/>Let every creature sing,<br/>Glory to their Maker give,<br/>And homage to their King:<br/>Hallowed be his name beneath,<br/>As in heaven on earth adored;<br/>Praise the Lord in every breath,<br/>Let all things praise the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

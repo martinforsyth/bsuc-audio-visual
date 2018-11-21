@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:55">
+  <properties>
+    <titles>
+      <title>RS553 to abraham and sarah</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>To Abraham and Sarah<br/>the call of God was clear:<br/>'Go forth and I will show you<br/>a country rich and fair.<br/>You need not fear the journey<br/>for I have pledged my word:<br/>that you shall be my people<br/>and I will be your God.'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>From Abraham and Sarah<br/>arose a pilgrim race,<br/>dependent for their journey<br/>on God's abundant grace.<br/>and in their heart was written<br/>by God this saving word:<br/>that you shall be my people<br/>and I will be your God.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We of this generation<br/>on whom God's hand is laid,<br/>can journey to the future<br/>secure and un afraid!<br/>rejoicing in God's goodness<br/>and trusting in this word:<br/>that you shall be my people<br/>and I will be your God.'</lines>
+    </verse>
+  </lyrics>
+</song>

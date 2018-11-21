@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:28">
+  <properties>
+    <titles>
+      <title>MP704 Through the love of God our Saviour</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Through the love of God our Saviour<br/>all will be well;<br/>free and changeless is His favour,<br/>all, all is well.<br/>Precious is the blood that heals us,<br/>perfect is the grace that seals us,<br/>strong the hand stretched out to shield us;<br/>all must be well.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Though we pass through tribulation,<br/>all will be well;<br/>ours is such a full salvation<br/>all, all is well.<br/>Happy, still in God confiding;<br/>fruitful, if in Christ abiding;<br/>holy, through the Spirit's guiding;<br/>all must be well.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We expect a bright tomorrow;<br/>all will be well;<br/>faith can sing, through days of sorrow<br/>'All, all is well.'<br/>On our Father's love relying,<br/>Jesus every need supplying,<br/>or in living or in dying,<br/>all must be well.</lines>
+    </verse>
+  </lyrics>
+</song>

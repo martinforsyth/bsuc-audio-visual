@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:53">
+  <properties>
+    <titles>
+      <title>HP726 God of all power, and truth, and grace</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of all power, and truth, and grace,<br/>Which shall from age to age endure.<br/>Whose word, when heaven and earth shall pass,<br/>Remains and stands for ever sure;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>That I thy mercy may proclaim,<br/>That all mankind thy truth may see,<br/>Hallow thy great and glorious name,<br/>And perfect holiness in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thy sanctifying Spirit pour<br/>To quench my thirst and make me clean;<br/>Now, Father, let the gracious shower<br/>Descend, and make me pure from sin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Give me a new, a perfect heart,<br/>From doubt, and fear, and sorrow free;<br/>The mind which was in Christ impart,<br/>And let my spirit cleave to thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O that I now, from sin released,<br/>Thy word may to the utmost prove,<br/>Enter into the promised rest,<br/>The Canaan of thy perfect love!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Now let me gain perfection's height,<br/>Now let me into nothing fall,<br/>Be less than nothing in thy sight,<br/>And feel that Christ is all in all.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:14">
+  <properties>
+    <titles>
+      <title>HP340 There is a book (who runs may read)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There is a book (who runs may read)<br/>Which heavenly truth imparts,<br/>And all the lore its scholars need,<br/>Pure eyes and Christian hearts.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The works of God above, below,<br/>Within us and around,<br/>Are pages in that book, to show<br/>How God himself is found.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The glorious sky, embracing all,<br/>Is like the Maker's love,<br/>Wherewith encompassed, great and small<br/>In peace and order move.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>One name, above all glorious names,<br/>With its ten thousand tongues<br/>The everlasting sea proclaims,<br/>Echoing angelic songs.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The raging fire, the roaring wind,<br/>Thy boundless power display;<br/>And in the gentler breeze we find<br/>Thy Spirit's viewless way.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Two worlds are ours: 'tis only sin<br/>Forbids us to descry<br/>The mystic heaven and earth within,<br/>Plain as the sea and sky.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Thou who hast given me eyes to see<br/>And love this sight so fair,<br/>Give me a heart to find out thee,<br/>And read thee everywhere.</lines>
+    </verse>
+  </lyrics>
+</song>

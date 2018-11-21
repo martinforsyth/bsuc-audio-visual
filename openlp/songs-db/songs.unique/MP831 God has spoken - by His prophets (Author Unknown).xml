@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:41">
+  <properties>
+    <titles>
+      <title>MP831 God has spoken - by His prophets</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God has spoken - by His prophets,<br/>spoken His unchanging word,<br/>each from age to age proclaiming<br/>God, the One, the righteous Lord;<br/>in the world's despair and turmoil<br/>one firm anchor holds us fast:<br/>God is King, His throne eternal,<br/>God the First, and God the Last.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God has spoken - by Christ Jesus,<br/>Christ, the everlasting Son;<br/>brightness of the Father's glory,<br/>with the Father ever one:<br/>spoken by the Word incarnate,<br/>Life, before all time began,<br/>Light from light, to earth descending ,<br/>God, revealed as Son of Man.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God is speaking - by his Spirit,<br/>speaking to our hearts again;<br/>in the age-long word expounding<br/>God's own message, now as then,<br/>Through the rise and fall of nations<br/>one sure faith is standing fast:<br/>God abides, His word unchanging,<br/>God the First, and God the Last.</lines>
+    </verse>
+  </lyrics>
+</song>

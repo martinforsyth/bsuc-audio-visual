@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:23">
+  <properties>
+    <titles>
+      <title>SF230 Riding out across the desert</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Riding out across the desert,<br/>travelling over sandy plains,<br/>comes a company of wise men,<br/>moving steadily along their way;<br/>leaving all their friends behind them,<br/>guided by the star so bright,<br/>now they've got to keep on going<br/>must not let the star get out of sight.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Wise men on their desert journey,<br/>travelled many miles so far<br/>though they're getting tired and weary,<br/>town of Bethlehem is not too far:<br/>how they long to worship Jesus<br/>and honour him with royal gifts;<br/>hearts are full of joy and wonder<br/>as they're searching for the new born king.<br/>.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Riding through the desert, gently the wise men go,<br/>onwards to the king who was promised long ago;<br/>but they don't know where they're going to find him<br/>there's many towns to search<br/>so they'll keep on following the star,<br/>for it will lead them to his place of birth.</lines>
+    </verse>
+  </lyrics>
+</song>

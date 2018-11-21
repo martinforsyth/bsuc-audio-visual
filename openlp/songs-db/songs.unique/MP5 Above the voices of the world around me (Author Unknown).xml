@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:14">
+  <properties>
+    <titles>
+      <title>MP5 Above the voices of the world around me</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Above the voices of the world around me,<br/>my hopes and dreams, my cares and loves and fears,<br/>the long-awaited call of Christ has found me,<br/>the voice of Jesus echoes in my ears:<br/>`I gave my life to break the cords that bind you,<br/>I rose from death to set your spirit free;<br/>turn from your sins and put the past behind you,<br/>take up your cross and come and follow Me.'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>What can I offer him who calls me to him?<br/>Only the wastes of sin and self and shame;<br/>a mind confused, a heart that never knew Him,<br/>a tongue unskilled at naming Jesus' name.<br/>Yet at Your call, and hungry for Your blessing,<br/>drawn by that cross which moves a heart of stone,<br/>now Lord I come, my tale of sin confessing,<br/>and in repentance turn to you alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, I believe; help now my unbelieving;<br/>I come in faith because Your promise stands.<br/>Your word of pardon and of peace receiving,<br/>all that I am I place within Your hands.<br/>Let me become what You shall choose to make me,<br/>freed from the guilt and burden of my sins.<br/>Jesus is mine, who never shall forsake me,<br/>and in his love my new-born life begins.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:37">
+  <properties>
+    <titles>
+      <title>SF476 One more step along the world I go</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>One more step along the world I go,<br/>one more step along the world I go;<br/>from the old things to the new<br/>keep me travelling along with you:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Round the corners of the world I turn,<br/>more and more about the world I learn;<br/>all the new things that I see<br/>you'll be looking at along with me:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>As I travel through the bad and good,<br/>keep me travelling the way I should;<br/>where I see no way to go<br/>you'll be telling me the way, I know:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Give me courage when the world is rough,<br/>keep me loving though the world is tough;<br/>leap and sing in all I do,<br/>keep me travelling along with you.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>You are older than the world can be,<br/>you are younger than the life in me;<br/>ever old and ever new,<br/>keep me travelling along with you:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>and it's from the old I travel to the new; keep me travelling along with you.</lines>
+    </verse>
+  </lyrics>
+</song>

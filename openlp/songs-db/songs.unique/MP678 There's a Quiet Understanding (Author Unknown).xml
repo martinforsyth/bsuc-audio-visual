@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:26">
+  <properties>
+    <titles>
+      <title>MP678 There's a Quiet Understanding</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There's a quiet understanding<br/>When we're gathered in the Spirit,<br/>It's a promise that He gives us<br/>When we gather in His name.<br/>There's a love we feel in Jesus,<br/>There's a manna that He feeds us,<br/>It's a promise that He gives us<br/>When we gather in His name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And we know when we're together,<br/>Sharing love and understanding,<br/>That our brothers and our sisters<br/>Feel the oneness that He brings.<br/>Thank You, thank You, thank You, Jesus,<br/>For the way You love and feed us,<br/>For the many ways You lead us;<br/>Thank You, thank You, Lord.<br/>Thank You, thank You, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

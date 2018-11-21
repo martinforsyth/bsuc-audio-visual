@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:51">
+  <properties>
+    <titles>
+      <title>RS436 Dear Lord, to you again our gifts we bring,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Dear Lord, to you again our gifts we bring,<br/>this bread our toil, this wine our ecstasy,<br/>poor and imperfect though they both must  be;<br/>yet you will take a heart-free offering.<br/>Yours is the bounty, ours the unfettered will<br/>to make or mar, to fashion good or ill.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Yes, you will take and bless, and grace impart<br/>to make again what once your goodness gave,<br/>what we half crave, and half refuse to have,<br/>a sturdier will, a more repentant heart.<br/>You have on earth no hands, no heart but ours;<br/>bless them as yours, ourselves, our will, our powers.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Break bread, O Lord, break down our wayward wills,<br/>break down our prized possessions, break them down;<br/>let them be feely given as your own<br/>to all who need our gifts, to heal their ills.<br/>Break this, the bread we bring, that all may share<br/>in your one living body, everywhere.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Our lips receive your wine, our hands the bread;<br/>you give us back the selves we offered you,<br/>won by the Cross, by Calvary made new,<br/>a heart enriched, a life raised from the dead.<br/>Grant us to take and guard your treasure well,<br/>that we in you, and you in us may dwell.</lines>
+    </verse>
+  </lyrics>
+</song>

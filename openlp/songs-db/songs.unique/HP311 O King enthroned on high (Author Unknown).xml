@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:10">
+  <properties>
+    <titles>
+      <title>HP311 O King enthroned on high</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O King enthroned on high,<br/>Thou Comforter divine,<br/>Blest Spirit of all truth, be nigh<br/>And make us thine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou art the source of life,<br/>Thou art our treasure-store;<br/>Give us thy peace, and end our strife<br/>For evermore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Descend, O heavenly Dove,<br/>Abide with us alway;<br/>And in the fullness of thy love<br/>Cleanse us, we pray.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:33">
+  <properties>
+    <titles>
+      <title>HP618 Lord of our highest love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord of our highest love!<br/>Let now thy peace be given;<br/>Fix all our thoughts on things above,<br/>Our hearts on thee in heaven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Then, dearest Lord, draw near,<br/>Whilst we thy table spread;<br/>And crown the feast with heavenly cheer,<br/>Thyself the living bread.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And when the loaf we break,<br/>Thine own rich blessing give;<br/>May all with loving hearts partake,<br/>And all new strength receive.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thankful that whilst we view<br/>Thy body bruised and torn,<br/>Life, health, and healing still accrue<br/>From stripes which thou hast borne.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Dear Lord, what memories crowd<br/>Around the sacred cup:<br/>The upper room, Gethsemane,<br/>Thy foes, thy lifting up!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O scenes of suffering love,<br/>Enough our souls to win -<br/>Enough to melt our hearts, and prove<br/>The antidote to sin.</lines>
+    </verse>
+  </lyrics>
+</song>

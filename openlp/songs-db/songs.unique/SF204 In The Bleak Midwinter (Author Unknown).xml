@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:20">
+  <properties>
+    <titles>
+      <title>SF204 In The Bleak Midwinter</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In the bleak midwinter<br/>frosty wind made moan<br/>earth stood hard as iron,<br/>water like a stone<br/>snow had fallen, snow on snow,<br/>snow on Snow<br/>in the bleak midwinter,<br/>long ago.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our God, heaven cannot hold him<br/>nor earth sustain<br/>heav'n and earth shall flee away<br/>when he comes to reign.<br/>In the bleak midwinter<br/>a stable place sufficed<br/>God, the Lord Almighty<br/>Jesus Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Angels and Archangels<br/>may have gathered there<br/>cherubim and seraphim<br/>thronged the air<br/>but his mother only,<br/>in her maiden bliss<br/>worshipped the Beloved<br/>with a kiss.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>What can I give him<br/>poor as I am?<br/>If I were a shepherd,<br/>I would bring a lamb<br/>if I were a wise man<br/>I would do my part,<br/>yet what I can I give Him<br/>give him my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

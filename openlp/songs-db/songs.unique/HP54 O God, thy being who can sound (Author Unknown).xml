@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:41">
+  <properties>
+    <titles>
+      <title>HP54 O God, thy being who can sound</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God, thy being who can sound?<br/>Thee to perfection who can know?<br/>O height immense! No words are found<br/>Thy countless attributes to show.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Unfathomable depths thou art!<br/>O plunge me in thy mercy's sea;<br/>Void of true wisdom is my heart:<br/>With love embrace and cover me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Eternity thy fountain was,<br/>Which, like thee, no beginning knew;<br/>Thou wast ere time began his race,<br/>Ere glowed with stars the ethereal blue.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Unchangeable, all-perfect Lord,<br/>Essential life's unbounded sea,<br/>What lives and moves lives by thy word;<br/>It lives, and moves, and is from thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Parent of good, thy bounteous hand<br/>Incessant blessings down distils,<br/>And all in air, or sea, or land<br/>With plenteous food and gladness fills.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Greatness unspeakable is thine,<br/>Thou sun, whose undiminished ray,<br/>When short-lived worlds are lost, shall shine<br/>When earth and heav'n are fled away.</lines>
+    </verse>
+  </lyrics>
+</song>

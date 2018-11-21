@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:07">
+  <properties>
+    <titles>
+      <title>HP541 Saviour, and can it be</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Saviour, and can it be<br/>That thou shouldst dwell with me?<br/>From thy high and lofty throne,<br/>Throne of everlasting bliss,<br/>Will thy majesty stoop down<br/>To so mean a house as this?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I am not worthy, Lord,<br/>So foul, so self-abhorred,<br/>Thee, my God, to entertain<br/>In this poor polluted heart:<br/>I so frail and full of sin,<br/>All my nature cries: 'Depart!'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Yet come, thou heavenly guest,<br/>And purify my breast;<br/>Come, thou great and glorious King,<br/>While before thy cross I bow;<br/>With thyself salvation bring,<br/>Cleanse the house by entering now.</lines>
+    </verse>
+  </lyrics>
+</song>

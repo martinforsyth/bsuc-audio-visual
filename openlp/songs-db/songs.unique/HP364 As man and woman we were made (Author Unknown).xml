@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:18">
+  <properties>
+    <titles>
+      <title>HP364 As man and woman we were made</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>As man and woman we were made,<br/>That love be found and life begun;<br/>So praise the Lord who made us two,<br/>And praise the Lord when two are one:<br/>Praise for the love that comes to life<br/>Through child or parent, man or wife.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Now Jesus lived and gave his love<br/>To make our life and loving new;<br/>So celebrate with him today,<br/>And drink the joy he offers you<br/>That makes the simple moment shine<br/>And changes water into wine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And Jesus died to live again;<br/>So praise the love that, come what may,<br/>Can bring the dawn and clear the skies,<br/>And waits to wipe all tears away;<br/>And let us hope for what shall be,<br/>Believing where we cannot see.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then spread the table, clear the hall,<br/>And celebrate till day is done;<br/>Let peace go deep between us all,<br/>And joy be shared by everyone;<br/>Laugh and make merry with your friends<br/>And praise the love that never ends!</lines>
+    </verse>
+  </lyrics>
+</song>

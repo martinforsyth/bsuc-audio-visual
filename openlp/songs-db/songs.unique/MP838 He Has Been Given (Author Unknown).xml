@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:42">
+  <properties>
+    <titles>
+      <title>MP838 He Has Been Given</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He has been given a name above all names,<br/>In earth and heaven, let all creation claim<br/>That Jesus Christ is King, and Lord of all.<br/>He is the Victor over Satan's reign,<br/>His blood has triumphed over sin and shame,<br/>Jesus Christ is King and Lord of all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He is the likeness of Jehovah,<br/>Through whom the world was made.<br/>By His word the universe is sustained,<br/>Every power is subject to His name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The name of Jesus in victory will resound,<br/>In every nation let the good news sound:<br/>Jesus Christ is King, and Lord of all.</lines>
+    </verse>
+  </lyrics>
+</song>

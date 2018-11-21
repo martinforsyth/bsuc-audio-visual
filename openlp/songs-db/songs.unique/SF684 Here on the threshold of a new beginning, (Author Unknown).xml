@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:47">
+  <properties>
+    <titles>
+      <title>SF684 Here on the threshold of a new beginning,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Here on the threshold of a new beginning,<br/>by grace forgiven, now we leave behind<br/>our long-repented selfishness and sinning,<br/>and all our blessings call again to mind:<br/>Christ to redeem us, ransom and restore us,<br/>the love that holds us in a Saviour's care,<br/>faith strong to welcome all that lies before us,<br/>our unknown future, knowing God is there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>May we, your children, feel with Christ's compassion<br/>an earth disordered, hungry and in pain;<br/>then, at your calling, find the will to fashion<br/>new ways where freedom, truth and justice reign;<br/>where wars are ended, ancient wrongs are righted,<br/>and nations value human life and worth;<br/>where in the darkness lamps of hope are lighted<br/>and Christ is honoured over all the earth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>So may your wisdom shine from Scripture's pages<br/>to mould and make us stones with which to build<br/>God's holy temple, through eternal ages,<br/>one Church united, strong and Spirit-filled;<br/>heirs to the fullness of your new creation<br/>in faith we follow, pledged to be your own;<br/>yours is the future, ours the celebration,<br/>for Christ is risen!  God is on the throne!</lines>
+    </verse>
+  </lyrics>
+</song>

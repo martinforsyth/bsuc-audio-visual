@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:02">
+  <properties>
+    <titles>
+      <title>HP259 Jesu, priceless treasure</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesu, priceless treasure,<br/>Source of purest pleasure,<br/>Truest friend to me;<br/>Ah! How long I've panted,<br/>And my heart hath fainted,<br/>Thirsting, Lord, for thee!<br/>Thine I am, O spotless Lamb,<br/>I will suffer nought to hide thee,<br/>Nought I ask beside thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In thine arm I rest me;<br/>Foes who would molest me<br/>Cannot reach me here;<br/>Though the earth be shaking,<br/>Every heart be quaking,<br/>Jesus calms my fear;<br/>Sin and hell in conflict fell<br/>With their bitter storms assail me;<br/>Jesus will not fail me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Hence, all fears and sadness!<br/>For the Lord of gladness,<br/>Jesus, enters in;<br/>Those who love the Father,<br/>Though the storms may gather,<br/>Still have peace within;<br/>Yea, whate'er I here must bear,<br/>Still in thee lies purest pleasure,<br/>Jesu, priceless treasure!</lines>
+    </verse>
+  </lyrics>
+</song>

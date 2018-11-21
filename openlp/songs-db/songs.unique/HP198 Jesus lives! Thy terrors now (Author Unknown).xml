@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:51">
+  <properties>
+    <titles>
+      <title>HP198 Jesus lives! Thy terrors now</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus  lives! Thy terrors now<br/>Can, O death, no more appal us;<br/>Jesus lives! By this we know<br/>Thou, O grave, canst not enthral us:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus lives! Our hearts know well<br/>Nought from us his love shall sever;<br/>Life, nor death, nor powers of hell,<br/>Part us now from Christ for ever:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus lives! Henceforth is death<br/>Entrance-gate of life immortal;<br/>This shall calm our trembling breath<br/>When we pass its gloomy portal:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus lives! For us he died:<br/>Hence may we, to Jesus living,<br/>Pure in heart and act abide,<br/>Praise to him and glory giving:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Jesus lives! To him the throne<br/>High o'er heaven and earth is given;<br/>May we go where he is gone,<br/>Live and reign with him in heaven:<br/>Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:39">
+  <properties>
+    <titles>
+      <title>RS95 God is Love: let heaven adore him</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v7 v2 c1 c1 c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God is Love: let heaven adore him;<br/>God is Love: let earth rejoice;<br/>Let creation sing before him,<br/>And exalt him with one voice.<br/>He who laid the earth's foundation,<br/>He who spread the heavens above,<br/>He who breathes through all creation,<br/>He is Love, eternal Love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God is Love: and is enfolding<br/>All the world in one embrace;<br/>His unfailing grasp is holding<br/>Every child of every race.<br/>And when human hearts are breaking<br/>Under sorrow's iron rod,<br/>That same sorrow, that same aching<br/>Wrings with pain the heart of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God is Love: and though with blindness<br/>Sin afflicts and clouds the will,<br/>God's eternal loving-kindness<br/>Holds us fast and guides us still.<br/>Sin and death and hell shall never<br/>O'er us final triumph gain;<br/>God is Love, so Love for ever<br/>O'er the universe must reign.</lines>
+    </verse>
+  </lyrics>
+</song>

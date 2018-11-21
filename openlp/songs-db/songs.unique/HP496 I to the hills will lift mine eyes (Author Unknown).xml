@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:54">
+  <properties>
+    <titles>
+      <title>HP496 I to the hills will lift mine eyes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I to the hills will lift mine eyes,<br/>From whence doth come mine aid;<br/>My safety cometh from the Lord,<br/>Who heaven and earth hath made.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thy foot He'll not let slide, nor will<br/>He slumber that thee keeps:<br/>Behold, He that keeps Israel,<br/>He slumbers not, nor sleeps.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The Lord thee keeps, the Lord thy shade<br/>On thy right hand doth stay:<br/>The moon by night thee shall not smite,<br/>Nor yet the sun by day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The Lord shall keep thy soul; He shall<br/>Preserve thee from all ill:<br/>Henceforth thy going out and in<br/>God keep for ever will.</lines>
+    </verse>
+  </lyrics>
+</song>

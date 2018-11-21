@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:14">
+  <properties>
+    <titles>
+      <title>MP1042 Father, Your love</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, Your love is a faithful love,<br/>Enduring and never failing love.<br/>Throughout the ages, steady and true,<br/>And the dawn of each day<br/>Brings Your mercies new.<br/>And I will put my trust in You,<br/>Father, Your love is faithful.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Great is Your faithfulness,<br/>Great is Your faithfulness,<br/>Great is Your faithfulness,<br/>My God and Father.<br/>(Repeat)</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>So keep me in Your love today,<br/>Take my hand and lead the way,<br/>And let my words and life convey,<br/>Father, Your love is faithful.</lines>
+    </verse>
+  </lyrics>
+</song>

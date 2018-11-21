@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:37">
+  <properties>
+    <titles>
+      <title>HP639 To you before the end of day,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>To you before the end of day,<br/>Creator of the world, we pray:<br/>In love unfailing hear our prayer,<br/>Enfold us in your watchful care.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Keep all disturbing dreams away,<br/>And hold the evil foe at bay,<br/>Repose untroubled let us find<br/>For soul and body, heart and mind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Almighty Father, this accord<br/>Through Jesus Christ, your Son, our lord,<br/>Who reigns with you eternally<br/>In your blest Spirit's inity.</lines>
+    </verse>
+  </lyrics>
+</song>

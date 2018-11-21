@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:05">
+  <properties>
+    <titles>
+      <title>MP496 O For a Thousand Tongues</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O for a thousand tongues to sing<br/>My great Redeemer's praise!<br/>The glories of my God and King,<br/>The triumphs of His grace,<br/>The triumphs of His grace!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus! the name that charms our fears,<br/>That bids our sorrows cease,<br/>'Tis music in the sinner's ears,<br/>'Tis life, and health, and peace,<br/>'Tis life, and health, and peace!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He breaks the power of cancelled sin,<br/>He sets the prisoner free,<br/>His blood can make the foulest clean,<br/>His blood availed for me,<br/>His blood availed for me!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He speaks and, listening to His voice,<br/>New life the dead receive,<br/>The mournful, broken hearts rejoice,<br/>The humble poor believe,<br/>The humble poor believe!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Hear Him, ye deaf; His praise, ye dumb,<br/>Your loosened tongues employ,<br/>Ye blind, behold your Saviour come;<br/>And leap, ye lame, for joy,<br/>And leap, ye lame, for joy!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>My gracious Master, and my God,<br/>assist me to proclaim,<br/>to spread throughout all the earth abroad.<br/>the honours of Thy name.</lines>
+    </verse>
+  </lyrics>
+</song>

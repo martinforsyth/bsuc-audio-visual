@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:24">
+  <properties>
+    <titles>
+      <title>MP100 Come See The Beauty Of The Lord</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come see the beauty of the Lord,<br/>Come see the beauty of His face.<br/>See the Lamb that once was slain,<br/>See on His palms is carved your name.<br/>See how our pain has pierced His heart,<br/>And on His brow He bears our pride;<br/>A crown of thorns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>But only love pours from His heart<br/>As silently He takes the blame.<br/>He has my name upon His lips,<br/>My condemnation falls on Him.<br/>This love is marvellous to me,<br/>His sacrifice has set me free<br/>And now I live.<br/>Come see the beauty of the Lord,<br/>Come see the beauty of His face.</lines>
+    </verse>
+  </lyrics>
+</song>

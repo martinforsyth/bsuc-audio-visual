@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:28">
+  <properties>
+    <titles>
+      <title>HP583 Jesus, we follow thee</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, we follow thee,<br/>In all thy footsteps tread,<br/>And seek for full conformity<br/>To our exalted Head.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We would, we would partake<br/>Thy every state below,<br/>And suffer all things for thy sake,<br/>And to thy glory go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We in thy birth are born,<br/>Sustain thy grief and loss,<br/>Share in thy want, and shame, and scorn,<br/>And die upon thy cross.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Baptized into thy death,<br/>We sink into thy grave,<br/>Till thou the quickening Spirit breathe,<br/>And to the utmost save.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thou saidst, 'Where'er I am,<br/>There shall my servants be.'<br/>Master, thy welcome word we claim,<br/>And die to live with thee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>To us who share thy pain,<br/>Thy joy shall soon be given,<br/>And we shall in thy glory reign,<br/>For thou art now in heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

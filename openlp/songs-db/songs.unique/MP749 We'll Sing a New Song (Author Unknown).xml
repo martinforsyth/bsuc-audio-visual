@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:32">
+  <properties>
+    <titles>
+      <title>MP749 We'll Sing a New Song</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We'll sing a new song of glorious triumph,<br/>For we see the government of God in our lives.<br/>We'll sing a new song of glorious triumph,<br/>For we see the government of God in our lives.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>He is crowned, God of the whole world crowned,<br/>King of creation crowned,<br/>Ruling the nations now.<br/>Yes, He is crowned, God of the whole world crowned,<br/>King of creation crowned,<br/>Ruling the nations now.</lines>
+    </verse>
+  </lyrics>
+</song>

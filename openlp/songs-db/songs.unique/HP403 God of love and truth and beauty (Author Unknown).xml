@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:24">
+  <properties>
+    <titles>
+      <title>HP403 God of love and truth and beauty</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of love and truth and beauty,<br/>Hallowed be thy name;<br/>Fount of order, law, and duty,<br/>Hallowed be thy name;<br/>As in heaven thy hosts adore thee,<br/>And their faces veil before thee,<br/>So on earth, Lord, we implore thee,<br/>Hallowed be thy name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, remove our guilty blindness,<br/>Hallowed be thy name;<br/>Show thy heart of loving-kindness,<br/>Hallowed be thy name;<br/>By our hearts' deep-felt contrition,<br/>By our minds' enlightened vision,<br/>By our wills' complete submission,<br/>Hallowed be thy name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In our worship, Lord most holy,<br/>Hallowed be thy name;<br/>In our work, however lowly,<br/>Hallowed be thy name;<br/>In each heart's imagination,<br/>In the church's adoration,<br/>In the conscience of the nation,<br/>Hallowed be thy name.</lines>
+    </verse>
+  </lyrics>
+</song>

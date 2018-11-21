@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:08">
+  <properties>
+    <titles>
+      <title>JP386 If Jesus is de-vine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>If Jesus is de-vine, we must be de branches<br/>If Jesus is de-vine, we must be de branches<br/>If Jesus is de-vine, we must be de branches<br/>To bear fruit in the kingdom of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>If Jesus is de rock - we should be a little boulder<br/>If Jesus is de rock - we should be a little boulder<br/>If Jesus is de rock - we should be a little boulder<br/>To bear fruit in the kingdom of God</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>If Jesus is de bread - is your name on the roll now?<br/>If Jesus is de bread - is your name on the roll now?<br/>If Jesus is de bread - is your name on the roll now?<br/>To bear fruit in the kingdom of God</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:37">
+  <properties>
+    <titles>
+      <title>HP641 God, that madest earth and heaven</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God, that madest earth and heaven,<br/>Darkness and light,<br/>Who the day for toil hast given,<br/>For rest the night,<br/>May thine angel-guards defend us,<br/>Slumber sweet thy mercy send us,<br/>Holy dreams and hopes attend us,<br/>This livelong night.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Guard us waking, guard us sleeping;<br/>And, when we die,<br/>May we in thy mighty keeping<br/>All peaceful lie.<br/>When the last dread call shall wake us,<br/>Do not thou, our Lord, forsake us,<br/>But to reign in glory take us<br/>With thee on high.</lines>
+    </verse>
+  </lyrics>
+</song>

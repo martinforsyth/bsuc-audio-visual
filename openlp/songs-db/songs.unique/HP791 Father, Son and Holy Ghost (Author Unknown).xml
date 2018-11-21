@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:02">
+  <properties>
+    <titles>
+      <title>HP791 Father, Son and Holy Ghost</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, Son, and Holy Ghost,<br/>One in Three, and Three in One,<br/>As by the celestial host,<br/>Let thy will on earth be done;<br/>Praise by all to thee be given,<br/>Glorious Lord of earth and heaven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>If a sinner such as I<br/>May to thy great glory live,<br/>All my actions sanctify,<br/>All my words and thoughts receive;<br/>Claim me for thy service, claim<br/>All I have and all I am.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Take my soul and body's powers;<br/>Take my memory, mind, and will,<br/>All my goods, and all my hours,<br/>All I know, and all I feel,<br/>All I think, or speak, or do;<br/>Take my heart, but make it new.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Now, O God, thine own I am,<br/>Now I give thee back thine own;<br/>Freedom, friends, and health, and fame<br/>Consecrate to thee alone:<br/>Thine I live, thrice happy ;<br/>Happier still if thine I die.</lines>
+    </verse>
+  </lyrics>
+</song>

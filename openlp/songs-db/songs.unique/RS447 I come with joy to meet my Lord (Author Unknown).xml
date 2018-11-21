@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:51">
+  <properties>
+    <titles>
+      <title>RS447 I come with joy to meet my Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I come with joy to meet my Lord,<br/>Forgiven, loved, and free,<br/>In awe and wonder to recall<br/>His life laid down for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>II come with Christians far and near,<br/>To find, as all are fed,<br/>The new community of love<br/>In Christ's communion bread.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>As Christ breaks bread and bids us share,<br/>Each proud division ends;<br/>The love that made us makes us one,<br/>And strangers now are friends.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And thus with joy we meet our Lord;<br/>His presence, always near,<br/>Is in such friendship better known;<br/>We see and praise him here.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Together met, together bound,<br/>We'll go our different ways,<br/>And as his people in the world<br/>We'll live and speak his praise.</lines>
+    </verse>
+  </lyrics>
+</song>

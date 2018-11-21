@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:17">
+  <properties>
+    <titles>
+      <title>SF183 Praise to the God who clears the way</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise to the God who clears the way<br/>preparing room and space;<br/>for power and pride will lose their sway<br/>as peace comes in their place.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Praise to the God who comes to judge<br/>the truth of word and deed,<br/>who calls our minds and wills to change,<br/>rebuking wealth and greed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Praise to the God who waits with us<br/>for hope and joy to reign,<br/>who shares our suffering and our loss,<br/>embodied in our pain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Praise to the God who comes to bring<br/>comfort to all who mourn.<br/>The whole creation 'Glory' sings<br/>as Christ the light is born.</lines>
+    </verse>
+  </lyrics>
+</song>

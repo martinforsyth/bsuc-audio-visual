@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:41">
+  <properties>
+    <titles>
+      <title>HP667 Begone, unbelief; my Saviour is near</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Begone, unbelief; my Saviour is near,<br/>And for my relief will surely appear:<br/>By prayer let me wrestle, and He will perform;<br/>With Christ in the vessel, I smile at the storm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Though dark be my way, since He is my Guide,<br/>'Tis mine to obey, ' 'tis His to provide;<br/>Though cisterns be broken and creatures all fail,<br/>The word He hath spoken shall surely prevail.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>His love in time past forbids me to think<br/>He'll leave me at last in trouble to sink;<br/>While each Ebenezer I have in review<br/>Confirms His good pleasure to help me quite through.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Why should I complain of want or distress,<br/>Temptation or pain? He told me no less;<br/>The heirs of salvation, I know from His word,<br/>Through much tribulation must follow their Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Since all that I meet shall work for my good,<br/>The hitter is sweet, the medicine food;<br/>Though painful at present, 'twill cease before long; And then,<br/>O how pleasant the conqueror's song!</lines>
+    </verse>
+  </lyrics>
+</song>

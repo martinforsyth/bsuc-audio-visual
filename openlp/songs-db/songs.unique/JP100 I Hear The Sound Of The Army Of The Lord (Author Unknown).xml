@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:39">
+  <properties>
+    <titles>
+      <title>JP100 I Hear The Sound Of The Army Of The Lord</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I hear the sound of the army of the Lord,<br/>I hear the sound of the army of the Lord.<br/>It's the sound of praise,<br/>It's the sound of war,<br/>The army of the Lord,<br/>The army of the Lord,<br/>The army of the Lord is marching on.</lines>
+    </verse>
+  </lyrics>
+</song>

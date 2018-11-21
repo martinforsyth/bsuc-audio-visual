@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-07-15T08:45:30">
+  <properties>
+    <titles>
+      <title>SF254 Seek ye first the kingdom of God</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Seek ye first the kingdom of God<br/>And His righteousness,<br/>And all these things shall be added unto you,<br/>Allelu, allelujah!<br/>Allelujah! allelujah!<br/>Allelujah! allelu, allelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Ask and it shall be given unto you,<br/>Seek and you shall find.<br/>Knock, and it shall be opened unto you,<br/>Allelu, allelujah!<br/>Allelujah! allelujah!<br/>Allelujah! allelu, allelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We shall not live by bread alone,<br/>But by every word<br/>That proceeds from the mouth of the Lord<br/>Allelu, allelujah!<br/>Allelujah! allelujah!<br/>Allelujah! allelu, allelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

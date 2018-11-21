@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:39">
+  <properties>
+    <titles>
+      <title>SF534 Eternal God, we praise your love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Eternal God, we praise your love:<br/>your love, proclaimed throughout the earth;<br/>your love, enfolding every child,<br/>which knew them all before their birth;<br/>which tends them in their infancy,<br/>and keeps them to eternity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We praise you for each child of ours<br/>who comes, to be our pride and joy;<br/>we meet your love in human form<br/>in every gift of girl or boy,<br/>whose helpless innocence demands<br/>the service of our heart and hands.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Where innocence has been destroyed<br/>or infant helplessness abused,<br/>your judgement, God, condemns us all,<br/>our own unkindness stands accused.<br/>God, crucify our selfishness,<br/>and wound our hearts to tenderness.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Baptize our children, Gracious God,<br/>with your own Spirit; let them be<br/>enfolded in the grace of Christ,<br/>and know his love in infancy;<br/>then, joyfully live out their days<br/>in courage, gentleness and praise.</lines>
+    </verse>
+  </lyrics>
+</song>

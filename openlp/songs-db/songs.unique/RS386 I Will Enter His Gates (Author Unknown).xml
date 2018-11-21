@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:50">
+  <properties>
+    <titles>
+      <title>RS386 I Will Enter His Gates</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I will enter His gates with thanksgiving in my heart,<br/>I will enter His courts with praise;<br/>I will say this is the day that the Lord has made,<br/>I will rejoice for He has made me glad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>He has made me glad,<br/>He has made me glad,<br/>I will rejoice for He has made me glad.<br/>He has made me glad,<br/>He has made me glad,<br/>I will rejoice for He has made me glad.</lines>
+    </verse>
+  </lyrics>
+</song>

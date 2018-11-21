@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:53">
+  <properties>
+    <titles>
+      <title>HP214 The strife is o'er, the battle done</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The strife is o'er, the battle done;<br/>Now is the Victor's triumph won;<br/>O let the song of praise be sting:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The powers of death have done their worst,<br/>But Christ their legions has dispersed;<br/>Let shouts of praise and joy outburst:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>On the third morn he rose again,<br/>Glorious in majesty to reign;<br/>O let us swell the joyful strain:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He broke the age-bound chains of hell;<br/>The bars from heaven's high portals fell;<br/>Let hymns of praise his triumph tell:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord, by the stripes which wounded thee,<br/>From death's dread sting thy servants free,<br/>That we may live, and sing to thee:<br/>Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

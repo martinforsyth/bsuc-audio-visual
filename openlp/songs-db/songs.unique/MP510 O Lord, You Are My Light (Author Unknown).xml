@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:07">
+  <properties>
+    <titles>
+      <title>MP510 O Lord, You Are My Light</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>For my life is hidden with Christ in God,<br/>You have concealed me in Your love,<br/>You've lifted me up, placed my feet on a rock;<br/>I will shout for joy in the house of God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>O Lord, You are my light,<br/>O Lord, You are my salvation.<br/>You have delivered me from all my fear,<br/>For You are the defence of my life.</lines>
+    </verse>
+  </lyrics>
+</song>

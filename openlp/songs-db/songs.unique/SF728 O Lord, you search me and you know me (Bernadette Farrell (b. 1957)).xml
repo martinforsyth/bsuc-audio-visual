@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-07-21T06:47:57">
+  <properties>
+    <titles>
+      <title>SF728 O Lord, you search me and you know me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Bernadette Farrell (b. 1957)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God, you search me and you know me.<br/>All my thoughts lie open to your gaze.<br/>When I walk or lie down you are before me:<br/>ever the maker and keeper of my days.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>You know my resting and my rising.<br/>You discern my purpose from afar,<br/>and with love everlasting you besiege me:<br/>in every moment of life or death, you are.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Before a word is on my tongue, Lord,<br/>you have known its meaning through and through.<br/>You are with me beyond my understanding:<br/>God of my present, my past and future, too.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Although your Spirit is upon me,<br/>still I search for shelter from your light.<br/>There is nowhere on earth I can escape you:<br/>even the darkness is radiant in your sight.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>For you created me and shaped me,<br/>gave me life within my mother's womb.<br/>For the wonder of who I am, I praise you:<br/>safe in your hands, all creation is made new.</lines>
+    </verse>
+  </lyrics>
+</song>

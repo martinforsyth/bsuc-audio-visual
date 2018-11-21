@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:30">
+  <properties>
+    <titles>
+      <title>MP194 God save our gracious Queen,</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God save our gracious Queen,<br/>long live our noble Queen,<br/>God save the Queen.<br/>Send her victorious,<br/>happy and glorious,<br/>long to reign over us:<br/>God save the Queen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thy choicest gifts in store<br/>on her be pleased to pour,<br/>long may she reign.<br/>May she defend our laws,<br/>and ever give us cause<br/>to sing with heart and voice,<br/>God save the Queen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:20">
+  <properties>
+    <titles>
+      <title>MP45 At Your Feet We Fall</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>At Your feet we fall, mighty risen Lord,<br/>As we come before Your throne to worship You.<br/>By Your Spirit's power You now draw our hearts,<br/>And we hear Your voice in triumph ringing clear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There we see You stand, mighty risen Lord,<br/>Clothed in garments pure and holy, shining bright.<br/>Eyes of flashing fire, feet like burnished bronze,<br/>And the sound of many waters is Your voice.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Like the shining sun in its noonday strength,<br/>We now see the glory of Your wondrous face.<br/>Once that face was marred, but now You're glorified,<br/>And Your words like a two-edged sword have mighty power.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>I am He that liveth, that liveth and was dead,<br/>Behold I am alive forever more.</lines>
+    </verse>
+  </lyrics>
+</song>

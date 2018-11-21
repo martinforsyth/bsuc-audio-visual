@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:30">
+  <properties>
+    <titles>
+      <title>HP432 Who fathoms the eternal thought</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Who fathoms the eternal thought?<br/>Who talks of scheme and plan?<br/>The Lord is God! He needeth not<br/>The poor device of man.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I see the wrong that round me lies,<br/>I feel the guilt within.<br/>I hear, with groan and travail-cries,<br/>The world confess its sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Yet, in the maddening maze of things,<br/>And tossed by storm and flood,<br/>To one fixed stake my spirit clings;<br/>I know that God is good!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And if my heart and flesh are weak<br/>To bear an untried pain,<br/>The bruised reed he will not break,<br/>But strengthen and sustain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>I know not what the future hath<br/>Of marvel or surprise,<br/>Assured alone that life and death<br/>His mercy underlies.</lines>
+    </verse>
+  </lyrics>
+</song>

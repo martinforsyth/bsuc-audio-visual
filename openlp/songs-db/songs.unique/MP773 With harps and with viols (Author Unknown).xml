@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:35">
+  <properties>
+    <titles>
+      <title>MP773 With harps and with viols</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>With harps and with viols<br/>there stands a great throng<br/>in the presence of Jesus,<br/>and sing this new song:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>All these once were sinners,<br/>defiled in His sight,<br/>now arrayed in pure garments<br/>in praise they unite;<br/>Refrain</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He's made of the rebel<br/>a priest and a king,<br/>He has bought us, and taught us<br/>this new song to sing:<br/>Refrain</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>How helpless and hopeless<br/>we sinners had been,<br/>if He never had loved us<br/>till cleansed from our sin!<br/>Refrain</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Aloud in His praises<br/>our voices shall ring,<br/>so that others, believing,<br/>this new song shall sing:<br/>Refrain</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Unto Him who has loved us<br/>and washed us from sin,<br/>unto Him be the glory<br/>for ever! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:10">
+  <properties>
+    <titles>
+      <title>MP1010 The Spirit Of The Sovereign Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Spirit of the sovereign Lord is upon You,<br/>Because He has anointed you<br/>To preach good news.<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He has sent you to the poor, (Men)<br/>This is the year: (Women)<br/>To bind up the brokenhearted, (Men)<br/>This is the day: (Women)<br/>To bring freedom to the captives, (Men)<br/>This is the year: (Women)<br/>And to release the ones in darkness. (All)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>This is the year of the favour of the Lord.<br/>This is the day of the vengeance of our God.<br/>This is the year of the favour of the Lord.<br/>This is the day of the vengeance of our God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The Spirit of the Sovereign Lord is upon us,<br/>Because He has anointed us<br/>To preach good news.<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>He will comfort all who mourn (Men)<br/>This is the year: (Women)<br/>He will provide for those who grieve; (Men)<br/>This is the day: (Women)<br/>He will pour out the oil of gladness, (Men)<br/>This is the year: (Women)<br/>Instead of mourning you will praise. (All)</lines>
+    </verse>
+  </lyrics>
+</song>

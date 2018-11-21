@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:59">
+  <properties>
+    <titles>
+      <title>RS650 God with humanity made one</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God with humanity made one<br/>is seen in Christ, God's only Son:<br/>in you, Lord Christ, the Son of Man,<br/>we see God's reconciling plan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>To save a broken world you came,<br/>and from chaotic depths reclaim<br/>your whole creation, so we share<br/>your reconciling work and care.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In you all humankind can see<br/>the people God would have us be.<br/>In you we find how God forgives,<br/>through you, the Spirit in us lives.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Through us God calls the world again;<br/>and constantly his love remains<br/>with arms outstretched, to heal and bless<br/>the refugees of emptiness</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Where race or creed or hate divide,<br/>the Church, like God, must stand beside<br/>and stretch out reconciling hands<br/>to join, through suffering, every land.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Then give us strength, great Lord of life,<br/>to work until all human strife<br/>is reconciled, and all shall praise<br/>your endless love, your glorious ways</lines>
+    </verse>
+  </lyrics>
+</song>

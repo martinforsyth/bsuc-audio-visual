@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:49">
+  <properties>
+    <titles>
+      <title>RS327 O God, your love's undying flame</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God, your love's undying flame<br/>was seen in desert bush ablaze,<br/>when Moses learned your secret name,<br/>the Lord of past and future days;<br/>Lord, we would learn what you require,<br/>and burn for you with living fire.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O Lord of fire, your love a flame<br/>that longed to set the earth ablaze:<br/>to bring the Kingdom's joy you came<br/>and freed us, trapped in earth-bound ways;<br/>Lord, we would share your love's desire,<br/>and burn for you with living fire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O Holy Spirit, tongues of flame<br/>that set the new-born Church ablaze;<br/>to each believer then you came,<br/>and lives were filled with power and praise;<br/>O Spirit, come, our lives inspire<br/>to burn for you with living fire.</lines>
+    </verse>
+  </lyrics>
+</song>

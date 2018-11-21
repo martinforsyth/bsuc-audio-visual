@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:24">
+  <properties>
+    <titles>
+      <title>HP405 Lift up your hearts! We lift them, Lord, to thee</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lift up your hearts!' We lift them, Lord, to thee;<br/>Here at thy feet none other may we see;<br/>'Lift up your hearts!' E'en so, with one accord,<br/>We lift them up, we lift them to the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Above the swamps of subterfuge and shame,<br/>The deeds, the thoughts that honour may not name,<br/>The halting tongue that dares not tell the whole,<br/>O Lord of truth, lift every Christian soul!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lift every gift that thou thyself hast given;<br/>Low lies the best till lifted up to heaven;<br/>Low lie the bounding heart, the teeming brain,<br/>Till, sent from God, they mount to God again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And when the trumpet-call in after years -<br/>'Lift up your hearts!' - rings pealing in our ears,<br/>Still shall those hearts respond with full accord:<br/>'We lift them up, we lift them to the Lord!'</lines>
+    </verse>
+  </lyrics>
+</song>

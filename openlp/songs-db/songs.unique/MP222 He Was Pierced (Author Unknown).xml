@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:32">
+  <properties>
+    <titles>
+      <title>MP222 He Was Pierced</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He was pierced for our transgressions,<br/>And bruised for our iniquities;<br/>And to bring us peace He was punished,<br/>And by His stripes we are healed.<br/>He was led like a lamb to the slaughter,<br/>Although He was innocent of crime;<br/>And cut off from the land of the living,<br/>He paid for the guilt that was mine.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>We like sheep have gone astray,<br/>Turned each one to his own way,<br/>And the Lord has laid on Him<br/>The iniquity of us all.<br/>(Descant)<br/>Like a lamb, like a lamb<br/>To the slaughter He came.<br/>And the Lord laid on Him<br/>The iniquity of us all.</lines>
+    </verse>
+  </lyrics>
+</song>

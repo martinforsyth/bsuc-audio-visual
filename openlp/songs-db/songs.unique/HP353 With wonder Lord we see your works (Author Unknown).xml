@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:16">
+  <properties>
+    <titles>
+      <title>HP353 With wonder Lord we see your works</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>With wonder, Lord, we see your works,<br/>We see your glory there displayed,<br/>Below, above, in all that is<br/>In beauty made.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>With wonder, Lord, we see your works,<br/>And childlike in our joy we sing<br/>To praise you, bless you, Maker, Lord<br/>Of everything.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The stars that fill the skies above,<br/>The sun and moon which give our light,<br/>Are your designing for our use<br/>And our delight.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We praise your works, yet we ourselves<br/>Are works of wonder made by you,<br/>Not far from you in all we are<br/>And all we do.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>All you have made is ours to rule,<br/>The birds and beasts at will to tame,<br/>All things to order for the glory<br/>Of your name.</lines>
+    </verse>
+  </lyrics>
+</song>

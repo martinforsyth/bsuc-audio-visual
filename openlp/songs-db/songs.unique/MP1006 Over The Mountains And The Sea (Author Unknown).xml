@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:08">
+  <properties>
+    <titles>
+      <title>MP1006 Over The Mountains And The Sea</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Over the mountains and the sea<br/>Your river runs with love for me,<br/>And I will open up my heart,<br/>And let the Healer set me free,<br/>I'm happy to be in the truth,<br/>And I will daily lift my hands,<br/>For I will always sing of<br/>When Your love came down, yeah,</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Oh, I feel like dancing,<br/>It's foolishness I know,<br/>But when the world has seen the light,<br/>They will dance with joy<br/>Like we're dancing now,</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>I could sing of Your love forever<br/>I could sing of Your love forever<br/>I could sing of Your love forever<br/>I could sing of Your love forever</lines>
+    </verse>
+  </lyrics>
+</song>

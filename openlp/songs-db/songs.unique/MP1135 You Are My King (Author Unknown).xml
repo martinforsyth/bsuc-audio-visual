@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:25">
+  <properties>
+    <titles>
+      <title>MP1135 You Are My King</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You are my king, (you are my king)<br/>And I love You.<br/>You are my King, (You are my King)<br/>And I worship You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Kneeling before You now,<br/>All of my life I gladly give to You.<br/>Placing my hopes and dreams<br/>In Your hands,<br/>I give my heart to You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>I love You, love You, Jesus.<br/>Yes, I love You, love You, Jesus,<br/>My King.</lines>
+    </verse>
+  </lyrics>
+</song>

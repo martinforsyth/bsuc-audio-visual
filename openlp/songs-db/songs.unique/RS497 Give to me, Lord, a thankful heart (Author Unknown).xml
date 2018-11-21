@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:53">
+  <properties>
+    <titles>
+      <title>RS497 Give to me, Lord, a thankful heart</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Give to me, Lord, a thankful heart<br/>and a discerning mind:<br/>give, as I play the Christian's part,<br/>the strength to finish what I start<br/>and act on what I find.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When, in the rush of days, my will<br/>is habit-bound and slow<br/>help me to keep in vision still<br/>what love and power and peace can fill<br/>a life that trusts in you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>By your divine and urgent claim<br/>and by your human face<br/>kindle our sinking hearts to flame<br/>and as you teach the world your name<br/>let it become your place.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus, with all your Church I long<br/>to see your kingdom come:<br/>show me your way of righting wrong<br/>and turning sorrow into song<br/>until you bring me home.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:39">
+  <properties>
+    <titles>
+      <title>SF526 Lord of all hopefulness</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord of all hopefulness, Lord of all joy,<br/>whose trust, ever childlike, no cares could destroy,<br/>be there at our waking, and give us, we pray,<br/>your bliss in our hearts, Lord, at the break of the day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord of all eagerness, Lord of all faith,<br/>whose strong hands were skilled at the plane and the lathe,<br/>be there at our labours, and give us, we pray,<br/>your strength in our hearts, Lord, at the noon of the day</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord of all kindliness, Lord of all grace,<br/>your hands swift to welcome, your arms to embrace,<br/>be there at our homing, and give us, we pray,<br/>your love in our hearts, Lord, at the eve of the day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord of all gentleness, Lord of all calm,<br/>whose voice is contentment, whose presence is balm,<br/>be there at our sleeping, and give us, we pray,<br/>your peace in our hearts, Lord, at the end of the day.</lines>
+    </verse>
+  </lyrics>
+</song>

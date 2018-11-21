@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:26">
+  <properties>
+    <titles>
+      <title>SF255 The kingdom of God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The kingdom of God<br/>is justice and joy,<br/>for Jesus restores<br/>what sin would destroy;<br/>God's power and glory<br/>in Jesus we know,<br/>and here and here after<br/>the Kingdom shall grow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The kingdom of God<br/>is mercy and grace,<br/>the prisoners are freed,<br/>the sinners find place,<br/>the outcast are welcomed<br/>God's banquet to share,<br/>and hope is awakened<br/>in place of despair.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The kingdom of God<br/>is challenge and choice,<br/>believe the good news,<br/>repent and rejoice!<br/>His love for us sinners<br/>brought Christ to his cross,<br/>our crisis of judgement<br/>for gain or for loss.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God's kingdom is come,<br/>the gift and the goal,<br/>in Jesus begun,<br/>in heaven made whole;<br/>the heirs of the kingdom<br/>shall answer his call,<br/>and all things cry glory<br/>to God all in all.</lines>
+    </verse>
+  </lyrics>
+</song>

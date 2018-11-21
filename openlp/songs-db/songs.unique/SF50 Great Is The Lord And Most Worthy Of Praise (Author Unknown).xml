@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:03">
+  <properties>
+    <titles>
+      <title>SF50 Great Is The Lord And Most Worthy Of Praise</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Great is the Lord and most worthy of praise<br/>The city of our God, the holy place<br/>The joy of the whole earth.<br/>Great is the Lord in whom we have the victory.<br/>He aids us against the enemy<br/>We bow down on our knees</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And Lord we want to lift Your name on high.<br/>And Lord we want to thank You<br/>For the works You've done in our lives.<br/>And Lord we trust in Your unfailing love.<br/>For You alone are God eternal<br/>Throughout earth and heaven above.</lines>
+    </verse>
+  </lyrics>
+</song>

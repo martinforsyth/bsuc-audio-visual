@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:56">
+  <properties>
+    <titles>
+      <title>HP224 It is a thing most wonderful</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It is a thing most wonderful,<br/>Almost too wonderful to be,<br/>That God's own Son should come from heaven<br/>And die to save a child like me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And yet I know that it is true;<br/>He chose a poor and humble lot,<br/>And wept and toiled and mourned and died,<br/>for love of those who loved him not.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I sometimes think about the cross,<br/>and shut my eyes and try to see<br/>the cruel nails and crown of thorns,<br/>and Jesus crucified for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>But even could I see him die<br/>I could but see a little part<br/>of that great love, which, like a fire,<br/>is always burning in his heart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>I cannot tell how He could love<br/>A child so weak and full of sin;<br/>His love must be most wonderful,<br/>If He could die my love to win.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>It is most wonderful to know<br/>His love for me so free and sure;<br/>But 'tis more wonderful to see<br/>My love for Him so faint and poor.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>And yet I want to love Thee, Lord:<br/>Oh, light the flame within my heart,<br/>And I will love Thee more and more<br/>Until I see Thee as Thou art.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:38">
+  <properties>
+    <titles>
+      <title>MP803 As water to the thirsty</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>As water to the thirsty,<br/>as beauty to the eyes,<br/>as strength follows weakness,<br/>as truth instead of lies,<br/>as songtime and springtime<br/>and summertime to be,<br/>so is my Lord,<br/>my living Lord,<br/>so is my Lord to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Like the calm in place of clamour,<br/>like peace that follows pain,<br/>like meeting after parting,<br/>like sunshine after rain,<br/>like moonlight and starlight<br/>and sunshine on the sea,<br/>so is my Lord,<br/>my living Lord,<br/>so is my Lord to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>As sleep that follows fever,<br/>as gold instead of gray,<br/>as freedom after bondage,<br/>as sunrise to the day;<br/>as home to the traveller<br/>and all we long to see,<br/>so is my Lord,<br/>my living Lord,<br/>so is my Lord to me.</lines>
+    </verse>
+  </lyrics>
+</song>

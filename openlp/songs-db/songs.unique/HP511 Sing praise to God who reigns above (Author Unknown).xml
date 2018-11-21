@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:57">
+  <properties>
+    <titles>
+      <title>HP511 Sing praise to God who reigns above</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing praise to God who reigns above,<br/>The God of all creation,<br/>The God of power, the God of love,<br/>The God of our salvation;<br/>With healing balm my soul he fills,<br/>And every faithless murmur stills:<br/>To God all praise and glory!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>What God's almighty power has made<br/>That will he ever cherish,<br/>And will, unfailing, soon and late,<br/>With loving-kindness nourish;<br/>And where he rules in kingly might<br/>There all is just and all is right:<br/>To God all praise and glory!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The Lord is never far away,<br/>But, through all grief distressing,<br/>An ever-present help and stay,<br/>Our peace, and joy, and blessing;<br/>As with a mother's tender hand,<br/>He leads his own, his chosen band:<br/>To God all praise and glory!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O ye who name Christ's holy name,<br/>Give God all praise and glory:<br/>All ye who own his power, proclaim<br/>Aloud the wondrous story.<br/>Cast each false idol from his throne,<br/>The Lord is God, and he alone:<br/>To God all praise and glory!</lines>
+    </verse>
+  </lyrics>
+</song>

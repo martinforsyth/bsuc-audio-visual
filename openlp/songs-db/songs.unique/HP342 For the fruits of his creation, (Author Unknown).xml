@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:14">
+  <properties>
+    <titles>
+      <title>HP342 For the fruits of his creation,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>For the fruits of all creation,<br/>Thanks be to God;<br/>For his gifts to every nation,<br/>Thanks be to God;<br/>For the ploughing, sowing, reaping,<br/>Silent growth while we are sleeping,<br/>Future needs in earth's safe keeping,<br/>Thanks be to God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In the just reward of labour,<br/>God's will is done;<br/>In the help we give our neighbour,<br/>God's will is done;<br/>In our world-wide task of caring<br/>For the hungry and despairing,<br/>In the harvests we are sharing,<br/>God's will is done.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For the harvests of the Spirit,<br/>Thanks be to God;<br/>For the good we inherit,<br/>Thanks be to God;<br/>For the wonders that astound us,<br/>For the truths that still confound us,<br/>Most of all, that love has found us,<br/>Thanks be to God.</lines>
+    </verse>
+  </lyrics>
+</song>

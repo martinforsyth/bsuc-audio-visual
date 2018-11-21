@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:36">
+  <properties>
+    <titles>
+      <title>HP635 Morning has broken</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Morning has broken<br/>Like the first morning;<br/>Blackbird has spoken<br/>Like the first bird.<br/>Praise for the singing!<br/>Praise for the morning!<br/>Praise for them, springing<br/>Fresh from the Word!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sweet the rain's new fall<br/>Sunlit from heaven,<br/>Like the first dewfall<br/>On the first grass.<br/>Praise for the sweetness<br/>Of the wet garden,<br/>Sprung in completeness<br/>Where his feet pass.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Mine is the sunlight!<br/>Mine is the morning<br/>Born of the one light<br/>Eden saw play!<br/>Praise with elation<br/>Praise every morning,<br/>God's re-creation<br/>Of the new day!</lines>
+    </verse>
+  </lyrics>
+</song>

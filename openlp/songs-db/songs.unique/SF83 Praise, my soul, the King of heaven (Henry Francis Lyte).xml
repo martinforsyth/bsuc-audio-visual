@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-06-16T10:11:57">
+  <properties>
+    <titles>
+      <title>SF83 Praise, my soul, the King of heaven</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Henry Francis Lyte</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise, my soul, the King of heaven;<br/>to his feet thy tribute bring.<br/>Ransomed, healed, restored, forgiven,<br/>who like thee his praise should sing?<br/>Praise him! Praise him!<br/>Praise the everlasting King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Praise him for his grace and favour<br/>to his people in distress;<br/>praise him, still the same for ever,<br/>slow to chide, and swift to bless.<br/>Praise him! Praise him!<br/>Glorious in his faithfulness.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Father-like, he tends and spares us;<br/>well our feeble frame he knows;<br/>in his hands he gently bears us,<br/>rescues us from all our foes.<br/>Praise him! Praise him!<br/>Widely as his mercy flows.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Angels in the height, adore him;<br/>ye behold him face to face;<br/>sun and moon, bow down before him,<br/>dwellers all in time and space.<br/>Praise him! Praise him!<br/>Praise with us the God of grace!</lines>
+    </verse>
+  </lyrics>
+</song>

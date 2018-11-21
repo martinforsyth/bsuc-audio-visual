@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:55">
+  <properties>
+    <titles>
+      <title>HP500 Lord God, your love has called us here</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord God, your love has called us here<br/>As we, by love, for love were made<br/>Your living likeness still we bear,<br/>Though marred, dishonoured, disobeyed;<br/>We come, with all our heart and mind,<br/>Your call to hear, your love to find.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We come with self inflicted pains<br/>Of broken trust and chosen wrong,<br/>Half-free, half-bound by inner chains,<br/>By social forces swept along,<br/>By powers and systems close confined,<br/>Yet seeking hope for humankind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord God, in Christ you call our name,<br/>And then receive us as your own,<br/>Not through some merit, right or claim,<br/>But by your gracious love alone;<br/>We strain to glimpse your mercy seat,<br/>And find you kneeling at our feet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then take the towel, and break the bread,<br/>And humble us, and call us friends;<br/>Suffer and serve till all are fed,<br/>And show how grandly love intends<br/>To work till all creation sings,<br/>To fill all worlds, to crown all things.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord God, in Christ you set us free<br/>Your life to live, your joy to share;<br/>Give us your Spirit's liberty<br/>To turn from guilt and dull despair<br/>And offer all that faith can do,<br/>While love is making all things new.</lines>
+    </verse>
+  </lyrics>
+</song>

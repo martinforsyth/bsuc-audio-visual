@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:32">
+  <properties>
+    <titles>
+      <title>MP750 What Kind Of Love Is This</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>What kind of love is this<br/>That gave itself for me?<br/>I am the guilty one,<br/>Yet I go free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>What kind of love is this,<br/>A love I've never known;<br/>I didn't even know His name-<br/>What kind of love is this?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>What kind of man is this,<br/>That died in agony?<br/>He who had done no wrong<br/>Was crucified for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>What kind of man is this,<br/>Who laid aside His throne<br/>That I may know the love of God-<br/>What kind of man is this?</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>By grace I have been saved;<br/>It is the gift of God.<br/>He destined me to be His son,<br/>Such is His love.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>No eye has ever seen,<br/>No ear has ever heard,<br/>Nor has the heart of man conceived<br/>What kind of love is this.</lines>
+    </verse>
+  </lyrics>
+</song>

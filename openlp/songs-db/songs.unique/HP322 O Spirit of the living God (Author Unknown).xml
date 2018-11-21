@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:12">
+  <properties>
+    <titles>
+      <title>HP322 O Spirit of the living God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Spirit of the living God,<br/>In all thy plenitude of grace,<br/>Where'er the human foot has trod,<br/>Descend on our rebellious race.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Give tongues of fire and hearts of love<br/>To preach the reconciling word<br/>Give thine anointing from above,<br/>Whene'er the joyful sound is heard.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Be darkness, at thy coming, light;<br/>Confusion, order in thy path;<br/>Souls without strength inspire with might;<br/>Bid mercy triumph over wrath.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O Spirit of the Lord, prepare<br/>The whole round world her God to meet;<br/>Breathe thou abroad like morning air,<br/>Till hearts of stone begin to beat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Baptize the nations; far and nigh<br/>The triumphs of the cross record;<br/>The name of Jesus glorify,<br/>Till all the earth shall call him Lord.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>God from eternity has willed<br/>All flesh shall his salvation see;<br/>So be the Father's love fulfilled,<br/>The Saviour's sufferings crowned through thee.</lines>
+    </verse>
+  </lyrics>
+</song>

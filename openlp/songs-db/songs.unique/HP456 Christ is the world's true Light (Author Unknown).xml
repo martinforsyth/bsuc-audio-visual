@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:42">
+  <properties>
+    <titles>
+      <title>HP456 Christ is the world's true Light</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ is the world's true Light,<br/>Its captain of salvation,<br/>The day-star shining bright<br/>To every man and nation;<br/>New life, new hope awakes,<br/>Where'er men own his sway:<br/>Freedom her bondage breaks,<br/>And night is turned to day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In Christ all races meet,<br/>Their ancient feuds forgetting,<br/>The whole round world complete,<br/>From sunrise to its setting:<br/>When Christ is throned as Lord,<br/>All shall forsake their fear,<br/>To ploughshare beat the sword,<br/>To pruning-hook the spear</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>One Lord, in one great name<br/>Unite us all who own thee;<br/>Cast out our pride and shame<br/>That hinder to enthrone thee;<br/>The world has waited long,<br/>Has travelled long in pain;<br/>To heal its ancient wrong,<br/>Come, Prince of Peace, and reign.</lines>
+    </verse>
+  </lyrics>
+</song>

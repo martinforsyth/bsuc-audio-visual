@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:20">
+  <properties>
+    <titles>
+      <title>HP574 Worship, and thanks, and blessing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Worship, and thanks, and blessing,<br/>And strength ascribe to Jesus!<br/>Jesus alone<br/>Defends his own,<br/>When earth and hell oppress us.<br/>Jesus with joy we witness<br/>Almighty to deliver;<br/>Our seals set to,<br/>That God is true,<br/>And reigns a King for ever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Omnipotent Redeemer,<br/>Our ransomed souls adore thee:<br/>Our Saviour thou, We find it now,<br/>And give thee all the glory.<br/>We sing thine arm unshortened,<br/>Brought through our sore temptation;<br/>With heart and voice<br/>In thee rejoice,<br/>The God of our salvation.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thine arm has safely brought us<br/>A way no more expected,<br/>Than when thy sheep<br/>Passed through the deep,<br/>By crystal walls protected.<br/>Thy glory was our rearward,<br/>Thine hand our lives did cover,<br/>And we, ev'n we,<br/>Have walked the sea,<br/>And marched triumphant over.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The world and Satan's malice<br/>Thou, Jesus, hast confounded;<br/>And, by thy grace,<br/>With songs of praise<br/>Our happy souls resounded.<br/>Accepting our deliverance,<br/>We triumph in thy favour,<br/>And for the love<br/>Which now we prove<br/>Shall praise thy name for ever.</lines>
+    </verse>
+  </lyrics>
+</song>

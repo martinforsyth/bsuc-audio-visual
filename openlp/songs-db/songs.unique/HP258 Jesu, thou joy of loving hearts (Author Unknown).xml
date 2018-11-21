@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:02">
+  <properties>
+    <titles>
+      <title>HP258 Jesu, thou joy of loving hearts</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesu, thou joy of loving hearts,<br/>Thou fount of life, thou light of men,<br/>From the best bliss that earth imparts<br/>We turn unfilled to thee again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thy truth unchanged hath ever stood;<br/>Thou savest those that on thee call;<br/>To them that seek thee thou art good,<br/>To them that find thee, all in all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We taste thee, O thou living bread,<br/>And long to feast upon thee still;<br/>We drink of thee, the fountain head,<br/>And thirst our souls from thee to fill.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Our restless spirits yearn for thee,<br/>Where'er our changeful lot is cast;<br/>Clad when thy gracious smile we see,<br/>Blest when our faith can hold thee fast.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O Jesus, ever with us stay;<br/>Make all our moments calm and bright;<br/>Chase the dark night of sin away;<br/>Shed o'er the world thy holy light.</lines>
+    </verse>
+  </lyrics>
+</song>

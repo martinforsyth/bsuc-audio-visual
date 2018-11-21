@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:52">
+  <properties>
+    <titles>
+      <title>RS487 Awake, my soul, stretch every nerve.</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Awake, my soul, stretch every nerve,<br/>and press with vigour on;<br/>a heavenly race demands thy zeal,<br/>and an immortal crown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A cloud of witnesses around<br/>holds thee in full survey:<br/>forget the steps already trod<br/>and onward urge thy way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'Tis God's all-animating voice<br/>that calls thee from on high;<br/>'tis his own hand presents the prize<br/>to thine aspiring eye:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>that prize, with peerless glories bright,<br/>which shall new lustre boast,<br/>when victor's wreaths and monarch's gems<br/>shall blend in common dust.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Blest Saviour, introduced by thee<br/>have I my race begun;<br/>and crowned with victory, at thy feet<br/>I'll lay my honours down.</lines>
+    </verse>
+  </lyrics>
+</song>

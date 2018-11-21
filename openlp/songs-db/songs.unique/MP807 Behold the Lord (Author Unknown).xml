@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:38">
+  <properties>
+    <titles>
+      <title>MP807 Behold the Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Behold the Lord upon His throne;<br/>His face is shining like the sun.<br/>With eyes blazing fire, and feet glowing bronze,<br/>His voice like mighty water roars.<br/>Holy, holy, Lord God Almighty.<br/>Holy, holy, we stand in awe of you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The first, the last, the living One,<br/>Laid down His life for all the world.<br/>Behold, he now lives for evermore,<br/>And holds the keys of death and hell.<br/>Holy, holy, Lord God Almighty.<br/>Holy, holy, we bow before your throne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>So let our praises ever ring<br/>To Jesus Christ, our glorious King.<br/>All heaven and earth resound as we cry:<br/>'Worthy is the Son of God!'<br/>Holy, holy, Lord God Almighty.<br/>Holy, holy, we fall down at your feet.</lines>
+    </verse>
+  </lyrics>
+</song>

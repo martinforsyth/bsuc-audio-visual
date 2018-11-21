@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:44">
+  <properties>
+    <titles>
+      <title>MP360 Jesus Has Sat Down</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus has sat down at God's right hand,<br/>He is reigning now on David's throne.<br/>God has placed all things beneath His feet,<br/>His enemies will be His footstool.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God has now exalted Him on high,<br/>Given Him a name above all names.<br/>Every knee will bow and tongue confess<br/>That Jesus Christ is Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus is now living in His church,<br/>Men who have been purchased by His blood.<br/>They will serve their God, a royal priesthood,<br/>And they will reign on earth.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Sound the trumpets, good news to the poor,<br/>Captives will go free, the blind will see;<br/>The kingdom of this world will soon become<br/>The kingdom of our God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>For the government is now upon His shoulder,<br/>For the government is now upon His shoulder,<br/>And of the increase of His government and peace<br/>There will be no end, there will be no end,<br/>There will be no end.</lines>
+    </verse>
+  </lyrics>
+</song>

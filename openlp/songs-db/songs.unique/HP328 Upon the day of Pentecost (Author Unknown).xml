@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:13">
+  <properties>
+    <titles>
+      <title>HP328 Upon the day of Pentecost</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Upon the day of Pentecost<br/>The Holy Spirit came -<br/>Like powerful, rushing, mighty wind<br/>And leaping, living flame.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The friends of Jesus till that hour<br/>Were fearful folk and weak;<br/>But now the Holy Spirit made<br/>Them wise and bold to speak.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>With joy and confidence they went<br/>To all whom they could reach,<br/>In God the Holy Spirit's power<br/>To praise and heal and teach.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God's Holy Spirit still is here<br/>To guide our world today,<br/>And helps the friends of Jesus Christ<br/>In what they do and say.</lines>
+    </verse>
+  </lyrics>
+</song>

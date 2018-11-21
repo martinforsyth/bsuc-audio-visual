@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:22">
+  <properties>
+    <titles>
+      <title>MP645 The God of Abraham praise</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The God of Abraham praise,<br/>who reigns enthroned above,<br/>Ancient of everlasting days,<br/>and God of Love.<br/>Jehovah great I Am!<br/>by earth and heaven confessed;<br/>we bow and bless the sacred Name<br/>for ever blessed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The God of Abraham praise,<br/>at whose supreme command<br/>from earth I rise, and seek the joys<br/>at His right hand.<br/>we all on earth forsake,<br/>Its wisdom, fame and power;<br/>and Him our only portion make,<br/>our shield and tower.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The God of Abraham praise,<br/>whose all sufficient grace<br/>shall guide us all our happy days,<br/>in all our ways:<br/>He is our faithful friend;<br/>He is our gracious God;<br/>and He will save us to the end,<br/>through Jesus' blood.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He by Himself Hath sworn -<br/>we on His oath depend -<br/>we shall on eagles' wings upborne,<br/>to heaven ascend;<br/>we shall behold His face,<br/>we shall His power adore,<br/>and sing the wonders of His grace<br/>for evermore.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The whole triumphant host<br/>give thanks to God on high:<br/>Hail, Father, Son, and Holy Ghost!<br/>they ever cry.<br/>Hail, Abraham's God and ours!<br/>We join the heavenly lays;<br/>and celebrate with all our powers<br/>His endless praise.</lines>
+    </verse>
+  </lyrics>
+</song>

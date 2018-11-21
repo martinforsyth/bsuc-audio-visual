@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:58">
+  <properties>
+    <titles>
+      <title>HP755 Come, let us, who in Christ believe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, let us, who in Christ believe,<br/>Our common Saviour praise,<br/>To him with joyful voices give<br/>The glory of his grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He now stands knocking at the door<br/>Of every sinner's heart;<br/>The worst need keep him out no more,<br/>Or force him to depart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Through grace we hearken to thy voice,<br/>Yield to be saved from sin;<br/>In sure and certain hope rejoice,<br/>That thou wilt enter in.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Come quickly in, thou heavenly guest,<br/>Nor ever hence remove;<br/>But sup with us, and let the feast<br/>Be everlasting love.</lines>
+    </verse>
+  </lyrics>
+</song>

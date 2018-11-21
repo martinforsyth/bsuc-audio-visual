@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:22">
+  <properties>
+    <titles>
+      <title>MP642 The Earth Is The Lord's</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The mountains are His,<br/>The seas and the islands,<br/>The cities and towns,<br/>The houses and streets.<br/>Let rebels bow down<br/>And worship before Him,<br/>For all things were made<br/>For His glory.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>The earth is the Lord's (men)<br/>And everything in it, (Women)<br/>The earth is the Lord's, (Men)<br/>The work of His hands. (Women)<br/>The earth is the Lord's (Men)<br/>And everything in it; (Women)<br/>And all things were made (AlI)<br/>For His glory.</lines>
+    </verse>
+  </lyrics>
+</song>

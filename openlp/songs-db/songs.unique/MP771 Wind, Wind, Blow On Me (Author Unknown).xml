@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:35">
+  <properties>
+    <titles>
+      <title>MP771 Wind, Wind, Blow On Me</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus told us all about You,<br/>How we could not live without You,<br/>With His blood the power bought,<br/>To help us live the life He taught.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When we're weary, You console us;<br/>When we're lonely You enfold us;<br/>When in danger You uphold us,<br/>Blessed Holy Spirit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When unto the church You came<br/>It was not in Your own but Jesus' name.<br/>Jesus Christ is still the same,<br/>He sends the Holy Spirit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Set us free to love our brothers;<br/>Set us free to live for others,<br/>That the world the Son might see,<br/>And Jesus' name exalted be.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Wind, wind, blow on me,<br/>Wind, wind, set me free,<br/>Wind, wind, my Father sent<br/>The blessed Holy Spirit.</lines>
+    </verse>
+  </lyrics>
+</song>

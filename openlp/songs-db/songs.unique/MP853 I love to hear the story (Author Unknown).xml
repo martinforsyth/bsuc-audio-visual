@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:43">
+  <properties>
+    <titles>
+      <title>MP853 I love to hear the story</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I love to hear the story<br/>Which angel voices tell,<br/>How once the King of Glory<br/>Came down on earth to dwell<br/>I am both weak and sinful,<br/>But this I surely know:<br/>The Lord came down to save me<br/>Because he loved me so.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I'm glad my blessed Saviour<br/>Was once a child like me,<br/>To show how pure and holy<br/>His little ones might be;<br/>And if I try to follow<br/>His footsteps here below,<br/>He never will forsake me<br/>Because he loves me so.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>To tell his love and mercy<br/>My sweetest songs I'll raise;<br/>For though I cannot see him,<br/>I know he hears my praise;<br/>For  he himself has promised<br/>That even I may go<br/>To sing among the angels,<br/>Because he loves me so.</lines>
+    </verse>
+  </lyrics>
+</song>

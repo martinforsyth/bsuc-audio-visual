@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:49">
+  <properties>
+    <titles>
+      <title>HP166 God of unexampled grace</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of unexampled grace,<br/>Redeemer of mankind,<br/>Matter of eternal praise<br/>We in thy passion find;<br/>Still our choicest strains we bring,<br/>Still the joyful theme pursue,<br/>Thee the friend of sinners sing,<br/>Whose love is ever new.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Endless scenes of wonder rise<br/>From that mysterious tree,<br/>Crucified before our eyes<br/>Where we our Maker see;<br/>Jesus, Lord, what hast thou done?<br/>Publish we the death divine,<br/>Stop, and gaze, and fall, and own<br/>Was never love like thine!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Never love nor sorrow was<br/>Like that my Saviour showed;<br/>See him stretched on yonder cross,<br/>And crushed beneath our load!<br/>Now discern the Deity,<br/>Now his heavenly birth declare;<br/>Faith cries out: 'Tis he, 'tis he,<br/>My God, that suffers there!</lines>
+    </verse>
+  </lyrics>
+</song>

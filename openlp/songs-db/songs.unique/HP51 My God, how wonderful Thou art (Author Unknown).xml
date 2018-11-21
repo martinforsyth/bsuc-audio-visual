@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:41">
+  <properties>
+    <titles>
+      <title>HP51 My God, how wonderful Thou art</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My God, how wonderful Thou art,<br/>Thy majesty how bright!<br/>How beautiful Thy mercy seat,<br/>In depths of burning light!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>How dread are Thine eternal years,<br/>O everlasting Lord,<br/>By prostrate spirits day and night<br/>Incessantly adored!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>How beautiful, how beautiful,<br/>The sight of Thee must be,<br/>Thine endless wisdom, boundless power<br/>And awful purity!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O how I fear Thee, living God,<br/>With deepest, tenderest fears,<br/>And worship Thee with trembling hope,<br/>And penitential tears!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Yet I may love Thee too,<br/>O Lord, Almighty as Thou art,<br/>For Thou hast stooped to ask of me<br/>The love of my poor heart.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>No earthly father loves like Thee;<br/>No mother, e'er so mild,<br/>Bears and forbears as Thou hast done<br/>With me, Thy sinful child.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Father of Jesus, love's reward,<br/>What rapture will it be<br/>Prostrate before Thy throne to lie,<br/>And gaze, and gaze on Thee!</lines>
+    </verse>
+  </lyrics>
+</song>

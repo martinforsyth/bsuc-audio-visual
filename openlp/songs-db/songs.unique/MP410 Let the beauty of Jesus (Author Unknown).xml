@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:53">
+  <properties>
+    <titles>
+      <title>MP410 Let the beauty of Jesus</title>
+    </titles>
+    <verseOrder>c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines><br/>Let the beauty of Jesus be seen in me,<br/>all His wondrous compassion and purity:<br/>Oh, Thou Spirit divine, all my nature refine,<br/>till the beauty of Jesus be seen in me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:55">
+  <properties>
+    <titles>
+      <title>HP743 My Saviour, how shall I proclaim</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My Saviour, how shall I proclaim,<br/>How pay the mighty debt I owe?<br/>Let all I have, and all I am,<br/>Ceaseless to all thy glory show.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Too much to thee I cannot give;<br/>Too much I cannot do for thee;<br/>Let all thy love, and all thy grief,<br/>Grav'n on my heart for ever be.</lines>
+    </verse>
+  </lyrics>
+</song>

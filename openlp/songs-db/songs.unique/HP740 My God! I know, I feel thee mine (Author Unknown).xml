@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:55">
+  <properties>
+    <titles>
+      <title>HP740 My God! I know, I feel thee mine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My God! I know, I feel thee mine,<br/>And will not quit my claim,<br/>Till all I have is lost in thine<br/>And all renewed I am.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I hold thee with a trembling hand,<br/>But will not let thee go,<br/>Till steadfastly by faith I stand<br/>And all thy goodness know.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When shall I see the welcome hour<br/>That plants my God in me-<br/>Spirit of health, and life, and power,<br/>And perfect liberty?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus, thine all-victorious love<br/>Shed in my heart abroad;<br/>Then shall my feet no longer rove,<br/>Rooted and fixed in God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O that in me the sacred fire<br/>Might now begin to glow<br/>Burn up the dross of base desire,<br/>And make the mountains flow!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O that it now from heaven might fall,<br/>And all my sins consume!<br/>Come Holy Ghost, for thee I call,<br/>Spirit of burning come!</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Refining fire, go through my heart,<br/>Illuminate my soul;<br/>Scatter thy life through every part,<br/>And sanctify the whole.</lines>
+    </verse>
+  </lyrics>
+</song>

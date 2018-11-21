@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:41">
+  <properties>
+    <titles>
+      <title>HP49 Eternal Power, whose high abode</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Eternal Power, whose high abode<br/>Becomes the grandeur of a God;<br/>Infinite length beyond the bounds<br/>Where stars revolve their little rounds!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thee while the first archangel sings,<br/>He hides his face beneath his wings,<br/>And throngs of shining thrones around<br/>Fall worshipping, and spread the ground.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, what shall earth and ashes do?<br/>We would adore our Maker too;<br/>From sin and dust to thee we cry,<br/>The Great, the Holy, and the High!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Earth from afar has heard thy fame,<br/>And babes have learnt to lisp thy name;<br/>But O the glories of thy mind<br/>Leave all our soaring thoughts behind!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>God is in heaven, we dwell below;<br/>Be short our tunes, our words be few;<br/>A sacred reverence checks our songs,<br/>And praise sits silent on our tongues.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:26">
+  <properties>
+    <titles>
+      <title>MP1142 Your Eye Is On The Sparrow</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Your eye is on the sparrow,<br/>And Your hand, it comforts me.<br/>From the ends of the earth<br/>To the depths of my heart,<br/>Let Your mercy and strength be seen.<br/>You call me to Your purpose,<br/>As angels understand.<br/>For Your glory may You draw all men,<br/>As Your love and grace demands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And I will run to You,<br/>To Your words of truth;<br/>Not by might, not by power<br/>But by the Spirit of God.<br/>Yes, I will run the race,<br/>Till I see Your face.<br/>Oh, let me live in the glory of Your grace.</lines>
+    </verse>
+  </lyrics>
+</song>

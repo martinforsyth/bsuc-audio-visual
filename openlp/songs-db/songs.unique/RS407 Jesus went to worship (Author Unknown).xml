@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:50">
+  <properties>
+    <titles>
+      <title>RS407 Jesus went to worship</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus went to worship<br/>in the synagogue;<br/>with his friends and neighbours<br/>sang his praise to God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We, like Jesus, worship<br/>in the Church today;<br/>still, with friends and neighbours<br/>sing our songs and pray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When the service ended<br/>Jesus took his praise<br/>into streets and houses<br/>spelling out God's ways.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>People came to Jesus,<br/>frightened, hurt and sad;<br/>helping them to worship,<br/>Jesus made them glad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Holy Spirit, help us<br/>when this service ends,<br/>still to follow Jesus,<br/>still to be his friends.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>When our neighbours meet us,<br/>may they, with surprise,<br/>catch a glimpse of Jesus<br/>rising in our eyes.</lines>
+    </verse>
+  </lyrics>
+</song>

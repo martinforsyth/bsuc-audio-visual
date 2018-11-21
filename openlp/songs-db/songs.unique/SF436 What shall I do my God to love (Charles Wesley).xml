@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-05-02T09:59:12">
+  <properties>
+    <titles>
+      <title>SF436 What shall I do my God to love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>What shall I do my God to love,<br/>my loving God to praise?<br/>The length, and breadth, and height to prove,<br/>and depth of sovereign grace?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your sovereign grace to all extends,<br/>immense and unconfined;<br/>from age to age it never ends;<br/>enfolds all humankind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Throughout the world its breadth is known,<br/>wide as infinity;<br/>so wide it never passed by one,<br/>or it had passed by me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>My trespass was grown up to heaven;<br/>but, far above the skies,<br/>in Christ abundantly forgiven,<br/>I see your mercies rise.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The depth of all-redeeming love<br/>what angel tongue can tell?<br/>O may I to the utmost prove<br/>the gift unspeakable!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Come quickly, gracious Lord, and take<br/>possession of your own;<br/>my longing heart vouchsafe to make<br/>your everlasting throne.</lines>
+    </verse>
+  </lyrics>
+</song>

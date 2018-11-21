@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:15">
+  <properties>
+    <titles>
+      <title>MP7 All creatures of our God and King</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All creatures of our God and King,<br/>lift up your voice and with us sing,<br/>hallelujah, hallelujah!<br/>Thou burning sun with golden beam,<br/>thou silver moon with softer gleam:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou rushing wind that art so strong,<br/>ye clouds that sail in heaven along,<br/>O praise him, hallelujah!<br/>Thou rising morn, in praise rejoice;<br/>ye lights of evening, find a voice:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thou flowing water, pure and clear,<br/>make music for thy Lord to hear,<br/>hallelujah, hallelujah!<br/>Thou fire, so masterful and bright,<br/>that givest us both warmth and light:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And all ye men of tender heart,<br/>forgiving others, take your part,<br/>O sing ye, hallelujah!<br/>Ye who long pain and sorrow bear,<br/>praise God. and on Him cast your care:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Let all things their Creator bless,<br/>and worship him in humbleness;<br/>O praise him, hallelujah!<br/>Praise, praise the Father, praise the Son,<br/>and praise the Spirit, Three in One:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>O praise him, O praise him,<br/>Hallelujah, hallelujah, hallelujah.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-10T15:45:51">
+  <properties>
+    <titles>
+      <title>SF214 6 verse Once in royal David's city</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Once in royal David's city<br/>Stood a lowly cattle shed,<br/>Where a mother laid her Baby<br/>In a manger for His bed:<br/>Mary was that mother mild,<br/>Jesus Christ her little Child.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He came down to earth from heaven,<br/>Who is God and Lord of all,<br/>And His shelter was a stable,<br/>And His cradle was a stall;<br/>With the poor, and mean, and lowly,<br/>Lived on earth our Savior holy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And through all His wondrous childhood<br/>He would honor and obey,<br/>Love and watch the lowly maiden,<br/>In whose gentle arms He lay:<br/>Christian children all must be<br/>Mild, obedient, good as He.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For he is our childhood's pattern;<br/>Day by day, like us He grew;<br/>He was little, weak and helpless,<br/>Tears and smiles like us He knew;<br/>And He feeleth for our sadness,<br/>And He shareth in our gladness.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>And our eyes at last shall see Him,<br/>Through His own redeeming love;<br/>For that Child so dear and gentle<br/>Is our Lord in heaven above,<br/>And He leads His children on<br/>To the place where He is gone.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Not in that poor lowly stable,<br/>With the oxen standing by,<br/>We shall see Him; but in heaven,<br/>Set at God's right hand on high;<br/>Where like stars His children crowned<br/>All in white shall wait around.</lines>
+    </verse>
+  </lyrics>
+</song>

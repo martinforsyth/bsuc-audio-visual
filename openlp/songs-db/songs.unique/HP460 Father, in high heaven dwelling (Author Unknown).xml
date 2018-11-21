@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:46">
+  <properties>
+    <titles>
+      <title>HP460 Father, in high heaven dwelling</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, in high heaven dwelling,<br/>May our evening song be telling<br/>Of Thy mercy large and free;<br/>Through the day Thy love hath fed us.<br/>Through the day Thy care hath led us,<br/>With divinest charity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>This day's sins oh, pardon, Saviour,<br/>Evil thoughts, perverse behaviour,<br/>Envy, pride and vanity;<br/>From the world, the flesh deliver,<br/>Save us now, and save us ever,<br/>O Thou Lamb of Calvary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>From enticements of the devil,<br/>From the might of spirits evil,<br/>Be our shield and panoply;<br/>Let Thy power this night defend us,<br/>And a heavenly peace attend us,<br/>And angelic company.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Whilst the night dews are distilling,<br/>Holy Ghost each heart be filling<br/>With Thine own serenity;<br/>Softly let our eyes be closing,<br/>Loving souls on Thee reposing,<br/>Ever blessed Trinity.</lines>
+    </verse>
+  </lyrics>
+</song>

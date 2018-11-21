@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:24">
+  <properties>
+    <titles>
+      <title>HP819 Leader of faithful souls, and guide</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Leader of faithful souls, and guide<br/>Of all that travel to the sky,<br/>Come and with us, ev'n us, abide,<br/>Who would on thee alone rely,<br/>On thee alone our spirits stay,<br/>While held in life's uneven way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We've no abiding city here,<br/>But seek a city out of sight;<br/>Thither our steady course we steer,<br/>Aspiring to the plains of light,<br/>Jerusalem, the saints' abode,<br/>Whose founder is the living God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Through thee, who all our sins hast borne,<br/>Freely and graciously forgiven,<br/>With songs to Zion we return,<br/>Contending for our native heaven;<br/>That palace of our glorious King,<br/>We find it nearer while we sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Raised by the breath of love divine,<br/>We urge our way with strength renewed;<br/>The church of the first-born to join,<br/>We travel to the mount of God,<br/>With joy upon our heads arise,<br/>And meet our Captain in the skies.</lines>
+    </verse>
+  </lyrics>
+</song>

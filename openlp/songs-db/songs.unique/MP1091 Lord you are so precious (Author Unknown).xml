@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:18">
+  <properties>
+    <titles>
+      <title>MP1091 Lord you are so precious</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, you are so precious to me,<br/>Lord, you are so precious to me<br/>And I love you, yes, I love you<br/>Because you first loved me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, you are so gracious to me,<br/>Lord, you are so gracious to me<br/>And I love you, yes, I love you<br/>Because you first loved me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, you a father to me,<br/>Lord, you a father to me<br/>And I love you, yes, I love you<br/>Because you first loved me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, you are so faithful to me,<br/>Lord, you are so faithful to me<br/>And I love you, yes, I love you<br/>Because you first loved me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord, you are so loving to me,<br/>Lord, you are so loving to me<br/>And I love you, yes, I love you<br/>Because you first loved me.</lines>
+    </verse>
+  </lyrics>
+</song>

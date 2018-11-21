@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:32">
+  <properties>
+    <titles>
+      <title>MP225 He's got the whole world in his hand</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He's got the whole world in his hand.<br/>He's got the whole world in his hand.<br/>He's got the whole wide world in his hand.<br/>He's got the whole world in his hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He's got everybody here in his hand.<br/>He's got everybody here in his hand.<br/>He's got everybody here in his hand.<br/>He's got the whole world in his hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He's got the tiny little baby in his hand.<br/>He's got the tiny little baby in his hand.<br/>He's got the tiny little baby in his hand.<br/>He's got the whole world in his hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He's got you and me, brother, in his hand.<br/>He's got you and me, brother, in his hand.<br/>He's got you and me, brother, in his hand.<br/>He's got the whole world in his hand.</lines>
+    </verse>
+  </lyrics>
+</song>

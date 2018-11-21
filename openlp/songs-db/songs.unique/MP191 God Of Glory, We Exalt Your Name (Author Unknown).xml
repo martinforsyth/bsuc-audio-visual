@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:30">
+  <properties>
+    <titles>
+      <title>MP191 God Of Glory, We Exalt Your Name</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of glory, we exalt Your name,<br/>You who reign in majesty,<br/>We lift our hearts to You<br/>And we will worship, praise and magnify<br/>Your holy name.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>In power resplendent<br/>You reign in glory,<br/>Eternal King, You reign for ever.<br/>Your word is mighty,<br/>Releasing captives,<br/>Your love is gracious,<br/>You are my God.</lines>
+    </verse>
+  </lyrics>
+</song>

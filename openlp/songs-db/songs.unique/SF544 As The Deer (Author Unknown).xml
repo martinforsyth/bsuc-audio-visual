@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-07-21T06:54:29">
+  <properties>
+    <titles>
+      <title>SF544 As The Deer</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>As the deer pants for the water,<br/>so my soul longs after You.<br/>You alone are my heart's desire<br/>and I long to worship You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I want You more than gold or silver,<br/>only You can satisfy.<br/>You alone are the real joy-giver<br/>and the apple of my eye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>You're my Friend and You're my Brother,<br/>even though You are a King.<br/>I love You more than any other,<br/>so much more than anything.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>You alone are my strength, my shield,<br/>to You alone may my spirit yield.<br/>You alone are my heart's desire<br/>and I long to worship You.</lines>
+    </verse>
+  </lyrics>
+</song>

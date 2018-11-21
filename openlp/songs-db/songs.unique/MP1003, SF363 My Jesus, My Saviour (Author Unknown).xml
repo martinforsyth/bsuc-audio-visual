@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-01-25T17:30:50">
+  <properties>
+    <titles>
+      <title>MP1003, SF363 My Jesus, My Saviour</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My Jesus, my Saviour,<br/>Lord, there is none like You.<br/>All of my days I want to praise<br/>the wonders of Your mighty love.<br/>My comfort, my shelter,<br/>tower of refuge and strength,<br/>let every breath, All that I am,<br/>never cease to worship You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Shout to the Lord all the earth, let us sing<br/>power and majesty, praise to the King.<br/>Mountains bow down and the seas will roar<br/>at the sound of Your name.<br/>I sing for joy at the work of Your hands.<br/>for ever I'll love You, for ever I'll stand.<br/>Nothing compares to the promise I have in You</lines>
+    </verse>
+  </lyrics>
+</song>

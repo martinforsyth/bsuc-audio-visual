@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:20">
+  <properties>
+    <titles>
+      <title>HP379 Eternal Father, strong to save</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Eternal Father, strong to save,<br/>Whose arm doth bind the restless wave,<br/>Who bidd'st the mighty ocean deep<br/>Its own appointed limits keep:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O Saviour, whose almighty word<br/>The winds and waves submissive heard,<br/>Who walkedst on the foaming deep,<br/>And calm amid its rage didst sleep:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O sacred Spirit, who didst brood<br/>Upon the chaos dark and rude,<br/>Who bad'st its angry tumult cease,<br/>And gavest light and life and peace:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O Trinity of love and power,<br/>Our brethren shield in danger's hour;<br/>From rock and tempest, fire and foe,<br/>Protect them wheresoe'er they go:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>And ever let there rise to thee<br/>Glad hymns of praise from land and sea.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>O hear us when we cry to thee<br/>For those in peril on the sea.</lines>
+    </verse>
+  </lyrics>
+</song>

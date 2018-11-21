@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:24">
+  <properties>
+    <titles>
+      <title>HP399 Almighty Father, who dost give</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Almighty Father, who dost give<br/>The gift of life to all who live,<br/>Look down on all earth's sin and strife,<br/>And lift us to a nobler life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lift up our hearts, O King of kings,<br/>To brighter hopes and kindlier things,<br/>To visions of a larger good,<br/>And holier dreams of brotherhood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thy world is weary of its pain,<br/>Of selfish greed and fruitless gain,<br/>Of tarnished honour, falsely strong,<br/>And all its ancient deeds of wrong.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Hear thou the prayer thy servants pray,<br/>Uprising from all lands today,<br/>And o'er the vanquished powers of sin<br/>O bring thy great salvation in.</lines>
+    </verse>
+  </lyrics>
+</song>

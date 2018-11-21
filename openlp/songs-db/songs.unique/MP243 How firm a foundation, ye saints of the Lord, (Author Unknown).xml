@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:34">
+  <properties>
+    <titles>
+      <title>MP243 How firm a foundation, ye saints of the Lord,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How firm a foundation, ye saints of the Lord,<br/>Is laid for your faith in his excellent word!<br/>What more can he say than to you he hath said,<br/>To you who for refuge to Jesus have fled?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Fear not, I am with thee, O be not dismayed,<br/>For I am thy God, I will still give thee aid!<br/>I'll strengthen thee, help thee, and cause thee to stand,<br/>Upheld by my gracious omnipotent hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In every condition, in sickness, in health,<br/>in poverty's vale, or abounding in wealth;<br/>at home and abroad, on land, on the sea,<br/>as thy days, may demand shall thy strength ever be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When through the deep waters I call thee to go,<br/>The rivers of grief shall not thee overflow,<br/>For I will be with thee thy trials to bless,<br/>And sanctify to thee thy deepest distress.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>When through fiery trials thy pathway shall lie,<br/>His grace all-sufficient shall be thy supply;<br/>the flame shall not hurt thee, His only design<br/>thy dross to consume and the gold to  frefine.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>The soul that on Jesus hath leaned for repose,<br/>I will not, I will not desert to its foes;<br/>That soul, though all Hell should endeavor to shake,<br/>I'll never, no never, no never forsake.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:55">
+  <properties>
+    <titles>
+      <title>MP950 Thy way, not mine, O Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thy way, not mine, O Lord,<br/>However dark it be Lord.<br/>Oh, lead me by Thine own right hand,<br/>Choose Thou the path for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Smooth let it be or rough,<br/>It will be still the best;<br/>Winding or straight, it can but lead<br/>Right onward to Thy rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I dare not choose my lot;<br/>I would not if I might;<br/>But choose Thou for me,<br/>O my God, So shall I walk aright.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The kingdom that I seek<br/>is Thine; so let the way<br/>that leads to it beThine,<br/>else I surely go astray.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Take Thou my cup, and it<br/>With joy or sorrow fill,<br/>As ever best to Thee may seem;<br/>Choose Thou my good or ill.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Choose Thou for me my friends,<br/>my sickness or my health;<br/>choose Thou my cares for me,<br/>my poverty or wealth.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Not mine, not mine the choice<br/>In things or great or small;<br/>Be Thou to me my Guide, my Strength,<br/>My Wisdom and my All.</lines>
+    </verse>
+  </lyrics>
+</song>

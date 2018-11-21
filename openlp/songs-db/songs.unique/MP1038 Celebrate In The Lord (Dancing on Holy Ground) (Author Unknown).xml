@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:13">
+  <properties>
+    <titles>
+      <title>MP1038 Celebrate In The Lord (Dancing on Holy Ground)</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 b1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Celebrate in the Lord,<br/>He is the reason we rejoice;<br/>For He has cast our sins away,<br/>Forgotten now, forever and always,<br/>Always, always, yes, always,<br/>Always, always.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>This is our jubilee,<br/>No debt, no bondage, we are free.<br/>We're free to give Him everything<br/>For we have nothing, now it is all His,<br/>All His, all His, it's all His,<br/>All His, all His.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For freedom You have set us free,<br/>No longer bound to slavery,<br/>You've broken every chain that binds;<br/>You've conquered sin forever and all time.<br/>All time, all time, yes, all time,<br/>All time, all time.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>This is where the party is,<br/>This is where the joy of heaven abounds.<br/>In His presence we are free<br/>To praise, to shout aloud.<br/>This is where the party is,<br/>Singing with the angels, hear the sound.<br/>This is where the party is,<br/>We are dancing on holy ground,<br/>Holy ground, holy ground, holy ground,<br/>Holy ground, holy ground..</lines>
+    </verse>
+  </lyrics>
+</song>

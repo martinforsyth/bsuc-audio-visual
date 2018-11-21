@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:50">
+  <properties>
+    <titles>
+      <title>HP711 Happy are they, they that love God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Happy are they, they that love God,<br/>Whose hearts have Christ confessed,<br/>Who by his cross have found their life,<br/>And 'neath his yoke their rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Glad is the praise, sweet are the songs,<br/>When they together sing;<br/>And strong the prayers that bow the ear<br/>Of heaven's eternal King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Christ to their homes giveth his peace,<br/>And makes their loves his own:<br/>But ah, what tares the evil one<br/>Hath in his garden sown!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Sad were our lot, evil this earth,<br/>Did not its sorrows prove<br/>The path whereby the sheep may find<br/>The fold of Jesu's love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Then shall they know, they that love him,<br/>How all their pain is good;<br/>And death itself cannot unbind<br/>Their happy brotherhood.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:20">
+  <properties>
+    <titles>
+      <title>HP375 Almighty Father of all things that be</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Almighty Father of all things that be,<br/>Our life, our work, we consecrate to thee,<br/>Whose heavens declare thy glory from above,<br/>Whose earth below is witness to thy love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou dost the strength to worker's arms impart;<br/>From thee the skilled musician's subtle art;<br/>The grace of poet's pen or painter's hand<br/>Portrays the loveliness of sea and land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For well we know this weary, fallen earth<br/>Is yet thine own by right of its new birth,<br/>Since that great cross upreared on Calvary<br/>And Easter's power redeemed it, Lord, for thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then grant us, Lord, to spend ourselves in praise,<br/>To serve our Saviour's purpose all our days,<br/>To speak and think, and work and live and move,<br/>Reflecting thine own nature, suffering love;</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>That so, redeemed by Christ from sin and shame,<br/>And purified by thine own Spirit's flame,<br/>Ourselves, our work, and all our powers may be<br/>A sacrifice acceptable to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

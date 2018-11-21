@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:53">
+  <properties>
+    <titles>
+      <title>HP211 The Saviour, when to heaven he rose</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Saviour, when to heaven he rose,<br/>In splendid triumph o'er his foes,<br/>Scattered his gifts on us below,<br/>And wide his royal bounties flow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Hence sprung the apostles' honoured name,<br/>Sacred beyond heroic fame;<br/>In lowlier forms, to bless our eyes,<br/>Pastors from hence, and teachers rise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>From Christ their varied gifts derive,<br/>And, fed by Christ, their graces live;<br/>While, guarded by his mighty hand,<br/>Midst all the rage of hell they stand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>So shall the bright succession run<br/>Through the last courses of the sun;<br/>While unborn churches by their care<br/>Shall rise and flourish large and fair.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Jesus our Lord their hearts shall know -<br/>The Spring whence all these blessings flow;<br/>Pastors and people shout his praise<br/>Through all the round of endless days.<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

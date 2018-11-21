@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:39">
+  <properties>
+    <titles>
+      <title>MP279 I know not why God's wondrous Grace</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I know not why God's wondrous grace<br/>to me has been made known;<br/>nor why-unworthy as I am-<br/>He claimed me for his own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I know not how this saving faith<br/>to me He did impart;<br/>or how believing in His word<br/>wrought peace upon my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I know not how the Spirit moves,<br/>convincing men of sin;<br/>revealing Jesus through the word,<br/>creating faith in him.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I know not what of good or ill<br/>may be reserved for me<br/>of weary ways or golden days<br/>before His face I see.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>But," I know whom I have believed;<br/>and am persuaded that He is able<br/>to keep<br/>that which I've commited<br/>unto Him against that day.</lines>
+    </verse>
+  </lyrics>
+</song>

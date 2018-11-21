@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:08">
+  <properties>
+    <titles>
+      <title>SF87  Praise to the Living God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise to the Living God!<br/>All praised be his name,<br/>Who was, and is, and is to be,<br/>For aye the same!<br/>The one eternal God<br/>Ere aught that now appears;<br/>The First, the Last, beyond all thought<br/>His timeless years!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Formless, all lovely forms<br/>Declare his loveliness;<br/>Holy, no holiness of earth<br/>Can his express.<br/>Lo, he is Lord of all!<br/>Creation speaks his praise,<br/>And everywhere, above, below,<br/>His will obeys.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>His Spirit floweth free,<br/>High surging where it will;<br/>In prophet's word he spake of old,<br/>He speaketh still.<br/>Established is his law,<br/>And changeless it shall stand,<br/>Deep writ upon the human heart,<br/>On sea, on land.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Eternal life hath he<br/>Implanted in the soul;<br/>His love shall be our strength and stay,<br/>While ages roll.<br/>Praise to the Living God!<br/>All praised be his name,<br/>Who was, and is, and is to be,<br/>For aye the same!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:46">
+  <properties>
+    <titles>
+      <title>MP898 No other Name</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>His name is exalted far above the earth<br/>His name is higher than the heavens<br/>His name is exalted far above the earth<br/>In glory and honour and praise unto his name</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>No other name but the name of Jesus<br/>No other name but the name of the Lord<br/>No other name but the name of Jesus<br/>Is worthy of glory<br/>Is worthy of honour<br/>Is worthy of power and of praise</lines>
+    </verse>
+  </lyrics>
+</song>

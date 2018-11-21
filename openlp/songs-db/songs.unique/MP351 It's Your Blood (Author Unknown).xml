@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:43">
+  <properties>
+    <titles>
+      <title>MP351 It's Your Blood</title>
+    </titles>
+    <verseOrder>v1 v1 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It's Your blood that cleanses me<br/>It's your blood that gives me life<br/>It's your blood that took my place<br/>In redeeming sacrifice<br/>And washes me<br/>Whiter than the snow, (than the snow)<br/>My Jesus, God's precious sacrifice</lines>
+    </verse>
+  </lyrics>
+</song>

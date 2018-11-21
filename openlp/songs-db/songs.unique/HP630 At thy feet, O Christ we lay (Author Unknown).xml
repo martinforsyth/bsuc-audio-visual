@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:35">
+  <properties>
+    <titles>
+      <title>HP630 At thy feet, O Christ we lay</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>At thy feet, O Christ, we lay<br/>Thine own gift of this new day;<br/>Doubt of what it holds in store<br/>Makes us crave thine aid the more,.<br/>Lest it prove a time of loss,<br/>Mark it, Saviour, with thy cross.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>If it flow on calm and bright,<br/>Be thyself our chief delight;<br/>If it bring unknown distress,<br/>Good is all that thou canst bless;<br/>Only, while its hours begin,<br/>Pray we, keep them clear of sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Fain would we thy word embrace,<br/>Live each moment in thy grace,<br/>All our selves to thee consign,<br/>Fold up all our wills in thine,<br/>Think, and speak, and do, and be<br/>Simply that which pleases thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Hear us, Lord, and that right soon;<br/>Hear, and grant the choicest boon<br/>That thy love can e'er impart,<br/>Loyal singleness of heart;<br/>So shall this and all our days,<br/>Christ our God, show forth thy praise.</lines>
+    </verse>
+  </lyrics>
+</song>

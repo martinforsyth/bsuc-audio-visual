@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:23">
+  <properties>
+    <titles>
+      <title>SF227 Brightest and best of the sons of the morning</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Brightest and best of the sons of the morning,<br/>dawn on our darkness, and lend us thine aid;<br/>star of the East, the horizon adorning,<br/>guide where our infant Redeemer is laid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Cold on His cradle the dew-drops are shining;<br/>low lies His head with the beasts of the stall;<br/>angels adore Him in slumber reclining,<br/>Maker, and Monarch, and Saviour of all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Say, shall we yield Him, in costly devotion,<br/>odours of Edom, and offerings divine,<br/>gems of the mountain and pearls of the ocean,<br/>myrrh from the forest or gold from the mine?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Vainly we offer each ample oblation;<br/>vainly with gifts would His favour secure;<br/>richer by far is the heart's adoration;<br/>dearer to God are the prayers of the poor.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Brightest and best of the sons of the morning,<br/>dawn on our darkness, and lend us thine aid;<br/>star of the East the horizon adorning,<br/>guide where our infant Redeemer is laid.</lines>
+    </verse>
+  </lyrics>
+</song>

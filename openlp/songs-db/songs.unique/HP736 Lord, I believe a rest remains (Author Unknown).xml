@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:54">
+  <properties>
+    <titles>
+      <title>HP736 Lord, I believe a rest remains</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, I believe a rest remains<br/>To all thy people known,<br/>A rest where pure enjoyment reigns,<br/>And thou art loved alone:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A rest, where all our soul's desire<br/>Is fixed on things above;<br/>Where fear, and sin, and grief expire,<br/>Cast out by perfect love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O that I now the rest might know,<br/>Believe, and enter in!<br/>Now, Saviour, now the power bestow,<br/>And let me cease from sin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Remove this hardness from my heart,<br/>This unbelief remove;<br/>To me the rest of faith impart,<br/>The sabbath of thy love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thy name to me, thy nature grant;<br/>This, only this be given:<br/>Nothing beside my God I want,<br/>Nothing in earth or heaven.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Come, Father, Son, and Holy Ghost,<br/>And seal me thine abode;<br/>Let all I am in thee be lost,<br/>Let all be lost in God.</lines>
+    </verse>
+  </lyrics>
+</song>

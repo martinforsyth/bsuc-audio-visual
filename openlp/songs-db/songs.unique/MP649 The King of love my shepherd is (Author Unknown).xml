@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:23">
+  <properties>
+    <titles>
+      <title>MP649 The King of love my shepherd is</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The King of love my shepherd is,<br/>whose goodness faileth never;<br/>I nothing lack if I am His<br/>and He is mine for ever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Where streams of living water flow<br/>my ransomed soul He leadeth,<br/>and where the verdant pastures grow<br/>with food celestial feedeth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Perverse and foolish oft I strayed,<br/>but yet in love He sought me,<br/>and on His shoulder gently laid,<br/>and home rejoicing brought me</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In death's dark vale I fear no ill<br/>with Thee, dear Lord, beside me;<br/>Thy rod and staff my comfort still,<br/>Thy cross before to guide me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thou spread'st a table in my sight;<br/>Thy unction grace bestoweth;<br/>and O what transport of delight<br/>from Thy pure chalice floweth!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>And so through all the length of days<br/>Thy goodness faileth never:<br/>good Shepherd, may I sing thy praise<br/>within Thy house for ever.</lines>
+    </verse>
+  </lyrics>
+</song>

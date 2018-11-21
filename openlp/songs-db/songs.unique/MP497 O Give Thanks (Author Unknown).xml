@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:05">
+  <properties>
+    <titles>
+      <title>MP497 O Give Thanks</title>
+    </titles>
+    <verseOrder>v1 v1 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O give thanks to the Lord,<br/>All you His people.<br/>O give thanks to the Lord for He is good.<br/>Let us praise, let us thank,<br/>Let us celebrate and dance,<br/>O give thanks to the Lord for He is good.</lines>
+    </verse>
+  </lyrics>
+</song>

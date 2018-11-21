@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:37">
+  <properties>
+    <titles>
+      <title>HP12 My God, my King, thy various praise</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My God, my King, thy various praise<br/>Shall fill the remnant of my days;<br/>Thy grace employ my humble tongue,<br/>Till death and glory raise the song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The wings of every hour shall bear<br/>Some thankful tribute to thine ear,<br/>And every setting sun shall see<br/>New works of duty done for thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thy truth and justice I'll proclaim;<br/>Thy bounty flows, an endless stream;<br/>Thy mercy swift; thine anger slow,<br/>But dreadful to the stubborn foe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Let distant times and nations raise<br/>The long succession of thy praise;<br/>And unborn ages make my song<br/>The joy and labour of their tongue.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>But who can speak thy wondrous deeds?<br/>Thy greatness all our thoughts exceeds;<br/>Vast and unsearchable thy ways,<br/>Vast and immortal be thy praise.</lines>
+    </verse>
+  </lyrics>
+</song>

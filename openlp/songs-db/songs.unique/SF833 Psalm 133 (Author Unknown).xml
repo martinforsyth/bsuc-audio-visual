@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:49">
+  <properties>
+    <titles>
+      <title>SF833 Psalm 133</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Behold how good and pleasant it is<br/>to dwell together in unity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>It is like the precious oil upon the head,<br/>running down upon the beard,</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Even on Aaron's beard,<br/>running down upon the collar of his clothing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>It is like the dew of Hermon<br/>running down upon the hills of Zion.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>For there the Lord has promised his blessing:<br/>even life for evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:05">
+  <properties>
+    <titles>
+      <title>HP800 Lord, in the strength of grace</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, in the strength of grace,<br/>With a glad heart and free,<br/>Myself, my residue of days,<br/>I consecrate to thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thy ransomed servant, I<br/>Restore to thee thine own;<br/>And, from this moment, live or die<br/>To serve my God alone.</lines>
+    </verse>
+  </lyrics>
+</song>

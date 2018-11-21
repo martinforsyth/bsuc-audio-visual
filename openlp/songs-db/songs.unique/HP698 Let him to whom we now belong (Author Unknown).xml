@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:47">
+  <properties>
+    <titles>
+      <title>HP698 Let him to whom we now belong</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Let him to whom we now belong<br/>His sovereign right assert,<br/>And take up every thankful song<br/>And every loving heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He justly claims us for his own,<br/>Who bought us with a price;<br/>The Christian lives to Christ alone,<br/>To Christ alone he dies.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, thine own at last receive,<br/>Fulfil our hearts' desire,<br/>And let us to thy glory live,<br/>And in thy cause expire.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Our souls and bodies we resign;<br/>With joy we render thee<br/>Our all, no longer ours, but thine<br/>To all eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

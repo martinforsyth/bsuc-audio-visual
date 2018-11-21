@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:56">
+  <properties>
+    <titles>
+      <title>RS595 Sometimes a light surprises</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sometimes a light surprises<br/>the Christian while he sings<br/>It is the Lord who rises<br/>With healing in His wings:<br/>When comforts are declining,<br/>He grants the soul again<br/>A season of clear shining,<br/>To cheer it after rain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In holy contemplation,<br/>We sweetly then pursue<br/>The theme of God's salvation,<br/>And find it ever new.<br/>Set free from present sorrow,<br/>We cheerfully can say,<br/>E'en let th'unknown tomorrow<br/>Bring with it what it may:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>It can bring with it nothing<br/>But He will bear us through;<br/>Who gives the lilies clothing<br/>Will clothe His people too:<br/>Beneath the spreading heavens<br/>No creature but is fed;<br/>And He who feeds the ravens<br/>Will give His children bread.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Though vine nor fig-tree neither<br/>Their wonted fruit should bear,<br/>Though all the field should wither,<br/>Nor flocks nor herds be there,<br/>Yet, God the same abiding,<br/>His praise shall tune my voice;<br/>For, while in Him confiding,<br/>I cannot but rejoice.</lines>
+    </verse>
+  </lyrics>
+</song>

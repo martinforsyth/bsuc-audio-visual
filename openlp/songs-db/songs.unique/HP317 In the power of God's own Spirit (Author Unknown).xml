@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:11">
+  <properties>
+    <titles>
+      <title>HP317 In the power of God's own Spirit</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In the power of God's own Spirit<br/>Jesus entered Galilee;<br/>With a fire divine aflame,<br/>Unto Nazareth he came;<br/>Bade his people hear the scripture:<br/>'God's anointing Spirit is on me'.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'God has sent me', said the prophet,<br/>'With good news the poor to cheer,<br/>News that captives will be free,<br/>News that eyes now blind will see,<br/>Health for hearts all bruised and broken;<br/>God's own year of favour now is here'.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'True this very day', said Jesus,<br/>'This the task I must fulfil'.<br/>Forth he went, and through the land<br/>Moved with liberating hand.<br/>Even though men crucified him,<br/>God's unconquered love shone through him still.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, you tell us by your Spirit,<br/>We all need this news today.<br/>May our faith and service show<br/>All the gifts that you bestow -<br/>Joy and health and freedom giving<br/>Lord, from you, the Life, the Truth, the Way.</lines>
+    </verse>
+  </lyrics>
+</song>

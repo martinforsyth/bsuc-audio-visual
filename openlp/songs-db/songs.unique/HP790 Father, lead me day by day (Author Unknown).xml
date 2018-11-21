@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:02">
+  <properties>
+    <titles>
+      <title>HP790 Father, lead me day by day</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, lead me day by day<br/>Ever in thine own good way;<br/>Teach me to be pure and true,<br/>Show me what I ought to do.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When in danger, make me brave;<br/>Make me know that thou canst save;<br/>Keep me safe by thy dear side;<br/>Let me in thy love abide.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When I'm tempted to do wrong,<br/>Make me steadfast, wise, and strong;<br/>And, when all alone I stand,<br/>Shield me with thy mighty hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When my heart is full of glee,<br/>Help me to remember thee,<br/>Happy most of all to know<br/>That my Father loves me so.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>When my work seems hard and dry,<br/>May I press on cheerily;<br/>Help me patiently to bear<br/>Pain and hardship, toil and care.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>May I see the good and bright<br/>When they pass before my sight;<br/>May I hear the heavenly voice<br/>When the pure and wise rejoice.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:57">
+  <properties>
+    <titles>
+      <title>RS607 This is the Truth we hold</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>This is the truth we hold,<br/>source of the joy we share,<br/>hope that can make us bold<br/>trusting the name we bear;<br/>that Christ has died and Christ is risen,<br/>in Christ shall all be made alive.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>This is the song of praise<br/>echoing down the years,<br/>true for the present days,<br/>through all our doubts and fears;<br/>for Christ has died and Christ  is risen,<br/>in Christ shall all be made alive,</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Christ is the living Bread<br/>Christ is the word to speak,<br/>Christ is the way to tread,<br/>Christ is the goal to seek;<br/>for Christ has died and Christ is risen,<br/>in Christ shall all be made alive.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>One in the faith we share,<br/>out in his name we go<br/>Jesus awaits us there,<br/>longing that all should know<br/>that Christ has died and Christ is risen,<br/>in Christ shall all be made alive.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:29">
+  <properties>
+    <titles>
+      <title>MP1193 God Is Here</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In Your presence there is fullness of life<br/>And healing flowing for body soul and mind<br/>God of miracles God of the impossible is here<br/>God is here</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In Your presence there is perfect peace<br/>In the stillness I behold Your deity<br/>God of wonder God of power is here<br/>God is here</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>God is here let the broken hearted rejoice<br/>(Lift up your head)<br/>God is here let the sick say I am well<br/>(My all sufficient One)<br/>God is here (God is here)<br/>Let the weak (Let the weak)<br/>Say I am strong (Let the weak say I am strong)<br/>God is here His wonders to perform</lines>
+    </verse>
+  </lyrics>
+</song>

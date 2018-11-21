@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:58">
+  <properties>
+    <titles>
+      <title>RS641 We pray for peace</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We pray for peace,<br/>But not the easy peace<br/>Built on complacency<br/>And not the truth of God;<br/>We pray for real peace,<br/>The peace God's love alone can seal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We pray for peace,<br/>But not the cruel peace<br/>Leaving God's poor bereft<br/>And dying in distress;<br/>We pray for real peace,<br/>Enriching all humanity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We pray for peace,<br/>But not the evil peace<br/>Defending unjust laws<br/>And nursing prejudice,<br/>But for the real peace<br/>Of justice, truth and brotherhood</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We pray for peace:<br/>Holy communion<br/>With Christ our risen Lord<br/>And all humanity;<br/>God's will fulfilled on earth,<br/>And all his creatures reconciled.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>We pray for peace,<br/>And, for the sake of peace,<br/>Look to the risen Christ,<br/>Who gives the grace we need<br/>To serve the cause of peace<br/>And make our own self-sacrifice.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>God, give us peace;<br/>If you withdraw your love<br/>There is no peace for us,<br/>Nor any hope of it.<br/>With you to lead us on,<br/>Through death or tumult, peace will come.</lines>
+    </verse>
+  </lyrics>
+</song>

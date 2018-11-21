@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:12">
+  <properties>
+    <titles>
+      <title>HP567 O come, and let us to the Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O come, and let us to the Lord<br/>In songs our voices raise,<br/>With joyful noise let us the Rock<br/>Of our salvation praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Let us before his presence come<br/>With praise and thankful voice;<br/>Let us sing psalms to him with grace,<br/>And make a joyful noise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The Lord's a great God, and great King<br/>Above all gods he is;<br/>Depths of the earth are in his hand,<br/>The strength of hills is his.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>To him the spacious sea belongs,<br/>For he the same did make;<br/>The dry land also from his hands<br/>Its form at first did take.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O come and let us worship him,<br/>Let us bow down withal,<br/>And on our knees before the Lord<br/>Our Maker let us fall.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>To Father, Son, and Holy Ghost,<br/>The God whom we adore,<br/>Be glory, as it was, and is,<br/>And shall be evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

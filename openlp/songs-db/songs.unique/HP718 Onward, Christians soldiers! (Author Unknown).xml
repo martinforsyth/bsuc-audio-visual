@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:52">
+  <properties>
+    <titles>
+      <title>HP718 Onward, Christians soldiers!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Onward, Christians soldiers!<br/>Marching as to war,<br/>Looking unto Jesus,<br/>Who is gone before;<br/>Christ, the Royal Master,<br/>Leads against the foe;<br/>Forward into battle,<br/>See His banners go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>At the name of Jesus<br/>Satan's host doth flee;<br/>On then, Christian soldiers,<br/>On to victory!<br/>Hell's foundations quiver<br/>At the shout of praise:<br/>Brothers, lift your voices,<br/>Loud your anthems raise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Like a mighty army<br/>Moves the church of God:<br/>Brothers, we are treading<br/>Where the saints have trod,<br/>We are not divided,<br/>All one body we-<br/>One in hope and doctrine,<br/>One in charity.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Crowns and thrones may perish,<br/>Kingdoms rise and wane;<br/>But the church of Jesus<br/>Constant will remain:<br/>Gates of hell can never<br/>'Gainst that church prevail;<br/>We have Christ's own promise<br/>And that cannot fail.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Onward then, ye people,<br/>Join our happy throng;<br/>Blend with ours your voices<br/>In the triumph song:<br/>"Glory, praise and honour,<br/>Unto Christ the King, "-<br/>This, through countless ages,<br/>Men and angels sing.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Onward, Christians soldiers!<br/>Marching as to war,<br/>Looking unto Jesus,<br/>Who is gone before.</lines>
+    </verse>
+  </lyrics>
+</song>

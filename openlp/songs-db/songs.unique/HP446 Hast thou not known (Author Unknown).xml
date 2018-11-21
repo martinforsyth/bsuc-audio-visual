@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:37">
+  <properties>
+    <titles>
+      <title>HP446 Hast thou not known</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hast thou not known, hast thou not heard,<br/>That firm remains on high<br/>The everlasting throne of him<br/>Who formed the earth and sky?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Art thou afraid his power shall fail<br/>When comes thy evil day?<br/>And can an all-creating arm<br/>Grow weary or decay?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Supreme in wisdom as in power<br/>The Rock of Ages stands;<br/>Though him thou canst not see, nor trace<br/>The working of his hands.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He gives the conquest to the weak<br/>Supports the fainting heart;<br/>And courage in the evil hour<br/>His heavenly aids impart.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Mere human power shall fast decay<br/>And youthful vigour cease;<br/>But they who wait upon the Lord<br/>In strength shall still increase.</lines>
+    </verse>
+  </lyrics>
+</song>

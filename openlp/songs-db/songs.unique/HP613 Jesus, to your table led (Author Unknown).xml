@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:32">
+  <properties>
+    <titles>
+      <title>HP613 Jesus, to your table led</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, to your table led,<br/>Now let every heart be fed<br/>With the true and living Bread.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When we taste the mystic wine,<br/>Of your outpoured blood the sign,<br/>Fill our hearts with love divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>From the bonds of sin release;<br/>Cold and wavering faith increase;<br/>Grant us, Lamb of God, your peace!</lines>
+    </verse>
+  </lyrics>
+</song>

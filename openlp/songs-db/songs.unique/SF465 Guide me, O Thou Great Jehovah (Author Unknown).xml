@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:36">
+  <properties>
+    <titles>
+      <title>SF465 Guide me, O Thou Great Jehovah</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Guide me, O Thou Great Jehovah!<br/>Pilgrim through this barren land;<br/>I am weak, but Thou art mighty,<br/>Hold me with Thy powerful hand:<br/>Bread of heaven!<br/>Feed me now and evermore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Open now the crystal fountain,<br/>Whence the healing stream doth flow:<br/>Let the fiery, cloudy pillar<br/>Lead me all my journey through:<br/>Strong Deliverer!<br/>Be Thou still my strength and shield.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When I tread the verge of Jordan,<br/>Bid my anxious fears subside:<br/>Death of death, and hell's destruction,<br/>Land me safe on Canaan's side:<br/>Songs of praises<br/>I will ever give to Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:14">
+  <properties>
+    <titles>
+      <title>HP341 Father, who on man dost shower</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, who on man dost shower<br/>Gifts of plenty from thy dower,<br/>To thy people give the power<br/>All thy gifts to use aright.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Give pure happiness in leisure,<br/>Temperance in every pleasure,<br/>Wholesome use of earthly treasure,<br/>Bodies clear and spirits bright.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lift from this and every nation<br/>All that brings us degradation;<br/>Quell the forces of temptation;<br/>Put thine enemies to flight.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Be with us, thy strength supplying,<br/>That, with energy undying,<br/>Every foe of man defying,<br/>We may rally to the fight.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thou who art our captain ever,<br/>Lead us on to great endeavour;<br/>May thy church the world deliver:<br/>Give us wisdom, courage, might.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Father, who hast sought and found us,<br/>Son of God, whose love has bound us<br/>Holy Spirit, in us, round us -<br/>Hear us, Godhead infinite.</lines>
+    </verse>
+  </lyrics>
+</song>

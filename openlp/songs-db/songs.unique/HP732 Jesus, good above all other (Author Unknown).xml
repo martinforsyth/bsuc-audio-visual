@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:54">
+  <properties>
+    <titles>
+      <title>HP732 Jesus, good above all other</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, good above all other,<br/>Gentle child of gentle mother,<br/>In a stable born our brother,<br/>Give us grace to persevere.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus, cradled in a manger,<br/>For us facing every danger,<br/>Living as a homeless stranger,<br/>Make we thee our King most dear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, for thy people dying,<br/>Risen master, death defying,<br/>Lord in heaven, thy grace supplying,<br/>Keep us to thy presence near.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus, who our sorrows bearest,<br/>All our thoughts and hopes thou sharest;<br/>Thou to man the truth declarest;<br/>Help us all thy truth to hear.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord, in all our doings guide us;<br/>Pride and hate shall ne'er divide us.<br/>We'll go on with thee beside us,<br/>And with joy we'll persevere!</lines>
+    </verse>
+  </lyrics>
+</song>

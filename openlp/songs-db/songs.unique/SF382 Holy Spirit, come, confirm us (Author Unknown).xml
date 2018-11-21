@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:31">
+  <properties>
+    <titles>
+      <title>SF382 Holy Spirit, come, confirm us</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Holy Spirit, come, confirm us<br/>in the truth that Christ makes known;<br/>we have faith and understanding<br/>through your helping gifts alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Holy Spirit, come, console us,<br/>come as Advocate to plead;<br/>loving Spirit from the Father,<br/>grant in Christ the help we need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Holy Spirit, come, renew us,<br/>come yourself to make us live:<br/>holy through your loving presence,<br/>holy through the gifts you give.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Holy Spirit, come, possess us,<br/>you the love of Three in One,<br/>Holy Spirit of the Father,<br/>Holy Spirit of the Son.</lines>
+    </verse>
+  </lyrics>
+</song>

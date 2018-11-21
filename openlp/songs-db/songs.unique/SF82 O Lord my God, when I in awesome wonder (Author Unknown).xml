@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:08">
+  <properties>
+    <titles>
+      <title>SF82 O Lord my God, when I in awesome wonder</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Lord, my God, when I in awesome wonder<br/>consider all the works thy hand hath made,<br/>I see the stars, I hear the mighty thunder,<br/>thy power throughout the universe displayed:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When through the woods and forest glades I wander<br/>and hear the birds sing sweetly in the trees;<br/>when I look down from lofty mountain grandeur,<br/>and hear the brook, and feel the gentle breeze:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And when I think that God, his Son not sparing,<br/>sent him to die, I scarce can take it in<br/>that on the cross, my burden gladly bearing,<br/>he bled and died to take away my sin:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When Christ shall come with shout of acclamation<br/>and take me home - what joy shall fill my heart;<br/>then shall I bow in humble adoration,<br/>and there proclaim: my God, how great thou art:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Then sings my soul, my Saviour God, to thee:<br/>how great thou art, how great thou art!<br/>Then sings my soul, my Saviour God, to thee:<br/>how great thou art, how great thou art!</lines>
+    </verse>
+  </lyrics>
+</song>

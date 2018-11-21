@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:56">
+  <properties>
+    <titles>
+      <title>MP954 We are marching in the light of God</title>
+    </titles>
+    <verseOrder>v1 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We are marching in the light of God,<br/>we are marching in the light of God.<br/>we are marching in the light of God,<br/>we are marching in the light of God.<br/>We are marching,<br/>we are marching ahha,<br/>we are marching in the light of God,<br/>We are marching,<br/>we are marching ahha,<br/>we are marching in the light of God,</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We are dancing in the love of God,<br/>We are dancing in the love of God.<br/>We are dancing in the love of God,<br/>We are dancing in the love of God.<br/>We are dancing,<br/>We are dancing ahha,<br/>We are dancing in the love of God,<br/>We are dancing,<br/>We are dancing ahha,<br/>We are dancing in the love of God,</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We are living in the love of God,<br/>we are living in the love of God.<br/>we are living in the love of God,<br/>we are living in the love of God.<br/>We are living,<br/>we are living ahha,<br/>we are living in the love of God,<br/>We are living,<br/>we are living ahha,<br/>we are living in the love of God,</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We are moving in the power of God,<br/>we are moving in the power of God.<br/>we are moving in the power of God,<br/>we are moving in the power of God.<br/>We are moving,<br/>we are moving ahha,<br/>we are moving in the love of God,<br/>We are moving,<br/>we are moving ahha,<br/>we are movng in the power of God,</lines>
+    </verse>
+  </lyrics>
+</song>

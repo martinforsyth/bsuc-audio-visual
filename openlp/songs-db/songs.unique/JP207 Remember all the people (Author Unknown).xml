@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:47">
+  <properties>
+    <titles>
+      <title>JP207 Remember all the people</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Remember all the people<br/>Who live in far off lands,<br/>In strange and lovely cities,<br/>Or roam the desert sands,<br/>Or farm the mountain pastures,<br/>Or till the endless plains<br/>Where children wade though rice fields<br/>And watch the camel trains</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Some work in sultry forests<br/>Where apes swing to and fro,<br/>Some fish in mighty rivers,<br/>Some hunt across the snow<br/>Remember all God's children<br/>Who yet have never heard<br/>The truth that comes from Jesus,<br/>The glory of His Word</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God bless the men and women<br/>Who serve Him oversea;<br/>God raise up more to help them<br/>To set the nations free,<br/>Till all the distant people<br/>In every foreign place<br/>Shall understand His Kingdom<br/>And come into His grace</lines>
+    </verse>
+  </lyrics>
+</song>

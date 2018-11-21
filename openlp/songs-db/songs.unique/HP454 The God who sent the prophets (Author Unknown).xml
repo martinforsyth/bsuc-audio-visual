@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:42">
+  <properties>
+    <titles>
+      <title>HP454 The God who sent the prophets</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The God who sent the prophets<br/>Inspired them for our good,<br/>To help us face the menace<br/>Of evils they withstood.<br/>How faithfully they warn us,<br/>From Israel's stormy past,<br/>That those who sow injustice<br/>Will reap the holocaust!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The say the Judge of nations<br/>Is making all things new;<br/>That when the many fail him<br/>He saves us by the few.<br/>In this prophetic promise<br/>Our anxious spirits rest:<br/>In them, his chosen Remnant,<br/>The future shall be blessed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Yet not by being righteous<br/>May we secure our place,<br/>Or think to serve the future<br/>Save in the strength of grace.<br/>For there is but one Saviour,<br/>The One we crucified,<br/>The lonely Suffering Servant,<br/>Who call us by his side.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:17">
+  <properties>
+    <titles>
+      <title>MP596 Show Your Power, O Lord</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Show Your power O Lord<br/>Demonstrate the justice of your kingdom<br/>Prove your mighty word<br/>Vindicate your name before a watching world<br/>Awesome are your deeds O Lord<br/>Renew them for this hour<br/>Show your power O Lord<br/>Among the people now</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Show your power O Lord<br/>Cause your church to rise and take action<br/>Let all fear be gone<br/>Powers of the age to come are breaking through<br/>We your people are ready to serve<br/>To arise and to obey<br/>Show your power O Lord<br/>And set the people free<br/>Show your power O Lord<br/>And set the people<br/>Show your power O Lord<br/>And set the people free</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:42">
+  <properties>
+    <titles>
+      <title>HP676 He that is down need fear no fall</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He that is down needs fear no fall,<br/>He that is low, no pride;<br/>He that is humble ever shall<br/>Have God to be his guide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I am content with what I have,<br/>Little be it or much;<br/>And, Lord, contentment still I crave,<br/>Because thou savest such.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Fullness to such a burden is<br/>That go on pilgrimage;<br/>Here little, and hereafter bliss,<br/>Is best from age to age.</lines>
+    </verse>
+  </lyrics>
+</song>

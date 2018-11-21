@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:59">
+  <properties>
+    <titles>
+      <title>MP969 You Did Not Wait For Me</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You did not wait for me to draw near to You,<br/>But You clothed Yourself in frail humanity.<br/>You did not wait for me to cry out to You,<br/>But You let me hear Your voice calling me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And I'm forever grateful to You,<br/>I'm forever grateful for the cross;<br/>I'm forever grateful to You,<br/>That You came to seek and save the lost.</lines>
+    </verse>
+  </lyrics>
+</song>

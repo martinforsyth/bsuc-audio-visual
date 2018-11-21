@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:51">
+  <properties>
+    <titles>
+      <title>HP482 Your words to me are life and health</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Your words to me are life and health;<br/>put strength into my soul;<br/>enable, guide, and teach my heart<br/>to reach its perfect goal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your words to me are light and truth;<br/>from day to day I know<br/>their wisdom, passing human thought,<br/>as in their truth I grow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Your words to me are full of joy,<br/>of beauty, peace and grace;<br/>from them I learn your perfect will,<br/>through them I see your face.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Your words to me are perfected in one,<br/>yourself, the living Word;<br/>print your own image in my heart<br/>in cleanest lines, my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

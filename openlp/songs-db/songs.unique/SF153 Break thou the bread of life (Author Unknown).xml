@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:13">
+  <properties>
+    <titles>
+      <title>SF153 Break thou the bread of life</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Break thou the bread of life,<br/>Dear Lord, to me,<br/>as thou didst break the loaves<br/>beside the sea.<br/>Beyond the sacred page<br/>I seek thee Lord;<br/>my spirit longs for thee,<br/>Though living Word!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou art the bread of life,<br/>O Lord, to me,<br/>thy holy word the truth<br/>that saveth me;<br/>give me to eat and live<br/>with thee above;<br/>teach me to love thy truth,<br/>for thou art love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O send thy Spirit Lord,<br/>now unto me,<br/>that he may touch my eyes,<br/>and make me see;<br/>show me the truth concealed<br/>within thy word,<br/>and in thy book revealed<br/>I see the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Bless Thou the bread of life<br/>to me, to me<br/>as Thou didst bless the loaves<br/>by Galilee,<br/>then shall all bondage cease,<br/>all fetters fall,<br/>and I shall find my peace,<br/>my all - in - all!</lines>
+    </verse>
+  </lyrics>
+</song>

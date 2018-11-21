@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:46">
+  <properties>
+    <titles>
+      <title>MP383 Jesus, the joy of loving hearts</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, the joy of loving hearts,<br/>true source of life, and light of men:<br/>from the best bliss that earth imparts<br/>we turn unfilled to You again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your truth unchanged has ever stood,<br/>You rescue those who on You call:<br/>to those yet seeking, You are good<br/>to those who find You, all-in-all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We taste of You, the living bread,<br/>and long to feast upon You still;<br/>we drink from You, the fountain-head,<br/>our thirsty souls from You we fill.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Our restless spirits long for You,<br/>whichever way our lot is cast,<br/>glad when Your gracious smile we view,<br/>blessed when our faith can hold You fast.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Jesus, for ever with us stay,<br/>make all our moments calm and bright;<br/>chase the dark night of sin away,<br/>spread through the world  Your holy light.</lines>
+    </verse>
+  </lyrics>
+</song>

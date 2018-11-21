@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:45">
+  <properties>
+    <titles>
+      <title>RS195 I danced in the morning</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I danced in the morning when the world was begun,<br/>and I danced in the moon and the stars and the sun,<br/>and I came down from heaven and I danced on the earth:<br/>at Bethlehem I had my birth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I dance for the scribe and the pharisee,<br/>but they would not dance and they wouldn't follow me,<br/>I danced for the fishermen, for James and John--<br/>they came with me and the dance went on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I danced on the Sabbath and I cured the lame:<br/>the holy people said it was a shame,<br/>They whipped and they stripped and they hung me on high,<br/>and they left me there on a cross to die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I danced on a Friday when the sky turned black--<br/>it's hard to dance with the devil on your back,<br/>They buried my body and they thought I'd gone,<br/>but I am the dance, and I still go on.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>They cut me down and I leapt up high:<br/>I am the life that'll never, never die:<br/>I'll live in you if you'll live in me:<br/>I am the Lord of the dance , said he.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Dance, then, wherever you may be,<br/>I am the Lord of the dance,' said he,<br/>and I'll lead you all, where ever you may be<br/>and I'll lead you all in the dance' said he.</lines>
+    </verse>
+  </lyrics>
+</song>

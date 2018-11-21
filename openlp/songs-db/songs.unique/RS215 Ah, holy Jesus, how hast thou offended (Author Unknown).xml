@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:46">
+  <properties>
+    <titles>
+      <title>RS215 Ah, holy Jesus, how hast thou offended</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Ah, holy Jesus, how hast thou offended,<br/>That we to judge thee hath in hate pretended?<br/>By foes derided, by thine own rejected,<br/>O most afflicted?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Who was the guilty? Who brought this upon thee?<br/>Alas, my treason, Jesus, hath undone thee.<br/>'Twas I Lord Jesus, I it was denied thee:<br/>I crucified thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lo, the good Shepherd for the sheep is offered:<br/>The slave hath sinned, and yet the Son hath suffered:<br/>For man's atonement, while he nothing heedeth,<br/>God intercedeth.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For me, kind Jesus, was thy incarnation,<br/>Thy mortal sorrow, and thy life's oblation;<br/>Thy death of anguish and thy bitter passion,<br/>For my salvation.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Therefore, kind Jesus, since I cannot pay thee,<br/>I do adore thee, and will ever pray thee,<br/>Think on thy pity and thy love unswerving,<br/>Not my deserving.</lines>
+    </verse>
+  </lyrics>
+</song>

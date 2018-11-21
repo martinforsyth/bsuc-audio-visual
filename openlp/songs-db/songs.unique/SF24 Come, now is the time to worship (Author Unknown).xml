@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-06-24T04:41:56">
+  <properties>
+    <titles>
+      <title>SF24 Come, now is the time to worship</title>
+    </titles>
+    <verseOrder>v1 v2 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, now is the time to worship.<br/>Come, now is the time to give your heart.<br/>Come, just as you are to worship.<br/>Come, just as you are before your God, come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>One day every tongue<br/>will confess you are God,<br/>one day every knee will bow.<br/>Still, the greatest treasure remains<br/>for those who gladly choose you now.</lines>
+    </verse>
+  </lyrics>
+</song>

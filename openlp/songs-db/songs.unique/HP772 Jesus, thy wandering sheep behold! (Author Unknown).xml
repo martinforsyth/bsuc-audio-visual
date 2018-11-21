@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:00">
+  <properties>
+    <titles>
+      <title>HP772 Jesus, thy wandering sheep behold!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, thy wandering sheep behold!<br/>See, Lord, with tenderest pity see<br/>The sheep that cannot find the fold,<br/>Till sought and gathered in by thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lost are they now, and scattered wide,<br/>In pain, and weariness, and want;<br/>With no kind shepherd near to guide<br/>The sick, and spiritless, and faint.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thou, only thou, the kind and good<br/>And sheep-redeeming Shepherd art:<br/>Collect thy flock, and give them food,<br/>And pastors after thine own heart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Give the pure word of general grace,<br/>And great shall be the preachers' crowd;<br/>Preachers, who all the sinful race<br/>Point to the all-atoning blood.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Open their mouth, and utterance give;<br/>Give them a trumpet-voice, to call<br/>On all the world to turn and live,<br/>Through faith in him who died for all.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Thy only glory let them seek;<br/>O let their hearts with love o'erflow!<br/>Let them believe, and therefore speak,<br/>And spread thy mercy's praise below.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Mercy for all be all their song,<br/>Mercy which every soul may claim,<br/>Mercy which doth to all belong,<br/>Mercy for all in Jesus name.</lines>
+    </verse>
+  </lyrics>
+</song>

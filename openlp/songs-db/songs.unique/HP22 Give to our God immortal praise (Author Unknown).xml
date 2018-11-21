@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:38">
+  <properties>
+    <titles>
+      <title>HP22 Give to our God immortal praise</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Give to our God immortal praise<br/>Mercy and truth are all his ways,:<br/>Wonders of grace to God belong,<br/>Repeat his mercies in your song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Give to the Lord of lords renown;<br/>The King of kings with glory crown:<br/>His mercies ever shall endure,<br/>When lords and kings are known no more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He built the earth, he spread the sky,<br/>And fixed the starry lights on high:<br/>Wonders of grace to God belong,<br/>Repeat his mercies in your song.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He fills the sun with morning light,<br/>He bids the moon direct the night:<br/>His mercies ever shall endure,<br/>When suns and moons shall shine no more.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>He sent his Son with power to save<br/>From guilt and darkness and the grave:<br/>Wonders of grace to God belong,<br/>Repeat his mercies in your song.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Through this vain world he guides our feet,<br/>And leads us to his heavenly seat:<br/>His mercies ever shall endure,<br/>When this vain world shall be no more.</lines>
+    </verse>
+  </lyrics>
+</song>

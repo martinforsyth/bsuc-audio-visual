@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-08-15T18:35:54">
+  <properties>
+    <titles>
+      <title>MP445 Lord the light of your love</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, the light of Your love is shining,<br/>in the midst of the darkness, shining;<br/>Jesus, Light of the World, shine upon us,<br/>set us free by the truth you now bring us.<br/>shine on me, shine on me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, I come to Your awesome presence,<br/>from the shadows into Your radiance;<br/>by Your blood I may enter Your brightness,<br/>search me, try me, consume all my darkness.<br/>shine on me, shine on me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>As we gaze on Your kingly brightness,<br/>so our faces display Your likeness,<br/>ever changing from glory to glory;<br/>mirrored here may our lives tell Your story.<br/>shine on me, shine on me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Shine, Jesus, shine,<br/>fill this land with the Father's glory;<br/>blaze, Spirit, blaze,<br/>set our hearts on fire.<br/>Flow, river, flow,<br/>flood the nations with grace and mercy;<br/>send forth Your word, Lord,<br/>and let there be light.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:40">
+  <properties>
+    <titles>
+      <title>SF545 Be thou my vision, O Lord of my heart</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Be thou my vision, O Lord of my heart,<br/>Be all else but naught to me, save that thou art;<br/>Be thou my best thought in the day and the night,<br/>Both waking and sleeping, thy presence my light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Be thou my wisdom, be thou my true word,<br/>Be thou ever with me, and I with thee, Lord;<br/>Be thou my great Father, thy child let me be;<br/>Be thou in me dwelling, and I one with thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Be thou my breastplate, my sword for the fight;<br/>Be thou my whole armour, be thou my true might;<br/>Be thou my soul's shelter, be thou my strong tower:<br/>O raise thou me heavenward, great Power of my power.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Riches I heed not, nor earth's empty praise:<br/>Be thou mine inheritance now and always, -<br/>Be thou and thou only the first in my heart:<br/>O Sovereign of heaven, my treasure thou art.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>High King of heaven, thou heaven's bright Sun,<br/>O grant me its joys after vict'ry is won;<br/>Great Heart of my own heart, whatever befall,<br/>Still be thou my vision, O Ruler of all.</lines>
+    </verse>
+  </lyrics>
+</song>

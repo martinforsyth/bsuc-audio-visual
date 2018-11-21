@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:16">
+  <properties>
+    <titles>
+      <title>HP356 Great God, we sing that mighty hand</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Great God, we sing that mighty hand<br/>By which supported still we stand;<br/>The opening year thy mercy shows,<br/>And mercy crowns it till it close.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>By day, by night, at home, abroad,<br/>Still are we guarded by our God;<br/>By his incessant bounty fed,<br/>By his unerring counsel led.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>With grateful hearts the past we own;<br/>The future, all to us unknown,<br/>We to thy guardian care commit,<br/>And peaceful leave before thy feet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In scenes exalted or depressed<br/>Thou art our joy, and thou our rest;<br/>Thy goodness all our hopes shall raise,<br/>Adored throughout our changing days.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>When death shall interrupt these songs,<br/>And seal in silence mortal tongues,<br/>Our helper God, in whom we trust,<br/>In better worlds shall be our boast.</lines>
+    </verse>
+  </lyrics>
+</song>

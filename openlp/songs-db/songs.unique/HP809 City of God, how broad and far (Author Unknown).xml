@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:12">
+  <properties>
+    <titles>
+      <title>HP809 City of God, how broad and far</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>City of God, how broad and far<br/>Outspread thy walls sublime!<br/>The true thy chartered freemen are<br/>Of every age and clime</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>One holy church, one army strong,<br/>One steadfast, high intent;<br/>One working band, one harvest-song,<br/>One King omnipotent.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>How purely has thy speech come down<br/>From man's primeval youth!<br/>How grandly has thine empire grown,<br/>Of freedom, love, and truth!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>How gleam thy watch-fires through the night<br/>With never-fainting ray!<br/>How rise thy towers, serene and bright,<br/>To meet the dawning day!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>In vain the surge's angry shock,<br/>In vain the drifting sands:<br/>Unharmed upon the eternal Rock<br/>The eternal city stands.</lines>
+    </verse>
+  </lyrics>
+</song>

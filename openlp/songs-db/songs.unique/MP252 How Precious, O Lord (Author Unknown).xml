@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-08-15T18:33:38">
+  <properties>
+    <titles>
+      <title>MP252 How Precious, O Lord</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How precious, O Lord,<br/>Is Your unfailing love,<br/>We find refuge in the shadow of Your wings.<br/>We feast, Lord Jesus, on the abundance of Your house<br/>And drink from Your river of delights.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>With You is the fountain of life,<br/>In Your light we see light.<br/>With You is the fountain of life,<br/>In Your light we see light.</lines>
+    </verse>
+  </lyrics>
+</song>

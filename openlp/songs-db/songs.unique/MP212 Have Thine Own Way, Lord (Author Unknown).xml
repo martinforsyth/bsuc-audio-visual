@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:31">
+  <properties>
+    <titles>
+      <title>MP212 Have Thine Own Way, Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Have thine own way, Lord,<br/>Have Thine own way;<br/>Thou art the Potter,<br/>I am the clay.<br/>Mould me and make me,<br/>After Thy will,<br/>While I am waiting<br/>Yielded and still.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Have Thine own way, Lord,<br/>Have Thine own way;<br/>Search me and try me,<br/>Master today.<br/>Whiter than snow, Lord,<br/>Wash me just now,<br/>As in Thy presence<br/>Humbly I bow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Have Thine own way, Lord,<br/>Have Thine own way;<br/>Wounded and weary,<br/>Help me, I pray.<br/>Power, all power,<br/>Surely is Thine;<br/>Touch me and heal me,<br/>Saviour divine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Have Thine own way, Lord,<br/>Have Thine own way;<br/>Hold o'er my being<br/>Absolute sway.<br/>Fill with Thy Spirit<br/>Till all shall see<br/>Christ only, always,<br/>Living in me.</lines>
+    </verse>
+  </lyrics>
+</song>

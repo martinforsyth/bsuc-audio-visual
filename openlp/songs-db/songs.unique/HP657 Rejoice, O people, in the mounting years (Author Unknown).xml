@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:40">
+  <properties>
+    <titles>
+      <title>HP657 Rejoice, O people, in the mounting years</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Rejoice, O people, in the mounting years,<br/>Wherein God's mighty purposes unfold;<br/>From age to age his righteous reign appears,<br/>From land to land the love of Christ is told.<br/>Rejoice, O people, in your glorious<br/>Lord; Lift up your hearts in jubilant accord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Rejoice, O people, in the years of old,<br/>When prophets' glowing vision lit the way;<br/>Till saint and martyr sped the venture bold,<br/>And eager hearts awoke to greet the day.<br/>Rejoice in God's glad messengers of peace,<br/>Who bore the Saviour's gospel of release.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Rejoice, O people, in this living hour:<br/>Low lies our pride and human wisdom dies;<br/>But on the cross God's love reveals his power;<br/>And from his waiting church new hopes arise.<br/>Rejoice that while our sinfulness divides,<br/>One Christian fellowship of love abides.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Rejoice, O people, in the days to be,<br/>When o'er the strife of nations sounding clear,<br/>Shall ring love's gracious song of victory,<br/>To east and west his kingdom bringing near.<br/>Rejoice, rejoice, his church on earth is one,<br/>And binds the ransomed nations 'neath the sun.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Rejoice, O people, in that final day<br/>When all the travail of creation ends;<br/>Christ now attains his universal sway,<br/>O'er heaven and earth his royal Word extends:<br/>That word proclaimed where saints and martyrs trod,<br/>The glorious gospel of the blessed God.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:25">
+  <properties>
+    <titles>
+      <title>MP108 Create In Me</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Create in me a clean heart, O God,<br/>And renew a right spirit in me.<br/>Create in me a clean heart, O God,<br/>And renew a right spirit in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Wash me, cleanse me, purify me;<br/>Make my heart as white as snow.<br/>Create in me a clean heart, O God,<br/>And renew a right spirit in me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:25">
+  <properties>
+    <titles>
+      <title>MP1134 You are my anchor</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You are my anchor,<br/>My light and my salvation.<br/>You are my refuge,<br/>My heart will not fear.<br/>Though my foes surround me on every hand,<br/>They will stumble and fall<br/>While in grace I stand.<br/>In my day of trouble<br/>You hide me and set me above<br/>To sing this song of love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Teach me Your way Lord,<br/>Make straight the path before me.<br/>Do not forsake me my hope is in You.<br/>As I walk through life, I am confident<br/>I will see Your goodness with every step,<br/>And my heart directs me to seek You<br/>In all that I do,<br/>So I will wait for You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>One thing I will ask of You, this will I pray:<br/>To dwell in Your house, O Lord, every day,<br/>To gaze upon your lovely face<br/>And rest in the Father's embrace.</lines>
+    </verse>
+  </lyrics>
+</song>

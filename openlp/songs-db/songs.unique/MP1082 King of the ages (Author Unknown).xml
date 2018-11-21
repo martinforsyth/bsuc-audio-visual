@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:17">
+  <properties>
+    <titles>
+      <title>MP1082 King of the ages</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Your ways of love have won my heart,<br/>And brought me joy unending.<br/>Your saving power at work in me,<br/>Bringing peace and the hope of glory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your arms of love are reaching out<br/>To every soul that seeks You;<br/>Your light will shine in all the earth,<br/>Bringing grace and a great salvation.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The day will come when You appear,<br/>And every eye shall see You.<br/>Then we shall rise with hearts ablaze,<br/>With a song we will sing forever.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>King of the ages, Almighty God,<br/>Perfect love, ever just and true.<br/>Who will not fear You and bring You praise?<br/>All the nations will come to You.</lines>
+    </verse>
+  </lyrics>
+</song>

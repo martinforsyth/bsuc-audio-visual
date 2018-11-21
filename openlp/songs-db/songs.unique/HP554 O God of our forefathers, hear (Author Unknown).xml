@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:09">
+  <properties>
+    <titles>
+      <title>HP554 O God of our forefathers, hear</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God of our forefathers, hear,<br/>And make thy faithful mercies known;<br/>To thee through Jesus we draw near,<br/>Thy suffering, well-beloved Son,<br/>In whom thy smiling face we see,<br/>In whom thou art well pleased with me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>With solemn faith we offer up,<br/>And spread before thy glorious eyes,<br/>That only ground of all our hope,<br/>That precious, bleeding sacrifice,<br/>Which brings thy grace on sinners down,<br/>And perfects all our souls in one.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Acceptance through his only name,<br/>Forgiveness in his blood, we have;<br/>But more abundant life we claim<br/>Through him who died our souls to save,<br/>To sanctify us by his blood,<br/>And fill with all the life of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Father, behold thy dying Son,<br/>And hear the blood that speaks above;<br/>On us let all thy grace be shown,<br/>Peace, righteousness, and joy, and love -<br/>Thy kingdom - come to every heart<br/>And all thou hast, and all thou art.</lines>
+    </verse>
+  </lyrics>
+</song>

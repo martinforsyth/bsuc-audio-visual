@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:37">
+  <properties>
+    <titles>
+      <title>JP73 He brought me into his banqueting table</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He brought me to his banqueting house<br/>and his banner over me is love.<br/>He brought me to his banqueting house,<br/>and his banner over me is love.<br/>He brought me to his banqueting house,<br/>and his banner over me is love.<br/>His banner over me is love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He feeds me to his banqueting table,<br/>and his banner over me is love.<br/>He feeds me to his banqueting table,<br/>and his banner over me is love.<br/>He feeds me to his banqueting table,<br/>and his banner over me is love.<br/>His banner over me is love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>God love you and I love you<br/>and that's the way it should be.<br/>God love you and I love you<br/>and that's the way it should be</lines>
+    </verse>
+  </lyrics>
+</song>

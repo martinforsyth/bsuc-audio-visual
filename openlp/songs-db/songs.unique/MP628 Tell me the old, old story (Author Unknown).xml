@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:21">
+  <properties>
+    <titles>
+      <title>MP628 Tell me the old, old story</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Tell me the old, old story<br/>Of unseen things above,<br/>Of Jesus and His glory,<br/>Of Jesus and His love.<br/>Tell me the story simply,<br/>As to a little child;<br/>For I am weak and weary,<br/>And helpless and defiled.<br/>Tell me the old, old story,<br/>tell me the old ,old story<br/>tell me the old, old story,<br/>of Jesus and his love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Tell me the story slowly,<br/>that I may take it in-<br/>that wonderful redemption,<br/>God 's remedy for sin.<br/>Tell me the story often,<br/>for I forget so soon:<br/>the early dew of morning<br/>has passed away at noon.<br/>Tell me the old ,old story,<br/>tell me the old, old story,<br/>tell me the old,old story,<br/>of Jesus and his love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Tell me the story softly,<br/>with earnest tones and grave,<br/>Remember! I'm the sinner<br/>whom Jesus came to save. Tell me the story always.<br/>If you would really be,<br/>In any time of trouble<br/>A comforter to me.<br/>Tell me the old, old story,<br/>Tell me the old, old story,<br/>tell me the old, old story,<br/>of Jesus and his love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Tell me the same old story,<br/>When you have cause to fear<br/>that this world's empty glory<br/>Is costing me too dear.<br/>Yes, and when that world's glory<br/>Is dawning on my soul,<br/>Tell me the old, old story,<br/>"Christ Jesus makes you whole."<br/>Tell me the old,old story,<br/>tell me the old, old story,<br/>tell me the old old story ,<br/>of Jesus and his love.</lines>
+    </verse>
+  </lyrics>
+</song>

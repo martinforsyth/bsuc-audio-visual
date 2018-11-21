@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:29">
+  <properties>
+    <titles>
+      <title>MP172 Glorious Father</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Glorious Father, we exalt You,<br/>We worship, honour and adore You.<br/>We delight to be in Your presence, O Lord,<br/>We magnify Your holy name.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And we sing, 'come, Lord Jesus,<br/>Glorify Your name.'<br/>And we sing, 'Come, Lord Jesus,<br/>Glorify Your name.'</lines>
+    </verse>
+  </lyrics>
+</song>

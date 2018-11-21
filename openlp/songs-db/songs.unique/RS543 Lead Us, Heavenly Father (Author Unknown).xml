@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:54">
+  <properties>
+    <titles>
+      <title>RS543 Lead Us, Heavenly Father</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lead Us, Heavenly Father, lead us<br/>o'er the world's tempestuous sea;<br/>guard us, guide us, keep us, feed us -<br/>for we have no help but thee;<br/>yet possessing every blessing<br/>if our God our Father be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Saviour, breathe forgiveness o'er us;<br/>all our weaknesses thou dost know;<br/>thou didst tread this earth before us,<br/>thou dost feel its keenest woe<br/>lone and dreary, faint and weary<br/>through the desert thou didst go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit of our God, descending,<br/>Fill our hearts with heavenly joy,<br/>love with every passion blending,<br/>Pleasure that can never cloy:<br/>Thus provided, pardoned, guided,<br/>nothing can our peace destroy</lines>
+    </verse>
+  </lyrics>
+</song>

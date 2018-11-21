@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:17">
+  <properties>
+    <titles>
+      <title>SF180 come, O come, Immanuel</title>
+    </titles>
+    <verseOrder>v1 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O come, O come, Immanuel,<br/>and ransom captive Israel,<br/>that mourns in lonely exile here<br/>until the Son of God appear:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O come, thou Wisdom from above<br/>who ord'rest all things through thy love;<br/>to us the path of knowledge show<br/>and teach us in her ways to go:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O come, O come, Thou Lord of might<br/>who to your tribes on Sinai's height<br/>in ancient times didst give the law<br/>in cloud, and majesty, and awe:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O come, Thou Rod of Jesse, free<br/>your own from Satan's tyranny;<br/>from depths of hell your people save<br/>and give them vict'ry o'er the grave:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O come, O Key of David, come<br/>and open wide our heavenly home;<br/>make safe the way that leads on high,<br/>and close the path to misery:</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O come, O Dayspring, come and cheer<br/>Our spirits by your advent here;<br/>disperse the gloomy clouds of night,<br/>and death's dark shadows put to flight:</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>O come, Desire of nations, bring<br/>all peoples to their Saviour King;<br/>thou Corner-stone, who makest one,<br/>complete in us thy work begun:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Rejoice! Rejoice!<br/>Immanuel shall come to you, O Israel.</lines>
+    </verse>
+  </lyrics>
+</song>

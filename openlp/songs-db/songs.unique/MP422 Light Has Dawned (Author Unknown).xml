@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:56">
+  <properties>
+    <titles>
+      <title>MP422 Light Has Dawned</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Light has dawned that ever shall blaze;<br/>Darkness flees away.<br/>Christ the light has shone in our hearts,<br/>Turning night to day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Saviour of the world is He,<br/>Heaven's King come down.<br/>Judgement, love and mercy meet<br/>At His thorny crown.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Life has sprung from hearts of stone,<br/>By the Spirit's breath.<br/>Hell shall let her captives go,<br/>Life has conquered death.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Blood has flowed that cleanses from sin,<br/>God His love has proved.<br/>Men may mock and demons may rage,<br/>We shall not be moved!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>We proclaim him king of kings,<br/>We lift high His name.<br/>Heaven and earth shall bow at His feet<br/>When He comes to reign.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:10">
+  <properties>
+    <titles>
+      <title>SF106 Thou whose almighty word</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thou whose almighty word<br/>chaos and darkness heard,<br/>and took their flight;<br/>hear us, we humbly pray,<br/>and where the Gospel-day<br/>sheds not its glorious ray,<br/>let there be light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou, who didst come to bring<br/>on thy redeeming wing<br/>healing and sight,<br/>health to the sick in mind,<br/>sight to the inly blind,<br/>O now to all mankind<br/>let there be light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Spirit of truth and love,<br/>life-giving, holy Dove,<br/>speed forth thy flight;<br/>move on the water's face,<br/>Spreading the beams of grace,<br/>and in earth's darkest place<br/>let there be light.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Blessed and holy Three,<br/>glorious Trinity,<br/>Wisdom, Love, Might;<br/>boundless as ocean's tide<br/>rolling in fullest pride,<br/>through the earth far and wide<br/>let there be light.</lines>
+    </verse>
+  </lyrics>
+</song>

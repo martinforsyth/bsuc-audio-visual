@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-05-02T10:24:57">
+  <properties>
+    <titles>
+      <title>SF499 Great God, your love has called us here</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Brian Wren</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Great God, your love has called us here<br/>as we, by love for love were made.<br/>Your living likeness still we bear,<br/>though marred, dishonoured, disobeyed;<br/>we come, with all our heart and mind,<br/>your call to hear, your love to find.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We come with self-inflicted pains<br/>of broken trust and chosen wrong,<br/>half-free, half-bound by inner chains,<br/>by social forces swept along,<br/>by powers and systems close confined,<br/>yet seeking hope for humankind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Great God, in Christ you call our name,<br/>and then receive us as your own,<br/>not through some merit, right or claim,<br/>but by your gracious love alone;<br/>we strain to glimpse your mercy-seat<br/>and find you kneeling at our feet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then take the towel, and break the bread,<br/>and humble us, and call us friends;<br/>suffer and serve till all are fed,<br/>and show how grandly love intends<br/>to work till all creation sings,<br/>to fill all worlds, to crown all things.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Great God, in Christ you set us free<br/>your life to live, your joy to share;<br/>give us your Spirit's liberty<br/>to turn from guilt and dull despair<br/>and offer all that faith can do,<br/>while love is making all things new.</lines>
+    </verse>
+  </lyrics>
+</song>

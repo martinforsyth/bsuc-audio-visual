@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:02">
+  <properties>
+    <titles>
+      <title>HP529 Jesus, if still the same thou art</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, if still the same thou art,<br/>If all thy promises are sure,<br/>Set up thy kingdom in my heart,<br/>And make me rich, for I am poor;<br/>To me be all thy treasures given,<br/>The kingdom of an inward heaven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou hast pronounced the mourners blest;<br/>And lo, for thee I ever mourn:<br/>I cannot - no, I will not rest,<br/>Till thou, my only rest, return;<br/>Till thou, the Prince of Peace, appear,<br/>And I receive the Comforter.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Where is the blessedness bestowed<br/>On all that hunger after thee?<br/>I hunger now, I thirst for God;<br/>See the poor fainting sinner, see,<br/>And satisfy with endless peace,<br/>And fill me with thy righteousness.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Shine on thy work, disperse the gloom,<br/>Light in thy light I then shall see;<br/>Say to my soul: 'Thy light is come,<br/>Glory divine is risen on thee,<br/>Thy warfare's past, thy mourning's o'er;<br/>Look up, for thou shalt weep no more!'</lines>
+    </verse>
+  </lyrics>
+</song>

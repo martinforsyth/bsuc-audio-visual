@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:22">
+  <properties>
+    <titles>
+      <title>HP390 Heal us, Immanuel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Heal us, Immanuel! Hear our prayer;<br/>We wait to feel thy touch;<br/>Deep-wounded souls to thee repair,<br/>And, Saviour, we are such.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our faith is feeble, we confess;<br/>We faintly trust thy word;<br/>But wilt thou pity us the less?<br/>Be that far from thee, Lord!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Remember him who once applied<br/>With trembling for relief:<br/>'Lord, I believe!' with tears he cried,<br/>'O help my unbelief!'</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>She, too, who touched thee in the press,<br/>And healing virtue stole,<br/>Was answered: 'Daughter, go in peace,<br/>Thy faith has made thee whole.'</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Concealed amid the gathering throng,<br/>She would have shunned thy view;<br/>And if her faith was firm and strong,<br/>Had strong misgivings too.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Like her, with hopes and fears we come<br/>To touch thee, if we may;<br/>O send us not despairing home,<br/>Send none unhealed away!</lines>
+    </verse>
+  </lyrics>
+</song>

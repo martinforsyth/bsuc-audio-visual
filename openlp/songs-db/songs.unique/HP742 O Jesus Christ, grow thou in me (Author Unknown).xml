@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:55">
+  <properties>
+    <titles>
+      <title>HP742 O Jesus Christ, grow thou in me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Jesus Christ, grow thou in me,<br/>And all things else recede;<br/>My heart be daily nearer thee,<br/>From sin be daily freed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Each day let thy supporting might<br/>My weakness still embrace;<br/>My darkness vanish in thy light,<br/>Thy life my death efface.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In thy bright beams which on me fall,<br/>Fade every evil thought;<br/>That I am nothing, thou art all,<br/>I would be daily taught.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>More of thy glory let me see,<br/>Thou holy, wise, and true!<br/>I would thy living image be,<br/>In joy and sorrow too.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Fill me with gladness from above,<br/>Hold me by strength divine!<br/>Lord, let the glow of thy great love<br/>Through my whole being shine.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Make this poor self grow less and less,<br/>Be thou my life and aim;<br/>O make me daily, through thy grace,<br/>More meet to bear thy name!</lines>
+    </verse>
+  </lyrics>
+</song>

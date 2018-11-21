@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:54">
+  <properties>
+    <titles>
+      <title>HP731 I know that my Redeemer lives, And ever prays</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I know that my Redeemer lives,<br/>And ever prays for me;<br/>A token of his love he gives,<br/>A pledge of liberty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I find him lifting up my head,<br/>He brings salvation near,<br/>His presence makes me free indeed,<br/>And he will soon appear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He wills that I should holy be;<br/>What can withstand his will?<br/>The counsel of his grace in me<br/>He surely shall fulfil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus, I hang upon thy word;<br/>I steadfastly believe<br/>Thou wilt return and claim me, Lord,<br/>And to thyself receive.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thy love I soon expect to find<br/>In all its depth and height,<br/>To comprehend the eternal mind,<br/>And grasp the Infinite.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>When God is mine, and I am his,<br/>Of paradise possessed,<br/>I taste unutterable bliss<br/>And everlasting rest.</lines>
+    </verse>
+  </lyrics>
+</song>

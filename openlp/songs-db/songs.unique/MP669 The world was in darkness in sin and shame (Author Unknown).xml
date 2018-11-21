@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:25">
+  <properties>
+    <titles>
+      <title>MP669 The world was in darkness in sin and shame</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The world was in darkness in sin and shame<br/>mankind was lost, and then Jesus came.<br/>He carried our sins to Calvary's tree,<br/>He hung there, and bled there,<br/>for you and me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord Jesus came down<br/>from His throne on high;<br/>ready to live and willing to die.<br/>For all of the pain and the suffering<br/>He bore,<br/>I'll love Him and thank Him<br/>for evermore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>To You I surrender my all today,<br/>the debt I owe, I ne'er could repay,<br/>I'll serve You with joy,<br/>wherever You lead,<br/>with this great assurance,<br/>You'll meet my need.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Thank You Lord, for saving my soul.<br/>Thank You Lord,<br/>for making me whole.<br/>Thank You Lord, for giving to me<br/>Thy great salvation so rich and free.</lines>
+    </verse>
+  </lyrics>
+</song>

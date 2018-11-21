@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:13">
+  <properties>
+    <titles>
+      <title>HP327 Spirit divine, attend our prayers</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Spirit divine, attend our prayers<br/>and make this house your home;<br/>descend with all your gracious powers:<br/>O come, great Spirit, come!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come as the light: to us reveal<br/>our emptiness and woe,<br/>and lead us in those paths of life<br/>where all the righteous go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come as the fire; and purge our hearts<br/>like sacrificial flame;<br/>let our whole life an offering be<br/>to our Redeemer's name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Come as the dove; and spread your wings,<br/>the wings of peaceful love;<br/>and let your church on earth become<br/>blest as the church above.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Come as the wind, with rushing sound<br/>And pentecostal grace,<br/>That all of woman born may see<br/>The glory of your face.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Spirit divine, attend our prayers;<br/>make this lost world your home;<br/>descend with all your gracious powers;<br/>O come, great Spirit, come!</lines>
+    </verse>
+  </lyrics>
+</song>

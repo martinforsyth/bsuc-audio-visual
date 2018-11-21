@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:35">
+  <properties>
+    <titles>
+      <title>SF456  And are we yet alive</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>And are we yet alive,<br/>And see each other 's face?<br/>Glory and praise to Jesus give<br/>For his redeeming grace!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Preserved by power divine<br/>To full salvation here,<br/>Again in Jesu's praise we join,<br/>And in his sight appear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>What troubles have we seen,<br/>What conflicts have we passed,<br/>Fightings without, and fears within,<br/>Since we assembled last!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>But out of all the Lord<br/>Hath brought us by his love;<br/>And still he doth his help afford,<br/>And hides our life above.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Then let us make our boast<br/>Of his redeeming power,<br/>Which saves us to the uttermost,<br/>Till we can sin no more:</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Let us take up the cross,<br/>Till we the crown obtain;<br/>And gladly reckon all things loss,<br/>So we may Jesus gain.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Praise ye the Lord, alleluia!<br/>Praise ye the Lord, alleluia!<br/>Alleluia, alleluia, alleluia,<br/>Praise ye the Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

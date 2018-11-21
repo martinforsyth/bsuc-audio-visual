@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:59">
+  <properties>
+    <titles>
+      <title>MP442 Lord of the church</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord of the church, we pray for our renewing:<br/>Christ over all, our undivided aim;<br/>Fire of the Spirit, burn for our enduing,<br/>wind of the Spirit, fan the living flame!<br/>We turn to Christ amid our fear and failing,<br/>the will that lacks the courage to be free,<br/>the weary labours, all but unavailing,<br/>to bring us nearer what a church should be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord of the church, we seek a Father's blessing,<br/>a true repentance and a faith restored,<br/>a swift obedience and a new possessing,<br/>filled with the Holy Spirit of the Lord!<br/>We turn to Christ from all our restless striving,<br/>unnumbered voices with a single prayer -<br/>the living water for our souls' reviving,<br/>in Christ to live, and love and serve and care.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord of the church, we long for our uniting,<br/>true to one calling, by one vision stirred;<br/>one cross proclaiming and one creed reciting,<br/>one in the truth of Jesus and His word!<br/>So lead us on: till toil and trouble ended,<br/>one church triumphant one new song shall sing,<br/>to praise His glory, risen and ascended,<br/>Christ over all, the evrlasting King!</lines>
+    </verse>
+  </lyrics>
+</song>

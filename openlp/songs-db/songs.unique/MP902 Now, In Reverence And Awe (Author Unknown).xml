@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:47">
+  <properties>
+    <titles>
+      <title>MP902 Now, In Reverence And Awe</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Now, in reverence and awe<br/>We gather round Your word;<br/>In wonder we draw near<br/>To mysteries that angels strain to hear,<br/>That prophets dimly saw:<br/>So let Your Spirit<br/>Shine upon the page and</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, Your truth cannot be chained,<br/>It searches everything -<br/>My secrets, my desires.<br/>Your word is like a hammer and a fire,<br/>It breaks, it purifies:<br/>So let Your Spirit<br/>Shine into my heart and</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Teach me,<br/>Open my eyes with truth to free me,<br/>Light to chase the lies.<br/>Lord Jesus, let me meet You in Your word;<br/>Lord Jesus, let me meet You in Your word.</lines>
+    </verse>
+  </lyrics>
+</song>

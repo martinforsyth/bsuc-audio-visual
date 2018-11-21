@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:37">
+  <properties>
+    <titles>
+      <title>HP638 Ere I sleep, for every favour</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Ere I sleep, for every favour<br/>This day showed<br/>By my God,<br/>I will bless my Saviour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O my Lord, what shall I render<br/>To thy name,<br/>Still the same,<br/>Gracious, good, and tender?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thou hast ordered all my goings<br/>In thy way,<br/>Heard me pray,<br/>Sanctified my doings.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Visit me with thy salvation;<br/>Let thy care<br/>Now be near<br/>Round my habitation.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Leave me not, but ever love me;<br/>Let thy peace<br/>Be my bliss,<br/>Till thou hence remove me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Thou my rock, my guard, my tower,<br/>Safely keep,<br/>While I sleep,<br/>Me, with all thy power.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>So, whene'er in death I slumber,<br/>Let me rise<br/>With the wise,<br/>Counted in their number.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-02-01T09:00:41">
+  <properties>
+    <titles>
+      <title>MP367, SF353 Jesus Is Lord!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus is Lord!<br/>creation's voice proclaims it,<br/>for by His power each tree and flower<br/>was planned and made.<br/>Jesus is Lord! The universe declares it,<br/>sun, moon and stars in heaven cry,<br/>'Jesus is Lord!'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus is Lord!<br/>Yet from His throne eternal<br/>in flesh He came to die in pain<br/>on Calvary's tree.<br/>Jesus is Lord!<br/>From Him all life proceeding,<br/>yet gave His life a ransom<br/>thus setting us free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus is Lord!<br/>O'er sin the mighty conqueror,<br/>from death He rose, and all His foes<br/>shall own His name.<br/>Jesus is Lord! God sends His Holy Spirit<br/>to show by works of power<br/>that Jesus is Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Jesus is Lord! Jesus is Lord!<br/>Praise Him with hallelujahs<br/>for Jesus is Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

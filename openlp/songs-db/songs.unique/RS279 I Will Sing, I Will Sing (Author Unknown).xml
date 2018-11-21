@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:48">
+  <properties>
+    <titles>
+      <title>RS279 I Will Sing, I Will Sing</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I will sing, I will sing a song unto the Lord, (3 times)<br/>Alleluia, glory to the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We will come, we will come as one before the Lord, (3 times)<br/>Alleluia, glory to the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>If the Son, if the Son shall make you free, (3 times)<br/>You shall be free indeed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>They that sow in tears shall reap in joy, (3 times)<br/>Alleluia, glory to the Lord!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Every knee shall bow and every tongue confess, (3 times)<br/>That Jesus Christ is Lord.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>In His name, in His name we have the victory, (3 times)<br/>Alleluia, glory to the Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Allelu, alleluia, glory to the Lord,<br/>Allelu, alleluia, glory to the Lord,<br/>Allelu, alleluia, glory to the Lord,<br/>Alleluia, glory to the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

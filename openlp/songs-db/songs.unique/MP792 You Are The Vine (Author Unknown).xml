@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:37">
+  <properties>
+    <titles>
+      <title>MP792 You Are The Vine</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You are the vine,<br/>we are the branches,<br/>keep us abiding in You.<br/>You are the Vine,<br/>we are the branches,<br/>keep us abiding in You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Then we'll grow in Your love,<br/>then we'll go in Your name,<br/>that the world will surely know<br/>that You have power to heal and to save.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>You are the Vine,<br/>we are the branches,<br/>keep us abiding in You.</lines>
+    </verse>
+  </lyrics>
+</song>

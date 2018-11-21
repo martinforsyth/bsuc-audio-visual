@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:29">
+  <properties>
+    <titles>
+      <title>HP426 O God of earth and altar</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God of earth and altar,<br/>Bow down and hear our cry;<br/>Our earthly rulers falter,<br/>Our people drift and die;<br/>The walls of gold entomb us,<br/>The swords of scorn divide;<br/>Take not thy thunder from us,<br/>But take away our pride.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>From all that terror teaches,<br/>From lies of tongue and pen,<br/>From all the easy speeches<br/>That comfort cruel men,<br/>From sale and profanation<br/>Of honour and the sword,<br/>From sleep and from damnation,<br/>Deliver us, good Lord!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Tie in a living tether<br/>The prince and priest and thrall;<br/>Bind all our lives together;<br/>Smite us and save us all;<br/>In ire and exultation,<br/>Aflame with faith, and free,<br/>Lift up a living nation,<br/>A single sword to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

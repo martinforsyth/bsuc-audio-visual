@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:26">
+  <properties>
+    <titles>
+      <title>MP679 There's a light upon the mountains</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There's a light upon the mountains, and the day is at the spring,<br/>When our eyes shall see the beauty and the glory of the King;<br/>Weary was our heart with waiting, and the night-watch seemed so long;<br/>But his triumph-day is breaking, and we hail it with a song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In the fading of the starlight<br/>we can see the coming morn;<br/>and the lights of men are paling<br/>in the splendours of the dawn:<br/>for the eastern skies are glowing<br/>as with light of hidden fire,<br/>and the hearts of men are stirring<br/>with the throbs of deep desire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There's a hush of expectation, and a quiet in the air;<br/>And the breath of God is moving in the fervent breath of prayer:<br/>For the suffering, dying Jesus is the Christ upon the throne,<br/>And the travail of our spirit is the travail of his own.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He is breaking down the barriers, he is casting up the way;<br/>He is calling for his angels to build up the gates of day:<br/>But his angels here are human, not the shining hosts above;<br/>For the drum-beats of his army are the heart-beats of our love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Hark! We hear a distant music, and it comes with fuller swell;<br/>'Tis the triumph-song of Jesus, of our King, Immanuel:<br/>Zion, go ye forth to meet him; and, my soul, be swift to bring<br/>All thy finest and thy noblest for the triumph of our King!</lines>
+    </verse>
+  </lyrics>
+</song>

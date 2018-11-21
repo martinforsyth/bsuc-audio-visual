@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:41">
+  <properties>
+    <titles>
+      <title>SF568 Alleluia! Sing to Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Alleluia! Sing to Jesus,<br/>His the sceptre, his the throne;<br/>Alleluia! His the triumph,<br/>His the victory alone:<br/>Hark! The songs of peaceful Zion<br/>Thunder like a mighty flood;<br/>Jesus, out of every nation,<br/>Has redeemed us by his blood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Alleluia! Not as orphans<br/>Are we left in sorrow now;<br/>Alleluia! He is near us,<br/>Faith believes, nor questions how;<br/>Though the cloud from sight received him<br/>When the forty days were o'er,<br/>Shall our hearts forget his promise,<br/>'I am with you evermore'?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Alleluia! Bread of angels,<br/>Thou on earth our food, our stay;<br/>Alleluia! Here the sinful<br/>Flee to thee from day to day:<br/>Intercessor, friend of sinners,<br/>Earth's Redeemer, plead for me,<br/>Where the songs of all the sinless<br/>Sweep across the crystal sea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Alleluia! King eternal,<br/>Thee the Lord of lords we own;<br/>Alleluia! Born of Mary,<br/>Earth thy footstool, heaven thy throne:<br/>Thou within the veil hast entered,<br/>Robed in flesh, our great High Priest;<br/>Thou on earth both priest and victim<br/>In the eucharistic feast.</lines>
+    </verse>
+  </lyrics>
+</song>

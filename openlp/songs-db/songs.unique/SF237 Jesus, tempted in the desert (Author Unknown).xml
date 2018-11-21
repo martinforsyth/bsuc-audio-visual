@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:25">
+  <properties>
+    <titles>
+      <title>SF237 Jesus, tempted in the desert</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, tempted in the desert,<br/>lonely, hungry, filled with dread:<br/>'Use your power,' the tempter tells him;<br/>'turn these barren rocks to bread!'<br/>'Not alone by bread,' he answers,<br/>'can the human heart be filled.<br/>Only by the Word that calls us<br/>is our deepest hunger stilled!'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus, tempted at the temple,<br/>high above its ancient wall:<br/>'Throw yourself from lofty turret;<br/>angels wait to break your fall!'<br/>Jesus shuns such empty marvels,<br/>feats that fickle crowds request:<br/>'God, whose grace protects, preserves us,<br/>we must never vainly test.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, tempted on the mountain<br/>by the lure of vast domain:<br/>'Fall before me!  Be my servant!<br/>Glory, fame, you're sure to gain!'<br/>Jesus sees the dazzling vision,<br/>turns his eyes another way:<br/>'God alone deserves our homage!<br/>God alone will I obey!'</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When we face temptation's power,<br/>lonely, struggling, filled with dread,<br/>Christ, who knew the tempter's hour,<br/>come and be our living bread.<br/>By your grace, protect, preserve us<br/>lest we fall, your trust betray.<br/>Yours, above all other voices,<br/>be the Word we hear, obey.</lines>
+    </verse>
+  </lyrics>
+</song>

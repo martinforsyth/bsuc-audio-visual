@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:38">
+  <properties>
+    <titles>
+      <title>HP24 God is a name my soul adores</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God is a name my soul adores,<br/>The almighty Three, the eternal One;<br/>Nature and grace with all their powers<br/>Confess the Infinite unknown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thy voice produced the sea and spheres,<br/>Bade the waves roar, the planets shine;<br/>But nothing like thyself appears<br/>Through all these spacious works of thine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Still restless nature dies and grows;<br/>From change to change the creatures run:<br/>Thy being no succession knows,<br/>And all thy vast designs are one.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>A glance of thine runs through the globe,<br/>Rules the bright worlds and moves their frame;<br/>Of light thou form'st thy dazzling robe,<br/>Thy ministers are living flame.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>How shall polluted mortals dare<br/>To sing thy glory or thy grace?<br/>Beneath thy feet we lie afar,<br/>And see but shadows of thy face.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Who can behold the blazing light?<br/>Who can approach consuming flame?<br/>None but thy wisdom knows thy might,<br/>None but thy word can speak thy name.</lines>
+    </verse>
+  </lyrics>
+</song>

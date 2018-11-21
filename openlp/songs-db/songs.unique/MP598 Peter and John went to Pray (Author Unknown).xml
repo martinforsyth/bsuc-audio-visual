@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:17">
+  <properties>
+    <titles>
+      <title>MP598 Peter and John went to Pray</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Peter and John went to pray,<br/>They met a lame man on the way.<br/>He asked for alms and held out his palms,<br/>And this is what Peter did say:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Silver and gold have I none,<br/>But such as I have give I thee,<br/>In the name of Jesus Christ<br/>Of Nazareth, rise up and walk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He went walking and leaping and praising God,<br/>Walking and leaping and praising God.<br/>In the name of Jesus Christ<br/>Of Nazareth, rise up and walk!</lines>
+    </verse>
+  </lyrics>
+</song>

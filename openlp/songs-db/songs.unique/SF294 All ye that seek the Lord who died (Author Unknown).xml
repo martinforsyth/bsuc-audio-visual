@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:27">
+  <properties>
+    <titles>
+      <title>SF294 All ye that seek the Lord who died</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All ye that seek the Lord who died,<br/>Your God for sinners crucified,<br/>Now, now let all your grief be o'er!<br/>Believe, and ye shall weep no more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The Lord of life is risen indeed,<br/>To death delivered in your stead;<br/>His rise proclaims your sins forgiven,<br/>And shows the living way to heaven.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Haste then, ye souls that first believe,<br/>Who dare the gospel word receive,<br/>Your faith with joyful hearts confess,<br/>Be bold, be Jesus' witnesses.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Go, tell the followers of your Lord<br/>Their Jesus is to life restored;<br/>He lives, that they his life may find;<br/>He lives to quicken all mankind.</lines>
+    </verse>
+  </lyrics>
+</song>

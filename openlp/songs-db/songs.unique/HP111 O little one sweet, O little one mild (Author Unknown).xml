@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:45">
+  <properties>
+    <titles>
+      <title>HP111 O little one sweet, O little one mild</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O little one sweet, O little one mild,<br/>Thy Father's purpose thou hast fulfilled;<br/>Thou cam'st from heaven to mortal ken,<br/>Equal to be with us poor men,<br/>O little one sweet, O little one mild.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O little one sweet, O little one mild,<br/>With joy thou hast the whole world filled;<br/>Thou camest here from heaven's domain,<br/>To bring men comfort in their pain,<br/>O little one sweet, O little one mild.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O little one sweet, O little one mild,<br/>In thee love's beauties are all distilled;<br/>Then light in us thy love's bright flame,<br/>That we may give thee back the same,<br/>O little one sweet, O little one mild.</lines>
+    </verse>
+  </lyrics>
+</song>

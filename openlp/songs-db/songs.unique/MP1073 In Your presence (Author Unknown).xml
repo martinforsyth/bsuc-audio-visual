@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:16">
+  <properties>
+    <titles>
+      <title>MP1073 In Your presence</title>
+    </titles>
+    <verseOrder>c1 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I want to go where<br/>The rivers cannot overflow me,<br/>Where my feet are on a Rock;<br/>I want to hide where<br/>The blazing fire cannot burn me,<br/>In Your presence, O God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I want to hide where<br/>The flood of evil cannot reach me,<br/>Where I'm covered by Your blood;<br/>I want to be where the schemes<br/>Of darkness cannot touch me,<br/>In Your presence, O God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>In Your presence,<br/>That's where I am strong,<br/>In Your presence,<br/>O Lord, my God;<br/>In Your presence,<br/>That's where I belong,<br/>Seeking Your face,<br/>Touching Your grace,<br/>In the cleft of the Rock<br/>In Your presence, O God.</lines>
+    </verse>
+  </lyrics>
+</song>

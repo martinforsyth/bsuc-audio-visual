@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:30">
+  <properties>
+    <titles>
+      <title>MP726 We Declare Your Majesty</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We declare Your majesty,<br/>We proclaim that Your name is exalted;<br/>For You reign magnificently,<br/>Rule victoriously,<br/>And Your power is shown throughout the earth.<br/>And we exclaim our God is mighty,<br/>Lift up Your name, for You are holy.<br/>Sing it again, all honour and glory,<br/>In adoration we bow before Your throne.</lines>
+    </verse>
+  </lyrics>
+</song>

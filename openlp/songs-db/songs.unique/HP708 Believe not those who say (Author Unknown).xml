@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:50">
+  <properties>
+    <titles>
+      <title>HP708 Believe not those who say</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Believe not those who say<br/>The upward path is smooth,<br/>Lest thou shouldst stumble in the way<br/>And faint before the truth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>It is the only road<br/>Unto the realms of joy;<br/>But he who seeks that blest abode<br/>Must all his powers employ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Arm, arm thee for the fight!<br/>Cast useless loads away;<br/>Watch through the darkest hours of night;<br/>Toil through the hottest day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>To labour and to love,<br/>To pardon and endure,<br/>To lift thy heart to God above,<br/>And keep thy conscience pure -</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Be this thy constant aim,<br/>Thy hope, thy chief delight;<br/>What matter who should whisper blame<br/>Or who should scorn or slight,</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>If but thy God approve,<br/>And if, within thy breast,<br/>Thou feel the comfort of his love,<br/>The earnest of his rest?</lines>
+    </verse>
+  </lyrics>
+</song>

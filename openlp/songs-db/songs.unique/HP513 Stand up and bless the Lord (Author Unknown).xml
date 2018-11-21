@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:58">
+  <properties>
+    <titles>
+      <title>HP513 Stand up and bless the Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Stand up and bless the Lord,<br/>Ye people of His choice:<br/>Stand up and bless the Lord your God<br/>With heart and soul and voice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Though high above all praise,<br/>Above all blessing high,<br/>Who would not fear His holy Name,<br/>And laud and magnify!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O for the living flame<br/>From His own altar brought,<br/>To touch our lips, our minds inspire,<br/>And wing to heaven our thought!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God is our strength and song,<br/>And His salvation ours;<br/>Then be His love in Christ proclaimed<br/>With all our ransomed powers.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Stand up, and bless the Lord,<br/>The Lord your God adore;<br/>Stand up, and bless His glorious Name<br/>Henceforth for evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

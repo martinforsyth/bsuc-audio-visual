@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:24">
+  <properties>
+    <titles>
+      <title>SF236 Forty days and forty nights</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Forty days and forty nights<br/>you were fasting in the wild;<br/>forty days and forty nights<br/>tempted and yet undefiled.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Burning heat throughout the day,<br/>bitter cold when light had fled;<br/>prowling beasts around your way,<br/>stones your pillow, earth your bed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Shall not we your trials share,<br/>learn your discipline of will;<br/>and with you by fast and prayer<br/>wrestle with the powers of hell?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>So if Satan, pressing hard,<br/>soul and body would destroy:<br/>Christ who conquered, be our guard;<br/>give to us the victor's joy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Watching, praying, struggling thus,<br/>victory shall be ours too;<br/>angels minister to us,<br/>as they ministered to you.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Saviour, may we hear your voice;<br/>keep us constant at your side;<br/>and with you we shall rejoice<br/>at the eternal Eastertide.</lines>
+    </verse>
+  </lyrics>
+</song>

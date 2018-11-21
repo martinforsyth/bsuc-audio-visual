@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:24">
+  <properties>
+    <titles>
+      <title>MP92,SF43 Come, let us praise the Lord,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, let us praise the Lord,<br/>with joy our God acclaim,<br/>His greatness tell abroad<br/>and bless His saving name.<br/>Lift high your songs<br/>before His throne<br/>to Whom alone<br/>all praise belongs.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our God of matchless worth,<br/>our King beyond compare,<br/>the deepest bounds of earth,<br/>the hills, are in His care.<br/>He all decrees,<br/>Who by His hand<br/>prepared the land<br/>and formed the seas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In worship bow the knee,<br/>our glorious God confess;<br/>the great Creator, He,<br/>the Lord our righteousness.<br/>He reigns unseen:<br/>His flock He feeds<br/>and gently leads<br/>in pastures green.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Come, hear His voice today,<br/>receive what love imparts:<br/>His holy will obey<br/>and harden not your hearts.<br/>His ways are best;<br/>and lead at last,<br/>all troubles past,<br/>to perfect rest.</lines>
+    </verse>
+  </lyrics>
+</song>

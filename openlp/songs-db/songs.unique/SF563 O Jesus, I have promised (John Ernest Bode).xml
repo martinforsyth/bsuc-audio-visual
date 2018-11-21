@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-09-12T22:23:54">
+  <properties>
+    <titles>
+      <title>SF563 O Jesus, I have promised</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John Ernest Bode</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Jesus, I have promised<br/>to serve you to the end;<br/>Lord, be for ever near me,<br/>my master and my friend;<br/>I shall not fear the battle<br/>if you are by my side,<br/>nor wander from the pathway<br/>if you will be my guide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O let me feel you near me;<br/>the world is ever near;<br/>I see the sights that dazzle,<br/>the tempting sounds I hear;<br/>my foes are ever near me,<br/>around me, and within;<br/>but, Jesus, now draw nearer,<br/>and shield my soul from sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O let me hear you speaking<br/>in accents clear and still,<br/>above the storms of passion,<br/>the murmurs of self-will;<br/>O speak to reassure me,<br/>to hasten or control;<br/>Lord, speak, and make me listen,<br/>O guardian of my soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O Jesus, you have promised<br/>to all who follow you,<br/>that where you are in glory<br/>your servant shall be too;<br/>and, Jesus, I have promised<br/>to serve you to the end;<br/>O give me grace to follow<br/>my master and my friend.</lines>
+    </verse>
+  </lyrics>
+</song>

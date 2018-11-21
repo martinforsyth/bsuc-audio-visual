@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:40">
+  <properties>
+    <titles>
+      <title>HP38 Great God of wonders</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Great God of wonders, all thy ways<br/>display the attributes divine;<br/>but countless acts of pardoning grace<br/>beyond thine other wonders shine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In wonder lost, with trembling joy,<br/>we take the pardon of our God,<br/>pardon for crimes of deepest dye,<br/>a pardon bought with Jesu's blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Pardon-from an offended God!,<br/>Pardon-for sins of deepest dye!<br/>Pardon-bestowed through Jesu's blood!<br/>Pardon-that brings the rebel nigh!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O may this strange, this matchless grace,<br/>this godlike miracle of love,<br/>fill the wide earth with grateful praise,<br/>as now it fills the chiors above.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Who is a pard'ning God like Thee?<br/>Or who has grace so rich and free?</lines>
+    </verse>
+  </lyrics>
+</song>

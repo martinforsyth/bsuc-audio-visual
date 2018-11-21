@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:00">
+  <properties>
+    <titles>
+      <title>SF5 Father in whom we live</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>1  Father, in whom we live,<br/>in whom we are, and move,<br/>glory and power and praise receive<br/>of thy creating love.<br/>Let all the angel throng<br/>give thanks to God on high;<br/>while earth repeats the joyful song,<br/>and echoes to the sky</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>.<br/>2  Incarnate Deity,<br/>let all the ransomed race<br/>render in thanks their lives to thee,<br/>for thy redeeming grace.<br/>The grace to sinners showed<br/>ye heavenly choirs proclaim,<br/>and cry: 'Salvation to our God,<br/>salvation to the Lamb!'<br/>.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3  Spirit of holiness,<br/>let all thy saints adore<br/>thy sacred energy, and bless<br/>thy heart-renewing power.<br/>Not angel tongues can tell<br/>thy love's ecstatic height,<br/>the glorious joy unspeakable,<br/>the beatific sight</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4  Eternal, triune Lord!<br/>Let all the hosts above,<br/>let all the sons of men, record<br/>and dwell upon thy love.<br/>When heaven and earth are fled<br/>before thy glorious face,<br/>sing all the saints thy love has made<br/>thine everlasting praise.<br/>Charles Wesley (1707-1788)<br/>Reproduced from Singing the Faith Electronic Words Edition, number 5</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:46">
+  <properties>
+    <titles>
+      <title>HP126 Hail to the Lord who comes</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hail to the Lord who comes,<br/>Comes to his temple gate!<br/>Not with his angel host,<br/>Not in his kingly state:<br/>No shouts proclaim him nigh,<br/>No crowds his coming wait;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>But borne upon the throne<br/>Of Mary's gentle breast,<br/>Watched by her duteous love,<br/>In her fond arms at rest;<br/>Thus to his Father's house<br/>He comes, the heavenly Guest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There Joseph at her side<br/>In reverent wonder stands;<br/>And, filled with holy joy,<br/>Old Simeon in his hands<br/>Takes up the promised child,<br/>The glory of all lands.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O Light of all the earth,<br/>Thy children wait for thee:<br/>Come to thy temples here,<br/>That we, from sin set free,<br/>Before thy Father's face<br/>May all presented be.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:58">
+  <properties>
+    <titles>
+      <title>RS629 Make me a channel of Your peace</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Make me a channel of Your peace.<br/>Where there is hatred let me bring your love;<br/>Where there is injury, your pardon, Lord;<br/>And where there's doubt, true faith in you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Make me a channel of Your peace.<br/>Where there's despair in life let me bring hope:<br/>Where there is darkness, only light<br/>And where there's sadness ever joy</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Make me a channel of Your peace.<br/>for when we give we will ourselves receive.<br/>It is in pardoning that we are pardoned,<br/>And in dying that we gain born to eternal life.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Oh, Master grant that I may never seek<br/>so much to be consoled as to console;<br/>to be understood as to understand;<br/>to be loved, as to love with all my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

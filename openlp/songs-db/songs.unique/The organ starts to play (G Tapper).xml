@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-04-06T06:31:31">
+  <properties>
+    <titles>
+      <title>The organ starts to play</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>G Tapper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The organ starts to play.<br/>Our friendly talk is stilled.<br/>The church with song is filled.<br/>And soon we bend to pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>So, for a holy hour,<br/>Let us in friendship share<br/>Retreat in hymn and prayer<br/>And know his love and power.</lines>
+    </verse>
+  </lyrics>
+</song>

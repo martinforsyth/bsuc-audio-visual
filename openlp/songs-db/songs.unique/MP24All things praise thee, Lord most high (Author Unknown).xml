@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-08-15T18:27:01">
+  <properties>
+    <titles>
+      <title>MP24All things praise thee, Lord most high</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All things praise Thee, Lord most high;<br/>heaven and earth and sea and sky,<br/>all were for Thy glory made,<br/>that Thy greatness thus displayed<br/>should all worship bring to Thee;<br/>all things praise Thee: Lord, may we.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>All things praise thee; night to night<br/>Sings in silent hymns of light;<br/>All things praise thee; day to day<br/>Chants thy power, in burning ray;<br/>Time and space are praising thee;<br/>All things praise thee: Lord, may we.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All things praise thee; high and low,<br/>Rain and dew and seven-hued bow,<br/>Crimson sunset, fleecy cloud,<br/>Rippling stream and tempest loud,<br/>Summer, winter, all to thee<br/>Glory render: Lord, may we.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>All things praise Thee, heaven's high shrine<br/>rings with melody divine;<br/>lowly bending at Thy feet,<br/>seraph and archangel meet;<br/>this their highest bliss, to be<br/>ever praising: Lord, may we.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>All things praise Thee; gracious Lord,<br/>great Creator, powerful Word,<br/>omnipresent Spirit, now<br/>at Thy feet we humbly bow,<br/>lift our hearts in praise to Thee;<br/>all things praise Thee: Lord, may we.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>All things praise thee; round her zones<br/>Earth, with her ten thousand tones,<br/>Rolls a ceaseless choral strain;<br/>Roaring wind and deep-voiced main,<br/>Rustling leaf and humming bee,<br/>All things praise thee: Lord, may we.</lines>
+    </verse>
+  </lyrics>
+</song>

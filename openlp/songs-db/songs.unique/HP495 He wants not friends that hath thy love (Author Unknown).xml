@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:54">
+  <properties>
+    <titles>
+      <title>HP495 He wants not friends that hath thy love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He wants not friends that hath thy love,<br/>And may converse and walk with thee,<br/>And with thy saints here and above,<br/>With whom for ever I must be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In the communion of thy saints<br/>Is wisdom, safety, and delight;<br/>And when my heart declines and faints,<br/>'Tis raised by their heat and light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>As for my friends, they are not lost.<br/>The several vessels of thy fleet,<br/>Though parted now, by tempests tossed,<br/>Shall safely in the haven meet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Still are we centred all in thee,<br/>Members, though distant, of one Head;<br/>In the same family are we,<br/>By the same faith and Spirit led.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Before thy throne we daily meet<br/>As joint-petitioners to thee;<br/>In spirit we each other greet,<br/>And shall again each other see.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>The heavenly hosts, world without end,<br/>Shall be my company above;<br/>And thou, my best and surest friend,<br/>Who shall divide me from thy love?</lines>
+    </verse>
+  </lyrics>
+</song>

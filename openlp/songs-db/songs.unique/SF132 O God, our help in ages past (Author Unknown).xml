@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:13">
+  <properties>
+    <titles>
+      <title>SF132 O God, our help in ages past</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God, our help in ages past,<br/>our hope for years to come,<br/>our shelter from the stormy blast,<br/>and our eternal home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Under the shadow of thy throne<br/>thy saints have dwelt secure;<br/>sufficient is thine arm alone,<br/>and our defence is sure.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Before the hills in order stood<br/>or earth received her frame,<br/>from everlasting thou art God,<br/>to endless years the same.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>A thousand ages in thy sight<br/>are like an evening gone,<br/>short as the watch that ends the night<br/>before the rising sun.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The busy tribes of flesh and blood,<br/>with all their cares and fears,<br/>are carried downward by the flood,<br/>and lost in following years.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Time, like an ever-rolling stream,<br/>bears all its sons away;<br/>they fly forgotten, as a dream<br/>dies at the opening day.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>O God, our help in ages past,<br/>our hope for years to come,<br/>be thou our guard while life shall last,<br/>and our eternal home.</lines>
+    </verse>
+  </lyrics>
+</song>

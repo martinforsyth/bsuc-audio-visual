@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:46">
+  <properties>
+    <titles>
+      <title>HP693 Father of Jesus Christ - my Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father of Jesus Christ-my Lord,<br/>My Saviour, and my Head -<br/>I trust in thee, whose powerful word<br/>Has raised him from the dead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou know'st for my offence he died,<br/>And rose again for me,<br/>Fully and freely justified<br/>That I might live to thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Faith in thy power thou seest I have,<br/>For thou this faith hast wrought;<br/>Dead souls thou callest from their grave,<br/>And speakest worlds from nought.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In hope, against all human hope,<br/>Self-desperate, I believe;<br/>Thy quickening word shall raise me up,<br/>Thou shalt thy Spirit give.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Faith, mighty faith, the promise sees,<br/>And looks to that alone,<br/>Laughs at impossibilities,<br/>And cries: 'It shall be done!'</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Obedient faith, that waits on thee,<br/>Thou never wilt reprove,<br/>But thou wilt form thy Son in me,<br/>And perfect me in love.</lines>
+    </verse>
+  </lyrics>
+</song>

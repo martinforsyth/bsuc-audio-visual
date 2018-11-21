@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:38">
+  <properties>
+    <titles>
+      <title>HP645 Lord Jesus, in the days of old</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord Jesus, in the days of old<br/>Two walked with thee in waning light;<br/>And love's blind instinct made them bold<br/>To crave thy presence through the night.<br/>As night descends, we too would pray:<br/>O leave us not at close of day!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Did not their hearts within them burn?<br/>And, though their Lord they failed to know,<br/>Did not their spirits inly yearn?<br/>They could not let the Stranger go.<br/>Much more must we who know thee pray:<br/>O leave us not at close of day!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Perchance we have not always wist<br/>Who has been with us by the way;<br/>Amid day's uproar we have missed<br/>Some word that thou hast had to say.<br/>In silent night, O Saviour dear,<br/>We would not fail thy voice to hear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Day is far spent, and night is nigh;<br/>Stay with us, Saviour, through the night;<br/>Talk with us, touch us tenderly,<br/>Lead us to peace, to rest, to light;<br/>Dispel our darkness with thy face,<br/>Radiant with resurrection grace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Nor this night only, blessed Lord,<br/>We, every day and every hour,<br/>Would walk with thee Emmaus-ward<br/>To hear thy voice of love and power;<br/>And every night would by thy side<br/>Look, listen, and be satisfied.</lines>
+    </verse>
+  </lyrics>
+</song>

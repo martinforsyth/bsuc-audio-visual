@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:16">
+  <properties>
+    <titles>
+      <title>HP357 Lord hear our prayer for this new year (day)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, hear our prayer for this new year (day):<br/>Despite our longing for release<br/>From all that fosters fear and strife,<br/>We have not walked your way of peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>May we sow love where hate is found,<br/>Forgiveness though we suffer smart,<br/>In place of discord, unity,<br/>And faith to heal the doubting heart:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Replace despair with lively hope,<br/>Darkness dispel with dawning light,<br/>And where the night of sorrow reigns<br/>May we bring joy, the day-star bright</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Teach us anew each passing year (day)<br/>More readily to heed and share<br/>The gladness of rejoicing hearts,<br/>The burden of another's care.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>As in our giving we receive,<br/>In pard'ning we shall be forgiven,<br/>And rising to new life in Christ,<br/>Attain at last the joys of heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

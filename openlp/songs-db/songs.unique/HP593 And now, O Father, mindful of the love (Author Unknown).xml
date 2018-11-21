@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:29">
+  <properties>
+    <titles>
+      <title>HP593 And now, O Father, mindful of the love</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>And now, O Father, mindful of the love<br/>That bought us, once for all, on Calvary's tree,<br/>And having with us him that pleads above,<br/>We here present, we here spread forth to thee<br/>That only offering perfect in thine eyes,<br/>The one true, pure, immortal sacrifice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Look, Father, look on his anointed face,<br/>And only look on us as found in him;<br/>Look not on our misusings of thy grace,<br/>Our prayer so languid, and our faith so dim:<br/>For lo! Between our sins and their reward<br/>We set the passion of thy Son our Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And so we come: O draw us to thy feet,<br/>Most patient Saviour, who canst love us still;<br/>And by this food, so aweful and so sweet,<br/>Deliver us from every touch of ill:<br/>In thine own service make us glad and free,<br/>And grant us never more to part with thee.</lines>
+    </verse>
+  </lyrics>
+</song>

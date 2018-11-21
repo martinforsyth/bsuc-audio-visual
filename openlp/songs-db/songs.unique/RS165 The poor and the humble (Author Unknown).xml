@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:43">
+  <properties>
+    <titles>
+      <title>RS165 The poor and the humble</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The poor and the humble<br/>and all those who stumble<br/>come hastening, and feel not afraid;<br/>for Jesus, our Treasure,<br/>with love past all measure,<br/>in lowly poor manger was laid.<br/>Though wise men who found him<br/>laid rich gifts around him,<br/>yet oxen they gave him their hay;<br/>and Jesus in beauty<br/>accepted their duty:<br/>contented in manger he lay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The Christ Child will lead us,<br/>the Good Shepherd feed us<br/>and with us abide till his day.<br/>Then hatred he'll banish;<br/>then sorrow will vanish,<br/>and death and despair flee away.<br/>And he shall reign ever,<br/>and nothing shall sever<br/>from us the great love of our King;<br/>his peace and his pity<br/>shall bless his fair city;<br/>his praises we ever shall sing;</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Then haste we to show him<br/>the praises we owe him;<br/>our service he ne'er can despise;<br/>whose love still is able<br/>to show us that stable,<br/>where softly in manger he lies.</lines>
+    </verse>
+  </lyrics>
+</song>

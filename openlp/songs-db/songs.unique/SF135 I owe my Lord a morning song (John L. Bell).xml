@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:13">
+  <properties>
+    <titles>
+      <title>SF135 I owe my Lord a morning song</title>
+    </titles>
+    <authors>
+      <author>John L. Bell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I owe my Lord a morning song<br/>for God has meant this day.<br/>Through fears of night and hidden light<br/>God moves and wills my way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I owe my Lord a morning song<br/>for Jesus rose at dawn;<br/>he made death die and would not lie<br/>that others might live on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I owe my Lord a morning song;<br/>the Spirit gave me voice,<br/>nor did she force my soul to praise<br/>but honoured me with choice.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I owe my Lord a morning song.<br/>How can I help but sing<br/>when God is all in all, and I<br/>am one with everything?</lines>
+    </verse>
+  </lyrics>
+</song>

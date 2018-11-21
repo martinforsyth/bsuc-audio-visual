@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:56">
+  <properties>
+    <titles>
+      <title>HP225 Jesus Thy blood and righteousness</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus thy blood and righteousness<br/>My beauty are, my glorious dress;<br/>Midst flaming worlds in these arrayed,<br/>With joy shall I lift up my head.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Bold shall I stand in that great day,<br/>For who ought to my charge shall lay?<br/>Fully absolved through these I am,<br/>From sin and fear, from guilt and shame.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When from the dust of death I rise,<br/>To claim my mansion in the skies,<br/>E'en then shall this be all my plea,<br/>"Jesus hath lived, and died, for me. "</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>This spotless robe the same appears,<br/>When ruined nature sinks in years;<br/>No age can change its glorious hue,<br/>The robe of Christ is ever new.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Oh, let the dead now hear Thy voice,<br/>Bid, Lord, Thy banished ones rejoice;<br/>Their beauty this, their glorious dress,<br/>Jesus, the Lord our Righteousness!</lines>
+    </verse>
+  </lyrics>
+</song>

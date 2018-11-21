@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:05">
+  <properties>
+    <titles>
+      <title>MP499 O happy day!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O happy day! that fixed my choice<br/>On thee, my Saviour and my God!<br/>Well may this glowing heart rejoice,<br/>And tell its raptures all abroad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Tis done, the work of grace is done!<br/>I am the Lord's, and he is mine!<br/>He drew me, and I followed on,<br/>Glad to confess the voice divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Now rest, my long-divided heart,<br/>Fixed on this blissful centre, rest;<br/>Nor ever from thy Lord depart,<br/>With him of every good possessed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>High heav'n, that heard the solemn vow,<br/>That vow renewed shall daily hear;<br/>Till in life's latest hour I bow,<br/>And bless in death a bond so dear.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>O happy day! O happy day!<br/>When Jesus washed my sins away;<br/>He taught me how to watch and pray,<br/>And live rejoicing every day;<br/>O happy day! O happy day!<br/>When Jesus washed my sins away.</lines>
+    </verse>
+  </lyrics>
+</song>

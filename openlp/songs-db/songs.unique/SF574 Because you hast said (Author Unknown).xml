@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:42">
+  <properties>
+    <titles>
+      <title>SF574 Because you hast said</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Because you have said:<br/>'Do this for my sake',<br/>the mystical bread<br/>we gladly partake;<br/>we thirst for the Spirit<br/>that flows from above,<br/>and long to inherit<br/>your fullness of love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>It's here we look up<br/>to grasp at your mind;<br/>it's here that we hope<br/>your image to find;<br/>the means of bestowing<br/>your gifts we embrace;<br/>but all things are owing<br/>to Jesus's grace.</lines>
+    </verse>
+  </lyrics>
+</song>

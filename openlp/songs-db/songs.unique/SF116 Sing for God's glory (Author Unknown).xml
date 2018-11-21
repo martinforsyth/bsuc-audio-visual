@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:11">
+  <properties>
+    <titles>
+      <title>SF116 Sing for God's glory</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing for God's glory<br/>that colours the dawn of creation,<br/>racing across rhe sky,<br/>trailing bright clouds of elation;<br/>sun of delight succeeds the velvet of night<br/>warming the earth's exalation.<br/>Sing for God's Power<br/>that shatters the chains that would bind us<br/>searing the darkness of<br/>fear and despairthat could blind us<br/>blame<br/>reaching out gently to find us</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sing for God's power<br/>that shatters the chains that would bind us<br/>searing the darkness of<br/>fear and despair that could blind us<br/>touching our shame with love that will not lay<br/>blame,<br/>reaching out gently to find us</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Sing for God's justice<br/>disturbing each easy illusion,<br/>tearing down tyrants<br/>and putting our pride to confusion;<br/>lifeblood of right, resisting evil and slight<br/>offering freedom's transfusion</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Sing for  God's saints who have<br/>travelled faith's journey before us<br/>who in our weariness<br/>give us their hope to restore us;<br/>in them we see the new creation to be<br/>spirit of love made flesh for us.</lines>
+    </verse>
+  </lyrics>
+</song>

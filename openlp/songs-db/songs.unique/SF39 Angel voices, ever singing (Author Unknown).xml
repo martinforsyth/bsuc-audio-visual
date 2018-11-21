@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:02">
+  <properties>
+    <titles>
+      <title>SF39 Angel voices, ever singing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Angel voices, ever singing<br/>Round thy throne of light,<br/>Angel harps, for ever ringing,<br/>Rest not day nor night;<br/>Thousands only live to bless thee,<br/>And confess thee<br/>Lord of might.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou who art beyond the farthest<br/>Mortal eye can scan,<br/>Can it be that thou regardest<br/>Songs of sinful man?<br/>Can we know that thou art near us<br/>And wilt hear us?<br/>Yea, we can.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, we know that thou rejoicest<br/>O'er each work of thine;<br/>Thou didst ears and hands and voices<br/>For thy praise design;<br/>Craftsman's art and music's measure<br/>For thy pleasure All combine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In thy house, great God, we offer<br/>Of thine own to thee<br/>And for thine acceptance proffer,<br/>All unworthily,<br/>Hearts and minds and hands and voices,<br/>In our choicest Psalmody.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Honour, glory, might, and merit<br/>Thine shall ever be,<br/>Father, Son, and Holy Spirit,<br/>Blessed Trinity;<br/>Of the best that thou hast given<br/>Earth and heaven Render thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:45">
+  <properties>
+    <titles>
+      <title>MP880 Lord I come to you</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, I come to you,<br/>Let my heart be changed, renewed,<br/>Flowing from the grace<br/>That I found in you.<br/>And, Lord, I've come to know<br/>The weaknesses I see in me<br/>Will be stripped away<br/>By the pow'r of your love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, unveil my eyes,<br/>Let me see you face to face,<br/>The knowledge of your love<br/>As you live in me.<br/>Lord, renew my mind<br/>As your will unfolds in my life,<br/>In living every day<br/>In the pow'r of your love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Hold me close,<br/>Let your love surround me,<br/>Bring me near,<br/>Draw me to your side;<br/>And as I wait,<br/>I'll rise up like an eagle,<br/>And I will soar with you;<br/>Your Spirit leads me on<br/>In the pow'r of your love.</lines>
+    </verse>
+  </lyrics>
+</song>

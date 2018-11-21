@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:30">
+  <properties>
+    <titles>
+      <title>HP603 Father, we give you thanks, who planted</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, we give you thanks, who planted<br/>Your holy name within our hearts.<br/>Knowledge and faith and life immortal<br/>Jesus your Son to us imparts.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, you have made all for your pleasure,<br/>And given us food for all our days,<br/>Giving in Christ the bread eternal;<br/>Yours is the power, be yours the praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Watch o'er your church, O Lord, in mercy,<br/>Save it from evil, guard it still,<br/>And in your love unite, perfect it,<br/>Cleanse and conform it to your will.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>As grain, once scattered on the hillsides,<br/>Was in the broken bread made one,<br/>So may your world-wide church be gathered<br/>Into your kingdom by your Son.</lines>
+    </verse>
+  </lyrics>
+</song>

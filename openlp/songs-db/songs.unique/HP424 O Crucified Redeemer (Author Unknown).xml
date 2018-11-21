@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:28">
+  <properties>
+    <titles>
+      <title>HP424 O Crucified Redeemer</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Crucified Redeemer,<br/>Whose life-blood we have spilt,<br/>To you we raise our guilty hands,<br/>And humbly own our guilt;<br/>Today we see your passion<br/>Spreads open to our gaze;<br/>The crowded street, the country road,<br/>Its Calvary displays.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We hear your cry of anguish,<br/>We see your life outpoured,<br/>Where battlefields run red with blood,<br/>Our neighbours' blood, O Lord;<br/>And in that other battle,<br/>The fight for daily bread,<br/>Where might is right and self is king,<br/>We see your thorn-crowned head.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The groaning of creation,<br/>Wrung out by pain and care,<br/>The anguish of a million hearts<br/>That break in dumb despair;<br/>O Crucified Redeemer,<br/>These are your cries of pain,<br/>O may they break our selfish hearts,<br/>And love come in to reign</lines>
+    </verse>
+  </lyrics>
+</song>

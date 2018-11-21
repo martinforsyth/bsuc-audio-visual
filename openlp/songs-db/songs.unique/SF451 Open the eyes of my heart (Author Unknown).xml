@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:35">
+  <properties>
+    <titles>
+      <title>SF451 Open the eyes of my heart</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>To see you high and lifted up,<br/>shining in the light of your glory.<br/>Pour out your power and love;<br/>as we sing holy, holy, holy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Holy, holy, holy,<br/>holy, holy, holy,<br/>holy, holy, holy,<br/>I want to see you.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Open the eyes of my heart, Lord,<br/>open the eyes of my heart;<br/>I want to see you, I want to see you.<br/>Open the eyes of my heart, Lord,<br/>open the eyes of my heart;<br/>I want to see you, I want to see you.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:12">
+  <properties>
+    <titles>
+      <title>SF126 Praise God for the harvest of farm and of field</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise God for the harvest of farm and of field,<br/>praise God for the people who gather their yield,<br/>the long hours of labour, the skills of a team,<br/>the patience of science, the power of machine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Praise God for the harvest that comes  from afar,<br/>from market and harbour, the sea and the shore;<br/>foods packed and transported, and gathered and grown<br/>by God-given neighbours, unseen and unknown.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Praise God for the harvest that quarried and mined,<br/>then sifted, and smelted, or shaped and refined:<br/>for oil and for iron, for copper and coal,<br/>praise God who in love has provided them all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Praise God for the harvest of science and skill,<br/>the urge to discover, create and fulfil;<br/>for dreams and inventions that promise to gain<br/>a future more hopeful, a world more humane.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Praise God for the harvest of mercy and love,<br/>for leaders and peoples who struggle and serve<br/>for patience and kindness, that all may be led<br/>to freedom and justice, and all may be fed.</lines>
+    </verse>
+  </lyrics>
+</song>

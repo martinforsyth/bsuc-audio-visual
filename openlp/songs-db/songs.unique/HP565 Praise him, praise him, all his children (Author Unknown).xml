@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:12">
+  <properties>
+    <titles>
+      <title>HP565 Praise him, praise him, all his children</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise him, praise him, all his children praise him!<br/>He is love, he is love.<br/>Praise him, praise him, all his children praise him!<br/>He is love, he is love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thank him, thank him, all his children thank him!<br/>He is love, he is love.<br/>Thank him, thank him, all his children thank him!<br/>He is love, he is love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Love him, love him, all his children love him!<br/>He is love, he is love.<br/>Love him, love him, all his children love him!<br/>He is love, he is love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Serve him, serve him, all his children serve him!<br/>He is love, he is love.<br/>Serve him, serve him, all his children serve him!<br/>He is love, he is love.</lines>
+    </verse>
+  </lyrics>
+</song>

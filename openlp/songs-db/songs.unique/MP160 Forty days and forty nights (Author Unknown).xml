@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:28">
+  <properties>
+    <titles>
+      <title>MP160 Forty days and forty nights</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Forty days and forty nights<br/>Thou wast fasting in the wild;<br/>Forty days and forty nights<br/>Tempted and yet undefiled.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sunbeams scorching all the day;<br/>Chilly dewdrops nightly shed;<br/>Prowling beasts about thy way;<br/>Stones thy pillow, earth thy bed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Let us Thy endurance share<br/>and from earthly greed abstain,<br/>with Thee watching unto prayer,<br/>with Thee strong to suffer pain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then if evil on us press,<br/>flesh or spirit to assail,<br/>victor in the wilderness<br/>may we never faint or fail!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>So shall peace divine be ours;<br/>holier gladness ours shall be<br/>come to us angelic powers<br/>such as ministered to Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

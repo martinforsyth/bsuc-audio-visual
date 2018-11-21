@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:02">
+  <properties>
+    <titles>
+      <title>HP793 God of almighty love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of almighty love,<br/>By whose sufficient grace<br/>I lift my heart to things above,<br/>And humbly seek thy face:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Through Jesus Christ the just<br/>My faint desires receive,<br/>And let me in thy goodness trust,<br/>And to thy glory live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Whate'er I say or do,<br/>Thy glory be my aim;<br/>My offerings all be offered through<br/>The ever-blessed name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus, my single eye<br/>Be fixed on thee alone:<br/>Thy name be praised on earth, on high,<br/>Thy will by all be done.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Spirit of faith, inspire<br/>My consecrated heart;<br/>Fill me with pure, celestial fire,<br/>With all thou hast and art.</lines>
+    </verse>
+  </lyrics>
+</song>

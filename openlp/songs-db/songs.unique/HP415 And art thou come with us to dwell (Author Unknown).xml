@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:26">
+  <properties>
+    <titles>
+      <title>HP415 And art thou come with us to dwell</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>And art thou come with us to dwell,<br/>Our prince, our guide, our love, our Lord,<br/>And is thy name Immanuel,<br/>God present with his world restored?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou bringest all again; with thee<br/>Is light, is space, is breadth, and room<br/>For each thing fair, beloved, and free,<br/>To have its hour of life and bloom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Each heart's deep instinct unconfessed;<br/>Each lowly wish, each daring claim;<br/>All, all that life has long repressed<br/>Unfolds, undreading blight or blame.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thy reign eternal will not cease;<br/>Thy years are sure, and glad, and slow;<br/>Within thy mighty world of peace<br/>The humblest flower has leave to blow.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The world is glad for thee! The heart<br/>Is glad for thee! And all is well,<br/>And fixed, and sure, because thou art,<br/>Whose name is called Immanuel.</lines>
+    </verse>
+  </lyrics>
+</song>

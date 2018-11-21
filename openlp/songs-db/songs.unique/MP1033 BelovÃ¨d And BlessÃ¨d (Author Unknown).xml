@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:13">
+  <properties>
+    <titles>
+      <title>MP1033 BelovÃ¨d And BlessÃ¨d</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 b1 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Beloved and blessed,<br/>The Father's pure delight.<br/>Redeemer, Sustainer,<br/>You're my passion and my prize.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My Brother, my Comforter,<br/>My Shepherd and my Friend.<br/>My Ransom, my Righteousness,<br/>You're the Stream that never ends.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There's kindness, compassion<br/>For those who will draw near;<br/>Acceptance, forgiveness,<br/>And a love that conquers fear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Beloved, my Beloved.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>You're unchanging, You're magnificent,<br/>You are all I could desire.<br/>You're my Breath of life,<br/>Sun of righteousness,<br/>You're the Love that satisfies.</lines>
+    </verse>
+  </lyrics>
+</song>

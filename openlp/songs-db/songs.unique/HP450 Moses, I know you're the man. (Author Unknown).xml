@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:40">
+  <properties>
+    <titles>
+      <title>HP450 Moses, I know you're the man.</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>'MOSES, I know you're the man',<br/>the Lord said.<br/>'You're going to work out my plan',<br/>the Lord said.<br/>'Lead all the Israelites out of slavery,<br/>and I shall make them a wandering race<br/>called the people of God.'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Don't get too set in your ways,'<br/>the Lord said.<br/>'Each step is only a phase,'<br/>the Lord said.<br/>I'll go before you and I shall be a sign<br/>to guide my travelling, wandering, race:<br/>you're the people of God.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'No matter what you may do,'<br/>the Lord said.<br/>'I shall be faithful and true,'<br/>the Lord said.<br/>'My love will strengthen you as you go along,<br/>for you're my travelling, wandering race,<br/>you're the people of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>'Look at the birds in the air,'<br/>the Lord said.<br/>'They fly unhampered by care,'<br/>the Lord said.<br/>'You will move easier if you're travelling light,<br/>for you're a wandering, vagabond race,<br/>you're the people of God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>'Foxes have places to go,'<br/>the Lord said.<br/>'But I've no home here below,'<br/>the Lord said.<br/>'So if you want to be with me all your days,<br/>keep up the moving and travelling on,<br/>you're the people of God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>So every day,<br/>we're on our way,<br/>for we're a travelling, wandering race,<br/>we're the people of God.</lines>
+    </verse>
+  </lyrics>
+</song>

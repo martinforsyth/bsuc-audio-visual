@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:30">
+  <properties>
+    <titles>
+      <title>MP724 We come unto our fathers' God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We come unto our fathers' God;<br/>Their Rock is our salvation;<br/>The eternal arms, their dear abode,<br/>We make our habitation;<br/>We bring thee, Lord, the praise they brought.<br/>We seek thee as thy saints have sought<br/>In every generation.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The fire divine their steps that led<br/>Still goeth bright before us;<br/>The heavenly shield around them spread<br/>Is still high holden o'er us;<br/>The grace those sinners that subdued,<br/>The strength those weaklings that renewed,<br/>Doth vanquish, doth restore us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The cleaving sins that brought them low<br/>Are still our souls oppressing;<br/>The tears that from their eyes did flow<br/>Fall fast, our shame confessing;<br/>As with thee, Lord, prevailed their cry,<br/>So our strong prayer ascends on high<br/>And bringeth down thy blessing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Their joy unto their Lord we bring;<br/>Their song to us descendeth;<br/>The Spirit who in them did sing<br/>To us his music lendeth;<br/>His song in them, in us, is one;<br/>We raise it high, we send it on,<br/>The song that never endeth.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Ye saints to come, take up the strain,<br/>The same sweet theme endeavour;<br/>Unbroken be the golden chain;<br/>Keep on the song for ever;<br/>Safe in the same dear dwelling-place,<br/>Rich with the same eternal grace,<br/>Bless the same boundless giver.</lines>
+    </verse>
+  </lyrics>
+</song>

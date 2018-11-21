@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:02">
+  <properties>
+    <titles>
+      <title>HP526 It passes knowledge, that dear love of mine,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It passes knowledge, that dear love of mine,<br/>My Saviour, Jesus! Yet this soul of mine<br/>Would of thy love, in all its breadth and length,<br/>Its height and depth, and everlasting strength,<br/>Know more and more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>It passeth telling, that dear love of thine,<br/>My Saviour, Jesus! Yet these lips of mine<br/>Would fain proclaim to sinners far and near<br/>A love which can remove all guilty fear,<br/>And love beget.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>It passeth praises, that dear love on thine,<br/>My Saviour, Jesus! Yet this heart of mine<br/>Would sing that love, so full, so rich, so free,<br/>Which brings a rebel sinner, such as me,<br/>Nigh unto God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O fill me, Saviour Jesus, with thy love!<br/>Lead, lead me to the living fount above;<br/>Thither may I, in simple faith, draw nigh,<br/>And never to another fountain fly,<br/>But unto thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>And then, when Jesus face to face I see,<br/>When at his lofty throne I bow the knee,<br/>Then of his love, in all its breadth and length,<br/>Its height and depth, and everlasting strength,<br/>My soul shall sing.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:31">
+  <properties>
+    <titles>
+      <title>SF348 He is Lord, he is Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He is Lord, he is Lord;<br/>He is risen from the dead, and he is Lord;<br/>Every knee shall bow, every tongue confess<br/>That Jesus Christ is Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He is King, he is King;<br/>He will draw all nations to him, he is King;<br/>And the time shall be when the world shall sing<br/>That Jesus Christ is King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He is love, he is love;<br/>He has shown us by his life that he is love;<br/>All his people sing with one voice of joy<br/>That Jesus Christ is love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He is life, he is life;<br/>He has died to set us free and he is life;<br/>And he calls us all to live evermore,<br/>For Jesus Christ is life.</lines>
+    </verse>
+  </lyrics>
+</song>

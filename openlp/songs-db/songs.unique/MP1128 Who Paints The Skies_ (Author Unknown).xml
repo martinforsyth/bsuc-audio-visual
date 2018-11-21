@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:24">
+  <properties>
+    <titles>
+      <title>MP1128 Who Paints The Skies?</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Who paints the skies into glorious day?<br/>Only the splendour of Jesus.<br/>Who breathes His life into fists of clay?<br/>Only the splendour of Jesus.<br/>Who shapes the valleys and brings the rain?<br/>Only the splendour of Jesus.<br/>Who makes the desert to live again?<br/>Only the splendour of Jesus.<br/>Teach every nation His marvellous ways;<br/>Each generation shall sing His praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Who hears the cry of the barren one?<br/>Only the mercy of Jesus<br/>Who breaks the curse of the heart of stone?<br/>Only the mercy of Jesus<br/>Who storms the prison and sets men free?<br/>Only the mercy of Jesus<br/>Purchasing souls for eternity?<br/>Only the mercy of Jesus.<br/>Teach every nation His marvellous ways;<br/>Each generation shall sing His praise.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>He is wonderful, He is glorious,<br/>Clothed in righteousness,<br/>Full of tenderness.<br/>Come and worship Him,<br/>He's the Prince of life,<br/>He will cleanse our hearts<br/>In His river of fire.</lines>
+    </verse>
+  </lyrics>
+</song>

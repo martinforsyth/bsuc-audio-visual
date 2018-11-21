@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:36">
+  <properties>
+    <titles>
+      <title>SF466 Have faith in God, my heart</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Have faith in God, my heart,<br/>trust and be unafraid;<br/>God will fulfil in every part<br/>each promise he has made.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Have faith in God, my mind,<br/>although your light burns low;<br/>God's mercy holds a wiser plan<br/>than you can fully know.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Have faith in God, my soul,<br/>his cross forever stands;<br/>and neither life nor death can pluck<br/>his children from his hands.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord Jesus, make me whole;<br/>grant me no resting place,<br/>until I rest, heart, mind and soul,<br/>the captive of your grace.</lines>
+    </verse>
+  </lyrics>
+</song>

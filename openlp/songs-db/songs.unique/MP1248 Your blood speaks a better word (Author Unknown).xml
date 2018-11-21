@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:32">
+  <properties>
+    <titles>
+      <title>MP1248 Your blood speaks a better word</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Your blood speaks a better word<br/>Than all the empty claims I've heard upon this earth<br/>Speaks righteousness for me<br/>And stands in my defence<br/>Jesus, it's Your blood</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your cross testifies in grace<br/>Tells of the Father's heart to make a way for us<br/>Now boldly we approach<br/>Not earthly confidence<br/>It's only by Your blood</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>What can wash away our sins?<br/>What can make us whole again?<br/>Nothing but the blood<br/>Nothing but the blood of Jesus<br/>What can wash us pure as snow<br/>Welcomed as the friends of God?<br/>Nothing but Your blood<br/>Nothing but Your blood, King Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

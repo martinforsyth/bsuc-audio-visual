@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:42">
+  <properties>
+    <titles>
+      <title>MP335,RS375 In my life Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In my life, Lord,<br/>Be glorified, be glorified.<br/>In my life, Lord,<br/>Be glorified today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In your church, Lord,<br/>Be glorified, be glorified.<br/>In your church, Lord,<br/>Be glorified, today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In your world, Lord,<br/>Be glorified, Be glorified<br/>in your world, Lord,<br/>Be glorified today</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-05-17T09:43:33">
+  <properties>
+    <titles>
+      <title>MP265 I cannot count Your blessings Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <ccliNo>526765</ccliNo>
+    <authors>
+      <author>Phil Rogers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I cannot count Your blessings Lord they're wonderful<br/>I can't begin to measure Your great love<br/>I cannot count the times You have forgiven me<br/>And changed me by Your Spirit from above</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>How I worship You my Father<br/>You are wonderful how I glorify You<br/>Jesus You're my Lord<br/>How I praise You Holy Spirit<br/>You have changed my life<br/>And You're now at work in me<br/>To change the world</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When I was blind You opened up my eyes to see<br/>When I was dead You gave me life anew<br/>When I was lost You found me and You rescued me<br/>And carried me rejoicing home with You</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I cannot count Your mercies Lord they're marvellous<br/>I can't begin to measure Your great grace<br/>I cannot count the times that You have answered me<br/>Whenever I have prayed and sought Your face</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Whenever I consider what I am to You<br/>My heart is filled with wonder love and awe<br/>I want to share with others that You love them too<br/>And tell the world of Jesus more and more</lines>
+    </verse>
+  </lyrics>
+</song>

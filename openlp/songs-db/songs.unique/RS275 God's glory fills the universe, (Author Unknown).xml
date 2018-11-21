@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:48">
+  <properties>
+    <titles>
+      <title>RS275 God's glory fills the universe,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God's glory fills the universe,<br/>the heavens proclaim his power;<br/>but small and weak the Word made flesh,<br/>and dark and brief his hour!<br/>The mystery sought through ages past<br/>is born with human face;<br/>the treasure of eternal love<br/>dwells with the human race.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>His words and signs of healing power<br/>are wonders to the poor;<br/>blind eyes, cold heaerts protest an d scheme<br/>till love stands judges by law.<br/>Let peace and mercy weep apart,<br/>and justice, truth, take flight<br/>when God's own Word to silence falls<br/>and darkness veils the Light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Uplifted on the Cross, Christ bears<br/>ouir shame in his disgrace,<br/>his outstretched arms enfold us all<br/>and heaven and erarth embrace.<br/>For Love will know the darkest depths,<br/>and taste our bitterest pain<br/>to prove himself their vanquisher,<br/>and spring from buried grain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The Lord ascends, and death bows down<br/>to his triumphant name.<br/>The Spirit stirs our sleeping faith<br/>in wind and tongue of flame.<br/>Christ strengthens us, calls us to live<br/>as children of the day,<br/>to shine where shadows still oppress,<br/>to walk his risen way.</lines>
+    </verse>
+  </lyrics>
+</song>

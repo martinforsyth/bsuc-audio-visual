@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:02">
+  <properties>
+    <titles>
+      <title>MP473 My hope is built</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My hope is built on nothing less<br/>Than Jesus' blood and righteousness<br/>I dare not trust the sweetest frame<br/>But wholly lean on Jesus' name</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When darkness seems to hide His face<br/>I rest on His unchanging grace<br/>In every high and stormy gale<br/>My anchor holds within the veil</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>His oath, His covenant, His blood<br/>Support me in the whelming flood<br/>When all around my soul gives way<br/>He then is all my Hope and Stay</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When He shall come with trumpet sound<br/>Oh may I then in Him be found<br/>Dressed in righteousness alone<br/>Faultless to stand before the throne</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>On Christ the solid Rock I stand<br/>All other ground is sinking sand<br/>All other ground is sinking sand</lines>
+    </verse>
+  </lyrics>
+</song>

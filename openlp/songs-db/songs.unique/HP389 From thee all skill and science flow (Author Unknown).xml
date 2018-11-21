@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:22">
+  <properties>
+    <titles>
+      <title>HP389 From thee all skill and science flow</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>From thee all skill and science flow,<br/>All pity, care and love,<br/>All calm and courage, faith and hope;<br/>O pour them from above!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And part them, Lord, to each and all,<br/>As each and all shall need,<br/>To rise like incense, each to thee,<br/>In noble thought and deed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And hasten, Lord, that perfect day<br/>When pain and death shall cease;<br/>And thy just rule shall fill the earth<br/>With health and light and peace;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When ever blue the sky shall gleam,<br/>And ever green the sod;<br/>And man's rude work deface no more<br/>The paradise of God.</lines>
+    </verse>
+  </lyrics>
+</song>

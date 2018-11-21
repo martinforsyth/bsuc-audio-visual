@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:02">
+  <properties>
+    <titles>
+      <title>HP528 Jesu, lover of my soul</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, lover of my soul,<br/>Let me to thy bosom fly,<br/>While the nearer waters roll,<br/>While the tempest still is high;<br/>Hide me, O my Saviour, hide,<br/>Till the storm of life is past;<br/>Safe into the haven guide,<br/>O receive my soul at last!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Other refuge have I none,<br/>Hangs my helpless soul on thee;<br/>Leave, ah, leave me not alone,<br/>Still support and comfort me.<br/>All my trust on thee is stayed,<br/>All my help from thee I bring;<br/>Cover my defenceless head<br/>With the shadow of thy wing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thou, O Christ, art all I want;<br/>More than all in thee I find;<br/>Raise the fallen, cheer the faint,<br/>Heal the sick, and lead the blind.<br/>Just and holy is thy name,<br/>I am all unrighteousness -<br/>False and full of sin I am,<br/>Thou art full of truth and grace<br/>.<br/>Make and keep me pure within.<br/>Thou of life the fountain art;<br/>Freely let me take of thee;<br/>Spring thou up within my heart,<br/>Rise to all eternity.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Plenteous grace with thee is found,<br/>Grace to cover all my sin;<br/>Let the healing streams abound,</lines>
+    </verse>
+  </lyrics>
+</song>

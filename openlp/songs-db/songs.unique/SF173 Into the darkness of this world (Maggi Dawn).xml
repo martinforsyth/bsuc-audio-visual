@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-02T14:56:51">
+  <properties>
+    <titles>
+      <title>SF173 Into the darkness of this world</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c2</verseOrder>
+    <authors>
+      <author>Maggi Dawn</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Into the darkness of this world,<br/>into the shadows of the night;<br/>into this loveless place you came,<br/>lightened our burdens, eased our pain,<br/>and made these hearts your home.<br/>Into the darkness once again --<br/>O come, Lord Jesus, come.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines><br/>Come with your love<br/>to make us whole,<br/>come with your light to lead us on,<br/>driving the darkness far from our souls:<br/>O come, Lord Jesus, come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Into the longing of our souls,<br/>into these heavy hearts of stone,<br/>shine on us now your piercing light,<br/>order our lives and souls aright,<br/>by grace and love unknown,<br/>until in you our hearts unite --<br/>O come, Lord Jesus, come.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines><br/>Come with your love<br/>to make us whole,<br/>come with your light to lead us on,<br/>driving the darkness far from our souls:<br/>O come, Lord Jesus, come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O Holy Child, Emmanuel,<br/>hope of the ages, God with us,<br/>visit again this broken place,<br/>till all the earth declares your praise<br/>and your great mercies own.<br/>Now let your love be born in us,<br/>O come, Lord Jesus, come.</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>Come in your glory,<br/>take your place,<br/>Jesus, the Name above all names,<br/>we long to see you face to face,<br/>O come, Lord Jesus, come.</lines>
+    </verse>
+  </lyrics>
+</song>

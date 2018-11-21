@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:36">
+  <properties>
+    <titles>
+      <title>HP4 Father, in whom we live</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, in whom we live,<br/>In whom we are, and move,<br/>The glory, power, and praise receive<br/>Of Thy creating love.<br/>Let all the angel throng<br/>Give thanks to God on high;<br/>While earth repeats the joyful song,<br/>And echoes to the sky.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Incarnate Deity,<br/>Let all the ransomed race<br/>Render in thanks their lives to Thee,<br/>For Thy redeeming grace.<br/>The grace to sinners showed<br/>Ye heavenly choirs proclaim,<br/>And cry:<br/>Salvation to our God,<br/>Salvation to the Lamb!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Spirit of Holiness,<br/>Let all Thy saints adore<br/>Thy sacred energy, and bless<br/>'Thine heart-renewing power.<br/>Not angel tongues can tell<br/>Thy love's ecstatic height,<br/>The glorious joy unspeakable,<br/>The beatific sight.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Eternal, Triune Lord!<br/>Let all the hosts above,<br/>Let all the sons of men, record<br/>And dwell upon Thy love.<br/>When heaven and earth are fled<br/>Before Thy glorious face,<br/>Sing all the saints Thy love hath made<br/>Thine everlasting praise.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:09">
+  <properties>
+    <titles>
+      <title>HP304 Holy Spirit, hear us</title>
+    </titles>
+    <verseOrder>v1 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Holy Spirit, hear us;<br/>Help us while we sing;<br/>Breathe into the music<br/>Of the praise we bring.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Holy Spirit, prompt us<br/>When we kneel to pray;<br/>Nearer come, and teach us<br/>What we ought to say.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Holy Spirit, shine thou<br/>On the book we read;<br/>Gild its holy pages<br/>With the light we need.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Holy Spirit, give us<br/>Each a lowly mind;<br/>Make us more like Jesus,<br/>Gentle, pure, and kind.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Holy Spirit, help us<br/>Daily by thy might,<br/>What is wrong to conquer,<br/>And to choose the right.</lines>
+    </verse>
+  </lyrics>
+</song>

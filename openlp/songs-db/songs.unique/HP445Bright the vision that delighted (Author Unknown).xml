@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:37">
+  <properties>
+    <titles>
+      <title>HP445Bright the vision that delighted</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Bright the vision that delighted<br/>Once the sight of Judah's seer;<br/>Sweet the countless tongues united<br/>To entrance the prophet's ear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Round the Lord in glory seated<br/>Cherubim and seraphim<br/>Filled his temple, and repeated<br/>Each to each the alternate hymn:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'Lord, thy glory fills the heaven;<br/>Earth is with its fullness stored;<br/>Unto thee be glory given,<br/>Holy, holy, holy Lord!'</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Heaven is still with glory ringing,<br/>Earth takes up the angels' cry,<br/>'Holy, holy, holy,' singing,<br/>'Lord of hosts, the Lord most high.'</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>With his seraph train before him,<br/>With his holy church below,<br/>Thus unite we to adore him,<br/>Bid we thus our anthem flow:</lines>
+    </verse>
+  </lyrics>
+</song>

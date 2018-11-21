@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:44">
+  <properties>
+    <titles>
+      <title>HP90 A great and mighty wonder</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>A great and mighty wonder,<br/>A full and holy cure!<br/>The Virgin bears the Infant<br/>With virgin-honour pure:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The Word becomes incarnate<br/>And yet remains on high!<br/>And cherubim sing anthems<br/>To shepherds, from the sky:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>While thus they sing your Monarch,<br/>Those bright angelic bands,<br/>Rejoice, ye vales and mountains,<br/>Ye oceans, clap your hands:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Since all he comes to ransom,<br/>By all be he adored,<br/>The Infant born in Bethlem,<br/>The Saviour and the Lord:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>And idol forms shall perish,<br/>And error shall decay,<br/>And Christ shall wield his sceptre,<br/>Our Lord and God for aye:</lines>
+    </verse>
+  </lyrics>
+</song>

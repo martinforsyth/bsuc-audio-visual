@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:32">
+  <properties>
+    <titles>
+      <title>MP228 Here from the world we turn</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Here from the world we turn,<br/>Jesus to seek;<br/>Here may His loving voice<br/>Graciously speak!<br/>Jesus, our dearest Friend,<br/>While at Thy feet we bend,<br/>Oh, let Thy smile descend!<br/>'Tis Thee we seek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come, Holy Comforter,<br/>Presence divine,<br/>Now in our longing hearts<br/>Graciously shine!<br/>Oh for Thy mighty power!<br/>Oh, for a blessed shower,<br/>Filling this hallowed hour<br/>With joy divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Saviour, Thy work revive!<br/>Here may we see<br/>Those who are dead in sin<br/>Quickened by Thee!<br/>Come to our hearts tonight,<br/>Make every burden light,<br/>Cheer Thou our waiting sight:<br/>We long for Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

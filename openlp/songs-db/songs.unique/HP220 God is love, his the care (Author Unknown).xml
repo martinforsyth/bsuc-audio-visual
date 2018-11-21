@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:55">
+  <properties>
+    <titles>
+      <title>HP220 God is love, his the care</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God is love, his the care,<br/>Tending each, everywhere.<br/>God is love - all is there!<br/>Jesus came to show him,<br/>That we all might know him:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>None can see God above;<br/>Neighbours here we can love;<br/>Thus may we Godward move,<br/>Finding him in others,<br/>Sisters all, and brothers:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus lived here for men,<br/>Strove and died, rose again,<br/>Rules our hearts, now as then;<br/>For he came to save us<br/>By the truth he gave us:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>To our Lord praise we sing -<br/>Light and life, friend and King<br/>Coming down love to bring,<br/>Pattern for our duty,<br/>Showing God in beauty:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Sing aloud, loud, loud! Sing aloud, loud, loud!<br/>God is good!<br/>God is truth!<br/>God is beauty! Praise him!</lines>
+    </verse>
+  </lyrics>
+</song>

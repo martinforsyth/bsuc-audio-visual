@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:18">
+  <properties>
+    <titles>
+      <title>HP570 Thanks be to God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thanks be to God, whose Church on earth<br/>has stood the tests of time and place,<br/>and everywhere proclaims new birth<br/>through Christ whose love reveals God's face.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thanks be to God, whose Spirit sent<br/>apostles out upon his way;<br/>from east to west the message went;<br/>on Greek and Roman dawned the day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thanks be to God, whose later voice<br/>from west to east sent back the word<br/>which, through the servants of his choice,<br/>at last in every tongue was heard.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thanks be to God who now would reach<br/>his listeners in more global ways:<br/>now each will send the news, and each<br/>receive and answer it in praise.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thanks be to God, in whom we share<br/>today the mission of his Son:<br/>may all his Church that time prepare<br/>when, like the task, the world is one.</lines>
+    </verse>
+  </lyrics>
+</song>

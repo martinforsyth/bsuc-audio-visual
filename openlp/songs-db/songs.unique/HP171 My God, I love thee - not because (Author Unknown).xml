@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:49">
+  <properties>
+    <titles>
+      <title>HP171 My God, I love thee - not because</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My God, I love thee-not because<br/>I hope for heaven thereby,<br/>Nor yet because who love thee not<br/>Are lost eternally.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou, O my Jesus, thou didst me<br/>Upon the cross embrace;<br/>For me didst bear the nails and spear,<br/>And manifold disgrace;</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And griefs and torments numberless,<br/>And sweat of agony,<br/>Yea, death itself, and all for one<br/>Who was thine enemy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then why, O blessed Jesus Christ,<br/>Should I not love thee well?<br/>Not for the sake of winning heaven,<br/>Nor of escaping hell;</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Not with the hope of gaining aught,<br/>Not seeking a reward -<br/>But as thyself hast loved me,<br/>O ever-loving Lord!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>E'en so I love thee, and will love,<br/>And in thy praise will sing;<br/>Solely because thou art my God,<br/>And my eternal King.</lines>
+    </verse>
+  </lyrics>
+</song>

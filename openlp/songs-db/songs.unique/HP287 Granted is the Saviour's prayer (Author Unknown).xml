@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:07">
+  <properties>
+    <titles>
+      <title>HP287 Granted is the Saviour's prayer</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Granted is the Saviour's prayer,<br/>Sent the gracious Comforter;<br/>Promise of our parting Lord,<br/>Jesus now to heaven restored:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ who, now gone up on high,<br/>Captive leads captivity;<br/>While his foes from him receive<br/>Grace that God with man may live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God, the everlasting God,<br/>Makes with mortals his abode;<br/>Whom the heav'ns cannot contain,<br/>He vouchsafes to dwell in man.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Never will he thence depart,<br/>Inmate of a humble heart;<br/>Carrying on his work within,<br/>Striving till he casts out sin.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Come, divine and peaceful Guest,<br/>Enter our devoted breast;<br/>Holy Ghost, our hearts inspire,<br/>Kindle there the Gospel-fire.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Now descend, and shake the earth;<br/>Wake us into second birth;<br/>Life divine in us renew,<br/>Thou the gift and giver too!</lines>
+    </verse>
+  </lyrics>
+</song>

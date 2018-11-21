@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:56">
+  <properties>
+    <titles>
+      <title>HP752 Blest be the dear uniting love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Blest be the dear uniting love,<br/>That will not let us part;<br/>Our bodies may far off remove,<br/>We still are one in heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Joined in one spirit to our Head,<br/>Where he appoints we go;<br/>And still in Jesu's footsteps tread,<br/>And show his praise below.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O may we ever walk in him,<br/>And nothing know beside,<br/>Nothing desire, nothing esteem,<br/>But Jesus crucified!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Closer and closer let us cleave<br/>To his belov'd embrace;<br/>Expect his fullness to receive,<br/>And grace to answer grace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Partakers of the Saviour's grace,<br/>The same in mind and heart,<br/>Nor joy, nor grief, nor time, nor place,<br/>Nor life, nor death can part.</lines>
+    </verse>
+  </lyrics>
+</song>

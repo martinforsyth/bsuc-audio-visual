@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:13">
+  <properties>
+    <titles>
+      <title>SF131 By a monument of marble</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>By a monument of marble,<br/>or a simple wooden cross,<br/>here we gather to remember<br/>sacrifice and tragic loss.<br/>Blood-red poppy petals flutter,<br/>each a symbol for a life,<br/>drifting in a crimson curtain,<br/>shadow of our constant strife.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Solemn silence now surrounds us<br/>as we stand in memory.<br/>Why must factions stir up conflict?<br/>This eternal mystery<br/>troubles hearts and stirs the conscience,<br/>urges us to think again;<br/>face the curse of confrontation,<br/>yet reduce this searing pain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For the sound of war still thunders<br/>through our planet, on this day.<br/>Every hour new victims suffer,<br/>even as we meet to pray.<br/>God, we need your help and guidance<br/>in our constant search for peace.<br/>Move us on to new solutions<br/>as we pray that wars may cease.</lines>
+    </verse>
+  </lyrics>
+</song>

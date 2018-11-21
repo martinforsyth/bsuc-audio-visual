@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:31">
+  <properties>
+    <titles>
+      <title>MP1223 Thank you for your mercy</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thank you for your mercy,<br/>Thank you for your grace;<br/>Thank you for your blood<br/>That's made a way<br/>To come into your presence<br/>And glorify your name.<br/>Lord, I stand amazed at what I see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your promises are ageless,<br/>Your love will never end,<br/>For a thousand generations<br/>Your covenant will stand;<br/>Showing grace and mercy<br/>To those who fear your name,<br/>Establishing your righteousness and praise.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Great is your mercy toward me,<br/>Your loving kindness toward me,<br/>Your tender mercies I see<br/>Day after day.<br/>For ever faithful to me,<br/>Always providing for me,<br/>Great is your mercy toward me<br/>Great is your grace.</lines>
+    </verse>
+  </lyrics>
+</song>

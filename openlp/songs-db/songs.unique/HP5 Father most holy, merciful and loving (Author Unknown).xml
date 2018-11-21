@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:36">
+  <properties>
+    <titles>
+      <title>HP5 Father most holy, merciful and loving</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father most holy, merciful and loving,<br/>Jesus, Redeemer, ever to be worshipped,<br/>Life-giving Spirit, Comforter most gracious,<br/>God everlasting;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Three in a wondrous unity unbroken.<br/>One perfect Godhead, love that never faileth,<br/>Light of the angels, succour of the needy,<br/>Hope of all living;</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All thy creation serveth its creator;<br/>Thee every Creature praiseth without ceasing;<br/>We too would sing thee psalms of true devotion;<br/>Hear, we beseech thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord God Almighty, unto thee be glory,<br/>One in Three Persons, over all exalted;<br/>Thine, as is meet, be honour, praise, and blessing,<br/>Now, and for ever.</lines>
+    </verse>
+  </lyrics>
+</song>

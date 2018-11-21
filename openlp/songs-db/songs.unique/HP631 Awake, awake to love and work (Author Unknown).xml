@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:35">
+  <properties>
+    <titles>
+      <title>HP631 Awake, awake to love and work</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Awake, awake to love and work,<br/>The lark is in the sky,<br/>The fields are wet with diamond dew,<br/>The worlds awake to cry<br/>Their blessings on the Lord of life,<br/>As he goes meekly by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come, let thy voice be one with theirs,<br/>Shout with their shout of praise;<br/>See how the giant sun soars up,<br/>Great lord of years and days!<br/>So let the love of Jesus come,<br/>And set thy soul ablaze -</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>To give and give and give again<br/>What God has given thee,<br/>To spend thyself nor count the cost,<br/>To serve right gloriously<br/>The God who gave all worlds that are,<br/>And all that are to be.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:20">
+  <properties>
+    <titles>
+      <title>HP572 Think of a World</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Think of a world without any flowers,<br/>Think of a wood without any trees,<br/>Think of a sky without any sunshine,<br/>Think of the air without any breeze;<br/>We thank you, Lord, for flowers and trees and sunshine;<br/>We thank you, Lord, and praise your holy name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Think of a world without any animals,<br/>Think of a field without any herd,<br/>Think of a stream without any fishes,<br/>Think of a dawn without any bird;<br/>We thank you, Lord, for all your living creatures;<br/>We thank you, Lord, and praise your holy name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Think of a world without any paintings,<br/>Think of a room where all the walls are bare,<br/>Think of a rainbow without any colours,<br/>Think of the earth with darkness everywhere;<br/>We thank you, Lord, for paintings and for colours;<br/>We thank you, Lord, and praise your holy name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Think of a World without any people,<br/>Think of a street with no one living there,<br/>Think of a town without any houses,<br/>No-one to love and nobody to care:<br/>We thank you, Lord, for families and friendships;<br/>We thank you, Lord, and praise your holy name.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Think of a world without any worship,<br/>Think of a God without his only Son,<br/>Think of a cross without a resurrection,<br/>Only a grave and not a victory won:<br/>We thank you, Lord, for showing us our Saviour;<br/>We thank you, Lord, and praise your holy name.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Thanks to our Lord for being here among   us,          Thanks be to him for sharing all we do,<br/>Thanks for our church and all the love     we find here,<br/>Thanks for this place all its promise true:<br/>We thank you, Lord, for life in all its richness;<br/>We thank you, Lord and praise your holy name.</lines>
+    </verse>
+  </lyrics>
+</song>

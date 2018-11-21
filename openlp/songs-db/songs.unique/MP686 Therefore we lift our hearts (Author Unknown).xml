@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:27">
+  <properties>
+    <titles>
+      <title>MP686 Therefore we lift our hearts</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Therefore we lift our hearts in praise,<br/>Sing to the living God who saves,<br/>For grace poured out for you and me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There for everyone to see,<br/>There on the hill at Calvary,<br/>Jesus died for you and me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For our sad and broken race,<br/>He arose with life and grace,<br/>And reigns on high for you and me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>There for such great pain and cost<br/>The Spirit came at Pentecost<br/>And comes in pow'r for you and me.</lines>
+    </verse>
+  </lyrics>
+</song>

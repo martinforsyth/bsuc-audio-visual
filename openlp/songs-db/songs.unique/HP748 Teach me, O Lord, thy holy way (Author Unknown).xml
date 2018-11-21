@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:56">
+  <properties>
+    <titles>
+      <title>HP748 Teach me, O Lord, thy holy way</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Teach me, O Lord, thy holy way,<br/>And give me an obedient mind,<br/>That in thy service I may find<br/>My soul's delight from day to day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Guide me, O Saviour, with thy hand,<br/>And so control my thoughts and deeds,<br/>That I may tread the path which leads<br/>Right onward to the blessed land.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Help me, O Saviour, here to trace<br/>The sacred footsteps thou hast trod,<br/>And, meekly walking with my God,<br/>To grow in goodness, truth, and grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Guard me, O Lord, that I may ne'er<br/>Forsake the right or do the wrong;<br/>Against temptation make me strong,<br/>And round me spread thy sheltering care.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Bless me in every task, O Lord,<br/>Begun, continued, done for thee;<br/>Fulfil thy perfect work in me;<br/>And thine abounding grace afford.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:25">
+  <properties>
+    <titles>
+      <title>HP406 O Christ the Lord, O Christ the King</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Christ the Lord, O Christ the King,<br/>Who wide the gates of death didst fling,<br/>Whose place upon creation's throne<br/>By Easter triumph was made known,<br/>Rule now on earth from realms above,<br/>Subdue the nations by thy love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, vindicate against our greed<br/>The weak, whose tears thy justice plead;<br/>Thy pity, Lord, on those who lie<br/>Oppressed by war and tyranny;<br/>Show them the cross which thou didst bear,<br/>Give them the power that conquered there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Let those whose pride usurps thy throne<br/>Acknowledge thou art Lord alone;<br/>Cause those whose lust wracks humankind<br/>Thy wrath to know, thy mercy find;<br/>Make all the rebel world proclaim<br/>The almighty power of thy blest name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>So shall creation's bondage cease,<br/>Its pangs of woe give birth to peace;<br/>And all the earth, redeemed by thee,<br/>Shall know a glorious liberty;<br/>O haste the time, make short the days,<br/>Till all our cries dissolve in praise!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:06">
+  <properties>
+    <titles>
+      <title>HP285 Creator Spirit, by whose aid</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Creator Spirit, by whose aid<br/>The world's foundations first were laid,<br/>Come, visit every waiting mind;<br/>Come, pour thy joys on humankind;<br/>From sin and sorrow set us free,<br/>And make thy temples worthy thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O source of uncreated heat,<br/>The Father's promised Paraciete!<br/>Thrice holy fount, thrice holy fire,<br/>Our hearts with heavenly love inspire;<br/>Come, and thy sacred unction bring<br/>To sanctify us while we sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Plenteous of grace, descend from high,<br/>Rich in thy sevenfold energy;<br/>Make us eternal truths receive,<br/>And practise all that we believe;<br/>Give us thyself, that we may see<br/>The Father and the Son by thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Immortal honour, endless fame,<br/>Attend the almighty Father's name:<br/>The Saviour Son be glorified,<br/>Who for lost man's redemption died:<br/>And equal adoration be,<br/>Eternal Paraclete, to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

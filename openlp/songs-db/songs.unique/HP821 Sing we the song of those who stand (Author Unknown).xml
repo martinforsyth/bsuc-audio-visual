@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:25">
+  <properties>
+    <titles>
+      <title>HP821 Sing we the song of those who stand</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing we the song of those who stand<br/>Around the eternal throne,<br/>Of every kindred, clime, and land,<br/>A multitude unknown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Life's poor distinctions vanish here;<br/>Today the young, the old,<br/>Our Saviour and his flock appear,<br/>One Shepherd and one fold.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Worthy the Lamb for sinners slain,<br/>Cry the redeemed above,<br/>Blessing and honour to obtain,<br/>And everlasting love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Worthy the Lamb, on earth we sing,<br/>Who died our souls to save;<br/>Henceforth, O death, where is thy sting?<br/>Thy victory, O grave?</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Then, alleluia! Power and praise<br/>To God in Christ be given!<br/>May all who now this anthem raise<br/>Renew the strain in heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

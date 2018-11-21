@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:28">
+  <properties>
+    <titles>
+      <title>MP167 Give me oil in my lamp</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Give me oil in my lamp, keep me burning,<br/>give me oil in my lamp, I pray;<br/>give me oil in my lamp, keep me burning,<br/>keep me burning till the break of day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Make me a fisher of men, keep me seeking<br/>make me a fisher of men, I pray;<br/>make me a fisher of men, keep me seeking<br/>keep me seeking till the break of day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Give me joy in my heart, keep me singing,<br/>give me joy in my heart, I pray;<br/>give me joy in my heart, keep me singing,<br/>keep me singing, till the break of day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Give me love in my heart, keep me serving,<br/>give me love in my heart, I pray;<br/>give me love in my heart, keep me serving,<br/>keep me serving till the break of day.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Sing hosanna, sing hosanna,<br/>sing hosanna to the King of kings!<br/>Sing hosanna, sing hosanna,<br/>sing hosanna to the King.</lines>
+    </verse>
+  </lyrics>
+</song>

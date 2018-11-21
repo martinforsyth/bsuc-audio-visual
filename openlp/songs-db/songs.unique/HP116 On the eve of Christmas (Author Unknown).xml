@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:45">
+  <properties>
+    <titles>
+      <title>HP116 On the eve of Christmas</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>On the eve of Christmas,<br/>In the fields at night-time,<br/>The shepherds watched their flocks near<br/>Bethlehem of Judah:<br/>Bright angels appearing,<br/>Bright angels appearing,<br/>Gave the joyful tidings.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Born is now the baby,<br/>Christ, the world's Redeemer,<br/>Our God in flesh incarnate,<br/>Lying in a manger:<br/>To Bethlehem go now;<br/>To Bethlehem go now;<br/>There shall you behold him.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Mystery amazing!<br/>Let us go to seek him,<br/>To Bethlehem returning,<br/>As the angels told us.<br/>The Saviour, we seek him,<br/>The Saviour, we seek him:<br/>Mystery amazing!'</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>At the inn arriving,<br/>In the lowly stable<br/>They found him with the cattle,<br/>With Mary and with Joseph.<br/>The Saviour they worshipped,<br/>The Saviour they worshipped,<br/>Kneeling there before him.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>On this happy morning,<br/>Come let us adore him,<br/>With heart and voice rejoicing,<br/>Worship our Redeemer,<br/>O come and adore him,<br/>O corne and adore him<br/>Who came for us at Christmas!</lines>
+    </verse>
+  </lyrics>
+</song>

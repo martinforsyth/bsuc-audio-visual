@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-12-24T14:49:48">
+  <properties>
+    <titles>
+      <title>SF176 Like a candle flame</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Like a candle flame,<br/>flickering small in our darkness.<br/>Uncreated light<br/>shines through infant eyes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Stars and angels sing.,<br/>yet the earth sleeps in shadows;<br/>can this tiny spark<br/>set a world on fire?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Yet his light shall shine<br/>from our lives,Spirit blazing,<br/>as we touch the flame<br/>of his fire.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/><tag name="it"><tag name="y">God is with us, Alleluia.</tag></tag><br/>God is with us Alleluia.<br/><tag name="it"><tag name="y">Come to save us , Alleluia.</tag></tag><br/>Come to save us.<br/>Alleluia.</lines>
+    </verse>
+  </lyrics>
+</song>

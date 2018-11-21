@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:50">
+  <properties>
+    <titles>
+      <title>HP480 Spirit of truth, essential God</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Spirit of truth, essential God,<br/>Who didst thine ancient saints inspire,<br/>Shed in their hearts thy love abroad<br/>And touch their hallowed lips with fire;<br/>Our God from all eternity,<br/>World without end we worship thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Still we believe, almighty Lord,<br/>Whose presence fills both earth and heaven,<br/>The meaning of the written word<br/>Is by thy inspiration given;<br/>Thou only dost thyself explain<br/>The secret mind of God to man.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come then, divine Interpreter,<br/>The Scriptures to our hearts apply;<br/>And, taught by thee, we God revere,<br/>Him in three Persons magnify,<br/>In each the triune God adore,<br/>Who was, and is, for evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

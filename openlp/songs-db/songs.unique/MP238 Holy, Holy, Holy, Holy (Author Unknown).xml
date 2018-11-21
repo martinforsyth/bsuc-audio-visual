@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:33">
+  <properties>
+    <titles>
+      <title>MP238 Holy, Holy, Holy, Holy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Holy, Holy, Holy, Holy,<br/>holy, holy, Lord God Almighty!<br/>And we lift our hearts before You<br/>as a token of our love:<br/>holy, holy, holy, holy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Gracious Father, gracious Father,<br/>We're so glad to be Your children, gracious Father;<br/>and we lift our heads before You<br/>as a token of our love,<br/>Gracious Father, gracious Father.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Precious Jesus, precious Jesus,<br/>We're so glad that You've redeemed us, precious Jesus;<br/>and we lift our hands before You<br/>as a token of our love,<br/>Precious Jesus, precious Jesus,</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Holy Spirit, Holy Spirit,<br/>Come and fill our hearts anew, Holy Spirit.<br/>and we lift our voice before You<br/>as a token of our love,<br/>Holy Spirit, Holy Spirit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Hallelujah, hallelujah,<br/>hallelujah, hallelujah -<br/>and we lift our hearts before You<br/>as a token of our love,<br/>hallelujah, hallelujah.</lines>
+    </verse>
+  </lyrics>
+</song>

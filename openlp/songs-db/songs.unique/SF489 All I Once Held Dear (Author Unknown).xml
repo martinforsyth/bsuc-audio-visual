@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:38">
+  <properties>
+    <titles>
+      <title>SF489 All I Once Held Dear</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All I once held dear, built my life upon<br/>all this world reveres, and wars to own<br/>all I once thought gain I have counted loss<br/>spent and worthless now, compared to this.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Now my heart's desire is to know You more<br/>to be found in You and known as Yours<br/>to possess by faith what I could not earn<br/>all-surpassing gift of righteousness.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Oh, to know the power of Your risen life<br/>and to know You in Your sufferings<br/>to become like You in Your death, my Lord<br/>so with You to live and never die.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Knowing You, Jesus, knowing You<br/>there is no greater thing<br/>You're my all, You're the best<br/>You're my joy, my righteousness<br/>and I love You Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

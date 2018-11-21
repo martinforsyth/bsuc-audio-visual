@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:25">
+  <properties>
+    <titles>
+      <title>SF251 Jesus Christ is waiting</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus Christ is waiting,<br/>Waiting in the streets;<br/>No one is his neighbour,<br/>All alone he eats.<br/>Listen, Lord Jesus,<br/>I am lonely too.<br/>Make me, friend or stranger,<br/>Fit to wait on you</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus Christ is raging,<br/>Raging in the streets,<br/>Where injustice spirals<br/>And real hope retreats.<br/>Listen, Lord Jesus,<br/>I am angry too.<br/>In the Kingdom's causes<br/>Let me rage with you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus Christ is healing,<br/>Healing in the streets;<br/>Curing those who suffer,<br/>Touching those he greets.<br/>Listen, Lord Jesus,<br/>I have pity too.<br/>Let my care be active,<br/>Healing just like you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus Christ is dancing,<br/>Dancing in the streets,<br/>Where each sign of hatred<br/>He, with love, defeats.<br/>Listen, Lord Jesus,<br/>I should triumph too.<br/>On suspicion's graveyard<br/>Let me dance with you.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Jesus Christ is calling,<br/>Calling in the streets,<br/>"Who will join my journey?<br/>I will guide their feet."<br/>Listen, Lord Jesus,<br/>Let my fears be few.<br/>Walk one step before me;<br/>I will follow you.</lines>
+    </verse>
+  </lyrics>
+</song>

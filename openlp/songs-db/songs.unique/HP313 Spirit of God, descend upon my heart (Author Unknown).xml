@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:11">
+  <properties>
+    <titles>
+      <title>HP313 Spirit of God, descend upon my heart</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Spirit of God, descend upon my heart;<br/>Wean it from earth; through all its pulses move;<br/>Stoop to my weakness, mighty as thou art,<br/>And make me love thee as I ought to love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I ask no dream, no prophet-ecstasies,<br/>No sudden rending of the veil of clay,<br/>No angel-visitant, no opening skies;<br/>But take the dimness of my soul away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Hast thou not bid me love thee, God and King -<br/>All, all thine own, soul, heart, and strength, and mind?<br/>I see thy cross-there teach my heart to cling:<br/>O let me seek thee, and O let me find!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Teach me to feel that thou art always nigh;<br/>Teach me the struggles of the soul to bear,<br/>To check the rising doubt, the rebel sigh;<br/>Teach me the patience of unanswered prayer.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Teach me to love thee as thine angels love,<br/>One holy passion filling all my frame -<br/>The baptism of the heaven-descended Dove,<br/>My heart an altar, and thy love the flame.</lines>
+    </verse>
+  </lyrics>
+</song>

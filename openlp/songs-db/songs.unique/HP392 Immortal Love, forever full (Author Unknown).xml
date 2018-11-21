@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:22">
+  <properties>
+    <titles>
+      <title>HP392 Immortal Love, forever full</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Immortal Love, forever full,<br/>Forever flowing free,<br/>Forever shared, forever whole,<br/>A never-ebbing sea!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our outward lips confess the name<br/>All other names above;<br/>Love only knoweth whence it came,<br/>And comprehendeth love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We may not climb the heavenly steeps<br/>To bring the Lord Christ down;<br/>In vain we search the lowest deeps,<br/>For him no depths can drown.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And not for signs in heaven above<br/>Or earth below they look,<br/>Who know with John his smile of love,<br/>With Peter his rebuke.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>But warm, sweet, tender, even yet<br/>A present help is he;<br/>And faith has still its Olivet,<br/>And love its Galilee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Through him the first fond prayers are said<br/>Our lips of childhood frame;<br/>The last low whispers of our dead<br/>Are burdened with his name.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Alone, O Love ineffable,<br/>Thy saving name is given!<br/>To turn aside from thee is hell,<br/>To walk with thee is heaven!</lines>
+    </verse>
+  </lyrics>
+</song>

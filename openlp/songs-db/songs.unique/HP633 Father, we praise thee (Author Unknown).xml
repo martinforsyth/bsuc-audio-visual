@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:35">
+  <properties>
+    <titles>
+      <title>HP633 Father, we praise thee</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, we praise thee, now the night is over;<br/>Active and watchful, stand we all before thee;<br/>Singing, we offer prayer and meditation:<br/>Thus we adore thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Monarch of all things, fit us for thy mansions;<br/>Banish our weakness, health and wholeness sending;<br/>Bring us to heaven, where thy saints united<br/>Joy without ending.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All-holy Father, Son, and equal Spirit,<br/>Trinity blessed, send us thy salvation;<br/>Thine is the glory, gleaming and resounding<br/>Through all creation.</lines>
+    </verse>
+  </lyrics>
+</song>

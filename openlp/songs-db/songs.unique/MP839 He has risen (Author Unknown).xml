@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:42">
+  <properties>
+    <titles>
+      <title>MP839 He has risen</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When the life flowed from His body,<br/>Seemed like Jesus' mission failed.<br/>But His sacrifice accomplished,<br/>Victory over sin and hell.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In the grave God did not leave him,<br/>For His body to decay;<br/>Raised to life, the great awakening,<br/>Satan's pow'r he overcame.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>If there were no resurrection,<br/>We ourselves could not be raised;<br/>But the Son of God is living,<br/>So our hope is not in vain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When the Lord rides out of heaven,<br/>Mighty angels at His side,<br/>They will sound the final trumpet,<br/>From the grave we shall arise.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>He has given life immortal,<br/>We shall see him face to face;<br/>Through eternity we'll praise him,<br/>Christ the champion of our faith.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>He has risen, he has risen,<br/>He has risen, Jesus is alive.</lines>
+    </verse>
+  </lyrics>
+</song>

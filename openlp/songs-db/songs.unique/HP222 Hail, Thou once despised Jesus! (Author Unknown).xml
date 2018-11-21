@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:55">
+  <properties>
+    <titles>
+      <title>HP222 Hail, Thou once despised Jesus!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hail, thou once despised Jesus!<br/>Hail, Thou Galilean King!<br/>Thou didst suffer to release us,<br/>Thou didst free salvation bring:<br/>Hail, Thou agonising Saviour,<br/>Bearer of our sin and shame;<br/>By Thy merits we find favour;<br/>Life is given through Thy name!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Paschal Lamb, By God appointed,<br/>All our sins were on Thee laid;<br/>By Almighty love anointed,<br/>Thou hast full atonement made:<br/>All Thy people are forgiven<br/>Through the virtue of Thy blood;<br/>Opened is the gate of heaven:<br/>Peace is made 'twixt man and God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, hail! enthroned in glory,<br/>There for ever to abide;<br/>All the heavenly host adore<br/>Thee, Seated at Thy Father's side.<br/>There for sinners Thou art pleading,<br/>There Thou dost our place prepare,<br/>Ever for us interceding,<br/>Till in glory we appear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Worship, honour, power and blessing,<br/>Thou art worthy to receive;<br/>Loudest praises, without ceasing.<br/>Meet it is for us to give.<br/>Help, ye bright angelic spirits,<br/>Bring your sweetest, noblest lays;<br/>Help to sing our Saviour's merits,<br/>Help to chant Immanuel's praise!</lines>
+    </verse>
+  </lyrics>
+</song>

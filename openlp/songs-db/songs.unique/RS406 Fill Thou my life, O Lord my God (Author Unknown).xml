@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:50">
+  <properties>
+    <titles>
+      <title>RS406 Fill Thou my life, O Lord my God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Fill thou my life, O Lord my God,<br/>in every part with praise,<br/>that my whole being may proclaim<br/>Thy being and Thy ways.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Not for the lip of praise alone,<br/>nor e'en the praising heart,<br/>I ask, but for a life made up<br/>of praise in every part:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Praise in the common things of life,<br/>its goings out and in;<br/>praise in each duty and each deed,<br/>however small and mean.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Fill every part of me with praise;<br/>let all my being speak<br/>of Thee and of Thy love, O Lord,<br/>poor though I be and weak.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>So shalt Thou, glorious Lord, from me,<br/>receive the glory due;<br/>and so shall I begin on earth<br/>the song for ever new.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>So shall no part of day or night<br/>from sacredness be free;<br/>but all my life, in every step,<br/>be fellowship with Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

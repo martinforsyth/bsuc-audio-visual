@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:54">
+  <properties>
+    <titles>
+      <title>HP734 Jesus my Truth, my Way</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, my Truth, my Way,<br/>My sure, unerring Light,<br/>On thee my feeble steps I stay,<br/>Which thou wilt lead aright.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My Wisdom and my Guide,<br/>My Counsellor, thou art;<br/>O never let me leave thy side,<br/>Or from thy paths depart!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Teach me the happy art<br/>In all things to depend<br/>On thee; O never, Lord, depart,<br/>But love me to the end!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Through fire and water bring<br/>Into the wealthy place;<br/>And teach me the new song to sing,<br/>When perfected in grace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O make me all like thee,<br/>Before I hence remove!<br/>Settle, confirm, and stablish me,<br/>And build me up in love.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Let me thy witness live,<br/>When sin is all destroyed;<br/>And then my spotless soul receive,<br/>And take me home to God.</lines>
+    </verse>
+  </lyrics>
+</song>

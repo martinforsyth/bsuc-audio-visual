@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:34">
+  <properties>
+    <titles>
+      <title>MP767 Who is he in yonder stall,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 c1 b1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Who is he in yonder stall,<br/>At whose feet the shepherds fall?<br/>'Tis the Lord! O wondrous story,<br/>'Tis the Lord, the King of Glory!<br/>At his feet we humbly fall,<br/>Crown him, crown him Lord of all!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Who is he in deep distress,<br/>Fasting in the wilderness?<br/>'Tis the Lord! O wondrous story,<br/>'Tis the Lord, the King of Glory!<br/>At his feet we humbly fall,<br/>Crown him, crown him Lord of all!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Who is He the people bless<br/>For His words of gentleness?<br/>'Tis the Lord! O wondrous story,<br/>'Tis the Lord, the King of Glory!<br/>At his feet we humbly fall,<br/>Crown him, crown him Lord of all!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Who is he to whom they bring<br/>All the sick and sorrowing?<br/>'Tis the Lord! O wondrous story,<br/>'Tis the Lord, the King of Glory!<br/>At his feet we humbly fall,<br/>Crown him, crown him Lord of all!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Who is he that stands and weeps<br/>at the grave where Lazarus sleeps?<br/>'Tis the Lord! O wondrous story,<br/>'Tis the Lord, the King of Glory!<br/>At his feet we humbly fall,<br/>Crown him, crown him Lord of all!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Who is he the gathering throng<br/>greet with loud triumphant song?<br/>'Tis the Lord! O wondrous story,<br/>'Tis the Lord, the King of Glory!<br/>At his feet we humbly fall,<br/>Crown him, crown him Lord of all!</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Lo! at midnight, who is he,<br/>prays in dark Gethsemane?</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Who is he on yonder tree<br/>Dies in grief and agony?<br/>'Tis the Lord! O wondrous story,<br/>'Tis the Lord, the King of Glory!<br/>At his feet we humbly fall,<br/>Crown him, crown him Lord of all!</lines>
+    </verse>
+  </lyrics>
+</song>

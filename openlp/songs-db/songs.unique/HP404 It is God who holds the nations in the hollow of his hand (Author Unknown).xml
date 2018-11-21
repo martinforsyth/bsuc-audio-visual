@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:24">
+  <properties>
+    <titles>
+      <title>HP404 It is God who holds the nations in the hollow of his hand</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It is God who holds the nations in the hollow of his hand;<br/>It is God whose light is shining in the darkness of the land;<br/>It is God who builds his City on the Rock and not the sand:<br/>May the living God be praised!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>It is God whose purpose summons us to use the present hour;<br/>Who recalls us to our senses when the nation's life turns sour;<br/>In the discipline of freedom we shall know his saving power:<br/>May the living God be praised!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When a thankful nation, looking back, has cause to celebrate;<br/>Those who win our admiration by their service to the state;<br/>When self-giving is a measure of the greatness of the great:<br/>May the living God be praised!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He reminds us every sunrise that the world is ours on lease;<br/>For the sake of life tomorrow may our love for it increase;<br/>May all races live together, share its riches, be at peace:<br/>May the living God be praised!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:53">
+  <properties>
+    <titles>
+      <title>RS512 Seek ye first the kingdom of God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Seek ye first the kingdom of God<br/>And His righteousness,<br/>And all these things shall be added unto you,<br/>Hallelu, hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Ask and it shall be given unto you,<br/>Seek and you shall find.<br/>Knock, and it shall be opened unto you,<br/>Hallelu, hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Men shall not live by bread alone,<br/>But by every word<br/>That proceeds from the mouth of the Lord;<br/>Hallelu, Hallujah!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Hallelujah! hallelujah!<br/>Hallelujah! Hallelu, hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

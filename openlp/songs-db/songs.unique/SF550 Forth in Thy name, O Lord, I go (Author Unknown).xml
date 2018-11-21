@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:41">
+  <properties>
+    <titles>
+      <title>SF550 Forth in Thy name, O Lord, I go</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Forth in thy name, O Lord, I go,<br/>My daily labour to pursue,<br/>Thee, only thee, resolved to know<br/>In all I think, or speak, or do.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The task thy wisdom hath assigned<br/>O let me cheerfully fulfil,<br/>In all my works thy presence find,<br/>And prove thy good and perfect will..</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thee may I set at my right hand,<br/>Whose eyes my inmost substance see,<br/>And labour on at thy command,<br/>And offer all my works to thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Give me to bear thy easy yoke,<br/>And every moment watch and pray,<br/>And still to things eternal look,<br/>And hasten to thy glorious day:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>For thee delightfully employ<br/>Whate'er thy bounteous grace hath given,<br/>And run my course with even joy,<br/>And closely walk with thee to heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

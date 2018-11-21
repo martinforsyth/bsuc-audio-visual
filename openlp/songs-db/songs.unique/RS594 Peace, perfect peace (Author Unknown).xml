@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:56">
+  <properties>
+    <titles>
+      <title>RS594 Peace, perfect peace</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Peace, perfect peace, is the gift of Christ our Lord.<br/>Peace, perfect peace, is the gift of Christ our Lord.<br/>Thus, says the Lord, will the world know my friends.<br/>Peace, perfect peace, is the gift of Christ our Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Joy, perfect joy, is the gift of Christ our Lord.<br/>Joy, perfect joy, is the gift of Christ our Lord.<br/>Thus, says the Lord, will the world know my friends.<br/>Joy, perfect joy, is the gift of Christ our Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Love, perfect love, is the gift of Christ our Lord.<br/>Love, perfect love, is the gift of Christ our Lord.<br/>Thus, says the Lord, will the world know my friends.<br/>Love, perfect love, is the gift of Christ our Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:01">
+  <properties>
+    <titles>
+      <title>SF19 Be still and know that I am God</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Psalm 46:10</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Be still and know that I am God,<br/>and there is none beside me.<br/>Be still and know that I am God,<br/>and there is none beside me.</lines>
+    </verse>
+  </lyrics>
+</song>

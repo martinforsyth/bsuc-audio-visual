@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:02">
+  <properties>
+    <titles>
+      <title>JP260 Turn your eyes upon Jesus</title>
+    </titles>
+    <verseOrder>v1 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Turn your eyes upon Jesus,<br/>Look full in His wonderful face,<br/>And the things of earth<br/>Will grow strangely dim<br/>In the light of His glory and grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Keep your eyes upon Jesus,<br/>let nobody else take his place;<br/>so that hour by hour you will know his power<br/>till at last you have run the great race.</lines>
+    </verse>
+  </lyrics>
+</song>

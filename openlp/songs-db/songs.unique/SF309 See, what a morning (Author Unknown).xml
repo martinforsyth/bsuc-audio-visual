@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:28">
+  <properties>
+    <titles>
+      <title>SF309 See, what a morning</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>See, what a morning, gloriously bright,<br/>With the dawning of hope in Jerusalem;<br/>Folded the grave-clothes, tomb filled with<br/>light,<br/>As the angels announce Christ is risen!<br/>See God's salvation plan,<br/>Wrought in love, borne in pain, paid in<br/>sacrifice<br/>Fulfilled in Christ the Man,<br/>For He lives: Christ is risen from the dead!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>See Mary weeping, 'Where is He laid?'<br/>As in sorrow she turns from the empty tomb;<br/>Hears a voice speaking, calling her name;<br/>It's the Master, the Lord raised to life again!<br/>The voice that spans the years,<br/>Speaking life, stirring hope, bringing peace to us,<br/>Will sound till He appears,<br/>For He lives, Christ is risen from the dead!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>One with the Father, Ancient of Days,<br/>Through the Spirit who clothes faith with certainty,<br/>Honour and blessing, glory and praise<br/>To the King crowned with power and authority!<br/>And we are raised with Him,<br/>Death is dead, love has won, Christ has conquered;<br/>And we shall reign with Him,<br/>For He lives, Christ is risen from the dead!</lines>
+    </verse>
+  </lyrics>
+</song>

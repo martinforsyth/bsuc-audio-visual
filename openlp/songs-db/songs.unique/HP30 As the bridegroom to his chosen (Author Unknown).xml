@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:39">
+  <properties>
+    <titles>
+      <title>HP30 As the bridegroom to his chosen</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>As the bridegroom to his chosen,<br/>As the king unto his realm,<br/>As the keep unto the castle,<br/>As the pilot to the helm,<br/>So, Lord, art thou to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>As the fountain in the garden,<br/>As the candle in the dark,<br/>As the treasure in the coffer,<br/>As the manna in the ark,<br/>So, Lord, art thou to me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>As the music at the banquet,<br/>As the stamp unto the seal,<br/>As the med'cine to the fainting<br/>As the wine-cup at the meal,<br/>So, Lord, art thou to me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>As the ruby in the setting,<br/>As the honey in the comb,<br/>As the light within the lantern,<br/>As the father in the home,<br/>So, Lord, art thou to me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>As the sunshine in the heavens,<br/>As the image in the glass,<br/>As the fruit unto the fig-tree,<br/>As the dew unto the grass,<br/>So, Lord, art thou to me.</lines>
+    </verse>
+  </lyrics>
+</song>

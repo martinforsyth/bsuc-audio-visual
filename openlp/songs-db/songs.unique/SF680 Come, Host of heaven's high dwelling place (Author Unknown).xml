@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:47">
+  <properties>
+    <titles>
+      <title>SF680 Come, Host of heaven's high dwelling place</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, Host of heaven's high dwelling place,<br/>come earth's disputed guest;<br/>find in this house a welcome home,<br/>stay here and take your rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Surround these walls with faith and love<br/>that through the nights and days,<br/>when human tongues from speaking cease,<br/>these stones may echo praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Bless and inspire those gathered here<br/>with patience, hope and peace<br/>and all the joys that know the depth<br/>in which all sorrows cease.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Here may the losers find their worth,<br/>the strangers find a friend;<br/>here may the hopeless find their faith<br/>and aimless find an end.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Build, from the human fabric, signs<br/>of how your kingdom thrives,<br/>of how the Holy Spirit changes life<br/>through changing lives.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>So, to the Lord whose care enfolds<br/>the world held in his hands,<br/>be glory, honour, love and praise<br/>for which this house now stands.</lines>
+    </verse>
+  </lyrics>
+</song>

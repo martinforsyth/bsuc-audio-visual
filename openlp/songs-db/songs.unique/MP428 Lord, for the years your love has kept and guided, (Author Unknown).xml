@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:57">
+  <properties>
+    <titles>
+      <title>MP428 Lord, for the years your love has kept and guided,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, for the years your love has kept and guided,<br/>urged and inspired us, cheered us on our way,<br/>sought us and saved us, pardoned and provided:<br/>Lord of the years, we bring our thanks today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, for that word, the word of life which fires us,<br/>speaks to our hearts and sets our souls ablaze,<br/>teaches and trains, rebukes us and inspires us:<br/>Lord of the word, receive Your people's praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, for our land in this our generation,<br/>spirits oppressed by pleasure, wealth and care:<br/>for young and old, for commonwealth and nation,<br/>Lord of our land, be pleased to hear our prayer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, for our world where men disown and doubt you,<br/>loveless in strength, and comfortless in pain,<br/>hungry and helpless, lost indeed without you:<br/>Lord of the world, we pray that Christ may reign.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord for ourselves; in living power remake us-<br/>self on the cross, and Christ upon the throne,<br/>past put behind us, for the future take us:<br/>Lord of our lives, to live for Christ alone.</lines>
+    </verse>
+  </lyrics>
+</song>

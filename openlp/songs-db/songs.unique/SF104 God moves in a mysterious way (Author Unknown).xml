@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:10">
+  <properties>
+    <titles>
+      <title>SF104 God moves in a mysterious way</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God moves in a mysterious way<br/>his wonders to perform;<br/>he plants His footsteps in the sea,<br/>and rides upon the storm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come all you saints, fresh courage take,<br/>the clouds you so much dread<br/>are big with mercy, and shall break<br/>in blessings on your head.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Judge not the Lord by feeble sense,<br/>but trust him for his grace;<br/>behind a frowning providence<br/>he hides a smiling face.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>His purposes will ripen fast,<br/>unfolding every hour;<br/>the bud may have a bitter taste,<br/>but sweet will be the flower.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Blind unbelief is sure to err,<br/>and scan His work in vain;<br/>God is His own interpreter,<br/>and He will make it plain.</lines>
+    </verse>
+  </lyrics>
+</song>

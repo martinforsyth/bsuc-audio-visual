@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:36">
+  <properties>
+    <titles>
+      <title>MP781 Worthy Is The Lamb Seated On The Throne</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Worthy is the Lamb seated on the throne,<br/>Worthy is the Lamb who was slain,<br/>To receive power and riches<br/>And wisdom and strength,<br/>Honour and glory, glory and praise,<br/>For ever and ever more.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:46">
+  <properties>
+    <titles>
+      <title>SF678 Come, all who look to Christ today</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, all who look to Christ today,<br/>stretch out your hands, enlarge your mind,<br/>together share his living way<br/>where all who humbly seek will find.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come, all who will from every place;<br/>find here new powers of unity,<br/>accept the Spirit's strong embrace<br/>which binds us in community.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come, young and old from every Church,<br/>bring all your treasuries of prayer,<br/>join the dynamic Spirit's search<br/>to press beyond the truths we share.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Bring your traditions' richest store,<br/>your hymns and rites and cherished creeds;<br/>explore our visions, pray for more,<br/>since God delights to meet fresh needs.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Come, trust in Christ and live in peace,<br/>anticipate that final light<br/>when strife and bigotry shall cease,<br/>and faith be lost in praise and sight.</lines>
+    </verse>
+  </lyrics>
+</song>

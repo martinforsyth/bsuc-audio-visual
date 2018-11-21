@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:43">
+  <properties>
+    <titles>
+      <title>MP350 It Is No Longer I That Liveth</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It is no longer I that liveth<br/>But Christ that liveth in me,<br/>It is no longer I that liveth<br/>But Christ that liveth in me.<br/>He lives, He lives,<br/>Jesus is alive in me.<br/>It is no longer I that liveth<br/>But Christ that liveth in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The life that I live in the body<br/>I live by faith in the Son.<br/>The life that I live in the body<br/>I live by faith in the Son.<br/>He loves, He loves,<br/>Jesus gave Himself for me.<br/>The life that I live in the body<br/>I live by faith in the Son.</lines>
+    </verse>
+  </lyrics>
+</song>

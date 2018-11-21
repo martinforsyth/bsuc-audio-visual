@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:18">
+  <properties>
+    <titles>
+      <title>MP605 Soon, And Very Soon</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Soon, and very soon,<br/>We are going to see the King;<br/>Soon, and very soon,<br/>We are going to see the King;<br/>Soon, and very soon,<br/>We are going to see the King;<br/>Alleluia, alleluia,<br/>We're going to see the King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>No more crying there<br/>We are going to see the King<br/>Alleluia, alleluia,<br/>We're going to see the King!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>No more dying there<br/>We are going to see the King<br/>Alleluia, alleluia,<br/>We're going to see the King!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Alleluia, alleluia,<br/>Alleluia, alleluia,<br/>Soon, and very soon,<br/>We are going to see the King;<br/>Alleluia, alleluia,</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:11">
+  <properties>
+    <titles>
+      <title>HP562 How do thy mercies close me round</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How do thy mercies close me round!<br/>For ever be thy name adored!<br/>I blush in all things to abound;<br/>The servant is above his Lord!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Inured to poverty and pain,<br/>A suffering life my Master led;<br/>The Son of God, the Son of Man,<br/>He had not where to lay his head.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>But, lo, a place he has prepared<br/>For me, whom watchful angels keep;<br/>Yea, he himself becomes my guard,<br/>He smooths my bed, and gives me sleep.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus protects; my fears, begone!<br/>What can the Rock of Ages move?<br/>Safe in thy arms I lay me down,<br/>Thy everlasting arms of love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>While thou art intimately nigh,<br/>Who, who shall violate my rest?<br/>Sin, earth, and hell I now defy;<br/>I lean upon my Saviour's breast.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>I rest beneath the Almighty's shade,<br/>My griefs expire, my troubles cease;<br/>Thou, Lord, on whom my soul is stayed,<br/>Wilt keep me still in perfect peace.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Me for thine own thou lov'st to take,<br/>In time and in eternity;<br/>Thou never, never wilt forsake<br/>A helpless soul that trusts in thee.</lines>
+    </verse>
+  </lyrics>
+</song>

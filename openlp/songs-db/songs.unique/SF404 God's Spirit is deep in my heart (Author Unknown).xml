@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:33">
+  <properties>
+    <titles>
+      <title>SF404 God's Spirit is deep in my heart</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God's Spirit is  in my heart;<br/>He has called me and set me apart.<br/>This is what I have to do -<br/>What I have to do:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Just as the Father sent me,<br/>So I'm sending you out to be<br/>My witness throughout the world -<br/>The whole of the world:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Don't carry a load in your pack;<br/>You don't need two shirts on your back;<br/>God's workers can earn their own keep -<br/>Can earn their own keep :</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Don't worry what you have to say;<br/>Don't worry, because on that day<br/>God's Spirit will speak in your heart -<br/>Will speak in your heart:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>He sent me to give the good news to the poor,<br/>Tell prisoners that they are prisoners no more,<br/>Tell blind people that they can see,<br/>And set the down-trodden free,<br/>And go tell everyone<br/>The news that the kingdom of God has come;<br/>And go tell everyone<br/>The news that God's kingdom  has come.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:54">
+  <properties>
+    <titles>
+      <title>MP945 There shall be showers of blessing</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There shall be showers of blessing:<br/>This is the promise of love!<br/>There shall be seasons refreshing<br/>Sent from the Saviour above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There shall be showers of blessing<br/>Precious reviving again;<br/>Over the hills and the valleys,<br/>Sound of abundance of rain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There shall be showers of blessing:<br/>Send them upon us, O Lord!<br/>Grant to us now a refreshing:<br/>Come and now honour Thy word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>There shall be showers of blessing:<br/>O that today they might fall,<br/>Now as to God we're confessing,<br/>Now as on Jesus we call!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>There shall be showers of blessing<br/>If we but trust and obey<br/>There shall be seasons refreshing<br/>If we let God have His way.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Showers of blessing,<br/>Showers of blessing we need;<br/>Mercy-drops round us are falling<br/>But for the showers we plead.</lines>
+    </verse>
+  </lyrics>
+</song>

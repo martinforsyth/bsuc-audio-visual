@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:04">
+  <properties>
+    <titles>
+      <title>SF69 Ye holy angels bright,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Ye holy angels bright,<br/>who wait at God's right hand,<br/>or through the realms of light<br/>fly at your Lord's command,<br/>assist our song,<br/>or else the theme<br/>too high doth seem<br/>for mortal tongue.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Ye blessed souls at rest,<br/>who ran this earthly race,<br/>and now, from sin released,<br/>behold the Saviour's face,<br/>his praises sound,<br/>as in his light<br/>with sweet delight<br/>ye do abound.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Ye saints who toil below,<br/>adore your heavenly King,<br/>and onward as ye go<br/>some joyful anthem sing;<br/>take what he gives,<br/>and praise him still<br/>through good and ill,<br/>who ever lives.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>My soul, bear thou thy part,<br/>triumph in God above,<br/>and with a well-tuned heart<br/>sing thou the songs of love.<br/>Let all thy days<br/>till life shall end,<br/>whate'er he send,<br/>be filled with praise.</lines>
+    </verse>
+  </lyrics>
+</song>

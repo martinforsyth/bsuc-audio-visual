@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:41">
+  <properties>
+    <titles>
+      <title>HP669 Blest be the everlasting God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Blest be the everlasting God,<br/>The Father of our Lord!<br/>Be his abounding mercy praised,<br/>His majesty adored!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When from the dead he raised his Son,<br/>And called him to the sky,<br/>He gave our souls a lively hope<br/>That they should never die.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There's an inheritance divine<br/>Reserved against that day;<br/>'Tis uncorrupted, undefiled,<br/>And cannot fade away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Saints by the power of God are kept,<br/>Till that salvation come:<br/>We walk by faith as strangers here,<br/>Till Christ shall call us home.</lines>
+    </verse>
+  </lyrics>
+</song>

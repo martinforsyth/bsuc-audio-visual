@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:30">
+  <properties>
+    <titles>
+      <title>SF340  Ye servants of God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Ye servants of God,<br/>your Master proclaim,<br/>and publish abroad<br/>his wonderful name;<br/>the name all victorious<br/>of Jesus extol;<br/>his kingdom is glorious,<br/>and rules over all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God ruleth on high,<br/>almighty to save;<br/>and still He is nigh,<br/>his presence we have;<br/>the great congregation<br/>his triumph shall sing,<br/>ascribing salvation<br/>to Jesus our King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'Salvation to God,<br/>who sits on the throne!'<br/>let all cry aloud,<br/>and honour the Son:<br/>the praises of Jesus<br/>all angels proclaim,<br/>fall down on their faces,<br/>and worship the Lamb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then let us adore<br/>and give Him His right;<br/>all glory and power,<br/>all wisdom and might;<br/>all honour and blessing,<br/>with angels above;<br/>and thanks never-ceasing,<br/>and infinite love.</lines>
+    </verse>
+  </lyrics>
+</song>

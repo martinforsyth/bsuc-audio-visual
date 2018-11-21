@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:44">
+  <properties>
+    <titles>
+      <title>SF613 God, how can we forgive</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God, how can we forgive<br/>when bonds of love are torn/<br/>How can we rise and start anew,<br/>our trust reborn?<br/>When human loving fails<br/>and every hope is gone,<br/>your love gives strength beyond our own<br/>to face the dawn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When we have missed the mark,<br/>and tears of anguish flow,<br/>how can you still release our guilt,<br/>the debt we owe?<br/>The ocean depth of grace<br/>surpasses all our needs.<br/>A priest who shares our<br/>Christ intercedes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Who dares to throw the stone<br/>to damn another's sin,<br/>when you, while knowing all our past,<br/>forgive again?<br/>No more we play the judge,<br/>for by your grace we live.<br/>As you, O God, forgive our sin,<br/>may we forgive.</lines>
+    </verse>
+  </lyrics>
+</song>

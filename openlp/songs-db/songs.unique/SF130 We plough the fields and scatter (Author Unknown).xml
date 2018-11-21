@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:13">
+  <properties>
+    <titles>
+      <title>SF130 We plough the fields and scatter</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We plough the fields, and scatter<br/>the good seed on the land,<br/>but it is fed and watered<br/>by God's almighty hand;<br/>he sends the snow in winter,<br/>the warmth to swell the grain,<br/>the breezes and the sunshine,<br/>and soft, refreshing rain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He only is the maker<br/>of all things near and far;<br/>he paints the wayside flower,<br/>he lights the evening star;<br/>the winds and waves obey him,<br/>by him the birds are fed;<br/>much more to us, his children,<br/>he gives our daily bread.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We thank you then, O Father,<br/>for all things bright and good:<br/>the seed-time and the harvest,<br/>our life, our health, our food.<br/>Accept the gifts we offer<br/>for all your love imparts,<br/>and, what you most desire,<br/>our humble, thankful hearts.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>All good gifts around us<br/>are sent from heaven above;<br/>then thank the Lord, O thank the Lord,<br/>for all his love.</lines>
+    </verse>
+  </lyrics>
+</song>

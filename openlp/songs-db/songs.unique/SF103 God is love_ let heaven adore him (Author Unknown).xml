@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-07-15T08:43:12">
+  <properties>
+    <titles>
+      <title>SF103 God is love: let heaven adore him</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God is Love: let heaven adore him;<br/>God is Love: let earth rejoice;<br/>let creation sing before him,<br/>and exalt him with one voice.<br/>He who laid the earth's foundation,<br/>he who spread the heavens above,<br/>he who breathes through all creation,<br/>he is Love, eternal Love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God is Love: and he, enfolding<br/>all the world in one embrace;<br/>with unfailing grasp is holding<br/>every child of every race.<br/>And when human hearts are breaking<br/>under sorrow's iron rod,<br/>then they find that selfsame aching<br/>deep within the heart of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God is Love: and though with blindness<br/>sin afflicts the souls of men,<br/>God's eternal loving-kindness<br/>holds and guides them even then.<br/>Sin and death and hell shall never<br/>o'er us final triumph gain;<br/>God is Love, so Love for ever<br/>o'er the universe must reign.</lines>
+    </verse>
+  </lyrics>
+</song>

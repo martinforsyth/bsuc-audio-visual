@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:52">
+  <properties>
+    <titles>
+      <title>HP205 O sons and daughters, let us sing</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O sons and daughters, let us sing!<br/>The King of heav'n, the glorious King,<br/>O'er death today rose triumphing.<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>That night the apostles met in fear,<br/>Amidst them came their Lord most dear,<br/>And said: 'My peace be on all here.'<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When Thomas first the tidings heard,<br/>That they had seen the risen Lord,<br/>He doubted the disciples' word.<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>'My pierced side, O Thomas, see;<br/>Behold my hands, my feet,' said he;<br/>'Not faithless, but believing be.'<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>No longer Thomas then denied;<br/>He saw the feet, the hands, the side:<br/>'You are my Lord and God!' he cried:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>How blest are they who have not seen,<br/>And yet whose faith has constant been,<br/>For they eternal life shall win:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Alleluia! Alleluia! Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

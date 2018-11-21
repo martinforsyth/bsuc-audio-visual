@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:30">
+  <properties>
+    <titles>
+      <title>HP600 By Christ redeemed, in Christ restored</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>By Christ redeemed, in Christ restored,<br/>We keep the memory adored,<br/>And show the death of our dear Lord<br/>Until He come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>His body, broken in our stead,<br/>Is seen in this memorial bread,<br/>And so our feeble love is fed<br/>Until He come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The drops of His dread agony,<br/>His life blood shed for us, we see;<br/>The wine shall tell the mystery<br/>Until He come.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And thus that dark betrayal night<br/>With the last advent we unite;<br/>By one blest chain of loving rite,<br/>Until He come.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O blessed hope! With this elate,<br/>Let not our hearts be desolate,<br/>But, strong in faith, in patience wait<br/>Until He come.</lines>
+    </verse>
+  </lyrics>
+</song>

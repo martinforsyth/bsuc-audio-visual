@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:58">
+  <properties>
+    <titles>
+      <title>HP234 His Name Is Wonderful</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>His name is wonderful,<br/>His name is Wonderful,<br/>His name is Wonderful,<br/>Jesus my Lord.<br/>He is the mighty King,<br/>Master of everything,<br/>His name is Wonderful,<br/>Jesus my Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He's the great Shepherd,<br/>The Rock of all ages,<br/>Almighty God is He.<br/>Bow down before Him,<br/>Love and adore Him,<br/>His name is Wonderful,<br/>Jesus my Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

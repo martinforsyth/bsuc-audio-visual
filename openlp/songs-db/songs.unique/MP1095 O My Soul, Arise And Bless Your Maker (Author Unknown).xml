@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:19">
+  <properties>
+    <titles>
+      <title>MP1095 O My Soul, Arise And Bless Your Maker</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O my soul, arise and bless your maker,<br/>For He is your Master and your Friend.<br/>Slow to wrath but rich and tender mercy:<br/>Worship the Saviour, Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>King of grace, His love is overwhelming;<br/>Bread of Life, He's all I'll ever need,<br/>For His blood has purchased me forever:<br/>Bought at the cross of Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When I wake, I know that He is with me;<br/>When I'm weak, I know that He is strong.<br/>Though I fall, His arm is there to lean on:<br/>Safe on the Rock of Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Stir in me the songs the songs that You are singing;<br/>Fill my gaze with things as yet unseen.<br/>Give me faith to move in works of power,<br/>Making me more like Jesus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Then one day I'll see Him as He sees me,<br/>Face to face, the Lover and the loved;<br/>No more words, the longing will be over:<br/>There with my precious Jesus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And I will sing for all my days<br/>Of heaven's love come down.<br/>Each breath I take will speak His praise<br/>Until He calls me home.</lines>
+    </verse>
+  </lyrics>
+</song>

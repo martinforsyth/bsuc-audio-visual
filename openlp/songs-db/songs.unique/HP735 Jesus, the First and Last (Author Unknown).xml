@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:54">
+  <properties>
+    <titles>
+      <title>HP735 Jesus, the First and Last</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, the First and Last,<br/>On thee my soul is cast:<br/>Thou didst thy work begin<br/>By blotting out my sin;<br/>Thou wilt the root remove,<br/>And perfect me in love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Yet when the work is done,<br/>The work is but begun:<br/>Partaker of thy grace,<br/>I long to see thy face;<br/>The first I prove below,<br/>The last I die to know.</lines>
+    </verse>
+  </lyrics>
+</song>

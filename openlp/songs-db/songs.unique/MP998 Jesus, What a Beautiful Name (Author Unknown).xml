@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:07">
+  <properties>
+    <titles>
+      <title>MP998 Jesus, What a Beautiful Name</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, what a beautiful name<br/>Son of God Son of Man<br/>Lamb that was slain<br/>Joy and peace, strength and hope<br/>Grace that blows all fear away<br/>Jesus, what a beautiful name</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus, what a beautiful name<br/>Truth revealed my future sealed<br/>Healed my pain.<br/>Love and freedom life and warmth<br/>Grace that blows all fear away<br/>Jesus, what a beautiful name</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, what a beautiful name<br/>Rescued my soul, my stronghold<br/>Lifts me from shame<br/>Forgiveness, security, power and love,<br/>Grace that blows all fear away<br/>Jesus, what a beautiful name</lines>
+    </verse>
+  </lyrics>
+</song>

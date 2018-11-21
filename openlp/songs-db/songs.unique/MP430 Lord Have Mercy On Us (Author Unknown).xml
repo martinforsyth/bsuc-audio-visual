@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:58">
+  <properties>
+    <titles>
+      <title>MP430 Lord Have Mercy On Us</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord have mercy on us,<br/>Come and heal our land.<br/>Cleanse with Your fire, heal with Your touch,<br/>Humbly we bow and call upon You now.<br/>O Lord, have mercy on us,<br/>O Lord, have mercy on us.</lines>
+    </verse>
+  </lyrics>
+</song>

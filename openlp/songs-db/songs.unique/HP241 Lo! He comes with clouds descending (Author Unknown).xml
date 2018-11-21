@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:00">
+  <properties>
+    <titles>
+      <title>HP241 Lo! He comes with clouds descending</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>To! he comes with clouds descending,<br/>Once for favoured sinners slain;<br/>Thousand thousand saints attending,<br/>Swell the triumph of His train!<br/>Hallelujah!<br/>Jesus comes, and comes to reign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Every eye shall now behold Him<br/>Robed in dreadful majesty;<br/>Those who set at naught and sold Him,<br/>Pierced and nailed Him to the tree,<br/>Deeply wailing,<br/>Shall the true Messiah see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When the solemn trump has sounded,<br/>Heaven and earth shall flee away;<br/>All who hate Him must, confounded,<br/>Hear the summons of that day<br/>Come to Judgement!<br/>Come to Judgement, come away!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Now redemption, long expected,<br/>See in solemn pomp appear!<br/>All His saints, by men rejected,<br/>Now shall meet Him in the air;<br/>Hallelujah!<br/>See the day of God appear!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Yea, Amen! let all adore Thee,<br/>High on Thine eternal throne;<br/>Saviour, take the power and glory,<br/>Claim the kingdom for Thine own!<br/>Oh, come quickly!<br/>Hallelujah! come, Lord, come!</lines>
+    </verse>
+  </lyrics>
+</song>

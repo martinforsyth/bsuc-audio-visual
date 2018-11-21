@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:30">
+  <properties>
+    <titles>
+      <title>MP188 God is our strength and refuge</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God is our strength and refuge,<br/>Our present help in trouble;<br/>And we therefore will not fear,<br/>Though the earth should change!<br/>Though the mountains shake and tremble,<br/>Though swirling floods are raging,<br/>God the Lord of hosts is with us evermore !</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There is a flowing river,<br/>Within God's holy city;<br/>God is in the midst of her<br/>She shall not be moved!<br/>God's help is swiftly given,<br/>Thrones vanish at his presence<br/>God the Lord of hosts is with us evermore !</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come, see the works of our maker,<br/>Learn of his deeds all-powerful;<br/>Wars will cease across the world<br/>When he shatters the spear!<br/>Be still and know your creator,<br/>Uplift him in the nations<br/>God the Lord of hosts is with us evermore !</lines>
+    </verse>
+  </lyrics>
+</song>

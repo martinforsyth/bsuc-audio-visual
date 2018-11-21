@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:37">
+  <properties>
+    <titles>
+      <title>JP71 Have you heard the raindrops</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Have you heard the raindrops drumming on the rooftops?<br/>Have you heard the raindrops dripping on the ground?<br/>Have you heard the raindrops splashing in the streams<br/>and running to the rivers all around?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There's a busy workman digging in the desert,<br/>digging with a spade that flashes in the sun;<br/>soon there will be water rising in the wellshaft,<br/>spilling from the bucket as it comes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Nobody can live who hasn't any water,<br/>when the land is dry then nothing much grows;<br/>Jesus gives us life if we drink the living water,<br/>sing it so that everybody knows.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>There's water, water of life,<br/>Jesus gives us water of life,<br/>there's water, water of life,<br/>Jesus gives us water of life.</lines>
+    </verse>
+  </lyrics>
+</song>

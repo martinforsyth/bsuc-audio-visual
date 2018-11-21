@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:23">
+  <properties>
+    <titles>
+      <title>MP81 Clap your hands, ye people all</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Clap your hands, you people all,<br/>Praise the God on whom ye call;<br/>Lift your voice, and shout His praise,<br/>Triumph in His sovereign grace!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Glorious is the Lord most High,<br/>Terrible in majesty;<br/>He His sovereign sway maintains,<br/>King o'er all the earth He reigns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus is gone up on high,<br/>Takes His seat above the sky:<br/>Shout the angel-choirs aloud,<br/>Echoing to the trump of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Sons of earth, the triumph join,<br/>Praise Him with the host divine;<br/>Emulate the heavenly powers,<br/>Their victorious Lord is ours.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Shout the God enthroned above,<br/>Trumpet forth His conquering love;<br/>Praises to our Jesus sing,<br/>Praises to our glorious King!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Power is all to Jesus given,<br/>Power o'er hell, and earth, and heaven!<br/>Power He now to us imparts;<br/>Praise Him with believing hearts.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Wonderful in saving power,<br/>Him let all our hearts adore;<br/>Earth and heaven repeat the cry,<br/>"Glory be to God most High!"</lines>
+    </verse>
+  </lyrics>
+</song>

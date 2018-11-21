@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-07-21T06:53:31">
+  <properties>
+    <titles>
+      <title>SF400 Wind of God, dynamic Spirit</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Michael Saward (b. 1932)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Wind of God, dynamic Spirit,<br/>breathe upon our hearts today;<br/>that we may your power inherit,<br/>hear us, Spirit, as we pray:<br/>fill the vacuum that enslaves us --<br/>emptiness of heart and soul;<br/>and, through Jesus Christ who saves us,<br/>give us life and make us whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Voice of God, prophetic Spirit,<br/>speak to every heart today<br/>to encourage or prohibit,<br/>urging action or delay:<br/>clear the vagueness which impedes us --<br/>come, enlighten mind and soul;<br/>and, through Jesus Christ who leads us,<br/>teach the truth that makes us whole.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Fire of God, volcanic Spirit,<br/>burn within our hearts today;<br/>cleanse our sin -- may we exhibit<br/>holiness in every way:<br/>purge the squalidness that shames us,<br/>soils the body, taints the soul;<br/>and through Jesus Christ who claims us,<br/>purify us, make us whole.</lines>
+    </verse>
+  </lyrics>
+</song>

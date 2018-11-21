@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-11-15T19:52:55">
+  <properties>
+    <titles>
+      <title>SF51 Great is thy faithfulness</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Thomas O. Chisholm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Great is thy faithfulness, O God my Father,<br/>there is no shadow of turning with thee;<br/>thou changest not, thy compassions, they fail not;<br/>as thou hast been thou for ever wilt be:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Great is thy faithfulness! Great is thy faithfulness!<br/>Morning by morning new mercies I see;<br/>all I have needed thy hand hath provided.<br/>Great is thy faithfulness, Lord, unto me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Summer and winter, and springtime and harvest,<br/>sun, moon and stars in their courses above,<br/>join with all nature in manifold witness<br/>to thy great faithfulness, mercy and love:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Pardon for sin and a peace that endureth,<br/>thine own dear presence to cheer and to guide;<br/>strength for today and bright hope for tomorrow,<br/>blessings all mine, with ten thousand beside!</lines>
+    </verse>
+  </lyrics>
+</song>

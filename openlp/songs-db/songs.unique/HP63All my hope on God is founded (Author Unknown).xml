@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:42">
+  <properties>
+    <titles>
+      <title>HP63All my hope on God is founded</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All my hope on God is founded;<br/>He doth still my trust renew.<br/>Me through change and chance he guideth,<br/>Only good and only true.<br/>God unknown,<br/>He alone<br/>Calls my heart to be his own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Human pride and earthly glory,<br/>Sword and crown betray our trust;<br/>What with care and toil is builded,<br/>Tower and temple, fall to dust.<br/>But God's power,<br/>Hour by hour,<br/>Is my temple and my tower.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God's great goodness aye endureth,<br/>Deep his wisdom passing thought;<br/>Splendour, light, and life attend him,<br/>Beauty springeth out of naught.<br/>Evermore<br/>From his store<br/>New-born worlds rise and adore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Daily doth the almighty giver<br/>Bounteous gifts on us bestow;<br/>His desire our soul delighteth,<br/>Pleasure leads us where we go.<br/>Love doth stand<br/>At his hand;<br/>Joy doth wait on his command.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Still from man to God eternal<br/>Sacrifice of praise be done,<br/>High above all praises praising<br/>For the gift of Christ his Son.<br/>Christ doth call<br/>One and all;<br/>Ye who follow shall not fall.</lines>
+    </verse>
+  </lyrics>
+</song>

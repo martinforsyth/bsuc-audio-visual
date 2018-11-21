@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:06">
+  <properties>
+    <titles>
+      <title>HP284 Come, thou Holy Spirit, come</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, thou Holy Spirit, come,<br/>And from thy celestial home<br/>Thine unclouded light impart;<br/>Come, thou father of the poor;<br/>All good gifts are from thy store;<br/>Come, illumine every heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thou of comforters the best,<br/>Thou the soul's most welcome guest,<br/>Sweet refreshment here below;<br/>Who in toil art rest complete,<br/>Tempered coolness in the heat,<br/>Solace in the midst of woe,</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O most blessed light divine,<br/>Shine within these hearts of thine,<br/>And our inmost being fill;<br/>Where thou art not, we have nought,<br/>Nothing good in deed or thought,<br/>Nothing free from taint of ill.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Heal our wounds; our strength renew;<br/>On our dryness pour thy dew;<br/>Wash the taint of guilt away:<br/>Bend the stubborn heart and will;<br/>Melt the frozen, warm the chill;<br/>Guide the steps that go astray.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>On the faithful, who adore<br/>And confess thee, evermore<br/>In thy sevenfold gifts descend;<br/>Give them virtue's sure reward,<br/>Give them thy salvation, Lord,<br/>Give them joys that never end.</lines>
+    </verse>
+  </lyrics>
+</song>

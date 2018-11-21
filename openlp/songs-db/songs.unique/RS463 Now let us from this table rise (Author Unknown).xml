@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:52">
+  <properties>
+    <titles>
+      <title>RS463 Now let us from this table rise</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Now let us from this table rise<br/>renewed in body, mind and soul;<br/>with Christ we die and live again,<br/>his selfless love has made us whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>With minds alert, upheld by grace,<br/>to spread the Word in speech and deed,<br/>we follow in the steps of Christ,<br/>at one with all in  hope and need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>To fill each human house with love,<br/>it is the sacrament of care;<br/>the work that Christ began to do<br/>we humbly pledge ourselves to share.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then grant us courage, Father God,<br/>to choose again the pilgrim way,<br/>and help us to accept with joy<br/>the challenge of tomorrow's day.</lines>
+    </verse>
+  </lyrics>
+</song>

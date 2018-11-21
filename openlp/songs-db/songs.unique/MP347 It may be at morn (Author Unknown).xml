@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:42">
+  <properties>
+    <titles>
+      <title>MP347 It may be at morn</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It may be at morn, when the day is awaking,<br/>when sunlight through darkness and shadow is breaking,<br/>that Jesus will come in the fulness of glory,<br/>to receive from the world 'His own'.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>It may be at mid-day, it may be at twilight,<br/>it may be, perchance, that the blackness of midnight<br/>will burst into light in the blaze of His glory,<br/>when Jesus receives 'His own'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>While hosts cry hosanna, from heaven descending,<br/>with glorified saints and the angels attending,<br/>with grace on His brow, like a halo of glory,<br/>will Jesus receive 'His own'.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Oh, joy! Oh, delight! should we go without dying;<br/>with glorified saints and the angels attending,<br/>caught up through the clouds with our Lord into glory,<br/>when Jesus receives 'His own'.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>O Lord Jesus, how long?<br/>How long ere we shout the glad song?<br/>Christ returneth,<br/>hallelujah,<br/>hallelujah, amen,<br/>hallelujah, amen!</lines>
+    </verse>
+  </lyrics>
+</song>

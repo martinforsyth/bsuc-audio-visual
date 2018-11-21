@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:01">
+  <properties>
+    <titles>
+      <title>HP787 A glorious company we sing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>A glorious company we sing,<br/>The Master and his men:<br/>He sent them forth to tell his love<br/>By voice and hand and pen;<br/>Then with his Spirit's mighty flame<br/>He made their hearts to glow,<br/>And bade them on a troubled world<br/>His grace and power bestow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A faithful company we sing,<br/>The steadfast martyr band;<br/>Against the rage of ruler proud<br/>They boldly made their stand;<br/>And still when men defy Christ's name,<br/>The cross is raised on high,<br/>And for his sake his hosts go forth<br/>To battle and to die.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>A company of love we sing,<br/>Whom Jesus called to save<br/>All sick and blind and hungry folk,<br/>The outcast and the slave;<br/>And now when life of man or child<br/>Is hurt by sin and pain,<br/>He calls for eager, willing hands<br/>To share his love again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O we would join this company<br/>Of Jesus and his friends;<br/>This church which now in every land<br/>The reign of Christ extends:<br/>And may that Spirit which of old<br/>His servants did inspire<br/>With love and joy and faith and power<br/>Set all our hearts afire.</lines>
+    </verse>
+  </lyrics>
+</song>

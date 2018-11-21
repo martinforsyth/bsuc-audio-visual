@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:49">
+  <properties>
+    <titles>
+      <title>HP703 What shall I render to my God</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>What shall I render to my God<br/>For all his mercy's store?<br/>I'll take the gifts he has bestowed,<br/>And humbly ask for more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The sacred cup of saving grace<br/>I will with thanks receive,<br/>And all his promises embrace,<br/>And to his glory live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>My vows I will to his great name<br/>Before his people pay,<br/>And all I have, and all I am,<br/>Upon his altar lay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thy lawful servant, Lord, I owe<br/>To thee whate'er is mine,<br/>Born in thy family below,<br/>And by redemption thine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thy hands created me, thy hands<br/>From sin have set me free;<br/>The mercy that has loosed my bands<br/>Has bound me fast to thee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>The God of all-redeeming grace<br/>My God I will proclaim,<br/>Offer the sacrifice of praise,<br/>And call upon his name.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Praise him, ye saints, the God of love,<br/>Who has my sins forgiven,<br/>Till, gathered to the church above,<br/>We sing the songs of heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

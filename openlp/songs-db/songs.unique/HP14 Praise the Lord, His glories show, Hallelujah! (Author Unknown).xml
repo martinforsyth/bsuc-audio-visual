@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:37">
+  <properties>
+    <titles>
+      <title>HP14 Praise the Lord, His glories show, Hallelujah!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise the Lord, His glories show, Hallelujah!<br/>Saints within His courts below, Hallelujah!<br/>Angels round His throne above, Hallelujah!<br/>All that see and share His love. Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Earth to heaven, and heaven to earth, Hallelujah!<br/>Tell His wonders, sing His worth; Hallelujah!<br/>Age to age and shore to shore, Hallelujah!<br/>Praise Him, praise Him evermore! Hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Praise the Lord, His mercies trace; Hallelujah!<br/>Praise His providence and grace, Hallelujah!<br/>All that He for man hath done, Hallelujah!<br/>All He sends us through His Son. Hallelujah!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Strings and voices, hands and hearts, Hallelujah!<br/>In the concert bear your parts; Hallelujah!<br/>All that breathe, your Lord adore, Hallelujah!<br/>Praise Him, praise Him evermore!</lines>
+    </verse>
+  </lyrics>
+</song>

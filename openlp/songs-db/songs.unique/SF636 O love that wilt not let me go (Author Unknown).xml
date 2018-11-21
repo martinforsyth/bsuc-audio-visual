@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:45">
+  <properties>
+    <titles>
+      <title>SF636 O love that wilt not let me go</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O love that wilt not let me go,<br/>I rest my weary soul in thee:<br/>I give thee back the life I owe,<br/>that in thine ocean depths its flow<br/>may richer, fuller be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O light that followest all my way,<br/>I yield my flickering torch to thee;<br/>my heart restores its borrowed ray,<br/>that in thy sunshine's blaze its day<br/>may brighter, fairer be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O joy that seekest me through pain,<br/>I cannot close my heart to thee:<br/>I trace the rainbow through the rain,<br/>and feel the promise is not vain,<br/>that morn shall tearless be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O cross that liftest up my head,<br/>I dare not ask to fly from thee:<br/>I lay in dust life's glory dead,<br/>and from the ground there blossoms red<br/>life that shall endless be.</lines>
+    </verse>
+  </lyrics>
+</song>

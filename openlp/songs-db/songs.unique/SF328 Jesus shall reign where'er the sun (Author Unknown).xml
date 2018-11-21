@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:29">
+  <properties>
+    <titles>
+      <title>SF328 Jesus shall reign where'er the sun</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus shall reign where'er the sun<br/>does his successive journeys run;<br/>his kingdom stretch from shore to shore,<br/>till moons shall wax and wane no more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For him shall endless prayer be made,<br/>and praises throng to crown his head;<br/>his name like sweet perfume shall rise<br/>with every morning sacrifice.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>People and realms of every tongue<br/>dwell on his love with sweetest song;<br/>and infant voices shall proclaim<br/>their early blessings on his name.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Blessings abound where'er he reigns;<br/>the prisoner leaps to lose his chains;<br/>the weary find eternal rest,<br/>and all who are in want are blest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Let every creature rise and bring<br/>its grateful honours to our King;<br/>angels descend with songs again,<br/>and earth repeat the loud amen.</lines>
+    </verse>
+  </lyrics>
+</song>

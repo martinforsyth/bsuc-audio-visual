@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:31">
+  <properties>
+    <titles>
+      <title>MP734 We Really Want To Thank You, Lord</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We thank You, Lord, for Your gift to us,<br/>Your life so rich beyond compare,<br/>The gift of Your body here on earth<br/>Of which we sing and share.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We thank You, Lord, for our life together,<br/>To live and move in the love of Christ,<br/>Tenderness which sets us free<br/>To serve You with our lives.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Praise God from whom all blessings flow,<br/>praise Him all creatures here below,<br/>praise Him, above, you heavenly host,<br/>praise Father, Son and Holy Ghost.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>We really want to thank You, Lord,<br/>We really want to bless Your name,<br/>Hallelujah! Jesus is our King!<br/>We really want to thank You, Lord,<br/>We really want to bless Your name,<br/>Hallelujah! Jesus is our King!</lines>
+    </verse>
+  </lyrics>
+</song>

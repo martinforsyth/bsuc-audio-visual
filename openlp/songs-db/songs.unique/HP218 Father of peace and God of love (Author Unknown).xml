@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:54">
+  <properties>
+    <titles>
+      <title>HP218 Father of peace and God of love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father of peace, and God of love,<br/>We own your power to save -<br/>That power by which our Shepherd rose<br/>Victorious o'er the grave.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Him from the dead you brought again,<br/>When, by his sacred blood,<br/>Confirmed and sealed for evermore<br/>The eternal covenant stood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O may your Spirit seal our souls,<br/>And mould them to your will,<br/>That our weak hearts no more may stray,<br/>But keep your precepts still;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>That to perfection's sacred height<br/>We nearer still may rise,<br/>And all we think, and all we do,<br/>Be pleasing in your eyes.</lines>
+    </verse>
+  </lyrics>
+</song>

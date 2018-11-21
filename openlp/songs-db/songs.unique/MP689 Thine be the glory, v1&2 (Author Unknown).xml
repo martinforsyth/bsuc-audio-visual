@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:27">
+  <properties>
+    <titles>
+      <title>MP689 Thine be the glory, v1&amp;2</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thine be the glory,<br/>risen, conquering son,<br/>endless is the victory<br/>Thou o'er death has won:<br/>angels in bright raiment<br/>rolled the stone away,<br/>kept the folded grave-clothes<br/>where thy body lay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lo! Jesus meets us,<br/>risen from the tomb:<br/>lovingly He greets us,<br/>scatters fear and gloom:<br/>let the church with gladness<br/>hymns of triumph sing,<br/>for her Lord now liveth:<br/>death hath lost its sting.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>No more we doubt Thee,<br/>glorious Prince of Life:<br/>life is nought without Thee:<br/>aid us in our strife;<br/>make us more than conquerors,<br/>through Thy deathless love,<br/>bring us safe through Jordan<br/>to Thy home above.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Thine be the glory,<br/>risen, conquering Son,<br/>endless is the victory<br/>Thou o'er death hast won.</lines>
+    </verse>
+  </lyrics>
+</song>

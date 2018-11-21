@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:42">
+  <properties>
+    <titles>
+      <title>MP344 Isn't He Beautiful</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Isn't He beautiful, beautiful isn't he?<br/>Prince of Peace, Son of God, isn't He?<br/>Isn't He wonderful, wonderful isn't He?<br/>Counsellor, Almighty God, isn't He, isn't He, isn't He?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Yes, You are beautiful, beautiful yes, You are<br/>Prince of Peace, Son of God, yes, You are.<br/>Yes, You are wonderful, wonderful yes, You are.<br/>Counsellor, Almighty God, Yes, You are, yes, You are, yes, You are.</lines>
+    </verse>
+  </lyrics>
+</song>

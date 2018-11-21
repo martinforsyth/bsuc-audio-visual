@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:08">
+  <properties>
+    <titles>
+      <title>MP524 O The bitter shame and sorrow.</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O The bitter and sorrow,<br/>That a time could ever be<br/>When i let the Saviour's pity<br/>Plead in vain, and proudly answered:<br/>All of self, and none of these!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Yet he found me. I beheld him<br/>Bleeding on the accursed tree,<br/>Heard him pray: Forgive them father!<br/>And my wistful heart said faintly:<br/>Some of self, and some of thee!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Day by day his tender mersey,<br/>Healing, helping, full and free,<br/>Sweet and stromg, and ah! so patient:<br/>Less of self, and more of thee!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Higher than the highest heaven,<br/>Deeper than the deepest sea,<br/>Lord, thy love at last has conquered:<br/>Grant ne now my supplication:<br/>None of self, and all of thee!</lines>
+    </verse>
+  </lyrics>
+</song>

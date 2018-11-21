@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:25">
+  <properties>
+    <titles>
+      <title>HP407 The law of Christ alone can make us free</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sisters and brothers are we as God's children;<br/>But with the parenthood of God be known<br/>If we do not reflect his love to others?<br/>In charity and justice God is shown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Millions believe the law of life is cunning<br/>Within a world of cruelty and greed,<br/>How can they know God's charity and justice<br/>If helping hands have never reached their need?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Christ is at work through us who are his body;<br/>He chooses us to witness and to teach,<br/>To heal and raise and liberate and strengthen,<br/>To be his hands and eyes, his heart and speech.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>There is no promise that we shall not suffer,<br/>No promise that we shall not need to fight;<br/>Only the word that love is our redemption,<br/>And freedom comes by turning to the light:</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>The law of Christ alone can make us free,<br/>And love is the fulfilling of the law.<br/>The law of Christ alone can make us free,<br/>And love is the fulfilling of the law.</lines>
+    </verse>
+  </lyrics>
+</song>

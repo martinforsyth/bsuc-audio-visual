@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:19">
+  <properties>
+    <titles>
+      <title>HP370 O perfect love, all human thought transcending</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Perfect Love, all human thought transcending,<br/>Lowly we kneel in prayer before your throne,<br/>That theirs may be the love which knows no ending<br/>Who in your love for evermore are one.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O perfect Life, be now their full assurance<br/>Of tender charity and steadfast faith,<br/>Of patient hope, and quiet brave endurance,<br/>With childlike trust that fears not pain or death.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Grant them the joy which brightens earthly sorrow,<br/>Grant them the peace which calms all earthly strife;<br/>And to life's day the glorious unknown morrow<br/>That dawns upon eternal love and life.</lines>
+    </verse>
+  </lyrics>
+</song>

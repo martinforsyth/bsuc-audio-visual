@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:26">
+  <properties>
+    <titles>
+      <title>MP140 Father we adore you you've drawn us</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, we adore you,<br/>You've drawn us to this place.<br/>We bow down before you,<br/>Humbly on our face.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus, we love you,<br/>Because you first loved us,<br/>You reached out and healed us<br/>With your mighty touch.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Spirit, we need you,<br/>To lift us from this mire,<br/>Consumer and empower us<br/>With your holy fire.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Holy is he;<br/>Blessed is he;<br/>Worthy is he;<br/>Gracious is he;<br/>Faithful is he;<br/>Awesome is he;<br/>Saviour is he;<br/>Master is he;<br/>Mighty is he.<br/>Have mercy on me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>All the earth shall worship<br/>At the throne of the King.<br/>Of His great and awesome pow'r<br/>We shall sing!<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

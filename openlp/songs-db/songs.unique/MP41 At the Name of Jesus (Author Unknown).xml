@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:19">
+  <properties>
+    <titles>
+      <title>MP41 At the Name of Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>At the Name of Jesus<br/>every knee shall bow,<br/>every tongue confess Him<br/>King of glory now;<br/>'Tis the Father's pleasure<br/>we should call Him Lord,<br/>who from the beginning<br/>was the Mighty Word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Mighty and mysterious<br/>in the highest height,<br/>God from everlasting,<br/>very Light of light.<br/>In the Father's bosom,<br/>with the Spirits blest,<br/>love, in love eternal,<br/>rest, in perfect rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Humbled for a season,<br/>to receive a Name<br/>from the lips of sinners<br/>unto whom He came;<br/>faithfully He bore it,<br/>spotless to the last,<br/>brought it back victorious,<br/>when from death He passed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Bore it up triumphant,<br/>with its human light,<br/>through all ranks of creatures,<br/>to the central height;<br/>to the throne of Godhead,<br/>to the Father's breast,<br/>filled it with the glory<br/>of that perfect rest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>In your hearts enthrone Him;<br/>there let Him subdue<br/>all that is not holy,<br/>all that is not true;<br/>crown Him as your Captain<br/>in temptation's hour;<br/>let His Will enfold you<br/>in its light and power.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Brothers, this Lord Jesus<br/>shall return again<br/>with His Father's glory,<br/>with His angel train;<br/>for all wreaths of empire<br/>meet upon His brow,<br/>and our hearts confess Him<br/>King of glory now.</lines>
+    </verse>
+  </lyrics>
+</song>

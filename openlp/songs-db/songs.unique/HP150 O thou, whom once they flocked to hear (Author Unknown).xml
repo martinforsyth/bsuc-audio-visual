@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:48">
+  <properties>
+    <titles>
+      <title>HP150 O thou, whom once they flocked to hear</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O thou, whom once they flocked to hear,<br/>Thy words to hear, thy power to feel;<br/>Suffer the sinners to draw near,<br/>And graciously receive us still.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>They that be whole, thyself hast said,<br/>No need of a physician have;<br/>But I am sick, and want thine aid,<br/>And ask thine utmost power to save.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thy power, and truth, and love divine,<br/>The same from age to age endure;<br/>A word, a gracious word of thine,<br/>The most inveterate plague can cure.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Helpless howe'er my spirit lies,<br/>And long hath languished at the pool,<br/>A word of thine shall make me rise,<br/>Shall speak me in a moment whole.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Make this my Lord's accepted hour;<br/>Come, O my soul's physician thou!<br/>Display thy justifying power,<br/>And show me thy salvation now.</lines>
+    </verse>
+  </lyrics>
+</song>

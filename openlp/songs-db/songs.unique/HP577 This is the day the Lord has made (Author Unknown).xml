@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:27">
+  <properties>
+    <titles>
+      <title>HP577 This is the day the Lord has made</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>This is the day the Lord has made,<br/>He calls the hours his own;<br/>Let heaven rejoice, let earth be glad,<br/>And praise surround his throne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Today he rose and left the dead,<br/>And Satan's empire fell;<br/>Today the saints his triumphs spread,<br/>And all his wonders tell.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Hosanna to the anointed King,<br/>To David's holy Son!<br/>Make haste to help us, Lord, and bring<br/>Salvation from thy throne.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Blest be the Lord, who comes to men<br/>With messages of grace;<br/>Who comes, in God his Father's name,<br/>To save our sinful race.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Hosanna in the highest strains<br/>The church on earth can raise;<br/>The highest heavens in which he reigns<br/>Shall give him nobler praise.</lines>
+    </verse>
+  </lyrics>
+</song>

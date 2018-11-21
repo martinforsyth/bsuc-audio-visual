@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:56">
+  <properties>
+    <titles>
+      <title>HP226 Let earth and heaven agree</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Let earth and heaven agree,<br/>Angels and men be joined,<br/>To celebrate with me<br/>The Saviour of mankind;<br/>To adore the all atoning Lamb,<br/>And bless the sound of Jesu's name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus, transporting sound!<br/>The joy of earth and heaven;<br/>No other help is found,<br/>No other name is given,<br/>By which we can salvation have;<br/>But Jesus came the world to save.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, harmonious name!<br/>It charms the hosts above;<br/>They evermore proclaim<br/>And wonder at His love;<br/>'Tis all their happiness to gaze<br/>'Tis heaven to see our Jesu's face.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>His name the sinner hears,<br/>And is from sin set free;<br/>'Tis music in his ears,<br/>'Tis life and victory;<br/>New songs do now his lips employ,<br/>And dances his glad heart for joy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Stung by the scorpion sin,<br/>My poor expiring soul<br/>The balmy sound drinks in,<br/>And is at once made whole:<br/>See there my Lord upon the tree!<br/>I hear, I feel, He died for me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O unexampled love!<br/>O all-redeeming grace!<br/>How swiftly didst Thou move<br/>To save a fallen race!<br/>What shall I do to make it known<br/>What Thou for all mankind hast done'</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>O for a trumpet voice,<br/>On all the world to call;<br/>To bid their hearts rejoice<br/>In Him who died for all;<br/>For all my Lord was crucified,<br/>For all, for all my Saviour died!</lines>
+    </verse>
+  </lyrics>
+</song>

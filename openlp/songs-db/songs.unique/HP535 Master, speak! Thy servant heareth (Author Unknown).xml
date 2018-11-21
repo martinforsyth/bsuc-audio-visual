@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:04">
+  <properties>
+    <titles>
+      <title>HP535 Master, speak! Thy servant heareth</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Master, speak! Thy servant heareth,<br/>Waiting for Thy gracious word,<br/>Longing for Thy voice that cheereth,<br/>Master, let it now be heard.<br/>I am list'ning, Lord, for Thee<br/>What hast Thou to say to me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Speak to me by name, O Master,<br/>Let me know it is to me;<br/>Speak, that I may follow faster,<br/>With a step more firm and free,<br/>Where the Shepherd leads the flock<br/>In the shadow of the Rock.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Master, speak! though least and lowest,<br/>Let me not unheard depart;<br/>Master, speak! for oh, Thou knowest<br/>All the yearning of my heart,<br/>Knowest all its truest need;<br/>Speak! and make me blest indeed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Master, speak and make me ready<br/>When Thy voice is truly heard,<br/>With obedience glad and steady,<br/>Still to follow every word<br/>I am listening, Lord, for Thee;<br/>Master, speak, oh, speak to me!</lines>
+    </verse>
+  </lyrics>
+</song>

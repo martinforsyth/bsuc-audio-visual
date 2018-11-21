@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:07">
+  <properties>
+    <titles>
+      <title>HP289 Holy Spirit, truth divine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Holy Spirit, truth divine,<br/>Dawn upon this soul of mine;<br/>Word of God, and inward light,<br/>Wake my spirit, clear my sight.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Holy Spirit, love divine,<br/>Glow within this heart of mine,<br/>Kindle every high desire,<br/>Perish self in thy pure fire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Holy Spirit, power divine,<br/>Fill and nerve this will of mine;<br/>By thee may I strongly live,<br/>Bravely bear, and nobly strive.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Holy Spirit, right divine,<br/>King within my conscience reign;<br/>Be my law, and I shall be<br/>Firmly bound, for ever free.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Holy Spirit, peace divine,<br/>Still this restless heart of mine,<br/>Speak to calm this tossing sea,<br/>Stayed in thy tranquillity.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Holy Spirit, joy divine,<br/>Gladden thou this heart of mine;<br/>In the desert ways I sing:<br/>'Spring, O Well, for ever spring!'</lines>
+    </verse>
+  </lyrics>
+</song>

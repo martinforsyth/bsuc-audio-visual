@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:50">
+  <properties>
+    <titles>
+      <title>HP709 Christ be my leader by day as by night</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ be my leader by day as by night;<br/>Safe through the darkness, for he is the way.<br/>Gladly I follow, my future his care,<br/>Darkness is daylight when Jesus is there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ be my teacher in age as in youth,<br/>Drifting or doubting, for he is the truth.<br/>Grant me to trust him; though shifting as sand,<br/>Doubt cannot daunt me; with Jesus I stand</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Christ be my Saviour in calm as in strife;<br/>Death cannot hold me, for he is the life.<br/>Nor darkness nor doubting nor sin and its stain<br/>Can touch my salvation; with Jesus I reign.</lines>
+    </verse>
+  </lyrics>
+</song>

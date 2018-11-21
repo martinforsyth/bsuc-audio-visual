@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:55">
+  <properties>
+    <titles>
+      <title>MP419 Like a mighty river flowing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Like a mighty river flowing,<br/>like a flower in beauty growing,<br/>far beyond all human knowing<br/>is the perfect peace of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Like the hills serene and even,<br/>like the coursing clouds of heaven,<br/>like the heart that's been forgiven,<br/>is the perfect peace of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Like the summer breezes playing,<br/>like the tall trees softly swaying,<br/>like the lips of silent praying<br/>is the perfect peace of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Like the morning sun ascended,<br/>like the scents of evening blended,<br/>like a friendship never ended<br/>is the perfect peace of God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Like the azure ocean swelling,<br/>like the jewel all-excelling,<br/>far beyond our human telling<br/>is the perfect peace of God.</lines>
+    </verse>
+  </lyrics>
+</song>

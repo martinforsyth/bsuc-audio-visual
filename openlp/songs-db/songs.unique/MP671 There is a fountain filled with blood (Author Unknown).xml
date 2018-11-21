@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:25">
+  <properties>
+    <titles>
+      <title>MP671 There is a fountain filled with blood</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There is a fountain filled with blood,<br/>Drawn from Immanuel's veins,<br/>And sinners plunged beneath that flood<br/>Lose all their guilty stains.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The dying thief rejoiced to see<br/>That fountain in his day;<br/>And there may I, though vile as he,<br/>Wash all my sins away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I do believe, I will believe,<br/>That Jesus died for me!<br/>That on the cross He shed His blood,<br/>From sin to set me free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Dear dying Lamb! Thy precious blood<br/>Shall never lose its power,<br/>Till all the ransomed church of God<br/>Be saved to sin no more.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>E'er since by faith I saw the stream<br/>Thy flowing wounds supply,<br/>Redeeming love has been my theme,<br/>And shall be till I die.</lines>
+    </verse>
+  </lyrics>
+</song>

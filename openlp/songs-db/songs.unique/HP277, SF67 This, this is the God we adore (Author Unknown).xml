@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:05">
+  <properties>
+    <titles>
+      <title>HP277, SF67 This, this is the God we adore</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>This, this is the God we adore,<br/>Our faithful, unchangeable friend,<br/>Whose love is as great as his power,<br/>And neither knows measure nor end:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Tis Jesus, the first and the last,<br/>Whose Spirit shall guide us safe home;<br/>We'll praise him for all that is past,<br/>And trust him for all that's to come.</lines>
+    </verse>
+  </lyrics>
+</song>

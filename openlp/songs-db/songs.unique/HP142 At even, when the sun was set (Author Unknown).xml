@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:47">
+  <properties>
+    <titles>
+      <title>HP142 At even, when the sun was set</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>At even, when the sun was set,<br/>The sick, O Lord, around thee lay;<br/>O in what divers pains they met!<br/>O with what joy they went away!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Once more 'tis eventide, and we,<br/>Oppressed with various ills, draw near;<br/>What if thy form we cannot see?<br/>We know and feel that thou art here.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O Saviour Christ, our woes dispel;<br/>For some are sick, and some are sad,<br/>And some have never loved thee well,<br/>And some have lost the love they had;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And none, O Lord, has perfect rest,<br/>For none is wholly free from sin;<br/>And they who fain would serve thee best<br/>Are conscious most of wrong within.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O Saviour Christ, thou too art man.<br/>Thou hast been troubled, tempted, tried;<br/>Thy kind but searching glance can scan<br/>The very wounds that shame would hide.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Thy touch has still its ancient power;<br/>No word from thee can fruitless fall:<br/>Hear, in this solemn evening hour,<br/>And in thy mercy heal us all.</lines>
+    </verse>
+  </lyrics>
+</song>

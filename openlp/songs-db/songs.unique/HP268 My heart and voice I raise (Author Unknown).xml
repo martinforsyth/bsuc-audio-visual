@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:04">
+  <properties>
+    <titles>
+      <title>HP268 My heart and voice I raise</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My heart and voice I raise,<br/>To spread Messiah's praise;<br/>Messiah's praise let all repeat:<br/>The universal Lord,<br/>By whose almighty word<br/>Creation rose in form complete.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A servant's form he wore,<br/>And in his body bore<br/>Our dreadful curse on Calvary:<br/>He like a victim stood,<br/>And poured his sacred blood,<br/>To set the guilty captives free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>But soon the Victor rose<br/>Triumphant o'er his foes,<br/>And led the vanquished host in chains:<br/>He threw their empire down,<br/>His foes compelled to own<br/>O'er all the great Messiah reigns.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>With mercy's mildest grace,<br/>He governs all our race<br/>In wisdom, righteousness, and love:<br/>Who to Messiah fly<br/>Shall find redemption nigh,<br/>And all his great salvation prove.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Hail, Saviour, Prince of Peace!<br/>Thy kingdom shall increase<br/>Till all the world thy glory see,<br/>And righteousness abound<br/>As the great deep profound,<br/>And fill the earth with purity.</lines>
+    </verse>
+  </lyrics>
+</song>

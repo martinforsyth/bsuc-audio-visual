@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:58">
+  <properties>
+    <titles>
+      <title>HP756 Come, and let us sweetly join</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, and let us sweetly join<br/>Christ to praise in hymns divine;<br/>Give we all with one accord<br/>Glory to our common Lord,</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Hands and hearts and voices raise,<br/>Sing as in the ancient days,<br/>Antedate the joys above,<br/>Celebrate the feast of love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesu, dear expected Guest,<br/>Thou art bidden to the feast;<br/>For thyself our hearts prepare,<br/>Come, and rest, and banquet there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Sanctify us, Lord, and bless,<br/>Breathe thy Spirit, give thy peace;<br/>Thou thyself within us move,<br/>Make our feast a feast of love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Let us join - 'tis God commands -<br/>Let us join our hearts and hands;<br/>Help to gain our calling's hope,<br/>Build we each the other up.</lines>
+    </verse>
+  </lyrics>
+</song>

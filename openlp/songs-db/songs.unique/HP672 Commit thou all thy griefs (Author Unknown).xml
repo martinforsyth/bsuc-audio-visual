@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:42">
+  <properties>
+    <titles>
+      <title>HP672 Commit thou all thy griefs</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Commit thou all thy griefs<br/>And ways into his hands,<br/>To his sure truth and tender care,<br/>Who heaven and earth commands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Who points the clouds their course,<br/>Whom winds and seas obey,<br/>He shall direct thy wandering feet,<br/>He shall prepare thy way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thou on the Lord rely,<br/>So safe shalt thou go on;<br/>Fix on his work thy steadfast eye,<br/>So shall thy work be done.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>No profit canst thou gain<br/>By self-consuming care;<br/>To him commend thy cause; his ear<br/>Attends the softest prayer.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thy everlasting truth,<br/>Father, thy ceaseless love,<br/>Sees all thy children's wants, and knows<br/>What best for each will prove.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Thou everywhere hast sway,<br/>And all things serve thy might;<br/>Thy every act pure blessing is,<br/>Thy path unsullied light.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:16">
+  <properties>
+    <titles>
+      <title>MP580 Ride on! ride on in majesty!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Ride on! ride on in majesty!<br/>Hark all the tribes 'Hosanna' cry;<br/>O Saviour meek, pursue Your road<br/>with palms and scattered garments strowed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Ride on, ride on in majesty!<br/>in lowly pomp ride on to die;<br/>O Christ, Thy triumphs now begin<br/>o'er captive death and conquered sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Ride on! ride on in majesty!<br/>The angel armies of the sky<br/>look down with sad and wondering eyes<br/>to see the approaching sacrifice</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Ride on ride on in majesty!<br/>Your last and fiercest strife is nigh:<br/>the Father on His sapphire throne<br/>awaits His own anointed Son.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Ride on! ride on in majesty!<br/>n lowly pomp ride on to die;<br/>bow Your meek head to mortal pain,<br/>then take. O God, Your power, and reign</lines>
+    </verse>
+  </lyrics>
+</song>

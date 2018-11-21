@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:40">
+  <properties>
+    <titles>
+      <title>MP820 Depth of mercy! can there be</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Depth of mercy! can there be<br/>Mercy still reserved for me?<br/>Can my God His wrath forbear?<br/>Me, the chief of sinners spare!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I have long withstood His grace,<br/>Long provoked Him to His face<br/>Would not hearken to His calls,<br/>Grieved Him by a thousand falls.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Whence to me this waste of love?<br/>Ask my Advocate above!<br/>See the cause in Jesus' face,<br/>Now before the throne of grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>There for me the Saviour stands,<br/>Shows His wounds, and spreads His hands:<br/>God is love, I know, I feel;<br/>Jesus lives and loves me still.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:51">
+  <properties>
+    <titles>
+      <title>HP192 Christ the Lord is risen again</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ the Lord is risen again!<br/>Christ has broken every chain!<br/>Hark, the angels shout for joy,<br/>Singing evermore on high:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He who gave for us his life,<br/>Who for us endured the strife,<br/>Is our Paschal Lamb today;<br/>We too sing for joy, and say:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He who bore all pain and loss<br/>Comfortless upon the cross,<br/>Lives in glory now on high,<br/>Pleads for us, and hears our cry:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He who slumbered in the grave<br/>Is exalted now to save;<br/>Now through Christendom it rings<br/>That the Lamb is King of kings:<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Now he bids us tell abroad<br/>How the lost may be restored,<br/>How the penitent forgiven,<br/>How we too may enter heaven:<br/>Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

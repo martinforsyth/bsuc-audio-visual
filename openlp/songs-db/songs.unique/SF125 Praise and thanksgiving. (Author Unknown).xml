@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:12">
+  <properties>
+    <titles>
+      <title>SF125 Praise and thanksgiving.</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise and thanksgiving,<br/>Father, we offer,<br/>for all things living<br/>you have made good;<br/>harvest of sown fields,<br/>fruits of the orchard,<br/>hay from the mown fields,<br/>blossom and wood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, bless the labour<br/>we bring to serve you,<br/>that with our neighbour<br/>we may be fed.<br/>Sowing or tilling,<br/>we would work with you;<br/>harvesting, milling,<br/>for daily bread.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Father, providing<br/>food for your children,<br/>your wisdom guiding<br/>teaches us share<br/>one with another,<br/>so that, rejoicing,<br/>sister and brother<br/>may know your care.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then will your blessing<br/>reach every people;<br/>each one confessing<br/>your gracious hand.<br/>When you are reigning<br/>no one will hunger:<br/>your love sustaining<br/>fruitful the land.</lines>
+    </verse>
+  </lyrics>
+</song>

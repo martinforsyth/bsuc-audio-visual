@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:56">
+  <properties>
+    <titles>
+      <title>HP503 O praise him! O praise him</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O praise him! O praise him! O praise him!<br/>O praise him! O praise him! O praise him!<br/>He made the heavens, he made our sky,<br/>the sun, the moon, the stars on high;<br/>he formed our world; his mighty hand<br/>divided sea and land;<br/>he moves in wind and rain and snow,<br/>his life is in all things that grow:<br/>O praise him! O praise him! O praise him!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O praise him! O praise him! O praise him!<br/>O praise him! O praise him! O praise him!<br/>His joy is in the eagle's flight,<br/>the tiger's roar, the lion's might,<br/>the lamb, the python and the whale,<br/>the spider, ant and snail;<br/>all things that leap and swim and fly<br/>on land and sea and in the sky,<br/>they praise him, they praise him, they praise him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O praise him! O praise him! O praise him!<br/>O praise him! O praise him! O praise him!<br/>He lives his life in love and joy,<br/>in man and woman, girl and boy;<br/>his purpose is in me and you,<br/>in what we are and do, -<br/>his love is in us when we sing<br/>with every God-created thing,<br/>and praise him, and praise him, and praise him.</lines>
+    </verse>
+  </lyrics>
+</song>

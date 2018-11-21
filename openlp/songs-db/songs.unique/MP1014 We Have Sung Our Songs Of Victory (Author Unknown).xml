@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:11">
+  <properties>
+    <titles>
+      <title>MP1014 We Have Sung Our Songs Of Victory</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We have sung our songs of victory,<br/>We have prayed to You for rain;<br/>We have cried for Your compassion<br/>To renew the land again.<br/>Now we're standing in Your presence,<br/>More hungry than before;<br/>Now we're on Your steps of mercy,<br/>and we're knocking at your door.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, we know Your heart is broken<br/>By the evil that You see,<br/>And You've stayed Your hand of judgement<br/>For You plan to set men free.<br/>But the land is still in darkness,<br/>And we've fled from what is right;<br/>We have failed the silent children<br/>Who will never see the light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>But I know a day is coming<br/>When the deaf will hear His voice,<br/>When the blind will see their Saviour,<br/>And the lame will leap for joy.<br/>When the widow finds a husband<br/>Who will always love His bride,<br/>And the orphan finds a Father<br/>Who will never leave her side.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>How long before Your glory lights the skies?<br/>How long before You radiance lifts our eyes?<br/>How long before Your fragrance fills the air?<br/>How long before the earth resounds with songs of joy?</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>How long before You drench the barren land?<br/>How long before we see Your righteous hand?<br/>How long before Your name is lifted high?<br/>How long before the weeping turns to songs of joy?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:42">
+  <properties>
+    <titles>
+      <title>SF593 Lord, enthroned in heavenly splendour,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, enthroned in heavenly splendour,<br/>first-begotten from the dead,<br/>thou alone, our strong defender,<br/>liftest up thy people's head.<br/>Alleluia!  Alleluia!<br/>Jesus, true and living Bread.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Here our humblest homage pay we,<br/>here in loving reverence bow;<br/>here for faith's discernment pray we,<br/>lest we fail to know thee now.<br/>Alleluia!  Alleluia!<br/>Thou art here, we ask not how.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Though the lowliest form doth veil thee<br/>as of old in Bethlehem,<br/>here as there thine angels hail thee<br/>Branch and Flower of Jesse's stem.<br/>Alleluia!  Alleluia!<br/>We in worship join with them.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Paschal Lamb, thine offering, finished<br/>once for all when thou wast slain,<br/>in its fullness undiminished<br/>shall for evermore remain.<br/>Alleluia!  Alleluia!<br/>Cleansing souls from every stain.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Life-imparting, heavenly Manna,<br/>stricken Rock with streaming side,<br/>heaven and earth with loud hosanna<br/>worship thee, the Lamb who died.<br/>Alleluia!  Alleluia!<br/>Risen, ascended, glorified.</lines>
+    </verse>
+  </lyrics>
+</song>

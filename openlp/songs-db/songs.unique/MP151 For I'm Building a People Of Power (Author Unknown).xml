@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:27">
+  <properties>
+    <titles>
+      <title>MP151 For I'm Building a People Of Power</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>For l'm building a people of power,<br/>And I'm making a people of praise<br/>That will move through this land by My Spirit,<br/>And will glorify My precious name.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Build Your church, Lord,<br/>Make us strong, Lord,<br/>Join our hearts, Lord, through Your Son.<br/>Make us one, Lord,<br/>In Your Body,<br/>In the kingdom of Your Son.</lines>
+    </verse>
+  </lyrics>
+</song>

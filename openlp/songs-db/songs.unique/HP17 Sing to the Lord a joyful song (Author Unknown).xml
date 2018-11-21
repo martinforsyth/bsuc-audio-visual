@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:38">
+  <properties>
+    <titles>
+      <title>HP17 Sing to the Lord a joyful song</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing to the Lord a joyful song,<br/>Lift up your hearts, your voices raise;<br/>To us his gracious gifts belong,<br/>To him our songs of love and praise;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For life and love, for rest and food,<br/>For daily help and nightly care,<br/>Sing to the Lord, for he is good,<br/>And praise his name, for it is fair;</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For strength to those who on him wait<br/>His truth to prove, his will to do,<br/>Praise ye our God, for he is great,<br/>Trust in his name, for it is true.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For joys untold, that from above<br/>Cheer those who love his sweet employ,<br/>Sing to our Lord, for he is love,<br/>Exalt his name, for it is joy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>For he is lord of heaven and earth,<br/>Whom angels serve and saints adore,<br/>The Father, Son and Holy Ghost,<br/>To whom be praise for evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

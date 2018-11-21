@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:31">
+  <properties>
+    <titles>
+      <title>MP1215 O perfect love,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O perfect love, O perfect sacrifice,<br/>Fountain of life poured out for me.<br/>What heights and depths of heaven's mercy,<br/>The faithfulness that I believe.<br/>And to whom shall I run?<br/>And in whom shall I hide?<br/>Only You hold the truth I desire.<br/>O perfect love, my prayer shall ever be<br/>To be found in Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O perfect love, O perfect mystery,<br/>You were condemned, but I go free.<br/>What truth to know that I can rest upon:<br/>Your perfect love has covered me.<br/>And what can this heart know?<br/>And what can this heart tell?<br/>But of grace that has rescued me.<br/>O perfect love,<br/>My prayer shall ever be<br/>To be found in Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O perfect love, forever I shall sing<br/>Of heaven's gates flung wide for me.<br/>Where fear of death and tears of<br/>hopelessness<br/>Are swallowed up in victory.<br/>And what praise shall be sung<br/>Still to the Holy One;<br/>To the Saviour, Redeemer and King.<br/>O perfect love,<br/>My song will ever be:<br/>'I am found in Jesus.'</lines>
+    </verse>
+  </lyrics>
+</song>

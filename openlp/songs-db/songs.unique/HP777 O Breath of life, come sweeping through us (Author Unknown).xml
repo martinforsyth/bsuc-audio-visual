@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:00">
+  <properties>
+    <titles>
+      <title>HP777 O Breath of life, come sweeping through us</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O breath of life, come sweeping through us,<br/>Revive your church with life and power;<br/>O Breath of life, come, cleanse, renew us,<br/>And fit your church to meet this hour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O Breath of love, come, breathe within us,<br/>renewing thought and will and heart;<br/>come, love of Christ, afresh to win us,<br/>revive your church in every part.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O Wind of God, come, bend us, break us,<br/>Till humbly we confess our need;<br/>Then in your tenderness remake us,<br/>Revive, restore; for this we plead.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Revive us, Lord; is zeal abating<br/>while harvest fields are vast and white?<br/>Revive us, Lord, the world is waiting -<br/>equip Thy Church to spread the light.</lines>
+    </verse>
+  </lyrics>
+</song>

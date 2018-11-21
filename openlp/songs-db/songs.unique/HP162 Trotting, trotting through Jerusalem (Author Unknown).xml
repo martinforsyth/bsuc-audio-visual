@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:49">
+  <properties>
+    <titles>
+      <title>HP162 Trotting, trotting through Jerusalem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Trotting, trotting through Jerusalem,<br/>Jesus sitting on a donkey's back,<br/>Children waving branches, singing:<br/>'Happy is he who comes in the name of the Lord'.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Many people in Jerusalem<br/>Thought he should have come on a mighty horse<br/>Leading all the Jews to battle:<br/>'Happy is he who comes in the name of the Lord'.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Many people in Jerusalem<br/>Were amazed to see such a quiet man<br/>trotting, trotting on a donkey:<br/>'Happy is he who comes in the name of the Lord'.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Trotting, trotting through Jerusalem,<br/>Jesus sitting on a donkey's back;<br/>Let us join with the children singing:<br/>'Happy is he who comes in the name of the Lord'.</lines>
+    </verse>
+  </lyrics>
+</song>

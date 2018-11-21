@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:00">
+  <properties>
+    <titles>
+      <title>HP773 Jesus, united by thy grace</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, united by thy grace<br/>And each to each endeared,<br/>With confidence we seek thy face,<br/>And know our prayer is heard.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Still let us own our common Lord,<br/>And bear thine easy yoke,<br/>A band of love, a threefold cord,<br/>Which never can be broke.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O make us of one spirit drink;<br/>Baptize into thy name;<br/>And let us always kindly think<br/>And sweetly speak the same.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Touched by the lodestone of thy love,<br/>Let all our hearts agree,<br/>And ever t'ward each other move,<br/>And ever move t'ward thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>To thee, inseparably joined,<br/>Let all our spirits cleave;<br/>O may we all the loving mind<br/>That was in thee receive.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>This is the bond of perfectness,<br/>Thy spotless charity;<br/>O let us (still we pray) possess<br/>The mind that was in thee.</lines>
+    </verse>
+  </lyrics>
+</song>

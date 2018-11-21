@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:08">
+  <properties>
+    <titles>
+      <title>MP522 O the deep, deep love of Jesus,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O the deep, deep love of Jesus,<br/>Vast, unmeasured, boundless, free,<br/>Rolling as a mighty ocean<br/>In its fulness over me!<br/>Underneath me, all around me,<br/>Is the current of thy love;<br/>Leading onward, leading homeward,<br/>To my glorious rest above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O the deep, deep love of Jesus,<br/>Spread his praise from shore to shore;<br/>How he loveth, ever loveth,<br/>Changeth never, nevermore;<br/>How he watcheth o'er his loved ones,<br/>Died to call them all his own;<br/>How for them he intercedeth,<br/>Watcheth o'er them from the throne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O the deep, deep love of Jesus,<br/>Love of every love the best;<br/>'Tis an ocean vast of blessing,<br/>'Tis a haven sweet of rest.<br/>O the deep, deep love of Jesus,<br/>'Tis a Heaven of heavens to me;<br/>And it lifts me up to Glory,<br/>For it lifts me up to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

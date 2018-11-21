@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:50">
+  <properties>
+    <titles>
+      <title>HP479 Powerful in making us wise to salvation</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Powerful in making us wise to salvation,<br/>Witness to faith in Christ Jesus the Word;<br/>Breathed out to all by the life-giving Father -<br/>These are the Scriptures, and thus speaks the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Tool for employment and compass for travel,<br/>Map in the desert and lamp in the dark;<br/>Teaching, rebuking, correcting and training -<br/>These are the Scriptures, and this is their work.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>History, prophecy, song and commandment,<br/>Gospel and letter and dream from on high;<br/>Written by men borne along by the Spirit-<br/>These are the Scriptures; on them we rely.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Gift for God's servants to fit them completely,<br/>Fully equipping to walk in his ways;<br/>Guide to good work and effective believing -<br/>These are the Scriptures; for these we give praise.</lines>
+    </verse>
+  </lyrics>
+</song>

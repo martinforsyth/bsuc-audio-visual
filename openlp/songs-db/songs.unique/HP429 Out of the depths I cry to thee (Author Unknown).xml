@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:29">
+  <properties>
+    <titles>
+      <title>HP429 Out of the depths I cry to thee</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Out of the depths I cry to thee,<br/>Lord God! O hear my prayer!<br/>Incline a gracious ear to me,<br/>And bid me not despair:<br/>If thou rememberest each misdeed,<br/>If each should have its rightful meed,<br/>Lord, who shall stand before thee?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Tis through thy love alone we gain<br/>The pardon of our sin;<br/>The strictest life is but in vain,<br/>Our works can nothing win;<br/>That none should boast himself of aught,<br/>But own in fear thy grace hath wrought<br/>What in him seemeth righteous.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Wherefore my hope is in the Lord,<br/>My works I count but dust;<br/>I build not there, but on his word,<br/>And in his goodness trust.<br/>Up to his care myself I yield,<br/>He is my tower, my rock, my shield,<br/>And for his help I tarry.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And though it linger till the night,<br/>And round again till morn,<br/>My heart shall ne'er mistrust thy might,<br/>Nor count itself forlorn.<br/>Do thus, O ye of Israel's seed,<br/>Ye of the Spirit born indeed,<br/>Wait for your God's appearing.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Though great our sins and sore our wounds,<br/>And deep and dark our fall,<br/>His helping mercy hath no bounds,<br/>His love surpasseth all:<br/>Our trusty loving Shepherd, he<br/>Who shall at last set Israel free<br/>From all their sin and sorrow.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:46">
+  <properties>
+    <titles>
+      <title>HP130 Forty days and forty nights</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Forty days and forty nights<br/>Thou wast fasting in the wild;<br/>Forty days and forty nights<br/>Tempted still, yet undefiled.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sunbeams scorching day by day;<br/>Chilly dewdrops nightly shed;<br/>Prowling beasts about thy way;<br/>Stones thy pillow, earth thy bed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Shall not we thy sorrows share,<br/>Learn thy discipline of will,<br/>And, like thee, by fast and prayer<br/>Wrestle with the powers of ill?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>What if Satan, vexing sore,<br/>Flesh and spirit shall assail?<br/>Thou, his vanquisher before<br/>Wilt not suffer us to fail.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Watching, praying, struggling thus,<br/>Vict'ry ours at last shall be;<br/>Angels minister to us<br/>As they ministered to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

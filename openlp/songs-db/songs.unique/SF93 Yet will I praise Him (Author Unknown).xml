@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:09">
+  <properties>
+    <titles>
+      <title>SF93 Yet will I praise Him</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Though the fruit tree doesn't blossom<br/>And no ripened grapes appear,<br/>when the harvest fails<br/>And fields provide no food;<br/>I'll be joyful in my Saviour,<br/>The Lord who is my strength;<br/>He will keep my ways<br/>And lead me in His truth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When the night is overwhelming<br/>And the day is far from clear,<br/>When my heart is restless<br/>For the peace of God;<br/>Let Your song, Lord, through the ages,<br/>be the word that now I hear<br/>Come remind me once again to trust you,Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Be the strength, Lord, in my weakness,<br/>Let Your song be in my night;<br/>Be my rock when all around is sinking<br/>sand.<br/>Be the light, Lord, in my darkness,<br/>Be the vision of my eyes:<br/>In my passing days<br/>You are the great 'I Am'.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, I will praise You,<br/>I will lift my hands to my Creator.<br/>Lord, I will praise You,<br/>My Saviour and my God.<br/>Lord, I will praise You,<br/>I will put my trust in my Provider.<br/>Yes, I will praise You,<br/>Lord Jehovah, Sovereign God.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Yet will I praise Him,<br/>I will lift my hands to my Redeemer.<br/>Yet will I praise Him,<br/>My Creator and my God.<br/>Yet will I praise Him,<br/>I will put my trust in my Provider.<br/>Yet will I praise Him,<br/>My Saviour and my God.</lines>
+    </verse>
+  </lyrics>
+</song>

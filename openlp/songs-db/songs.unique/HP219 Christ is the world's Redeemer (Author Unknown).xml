@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:54">
+  <properties>
+    <titles>
+      <title>HP219 Christ is the world's Redeemer</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ is the world's Redeemer,<br/>The lover of the pure,<br/>The fount of heavenly wisdom,<br/>Our trust and hope secure;<br/>The armour of his soldiers,<br/>The Lord of earth and sky;<br/>Our health while we are living,<br/>Our life when we shall die.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ has our host surrounded<br/>With clouds of martyrs bright,<br/>Who wave their palms in triumph,<br/>And fire us for the fight.<br/>For Christ the cross ascended<br/>To save a world undone,<br/>And, suffering for the sinful,<br/>Our full redemption won.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Down in the realm of darkness<br/>He lay a captive bound,<br/>But at the hour appointed<br/>He rose, a victor crowned;<br/>And now, to heaven ascended,<br/>He sits upon the throne,<br/>In glorious dominion,<br/>His Father's and his own.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Glory to God the Father<br/>The unbegotten One;<br/>All honour be to Jesus,<br/>His sole-begotten Son;<br/>And to the Holy Spirit-<br/>The perfect Trinity.<br/>Let all the worlds give answer:<br/>'Amen-so let it be!'</lines>
+    </verse>
+  </lyrics>
+</song>

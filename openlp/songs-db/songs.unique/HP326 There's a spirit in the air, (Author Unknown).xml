@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:12">
+  <properties>
+    <titles>
+      <title>HP326 There's a spirit in the air,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There's a spirit in the air,<br/>telling Christians everywhere:<br/>"Praise the love that Christ revealed,<br/>living, working in our world"</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lose your shyness, find your tongue,<br/>tell the world what God has done:<br/>God in Christ has come to stay.<br/>Live tomorrow's life today.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When believers break the bread,<br/>when a hungry child is fed,<br/>praise the love that Christ revealed<br/>living, working in our world.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Still the Spirit gives us light,<br/>seeing wrong and setting right:<br/>God in Christ has come to stay.<br/>Live tomorrow's life today.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>When a stranger not alone,<br/>where the homeless find a home,<br/>praise the love that Christ revealed,<br/>living, working in our world.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>May the Spirit fill our praise,<br/>guide our thoughts and change our ways:<br/>God in Christ has come to stay.<br/>Live tomorrow's life today.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>There's a Spirit in the air,<br/>calling people everywhere:<br/>"Praise the love that Christ revealed,<br/>living, working in our world"</lines>
+    </verse>
+  </lyrics>
+</song>

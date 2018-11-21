@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:38">
+  <properties>
+    <titles>
+      <title>HP19 With gladness we worship, rejoice as we sing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>With gladness we worship, rejoice as we sing,<br/>Free hearts and free voices how blessed to bring;<br/>The old, thankful story shall scale thine abode,<br/>Thou King of all glory, most bountiful God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thy right would we give thee-true homage thy due,<br/>And honour eternal, the universe through,<br/>With all thy creation, earth, heaven and sea,<br/>In one acclamation we celebrate thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Renewed by thy Spirit, redeemed by thy Son,<br/>Thy children revere thee for all thou hast done.<br/>O Father! Returning to love and to light,<br/>Thy children are yearning to praise thee aright.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We join with the angels, and so there is given<br/>From earth Alleluia, in answer to heaven.<br/>Amen! Be thou glorious below and above,<br/>Redeeming, victorious, and infinite Love!</lines>
+    </verse>
+  </lyrics>
+</song>

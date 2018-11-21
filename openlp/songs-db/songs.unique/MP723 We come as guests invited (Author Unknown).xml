@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:30">
+  <properties>
+    <titles>
+      <title>MP723 We come as guests invited</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We come as guests invited<br/>when Jesus bids us dine,<br/>His friends on earth united<br/>to share the bread and wine;<br/>the bread of life is broken,<br/>the wine is freely poured<br/>for us, in solemn token<br/>of Christ our dying Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We eat and drink, receiving<br/>from Christ the grace we need,<br/>and in our hearts believing<br/>on Him by faith we feed;<br/>with wonder and thanksgiving<br/>for love that knows no end,<br/>we find in Jesus living<br/>our ever- present friend.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>One bread is ours for sharing,<br/>one single fruitful vine,<br/>our fellowship declaring<br/>renewed in bread and wine:<br/>renewed, sustained and given<br/>by token, sign and word,<br/>the pledge and seal of heaven,<br/>the love of Christ our Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

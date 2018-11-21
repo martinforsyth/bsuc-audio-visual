@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:39">
+  <properties>
+    <titles>
+      <title>HP32 Ere God had built the mountains</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>'Ere God had built the mountains,<br/>Or raised the fruitful hills;<br/>Before he filled the fountains<br/>That feed the running rills;<br/>In me, from everlasting,<br/>The wonderful I AM<br/>Found pleasures never wasting,<br/>And Wisdom is my name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'When, like a tent to dwell in,<br/>He spread the skies abroad,<br/>And swathed about the swelling<br/>Of ocean's mighty flood,<br/>He wrought by weight and measure,<br/>And I was with him then;<br/>Myself the Father's pleasure,<br/>And mine, the sons of men.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thus Wisdom's words discover<br/>Thy glory and thy grace,<br/>Thou everlasting lover<br/>Of our unworthy race:<br/>Thy gracious eye surveyed us<br/>Ere stars were seen above;<br/>In wisdom thou hast made us,<br/>And died for us in love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And couldst thou be delighted<br/>With creatures such as we,<br/>Who, when we saw thee, slighted<br/>And nailed thee to a tree?<br/>Unfathomable wonder,<br/>And mystery divine;<br/>The voice that speaks in thunder<br/>Says: "Sinner, I am thine!"</lines>
+    </verse>
+  </lyrics>
+</song>

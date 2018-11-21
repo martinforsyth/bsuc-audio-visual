@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:33">
+  <properties>
+    <titles>
+      <title>HP620 O bread to pilgrims given</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O bread to pilgrims given,<br/>O food that angels eat,<br/>O manna sent from heaven,<br/>For heav'n-born natures meet:<br/>Give us, for thee long pining,<br/>To eat till richly filled;<br/>Till, earth's delights resigning,<br/>Our every wish is stilled.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O water, life-bestowing,<br/>Forth from the Saviour's heart<br/>A fountain purely flowing,<br/>A fount of love thou art:<br/>O let us, freely tasting,<br/>Our burning thirst assuage;<br/>Thy sweetness, never wasting,<br/>Avails from age to age.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, this feast receiving,<br/>We thee unseen adore;<br/>Thy faithful word believing,<br/>We take, and doubt no more:<br/>Give us, thou true and loving,<br/>On earth to live in thee;<br/>Then, death the veil removing,<br/>Thy glorious face to see.</lines>
+    </verse>
+  </lyrics>
+</song>

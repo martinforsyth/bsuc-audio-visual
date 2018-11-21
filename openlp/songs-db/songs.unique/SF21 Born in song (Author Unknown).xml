@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:01">
+  <properties>
+    <titles>
+      <title>SF21 Born in song</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Born in song!<br/>God's people have always been singing.<br/>Born in song!<br/>Hearts and voices raised.<br/>So today we worship together;<br/>God alone is worthy to be praised.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Praise to God!<br/>For he is the one who made us.<br/>Praise to God!<br/>We his image bear.<br/>Heav'n and earth are full of his glory;<br/>Let creation praise him everywhere.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Christ is King!<br/>He left all the glory of heaven.<br/>Christ is King!<br/>Born to share in our pain;<br/>Crucified, for sinners atoning,<br/>Risen, exalted, soon to come again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Sing the song!<br/>God's Spirit is poured out among us.<br/>Sing the song!<br/>He has made us anew.<br/>Ev'ry member part of his Body;<br/>Given his power, his will to seek and do.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Tell the world!<br/>All power to Jesus is given.<br/>Tell the world!<br/>He is with us always.<br/>Spread the word, that all may receive him;<br/>Every tongue confess and sing his praise.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Then the end!<br/>Christ Jesus shall reign in his glory.<br/>Then the end!<br/>Of all earthly days.<br/>Yet above the song will continue:<br/>All his people still shall sing his praise.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:19">
+  <properties>
+    <titles>
+      <title>HP816 Happy the souls to Jesus joined</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Happy the souls to Jesus joined,<br/>And saved by grace alone;<br/>Walking in all thy ways, we find<br/>Our heaven on earth begun.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The church triumphant in thy love,<br/>Their mighty joys we know;<br/>They sing the Lamb in hymns above,<br/>And we in hymns below.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thee in thy glorious realm they praise,<br/>And bow before thy throne,<br/>We in the kingdom of thy grace -<br/>The kingdoms are but one.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The holy to the holiest leads;<br/>From hence our spirits rise,<br/>And whoso in thy statutes treads<br/>Shall meet thee in the skies.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:35">
+  <properties>
+    <titles>
+      <title>MP774 With joy we meditate the grace (dup)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>With joy we meditate the grace<br/>Of our High Priest above;<br/>His heart is made of tenderness,<br/>And overflows with love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Touched with a sympathy within,<br/>He knows our feeble frame;<br/>He knows what sore temptations mean,<br/>For he has felt the same.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He, in the days of feeble flesh,<br/>Poured out his cries and tears;<br/>And now exalted feels afresh<br/>what every member bears.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He'll never quench the smoking flax,<br/>But raise it to a flame;<br/>The bruised reed he never breaks,<br/>Nor scorns the meanest name.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Then let our humble faith address<br/>His mercy and his power;<br/>We shall obtain delivering grace<br/>In each distressing hour.</lines>
+    </verse>
+  </lyrics>
+</song>

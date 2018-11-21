@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:50">
+  <properties>
+    <titles>
+      <title>HP183 When my love to Christ grows weak</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When my love to Christ grows weak,<br/>When for deeper faith I seek,<br/>Then in thought I go to thee,<br/>Garden of Gethsemane.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There I walk amid the shades,<br/>While the lingering twilight fades,<br/>See that suffering, friendless One,<br/>Weeping, praying there alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When my love for man grows weak,<br/>When for stronger faith I seek,<br/>Hill of Calvary, I go<br/>To thy scenes of fear and woe;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>There behold his agony,<br/>Suffered on the bitter tree;<br/>See his anguish, see his faith,<br/>Love triumphant still in death.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Then to life I turn again,<br/>Learning all the worth of pain,<br/>Learning all the might that lies<br/>In a full self-sacrifice.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>And I praise with firmer faith<br/>Christ who vanquished pain and death;<br/>And to Christ enthroned above<br/>Raise my song of selfless love.</lines>
+    </verse>
+  </lyrics>
+</song>

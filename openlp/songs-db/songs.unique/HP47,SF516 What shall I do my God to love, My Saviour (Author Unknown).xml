@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-02-01T09:08:04">
+  <properties>
+    <titles>
+      <title>HP47,SF516 What shall I do my God to love, My Saviour</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>What shall I do my God to love,<br/>My Saviour, and the world's, to praise?<br/>Whose tenderest compassions move<br/>To me and all the fallen race,<br/>Whose mercy is divinely free<br/>For all the fallen race, and me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I long to know, and to make known,<br/>The heights and depths of love divine,<br/>The kindness thou to me hast shown,<br/>Whose every sin was counted thine:<br/>My God for me resigned his breath;<br/>He died to save my soul from death.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>How shall I thank thee for the grace<br/>On me and all mankind bestowed?<br/>O that my every breath were praise!<br/>O that my heart were filled with God!<br/>My heart would then with love o'erflow,<br/>And all my life thy glory show.</lines>
+    </verse>
+  </lyrics>
+</song>

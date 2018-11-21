@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:54">
+  <properties>
+    <titles>
+      <title>RS538 Teach me, my God and King</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Teach me, my God and King,<br/>In all things thee to see,<br/>And what I do in anything,<br/>To do it as for thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A man that looks on glass<br/>On it may stay his eye;<br/>Or if he pleaseth, through it pass,<br/>And then the heaven espy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All may of thee partake:<br/>Nothing can be so mean,<br/>Which with this tincture, 'For thy sake',<br/>Will not grow bright and clean.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>A servant with this clause<br/>Makes drudgery divine;<br/>Who sweeps a room, as for thy laws,<br/>Makes that and the action fine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>This is the famous stone<br/>That turneth all to gold;<br/>For that which God doth touch and own<br/>Cannot for less be told.</lines>
+    </verse>
+  </lyrics>
+</song>

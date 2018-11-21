@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:08">
+  <properties>
+    <titles>
+      <title>JP288 Who Put The Colours In The Rainbow</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Who put the colours in the rainbow?<br/>Who put the salt into the sea?<br/>Who put the cold into the snowflake?<br/>Who made you and me?<br/>Who put the hump upon the camel?<br/>Who put the neck on the giraffe?<br/>Who put the tail upon the monkey?<br/>Who made hyenas laugh?<br/>Who made whales and snails and quails?<br/>Who made hogs and dogs and frogs?<br/>Who made bats and rats and cats?<br/>Who made everything?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Who put the gold into the sunshine?<br/>Who put the sparkle in the stars?<br/>Who put the silver in the moonlight?<br/>Who made Earth and Mars?<br/>Who put the scent into the roses?<br/>Who taught the honey bee to dance?<br/>Who put the tree inside the acorn?<br/>It surely can't be chance!<br/>Who made seas and leaves and trees?<br/>Who made snow and winds that blow?<br/>Who made streams and rivers flow?<br/>God made all of these!</lines>
+    </verse>
+  </lyrics>
+</song>

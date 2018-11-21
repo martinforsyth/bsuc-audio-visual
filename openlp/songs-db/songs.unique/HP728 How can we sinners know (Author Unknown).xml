@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:53">
+  <properties>
+    <titles>
+      <title>HP728 How can we sinners know</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How can we sinners know<br/>Our sins on earth forgiven?<br/>How can our gracious Saviour show<br/>Our names inscribed in heaven?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We who in Christ believe<br/>That he for us hath died,<br/>We all his unknown peace receive,<br/>And feel his blood applied.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>His love, surpassing far<br/>The love of all beneath,<br/>We find within our hearts, and dare<br/>The pointless darts of death.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Stronger than death and hell<br/>The mystic power we prove;<br/>And, conquerors of the world, we dwell<br/>In heaven, who dwell in love.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The meek and lowly heart<br/>That in our Saviour was,<br/>To us his Spirit cloth impart,<br/>And signs us with his cross.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Our nature's turned, our mind<br/>Transformed in all its powers;<br/>And both the witnesses are joined,<br/>The Spir't of God with ours.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>His glory our design,<br/>We live our God to please;<br/>And rise with filial fear divine,<br/>To perfect holiness.</lines>
+    </verse>
+  </lyrics>
+</song>

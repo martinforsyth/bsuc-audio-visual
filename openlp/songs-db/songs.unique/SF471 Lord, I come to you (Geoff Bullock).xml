@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-06-28T20:47:22">
+  <properties>
+    <titles>
+      <title>SF471 Lord, I come to you</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Geoff Bullock</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, I come to you,<br/>let my heart be changed, renewed,<br/>flowing from the grace<br/>that I found in you.<br/>And Lord, I've come to know<br/>the weaknesses I see in me<br/>will be stripped away<br/>by the power of your love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Hold me close,<br/>let your love surround me;<br/>bring me near, draw me to your side.<br/>And as I wait,<br/>I'll rise up like the eagle,<br/>and I will soar with you,<br/>your Spirit leads me on<br/>in the power of your love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord, unveil my eyes,<br/>let me see you face to face,<br/>the knowledge of your love<br/>as you live in me.<br/>Lord, renew my mind,<br/>as your will unfolds in my life<br/>in living every day<br/>by the power of your love.</lines>
+    </verse>
+  </lyrics>
+</song>

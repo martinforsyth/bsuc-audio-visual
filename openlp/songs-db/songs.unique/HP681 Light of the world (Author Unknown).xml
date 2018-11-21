@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:44">
+  <properties>
+    <titles>
+      <title>HP681 Light of the world</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Light of the world, thy beams I bless;<br/>On thee, bright Sun of Righteousness,<br/>My faith has fixed its eye;<br/>Guided by thee, through all I go,<br/>Nor fear the ruin spread below,<br/>For thou art always nigh.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Not all the powers of hell can fright<br/>A soul that walks with Christ in light;<br/>He walks, and cannot fall:<br/>Clearly he sees, and wins his way,<br/>Shining unto the perfect day,<br/>And more than conquers all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I rest in thine almighty power;<br/>The name of Jesus is a tower<br/>That hides my life above;<br/>Thou canst, thou wilt my helper be;<br/>My confidence is all in thee,<br/>The faithful God of love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Wherefore, in never-ceasing prayer,<br/>My soul to thy continual care<br/>I faithfully commend;<br/>Assured that thou through life shalt save,<br/>And show thyself beyond the grave<br/>My everlasting friend.</lines>
+    </verse>
+  </lyrics>
+</song>

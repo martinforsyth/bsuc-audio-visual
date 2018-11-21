@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:36">
+  <properties>
+    <titles>
+      <title>MP790 You Are The King Of Glory</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You are the King of glory,<br/>You are the Prince of Peace;<br/>You are the Lord of heaven and earth,<br/>You're the Sun of righteousness.<br/>Angels bow down before You,<br/>worship and adore,<br/>for you have the words of eternal life,<br/>You are Jesus Christ the Lord.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Hosanna to the Son of David!<br/>Hosanna to the King of kings!<br/>Glory in the highest heaven,<br/>for Jesus the Messiah reigns.</lines>
+    </verse>
+  </lyrics>
+</song>

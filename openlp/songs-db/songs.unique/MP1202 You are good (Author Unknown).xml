@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:30">
+  <properties>
+    <titles>
+      <title>MP1202 You are good</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 v3 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord let Your glory fall<br/>As on that ancient day<br/>Songs of enduring love,<br/>And then Your glory came<br/>And as a sign to You<br/>That we would love the same<br/>Our hearts will sing that song<br/>God let Your glory come</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Voices in unison<br/>Giving You thanks and praise<br/>Joined by the instruments<br/>And then Your glory came<br/>Your presence like a cloud<br/>Upon that ancient day<br/>The priests were overwhelmed<br/>Because Your glory came</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>A sacrifice was made<br/>And then Your fire came<br/>They knelt upon the ground<br/>And with one voice they praised<br/>(repeat)</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>You are good, You are good<br/>And Your love endures (x3)<br/>Today</lines>
+    </verse>
+  </lyrics>
+</song>

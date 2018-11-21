@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:25">
+  <properties>
+    <titles>
+      <title>HP823 Ye choirs of new Jerusalem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Ye choirs of new Jerusalem,<br/>Your sweetest notes employ,<br/>The paschal victory to hymn<br/>In strains of holy joy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For Judah's lion burst his chains,<br/>And crushed the serpent's head;<br/>And brought with him from death's domains<br/>The long-imprisoned dead.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>From hell's devouring jaws the prey<br/>Alone our leader bore;<br/>His ransomed hosts pursue their way<br/>Where he has gone before.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Triumphant in his glory now,<br/>To him all power is given;<br/>To him in one communion bow<br/>All saints in earth and heaven.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>While joyful thus his praise we sing,<br/>His mercy we implore,<br/>Into his palace bright to bring<br/>And keep us evermore.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>All glory to the Father be,<br/>All glory to the Son,<br/>All glory, Holy Ghost, to thee,<br/>While endless ages run.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Alleluia! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:47">
+  <properties>
+    <titles>
+      <title>SF685 In Christ there is no east or west</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In Christ there is no east or west,<br/>in him no south or north,<br/>but one great fellowship of love<br/>throughout the whole wide earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In him shall true hearts everywhere<br/>their high communion find;<br/>his service is the golden cord<br/>close-binding humankind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Join hands then all the human race,<br/>whate'er your nation be;<br/>all children of the living God<br/>are surely kin to me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In Christ now meet both east and west,<br/>in him meet south and north;<br/>all Christlike souls are one in him,<br/>throughout the whole wide earth.</lines>
+    </verse>
+  </lyrics>
+</song>

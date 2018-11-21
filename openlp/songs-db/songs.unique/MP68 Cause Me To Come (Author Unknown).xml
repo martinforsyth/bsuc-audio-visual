@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:23">
+  <properties>
+    <titles>
+      <title>MP68 Cause Me To Come</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Cause me to come to Thy river, O Lord,<br/>Cause me to come to Thy river, O Lord,<br/>Cause me to come to Thy river, O Lord,<br/>Cause me to come,<br/>Cause me to drink,<br/>Cause me to live.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Cause me to drink from Thy river, O Lord,<br/>Cause me to drink from Thy river, O Lord,<br/>Cause me to drink from Thy river, O Lord,<br/>Cause me to come,<br/>Cause me to drink,<br/>Cause me to live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Cause me to live by Thy river, O Lord,<br/>Cause me to live by Thy river, O Lord,<br/>Cause me to live by Thy river, O Lord,<br/>Cause me to come,<br/>Cause me to drink,<br/>Cause me to live.</lines>
+    </verse>
+  </lyrics>
+</song>

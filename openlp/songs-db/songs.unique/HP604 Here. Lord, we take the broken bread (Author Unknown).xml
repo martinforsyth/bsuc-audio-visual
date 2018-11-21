@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:30">
+  <properties>
+    <titles>
+      <title>HP604 Here. Lord, we take the broken bread</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Here. Lord, we take the broken bread<br/>And drink the wine, believing<br/>That by your life our souls are fed,<br/>Your parting gifts receiving</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>As you have giv'n, so we would give<br/>Ourselves for others' healing;<br/>As you have lived, so we would live,<br/>The Father's love revealing.</lines>
+    </verse>
+  </lyrics>
+</song>

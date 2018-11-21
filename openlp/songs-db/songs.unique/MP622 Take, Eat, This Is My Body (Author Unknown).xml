@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:20">
+  <properties>
+    <titles>
+      <title>MP622 Take, Eat, This Is My Body</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My blood was shed for many,<br/>Taking away your sin,<br/>And if I shall make you free<br/>Then you shall be free indeed,<br/>You shall be free indeed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Though your sins be as scarlet<br/>They shall be white as snow,<br/>Though they be red like crimson<br/>They shall be as wool,<br/>They shall be as wool.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For God so loved the world<br/>He gave His only Son,<br/>That whosoever believeth on Him<br/>Might have everlasting life,<br/>Might have everlasting life.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Take, eat, this is my body,<br/>Broken for you,<br/>For I am come that you might have life;<br/>Eat of My flesh and live,<br/>Eat of My flesh and live.</lines>
+    </verse>
+  </lyrics>
+</song>

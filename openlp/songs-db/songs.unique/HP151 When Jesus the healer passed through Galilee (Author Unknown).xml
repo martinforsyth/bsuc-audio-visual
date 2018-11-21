@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:48">
+  <properties>
+    <titles>
+      <title>HP151 When Jesus the healer passed through Galilee</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When Jesus the healer passed through Galilee,<br/>Heal us, heal us today!<br/>The deaf came to hear and the blind came to see.<br/>Heal us, Lord Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A paralysed man was let down through a roof.<br/>Heal us, heal us today!<br/>His sins were forgiven, his walking the proof.<br/>Heal us, Lord Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The death of his daughter caused Jairus to weep.<br/>Heal us, heal us today!<br/>The Lord took her hand, and he raised her from sleep.<br/>Heal us, Lord Jesus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When blind Bartimaeus cried out to the Lord,<br/>Heal us, heal us today!<br/>His faith made him whole and his sight was restored.<br/>Heal us, Lord Jesus!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The twelve were commissioned and sent out in twos<br/>Heal us, heal us today!<br/>to make the sick whole and to spread the good news.<br/>Heal us, Lord Jesus!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>The lepers were healed and the demons cast out.<br/>Heal us, heal us today!<br/>Now lame leap for joy and the dumb laugh and shout.<br/>Heal us, Lord Jesus!</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>There's still so much sickness and suffering today.<br/>Heal us, heal us today!<br/>We gather together for healing and pray:<br/>Heal us, Lord Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

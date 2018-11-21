@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:56">
+  <properties>
+    <titles>
+      <title>HP227 Lift up your heads, ye gates of brass</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lift up your heads, ye gates of brass;<br/>Ye bars of iron, yield;<br/>And let the King of Glory pass;<br/>The cross is in the field.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A holy war his servants wage,<br/>Mysteriously at strife;<br/>The powers of heaven and hell engage<br/>For more than death or life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Ye armies of the living God,<br/>His sacramental host,<br/>Where hallowed footstep never trod<br/>Take your appointed post.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Though few and small and weak your bands,<br/>Strong in your Captain's strength,<br/>Go to the conquest of all lands:<br/>All must be his at length.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Then fear not, faint not, halt not now;<br/>In Jesus' name be strong;<br/>To him shall all the nations bow,<br/>And sing the triumph-song:</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>'Uplifted are the gates of brass;<br/>The bars of iron yield;<br/>Behold the King of Glory pass:<br/>The cross has won the field!'</lines>
+    </verse>
+  </lyrics>
+</song>

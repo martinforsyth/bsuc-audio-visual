@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:15">
+  <properties>
+    <titles>
+      <title>MP1051 Hear My Prayer, O Lord</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hear My Prayer, O Lord<br/>From the ends of the earth I cry.<br/>Your peace will lead me to<br/>The Rock that is higher than I.<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For You have been my strength in times of trouble,<br/>A tower above my enemies.<br/>And Lord, I will abide with you forever<br/>In the shelter of Your wings.<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

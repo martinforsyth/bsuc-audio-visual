@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:11">
+  <properties>
+    <titles>
+      <title>MP1018 You Are Merciful To Me</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You are merciful to me,<br/>You are merciful to me,<br/>You are merciful to me, my Lord.<br/>You Are Merciful To Me,<br/>You are merciful to me,<br/>You are merciful to me, my Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Every day my disobedience<br/>Grieves Your loving heart;<br/>But then redeeming love breaks through,<br/>And causes me to worship You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>(Men (Women echo))<br/>Redeemer,<br/>Saviour,<br/>Healer<br/>And Friend.<br/>Every day<br/>Renew my ways,<br/>Fill me with love<br/>That never ends.</lines>
+    </verse>
+  </lyrics>
+</song>

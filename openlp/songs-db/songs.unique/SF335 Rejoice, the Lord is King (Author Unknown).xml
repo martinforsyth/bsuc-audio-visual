@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:30">
+  <properties>
+    <titles>
+      <title>SF335 Rejoice, the Lord is King</title>
+    </titles>
+    <verseOrder>v2 v1 v3 v1 v4 v1 v5 v1 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lift up your heart, lift up your voice;<br/>rejoice!  Again I say: rejoice!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Rejoice, the Lord is King!<br/>Your Lord and King adore;<br/>mortals, give thanks, and sing,<br/>and triumph evermore:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus the Saviour reigns,<br/>the God of truth and love;<br/>when he had purged our stains,<br/>he took his seat above:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>His kingdom cannot fail,<br/>he rules both earth and heaven;<br/>the keys of death and hell<br/>are to our Jesus given:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>He sits at God's right hand<br/>till all his foes submit,<br/>and bow to his command,<br/>and fall beneath his feet:</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Rejoice in glorious hope;<br/>Jesus the Judge shall come,<br/>and take his servants up<br/>to their eternal home:</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>We soon shall hear the archangel's voice;<br/>God's trumpet-call shall sound: rejoice!</lines>
+    </verse>
+  </lyrics>
+</song>

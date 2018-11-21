@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:05">
+  <properties>
+    <titles>
+      <title>HP275 Thou hidden Source of calm repose</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thou hidden Source of calm repose,<br/>Thou all sufficient love divine;<br/>My help and refuge from my foes,<br/>Secure I am, if Thou art mine,<br/>From sin and grief, from guilt and shame:<br/>I hide me, Jesus, in Thy name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thy mighty Name salvation is,<br/>And keeps my happy soul above;<br/>Comfort it brings, and power and peace,<br/>And joy and everlasting love;<br/>To me, with Thy dear Name, are given<br/>Pardon and holiness and Heaven.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, my all in all Thou art,<br/>My rest in toil, mine ease in pain;<br/>The med'cine of my broken heart;<br/>In war, my peace; in loss, my gain:<br/>My smile beneath the tyrant's frown;<br/>In shame, my glory and my crown.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In want, my plentiful supply;<br/>In weakness, mine almighty power;<br/>In bonds, my perfect liberty;<br/>My light in Satan's darkest hour;<br/>In grief, my joy unspeakable;<br/>My life in death; my heaven, my all.</lines>
+    </verse>
+  </lyrics>
+</song>

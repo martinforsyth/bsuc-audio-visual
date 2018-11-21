@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:01">
+  <properties>
+    <titles>
+      <title>HP247 Thou Judge of quick and dead</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thou Judge of quick and dead,<br/>Before whose bar severe<br/>With holy joy, or guilty dread,<br/>We all shall soon appear:<br/>Our cautioned souls prepare<br/>For that tremendous day,<br/>And fill us now with watchful care,<br/>And stir us up to pray -</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>To pray, and wait the hour,<br/>That aweful hour unknown,<br/>When, robed in majesty and power,<br/>Thou shalt from heaven come down,<br/>The immortal Son of Man,<br/>To judge the human race,<br/>With all thy Father's dazzling train,<br/>With all thy glorious grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O may we thus be found<br/>Obedient to his word,<br/>Attentive to the trumpet's sound,<br/>And looking for our Lord!<br/>O may we thus ensure<br/>Our lot among the blest;<br/>And watch a moment to secure<br/>An everlasting rest!</lines>
+    </verse>
+  </lyrics>
+</song>

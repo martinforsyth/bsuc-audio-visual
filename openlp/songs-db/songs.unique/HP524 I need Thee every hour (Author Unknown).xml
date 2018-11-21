@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:01">
+  <properties>
+    <titles>
+      <title>HP524 I need Thee every hour</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I need Thee every hour,<br/>Most gracious Lord;<br/>No tender voice like Thine<br/>Can peace afford.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I need Thee every hour,<br/>Stay Thou near by;<br/>Temptations lose their power<br/>When Thou art nigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I need Thee every hour,<br/>In joy or pain;<br/>Come quickly and abide,<br/>Or life is vain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I need Thee every hour,<br/>Teach me Thy will;<br/>And Thy rich promises<br/>In me fulfil.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>I need Thee every hour,<br/>Most Holy One;<br/>Oh, make me Thine indeed,<br/>Thou blessed Son!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>I need Thee, oh, I need Thee,<br/>Every hour I need Thee;<br/>Oh, bless me now, my Saviour,<br/>I come to Thee!</lines>
+    </verse>
+  </lyrics>
+</song>

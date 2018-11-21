@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:04">
+  <properties>
+    <titles>
+      <title>HP533 Lord Jesus, think on me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord Jesus, think on me,<br/>And purge away my sin;<br/>From earthborn passions set me free,<br/>And make me pure within.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lord Jesus, think on me<br/>With care and woe oppressed;<br/>Let me thy loving servant be,<br/>And taste thy promised rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord Jesus, think on me,<br/>Nor let me go astray;<br/>Through darkness and perplexity<br/>Point thou the heavenly way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord Jesus, think on me,<br/>That, when the flood is past,<br/>I may the eternal brightness see,<br/>And share thy joy at last.</lines>
+    </verse>
+  </lyrics>
+</song>

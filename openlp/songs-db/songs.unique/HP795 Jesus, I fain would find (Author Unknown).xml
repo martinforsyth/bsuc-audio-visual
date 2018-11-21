@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:03">
+  <properties>
+    <titles>
+      <title>HP795 Jesus, I fain would find</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, I fain would find<br/>Thy zeal for God in me,<br/>Thy yearning pity for mankind,<br/>Thy burning charity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In me thy Spirit dwell;<br/>In me thy mercies move:<br/>So shall the fervour of my zeal<br/>Be thy pure flame of love.</lines>
+    </verse>
+  </lyrics>
+</song>

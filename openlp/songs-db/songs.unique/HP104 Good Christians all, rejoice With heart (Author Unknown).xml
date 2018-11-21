@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:45">
+  <properties>
+    <titles>
+      <title>HP104 Good Christians all, rejoice With heart</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Good Christians all, rejoice<br/>With heart and soul and voice!<br/>Give ye heed to what we say;<br/>Jesus Christ is born today!<br/>Ox and ass before him bow,<br/>And he is in the manger now.<br/>Christ is born today!<br/>Christ is born today!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Good Christians all, rejoice<br/>With heart and soul and voice!<br/>Now ye hear of endless bliss,<br/>Jesus Christ was born for this;<br/>He hath oped the heavenly door,<br/>And all are blest for evermore.<br/>Christ was born for this!<br/>Christ was born for this!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Good Christians all, rejoice<br/>With heart and soul and voice!<br/>Now ye need not fear the grave.<br/>Jesus Christ was born to save,<br/>Calls you one and calls you all,<br/>To gain his everlasting hall.<br/>Christ was born to save!<br/>Christ was born to save!</lines>
+    </verse>
+  </lyrics>
+</song>

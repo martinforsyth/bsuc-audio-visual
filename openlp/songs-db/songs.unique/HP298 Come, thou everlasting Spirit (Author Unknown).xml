@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:08">
+  <properties>
+    <titles>
+      <title>HP298 Come, thou everlasting Spirit</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, thou everlasting Spirit,<br/>Bring to every thankful mind<br/>All the Saviour's dying merit,<br/>All his sufferings for mankind:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>True recorder of his passion,<br/>Now the living faith impart,<br/>Now reveal his great salvation,<br/>Preach his gospel to our heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come, thou witness of his dying;<br/>Come, remembrancer divine,<br/>Let us feel thy power, applying<br/>Christ to every soul, and mine.</lines>
+    </verse>
+  </lyrics>
+</song>

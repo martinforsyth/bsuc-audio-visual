@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:40">
+  <properties>
+    <titles>
+      <title>HP42 O love of God, how strong and true</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O love of God, how strong and true;<br/>Eternal, and yet ever new;<br/>Uncomprehended and unbought,<br/>Beyond all knowledge and all thought!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O heavenly Love, how precious still,<br/>In days of weariness and ill,<br/>In nights of pain and helplessness,<br/>To heal, to comfort, and to bless.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O wide-embracing, wondrous love;<br/>We read thee in the sky above,<br/>We read thee in the earth below,<br/>In seas that swell and streams that now.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We read thee best in Him who came<br/>To bear for us the Cross of shame,<br/>Sent by the Father from on high,<br/>Our life to live, our death to die.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>We read thy power to bless and save<br/>E'en in the darkness of the grave;<br/>Still more in resurrection light<br/>We read the fullness of thy might.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O Love of God, our shield and stay<br/>Through all the perils of our way;<br/>Eternal Love, in thee we rest,<br/>For ever safe, for ever blest.</lines>
+    </verse>
+  </lyrics>
+</song>

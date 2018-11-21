@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:03:21">
+  <properties>
+    <titles>
+      <title>MP51 Be thou my vision, O Lord of my heart</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Be Thou my vision, O Lord of my heart,<br/>naught be all else to me, save that Thou art;<br/>Thou my best thought by day or by night,<br/>waking or sleeping, thy presence my light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Be Thou my wisdom, Thou my true Word,<br/>I ever with Thee, Thou with me Lord;<br/>Thou my great Father, I thy true son;<br/>Thou in me dwelling, and I with Thee one.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Be thou my battle-shield, sword for the fight;<br/>be thou my dignity, Thou my delight.<br/>Thou my souls's shelter, Thou my high tower:<br/>raise Thou me heavenward,<br/>O Power of my power.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Riches I heed not, nor man's empty praise:<br/>Thou mine inheritance now and always, -<br/>Thou and thou only the first in my heart:<br/>High King of heaven, my treasure thou art.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>High King of heaven, after victory won,<br/>may I reach heaven's joys, O bright heaven's Sun!<br/>Heart of my own heart, whatever befall,<br/>still be my vision, O ruler of all.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:31">
+  <properties>
+    <titles>
+      <title>HP606 Deck thyself, my soul, with gladness</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Deck thyself, my soul, with gladness,<br/>Leave the gloomy haunts of sadness,<br/>Come into the daylight's splendour,<br/>There with joy thy praises render<br/>Unto him whose grace unbounded<br/>Hath this wondrous banquet founded;<br/>High o'er all the heavens he reigneth,<br/>Yet to dwell with thee he deigneth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sun, who all my life dost brighten;<br/>Light, who dost my soul enlighten;<br/>Joy, the sweetest e'er one knoweth;<br/>Fount, whence all my being floweth:<br/>At thy feet I cry, my Maker,<br/>Let me be a fit partaker<br/>Of this blessed food from heaven,<br/>For our good, thy glory, given.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, Bread of Life, I pray thee,<br/>Let me gladly here obey thee;<br/>Never to my hurt invited,<br/>Be thy love with love requited:<br/>From this banquet let me measure,<br/>Lord, how vast and deep its treasure;<br/>Through the gifts thou here dost give me,<br/>As thy guest in heaven receive me.</lines>
+    </verse>
+  </lyrics>
+</song>

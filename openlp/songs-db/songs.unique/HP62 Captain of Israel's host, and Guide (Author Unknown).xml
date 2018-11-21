@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:42">
+  <properties>
+    <titles>
+      <title>HP62 Captain of Israel's host, and Guide</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Captain of Israel's host, and Guide<br/>Of all who seek the land above,<br/>Beneath thy shadow we abide,<br/>The cloud of thy protecting love;<br/>Our strength, thy grace; our rule, thy word;<br/>Our end, the glory of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>By thine unerring Spirit led,<br/>We shall not in the desert stray;<br/>We shall not full direction need,<br/>Nor miss our providential way;<br/>As far from danger as from fear,<br/>While love, almighty love, is near.</lines>
+    </verse>
+  </lyrics>
+</song>

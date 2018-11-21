@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:44">
+  <properties>
+    <titles>
+      <title>HP683 My faith looks up to thee</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My faith looks up to thee,<br/>Thou Lamb of Calvary,<br/>Saviour divine:<br/>Now hear me while I pray;<br/>Take all my guilt away;<br/>O let me from this day<br/>Be wholly thine!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>While life's dark maze I tread,<br/>And griefs around me spread,<br/>Be thou my guide;<br/>Bid darkness turn to day,<br/>Wipe sorrow's tears away,<br/>Nor let me ever stray<br/>From thee aside.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>May thy rich grace impart<br/>Strength to my fainting heart,<br/>My zeal inspire;<br/>As thou hast died for me,<br/>O may my love to thee<br/>Pure, warm, and changeless be,<br/>A living fire.</lines>
+    </verse>
+  </lyrics>
+</song>

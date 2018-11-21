@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:41">
+  <properties>
+    <titles>
+      <title>HP453 We come unto our faithful God (R&amp;S484)</title>
+    </titles>
+    <verseOrder>v1 v2 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We come unto our faithful God;<br/>the  Rock of our Salvation;<br/>the eternal arms, that sure abode,<br/>we make our habitation;<br/>we seek thee as thy saints have sought.<br/>we bring thee, Lord, the praise they brought<br/>In every generation.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The fire divine their steps that led<br/>still goeth bright before us;<br/>the heavenly shield around them spread<br/>is still uplifted o'er us;<br/>the grace those sinners that subdued,<br/>the strength those weaklings that renewed,<br/>doth vanquish, doth restore us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Their joy unto their Lord we bring;<br/>their song to us descendeth;<br/>the Spirit who in them did sing<br/>to us his music lendeth;<br/>his song in them, in us, is one;<br/>we raise it high, we send it on,<br/>the song that never endeth.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Ye saints to come, take up the strain,<br/>the same sweet theme endeavour;<br/>unbroken be the golden chain;<br/>keep on the song for ever;<br/>safe in the same dear dwelling-place,<br/>rich with the same eternal grace,<br/>bless the same boundless Giver.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:19">
+  <properties>
+    <titles>
+      <title>MP1097 How good it is</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God of love, I come to You again<br/>Knowing I'll find mercy<br/>I can't explain all the things I see<br/>But I'll trust in You<br/>In every moment You are there<br/>Watching over, You hear my prayer<br/>You go before me, You're behind me<br/>Nothing's hidden from You</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O God of strength<br/>Your hand is on my life<br/>Bringing peace to me<br/>You know my frame<br/>You know how I am made<br/>You planned all my days<br/>Hand of mercy, hand of love<br/>Giving power to overcome<br/>If all beneath me falls away<br/>I know that You are God</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>How good it is to be loved by You<br/>How good it is<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:49">
+  <properties>
+    <titles>
+      <title>MP936 Teach me to dance</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You wrote the rhythm of life,<br/>created Heaven and earth,<br/>in You is joy without measure.<br/>So, like a child in Your sight,<br/>I dance to see Your delight,<br/>for I was made for Your pleasure,<br/>pleasure.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Let all my movements express<br/>a heart that loves to say 'yes',<br/>a will that leaps to obey You.<br/>Let all my energy blaze<br/>to see the joy in Your face;<br/>let my whole being praise You,<br/>praise You.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Teach me to dance<br/>to the beat of Your heart,<br/>teach me to move<br/>in the power of Your Spirit,<br/>teach me to walk<br/>in the light of Your presence,<br/>teach me to dance<br/>to the beat of Your heart.<br/>Teach me to love<br/>with Your heart of compassion,<br/>teach me to trust<br/>in the word of Your promise,<br/>teach me to hope<br/>in the day of Your coming,<br/>teach me to dance<br/>to the beat of Your heart.</lines>
+    </verse>
+  </lyrics>
+</song>

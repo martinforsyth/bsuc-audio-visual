@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:06">
+  <properties>
+    <titles>
+      <title>MP996 Jesus God's righteousness revealed</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, God's righteousness revealed,<br/>The Son of Man, the Son of God,<br/>His kingdom comes.<br/>Jesus, redemption's sacrifice,<br/>Now glorified, now justified,<br/>His kingdom comes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus, the expression of God's love,<br/>The grace of God, the word of God,<br/>Revealed to us;<br/>Jesus, God's holiness displayed,<br/>Now glorified, now justified,<br/>His kingdom comes.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>And His kingdom will know no end,<br/>And its glory shall know no bounds,<br/>For the majesty and power<br/>Of this kingdom's King has come,<br/>And this kingdom's reign,<br/>And this kingdom's rule,<br/>And this kingdom's power and authority,<br/>Jesus, God's righteousness revealed.</lines>
+    </verse>
+  </lyrics>
+</song>

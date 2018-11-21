@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:28">
+  <properties>
+    <titles>
+      <title>MP696 Thou Art Worthy</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thou art worthy, thou art worthy,<br/>Thou art worthy, O Lord.<br/>To receive glory, glory and honour,<br/>Glory and honour and power.<br/>For Thou hast created, hast all things created,<br/>Thou hast created all things;<br/>And for Thy pleasure they are created,<br/>Thou art worthy, O Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

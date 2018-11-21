@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T19:59:42">
+  <properties>
+    <titles>
+      <title>HP57 Sing a new song to the Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing a new song to the Lord,<br/>He to whom wonders belong!<br/>Rejoice in his triumph and tell of his power -<br/>O sing to the Lord a new song!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Now to the ends of the earth<br/>See his salvation is shown;<br/>And still he remembers his mercy and truth,<br/>Unchanging in love to his own.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Sing a new song and rejoice<br/>Publish his praises abroad!<br/>Let voices in chorus, with trumpet and horn,<br/>Resound for the joy of the Lord!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Join with the hills and the sea<br/>Thunders of praise to prolong!<br/>In judgement and justice he comes to the earth -<br/>O sing to the Lord a new song!</lines>
+    </verse>
+  </lyrics>
+</song>

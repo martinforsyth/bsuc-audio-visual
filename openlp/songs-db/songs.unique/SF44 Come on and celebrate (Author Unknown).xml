@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:03">
+  <properties>
+    <titles>
+      <title>SF44 Come on and celebrate</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come on and celebrate his gift of love, we will celebrate<br/>the Son of God who loved us<br/>and gave us life.<br/>We'll shout your praise, O King,<br/>you give us joy nothing else can bring,<br/>we'll give to you our offering<br/>in celebration praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come on and celebrate,<br/>celebrate,<br/>celebrate and sing,<br/>celebrate and sing to the King.<br/>Come on and celebrate,<br/>celebrate,<br/>celebrate and sing,<br/>celebrate and sing to the King.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:36">
+  <properties>
+    <titles>
+      <title>SF462 Come with me, come wander</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come with me, come wander, come welcome the world<br/>where strangers might smile or where stones may be hurled;<br/>come leave what you cling to, lay down what you clutch<br/>and find, with hands empty, that hearts can hold much.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come walk in my company, come sleep by my side,<br/>come savour a lifestyle with nothing to hide;<br/>come sit at my table and eat with my friends,<br/>discovering that love which the world never ends.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come share in my laughter, come close to my fears,<br/>come find yourself washed with the kiss of my tears;<br/>come stand close at hand while I suffer and die<br/>and find in three days how I never will lie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Come leave your possessions, come share out your treasure,<br/>come give and receive without method or measure;<br/>come loose every bond that's resisting the Spirit,<br/>enabling the earth to be yours to inherit.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Sing hey for the carpenter leaving his tools!<br/>sing hey for the pharisees leaving their rules!<br/>sing hey for the fishermen leaving their nets!<br/>sing hey for the people who leave their regrets!</lines>
+    </verse>
+  </lyrics>
+</song>

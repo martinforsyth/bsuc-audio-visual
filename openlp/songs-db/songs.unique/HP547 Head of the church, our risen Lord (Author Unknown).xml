@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:08">
+  <properties>
+    <titles>
+      <title>HP547 Head of the church, our risen Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Head of the church, our risen Lord,<br/>Who by thy Spirit dost preside<br/>O'er the whole body, by whose word<br/>We all are ruled and sanctified:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our prayers and intercessions hear<br/>For all thy family at large,<br/>That all in their appointed sphere<br/>Their proper service may discharge.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>So, through the grace derived from thee,<br/>In whom all fullness dwells above,<br/>May thy whole church united be,<br/>And edify itself in love.</lines>
+    </verse>
+  </lyrics>
+</song>

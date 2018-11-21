@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:01:47">
+  <properties>
+    <titles>
+      <title>HP696 Jesus, thy boundless love to me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, thy boundless love to me<br/>No thought can reach, no tongue declare;<br/>O knit my thankful heart to thee,<br/>And reign without a rival there:<br/>Thine wholly, thine alone, I am;<br/>Be thou alone my constant flame.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>From all eternity, with love<br/>Unchangeable thou hast me viewed;<br/>Ere knew this beating heart to move,<br/>Thy tender mercies me pursued:<br/>Ever with me thy love abide,<br/>And close me in on every side.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O grant that nothing in my soul<br/>May dwell, but thy pure love alone;<br/>O may thy love possess me whole,<br/>My joy, my treasure, and my crown:<br/>Strange fires far from my heart remove;<br/>My every act, word, thought, be love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Still let thy love point out my way;<br/>How wondrous things thy love has wrought!<br/>Still lead me, lest I go astray;<br/>Direct my word, inspire my thought;<br/>And if I fall, soon may I hear<br/>Thy voice, and know that love is near.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>In suffering be thy love my peace,<br/>In weakness my almighty power;<br/>And when the storms of life shall cease,<br/>Jesus, in that important hour,<br/>In death as life be thou my guide,<br/>And save me, who for me hast died.</lines>
+    </verse>
+  </lyrics>
+</song>

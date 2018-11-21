@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:02:06">
+  <properties>
+    <titles>
+      <title>HP801 O God, what offering shall I give</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God, what offering shall I give<br/>To thee, the Lord of earth and skies?<br/>My spirit, soul, and flesh receive,<br/>A holy, living sacrifice:<br/>Small as it is, 'tis all my store;<br/>More shouldst thou have, if I had more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Now, O my God, thou hast my soul,<br/>No longer mine, but thine I am;<br/>Guard thou thine own possess it whole,<br/>Cheer it with hope, with love inflame;<br/>Thou hast my spirit, there display<br/>Thy glory to the perfect day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thou hast my flesh, thy hallowed shrine,<br/>Devoted solely to thy will;<br/>Here let thy light for ever shine,<br/>This house still let thy presence fill;<br/>O source of life, live, dwell, and move<br/>In me, till all my life be love!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Send down thy likeness from above,<br/>And let this my adorning be;<br/>Clothe me with wisdom, patience, love,<br/>With lowliness and purity,<br/>Than gold and pearls more precious far,<br/>And brighter than the morning star.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord, arm me with thy Spirit's might,<br/>Since I am called by thy great name;<br/>In thee let all my thoughts unite,<br/>Of all my works be thou the aim:<br/>Thy love attend me all my days,<br/>And my sole business be thy praise.</lines>
+    </verse>
+  </lyrics>
+</song>

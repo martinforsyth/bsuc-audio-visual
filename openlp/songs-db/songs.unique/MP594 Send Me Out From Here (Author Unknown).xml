@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:04:16">
+  <properties>
+    <titles>
+      <title>MP594 Send Me Out From Here</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Go now, and carry the news<br/>To all creation-<br/>every race and tongue;<br/>Take no purse with you,<br/>Take nothing to eat<br/>for He will supply your every need.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Go now, bearing the light,<br/>Living for others,<br/>Fearlessly walking into the night;<br/>Take no thought for your lives,<br/>Like lambs among wolves,<br/>Full of the Spirit, ready to die.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Send me out from here, Lord,<br/>To serve a world in need.<br/>May I know no man by the coat he wears,<br/>But the heart that Jesus sees.<br/>And may the light of Your face<br/>Shine upon me, Lord.<br/>You have filled my heart with the greatest joy,<br/>And my cup is overflowing.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:00:54">
+  <properties>
+    <titles>
+      <title>HP497 How pleased and blest was I</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How pleased and blest was I<br/>To hear the people cry,<br/>Come, let us seek our God today!<br/>Yes, with a cheerful zeal<br/>We haste to Zion's hill,<br/>And there our vows and honours pay.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Zion, thrice happy place,<br/>Adorned with wondrous grace,<br/>And walls of strength embrace thee round;<br/>In thee our tribes appear,<br/>To pray, and praise, and hear<br/>The sacred gospel's joyful sound.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There David's greater Son<br/>Has fixed his royal throne,<br/>He sits for grace and judgement there;<br/>He bids the saint be glad,<br/>He makes the sinner sad,<br/>And humble souls rejoice with fear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>May peace attend thy gate,<br/>And joy within thee wait<br/>To bless the soul of every guest;<br/>On all that seek thy peace<br/>And wish for thine increase<br/>A thousand blessings ever rest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>My tongue repeats her vows,<br/>Peace to this sacred house!<br/>For there my friends and kindred dwell;<br/>And since my glorious God<br/>Makes thee his blest abode,<br/>My soul shall ever love thee well.</lines>
+    </verse>
+  </lyrics>
+</song>

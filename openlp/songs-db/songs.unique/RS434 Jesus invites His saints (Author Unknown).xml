@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:05:51">
+  <properties>
+    <titles>
+      <title>RS434 Jesus invites His saints</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus invites His saints<br/>To meet around His board;<br/>Here pardoned rebels sit and hold<br/>Communion with their Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For food he gives his flesh,<br/>he bids us drink his blood;<br/>amazing favour! matchless grace<br/>of our descending God!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>This holy bread and wine<br/>Maintain our fainting breath,<br/>By union with our living Lord,<br/>And interest in His death.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Our heavenly Father calls<br/>Christ and His members one,<br/>We the young children of His love,<br/>And He the first born Son.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>We are but several parts<br/>Of the same broken bread;<br/>One body hath its several limbs,<br/>But Jesus is the Head.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Let all our powers be joined<br/>His glorious Name to raise;<br/>Pleasure and love fill every mind,<br/>And every voice be praise.</lines>
+    </verse>
+  </lyrics>
+</song>

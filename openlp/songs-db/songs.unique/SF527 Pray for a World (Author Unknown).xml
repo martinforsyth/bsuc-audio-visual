@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:39">
+  <properties>
+    <titles>
+      <title>SF527 Pray for a World</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Pray for a world where every child,<br/>finds welcome in a sheltered place,<br/>where love is tender, undefiled,<br/>and firmness intertwines with grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Pray for a world where passion's fire<br/>burns not in force or careless lust,<br/>where God's good gift of deep desire<br/>is safe in arms of faith and trust.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Pray for a nation just and fair<br/>that seeks the welfare of us all,<br/>where leaders guide with prudent care<br/>and nurture life for great and small</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Pray for a world where all have voice<br/>and none will batter, rape, abuse.<br/>Till then, may all have rightful choice<br/>and pray for wisdom as they choose.</lines>
+    </verse>
+  </lyrics>
+</song>
