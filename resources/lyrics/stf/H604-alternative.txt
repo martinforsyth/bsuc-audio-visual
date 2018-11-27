@@ -1,3 +1,7 @@
+---[Verse:3]---
+---[Chorus:1]---
+v1 c1 v2 c1 v3 c1
+
 ---[Verse:1]---
 
 Our God is a God who is faithful and tender,
