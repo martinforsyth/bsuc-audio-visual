@@ -61,10 +61,3 @@ all:   Malembe tokotambola.
 
 
 Lingala words by Mwenze Kabemba
-translated byCarolyn Kappauf (alt.)
-
-Verses can be created and selected as appropriate.
-
-
-
-
