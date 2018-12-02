@@ -1,6 +1,6 @@
----[Verse:3]---
----[Chorus:1]---
-v1 c1 v2 c1 v3 c1
+
+
+
 
 Lift high the Cross, the love of Christ proclaim
 till all the world adore his sacred name.

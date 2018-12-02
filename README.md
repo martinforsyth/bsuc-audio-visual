@@ -12,13 +12,15 @@ typical XML format ...
   <properties>
 		
     <titles>
-      <title>xxx</title>
+      <title>xxxTITLE</title>
     </titles>
 
-    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-      <author>xxx</author>
+      <author>xxxAUTHOR1</author>
+      <author>xxxAUTHOR2</author>
+      <author>xxxAUTHOR3</author>
     </authors>
 
   </properties>
@@ -45,6 +47,9 @@ typical XML format ...
   </lyrics>
 
 </song>
+
+
+
 
 authors of modified - gerenrated in openformat dir using ...
 

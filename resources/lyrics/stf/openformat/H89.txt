@@ -1,6 +1,6 @@
----[Verse:3]---
----[Chorus:1]---
-v1 c1 v2 c1 v3 c1
+
+
+
 
 Strength will rise as we wait upon the Lord,
 we will wait upon the Lord,

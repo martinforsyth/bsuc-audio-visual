@@ -1,6 +1,6 @@
----[Verse:3]---
----[Chorus:1]---
-v1 c1 v2 c1 v3 c1
+
+
+
 
 Almighty God, to whom all hearts are open,
 all desires known,
