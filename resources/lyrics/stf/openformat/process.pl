@@ -70,11 +70,13 @@ while( my $line = <$info>)  {
 				print $xmlVerseSubStr . '<br/>';
 		}
 		elsif ($lookingAtLineContainingVerseNumber == 1){
-				print '<verse name = "v' . $verseNumber . '">' . '<lines>';
+				print "\n" . '<verse name="v' . $verseNumber . '">' . "\n" . '<lines>';
 		}
 		else
 		{
-				print $line;
+				if ($onBlankLine == 0){
+						print $line;
+				}
 		}
 }
 
