@@ -12,17 +12,10 @@ my $lookingAtLineContainingVerseNumber = 0;
 my $seenNonBlankLineOfVerse = 0;
 my $seenFirstVerse = 0;
 my $xmlVerseString = "";
-
+#my $startedProcessingVerses = 0;
 my $onBlankLine = 0;
-my $onVerseNumberLine = 0;
-my $onBlankLineFollowingVerseNumber = 0;
-my $onVerseLine = 0;
-my $haveVerseNumber = 0;
-my $haveVerseNumberAfterVerseNumberLine = 0;
-my $checkingForLinesOfVerse = 0;
-my $foundNonBlankLineOfVerse = 0;
 
-print "======= $file ========\n";
+print "\n======= $file ========\n";
 		
 while( my $line = <$info>)  {
 
@@ -72,12 +65,19 @@ while( my $line = <$info>)  {
 		elsif ($lookingAtLineContainingVerseNumber == 1){
 				print "\n" . '<verse name="v' . $verseNumber . '">' . "\n" . '<lines>';
 		}
+		#elsif ($seenFirstVerse == 1 && $inVerse == 0 && $onBlankLine == 0){
+		#		print "\n" . "author" . $line;
+		#}
 		else
 		{
-				if ($onBlankLine == 0){
+				#if ($onBlankLine == 0){
 						print $line;
-				}
+				#}
 		}
 }
 
 close $info;
+
+if ($seenFirstVerse == 1 && $inVerse == 0 && $onBlankLine == 0){
+
+}

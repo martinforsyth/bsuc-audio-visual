@@ -60,4 +60,4 @@ cantor: Na nzela na lola tokobondela masiya,
 all:   Malembe tokotambola.
 
 
-Lingala words by Mwenze Kabemba
+Mwenze Kabemba
