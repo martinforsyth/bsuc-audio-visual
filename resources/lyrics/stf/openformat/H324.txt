@@ -1,3 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
+
+  <properties>
+		
+    <titles>
+      <title>xxxTITLE</title>
+    </titles>
+
+    <verseOrder>xxxVERSEORDER</verseOrder>
+
+    <authors>
+      <author>John L. Bell (b. 1949) </author>
+			<author>Graham Maule (b. 1958)</author>
+    </authors>
+
+  </properties>
+
+
+	<lyrics>
+
+    </verse>
+
+  </lyrics>
+
+</song>
 
 
 
@@ -46,4 +72,4 @@ cleared his throat and ended silence,
 for the good of us all.
 
 
-authorsare John L. Bell (b. 1949) and Graham Maule (b. 1958)
+

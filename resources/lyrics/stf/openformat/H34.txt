@@ -1,3 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
+
+  <properties>
+		
+    <titles>
+      <title>xxxTITLE</title>
+    </titles>
+
+    <verseOrder>xxxVERSEORDER</verseOrder>
+
+    <authors>
+      <author>John Samuel Bewley Monsell (1811-1875)</author>
+
+
+    </authors>
+
+  </properties>
+
+
+	<lyrics>
+
+    </verse>
+
+  </lyrics>
+
+</song>
 
 
 
@@ -38,4 +65,4 @@ with gold of obedience and incense of lowliness,
 kneel and adore him:the Lord is his name.
 
 
-authorsare John Samuel Bewley Monsell (1811-1875)
+

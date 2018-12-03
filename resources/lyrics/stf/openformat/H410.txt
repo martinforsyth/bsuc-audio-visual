@@ -1,3 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
+
+  <properties>
+		
+    <titles>
+      <title>xxxTITLE</title>
+    </titles>
+
+    <verseOrder>xxxVERSEORDER</verseOrder>
+
+    <authors>
+      <author>Hugh Sherlock (1905-1998)</author>
+
+
+    </authors>
+
+  </properties>
+
+
+	<lyrics>
+
+    </verse>
+
+  </lyrics>
+
+</song>
 
 
 
@@ -36,4 +63,4 @@ all the world to render praises,
 Christ, to you, Redeemer, King.
 
 
-authorsare Hugh Sherlock (1905-1998)
+

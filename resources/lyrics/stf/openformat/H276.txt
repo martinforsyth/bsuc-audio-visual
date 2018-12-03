@@ -1,3 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
+
+  <properties>
+		
+    <titles>
+      <title>xxxTITLE</title>
+    </titles>
+
+    <verseOrder>xxxVERSEORDER</verseOrder>
+
+    <authors>
+      <author>Michael Robert Newbolt (1874-1956) </author>
+			<author>George William Kitchin (1827-1912)</author>
+    </authors>
+
+  </properties>
+
+
+	<lyrics>
+
+    </verse>
+
+  </lyrics>
+
+</song>
 
 
 
@@ -36,4 +62,4 @@ Set up thy throne, that earth's despair may cease
 beneath the shadow of its healing peace:
 
 
-authorsare Michael Robert Newbolt (1874-1956) and George William Kitchin (1827-1912)
+

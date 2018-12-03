@@ -1,3 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
+
+  <properties>
+		
+    <titles>
+      <title>xxxTITLE</title>
+    </titles>
+
+    <verseOrder>xxxVERSEORDER</verseOrder>
+
+    <authors>
+      <author>Noel Richards (b. 1955) </author>
+			<author>Tricia Richards (b. 1960)</author>
+    </authors>
+
+  </properties>
+
+
+	<lyrics>
+
+    </verse>
+
+  </lyrics>
+
+</song>
 
 
 
@@ -26,4 +52,4 @@ bringing peace when I am in distress,
 you are the restorer of my soul.
 
 
-authorsare Noel Richards (b. 1955) and Tricia Richards (b. 1960)
+

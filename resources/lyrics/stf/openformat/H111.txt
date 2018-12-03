@@ -1,3 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
+
+  <properties>
+		
+    <titles>
+      <title>xxxTITLE</title>
+    </titles>
+
+    <verseOrder>xxxVERSEORDER</verseOrder>
+
+    <authors>
+      <author>Albert Frederick Bayly (1901-1984) </author>
+			<author>Brian Wren (b. 1936)</author>
+    </authors>
+
+  </properties>
+
+
+	<lyrics>
+
+    </verse>
+
+  </lyrics>
+
+</song>
 
 
 
@@ -45,4 +71,4 @@ that Omega of life and thought
 where Christ is all in all.
 
 
-authorsare Albert Frederick Bayly (1901-1984) and Brian Wren (b. 1936)
+

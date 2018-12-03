@@ -1,3 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
+
+  <properties>
+		
+    <titles>
+      <title>xxxTITLE</title>
+    </titles>
+
+    <verseOrder>xxxVERSEORDER</verseOrder>
+
+    <authors>
+      <author>Isaac Watts (1674-1748) </author>
+			<author>Norman Wallwork (b. 1946)</author>
+    </authors>
+
+  </properties>
+
+
+	<lyrics>
+
+    </verse>
+
+  </lyrics>
+
+</song>
 
 
 
@@ -24,4 +50,4 @@ today as in that promised hour,
 disciples praise God's name.
 
 
-authorsare Isaac Watts (1674-1748) and Norman Wallwork (b. 1946)
+
