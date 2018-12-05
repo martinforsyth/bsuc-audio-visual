@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -63,6 +63,3 @@ God of my life, I offer you my dreams,
 light in the darkness where I hide from view,
 light in my faith, my hope, my joy and love,
 light in my life and all my life in you.
-
-
-

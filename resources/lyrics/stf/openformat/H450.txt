@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -83,6 +83,3 @@ yours in whom I live and move,
 yours the work, your name divine;
 you are wisdom, power, and love,
 and all you are is mine.
-
-
-

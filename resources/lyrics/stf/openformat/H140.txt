@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -46,6 +46,3 @@ we praise him when we worship in our different ways.
 We praise him for the food that we eat each day
 but in everything we do we want to say,
 Refrain
-
-
-

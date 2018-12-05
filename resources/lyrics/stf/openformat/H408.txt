@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -56,6 +56,3 @@ Thank God for all who listened and believed,
 who still are by the Spirit set on fire --
 our hearts be warmed again, for Christ will wait
 on beach, in upper room, or Aldersgate.
-
-
-

@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -63,6 +63,3 @@ So be it, Lord;thy throne shall never,
 like earth's proud empires, pass away;
 thy kingdom stands, and grows for ever,
 till all thy creatures own thy sway.
-
-
-

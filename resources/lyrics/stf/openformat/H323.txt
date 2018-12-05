@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -67,6 +67,3 @@ He will keep me till the river
 rolls its waters at my feet;
 then he'll bear me safely over,
 where the loved ones I shall meet:
-
-
-

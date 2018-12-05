@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -83,6 +83,3 @@ Hail, Abraham's God, and ours!
 We join the heavenly throng,
 and celebrate with all our powers
 in endless song.
-
-
-

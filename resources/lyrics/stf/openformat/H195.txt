@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -82,6 +82,3 @@ he who was born upon this joyful day
 around us all his glory shall display;
 saved by his love, incessant we shall sing
 eternal praise to heaven's almighty King.
-
-
-

@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -63,6 +63,3 @@ God you show us in the Cross
 you are sharing all our pain.
 Help us find, beyond our loss,
 love that celebrates again.
-
-
-

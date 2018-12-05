@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -72,6 +72,3 @@ But this I know, the skies will thrill with rapture,
 and myriad, myriad human voices sing,
 and earth to heaven, and heaven to earth, will answer:
 'at last the Saviour, Saviour of the world, is King!'
-
-
-

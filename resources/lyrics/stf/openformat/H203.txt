@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -52,6 +52,3 @@ And then he told me all about the baby Jesus,
 how to find him, where exactly I should go.
 Then he was joined by millions of others.
 Sing a new song, let everyone know.
-
-
-

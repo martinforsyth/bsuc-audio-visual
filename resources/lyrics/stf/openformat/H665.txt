@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -73,6 +73,3 @@ when bigotry and hatred are defeated,
 when perfect peace is won
 and lasting justice done,
 with love's eternal promises completed.
-
-
-

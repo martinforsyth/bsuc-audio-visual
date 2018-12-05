@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -72,6 +72,3 @@ God with us:convict, forgive us;
 by your holy love destroy
 all that hinders peace and justice:
 fill this aching world with joy!
-
-
-

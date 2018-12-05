@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -63,6 +63,3 @@ Thy nature, gracious Lord, impart;
 come quickly from above,
 write thy new name upon my heart,
 thy new, best name of love.
-
-
-

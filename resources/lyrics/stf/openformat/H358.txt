@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -91,6 +91,3 @@ to bid their hearts rejoice
 in him who died for all!
 For all my Lord was crucified,
 for all, for all my Saviour died.
-
-
-

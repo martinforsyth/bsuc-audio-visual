@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -63,6 +63,3 @@ Teach us, good Lord, to serve the need of others;
 help us to give and not to count the cost.
 Unite us all to live as sisters, brothers;
 defeat our Babel with your Pentecost!
-
-
-

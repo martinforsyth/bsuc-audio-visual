@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -63,6 +63,3 @@ Lord, in your arms, which cradle all creation,
 we rest and place our baby beyond death,
 believing that he now, alive in heaven,  - or "she"
 breathes with your breath.
-
-
-

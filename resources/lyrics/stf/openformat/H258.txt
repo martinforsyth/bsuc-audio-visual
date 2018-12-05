@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -10,8 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
-
+  		<author>Danny Daniels and Randy Rigby</author>
 
     </authors>
 
@@ -40,8 +39,4 @@ Then we'll grow in your love,
 and we'll go in your name,
 that the world will surely know
 that you have power to heal and to save.
-
 Refrain
-
-
-Danny Daniels and Randy Rigby

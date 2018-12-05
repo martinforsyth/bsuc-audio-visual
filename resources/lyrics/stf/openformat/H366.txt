@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -64,6 +64,3 @@ in bonds my perfect liberty,
 my light in Satan's darkest hour,
 in grief my joy unspeakable,
 my life in death, my heaven in hell.
-
-
-

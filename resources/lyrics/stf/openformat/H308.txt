@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -56,6 +56,3 @@ On our journey to Emmaus, in our stories and feast,
 with Jesus we claim that the greatest is least:
 and his words burn within us -- let none be ignored --
 who welcomes the stranger shall welcome the Lord.
-
-
-

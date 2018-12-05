@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -56,6 +56,3 @@ On through the darkness we follow your leading,
 searching for joy and a refuge to stay.
 God of our longing, the bliss we are seeking,
 journey with us to the brightness of day.
-
-
-

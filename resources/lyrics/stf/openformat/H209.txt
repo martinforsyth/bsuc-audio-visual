@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -11,7 +11,8 @@
 
     <authors>
 
-
+      <author>Mark Johnson</author>
+      <author>Helen Johnson</author>
 
     </authors>
 
@@ -39,7 +40,6 @@ And they called his name Jesus,
 Jesus the Saviour
 and they called his name Jesus,
 Son of the most high God.
-
 (Repeat Refrain)
 
 2
@@ -57,6 +57,3 @@ and so Mary went with her husband where they had to be.
 There was nowhere else but a stable, where they both could sleep.
 It was there that she had her baby, born for you and me.
 Refrain
-
-
-Mark Johnson and Helen Johnson

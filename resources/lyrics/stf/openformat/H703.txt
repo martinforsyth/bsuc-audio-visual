@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -72,6 +72,3 @@ In the power of your Spirit
 come to cleanse us, make us new:
 hear our cry and heal our nations
 till our nations honour you.
-
-
-

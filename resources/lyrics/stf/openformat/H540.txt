@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -70,6 +70,3 @@ The ways of God remain a mystery
 but, child, our Lord has given you
 this special place in time and history,
 that you may come to love him too.
-
-
-

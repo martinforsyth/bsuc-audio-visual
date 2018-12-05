@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -37,6 +37,3 @@ neither height, nor depth,
 nor all of creation
 can ever separate us from the love of God
 poured out in Christ Jesus, Christ Jesus our Lord.
-
-
-

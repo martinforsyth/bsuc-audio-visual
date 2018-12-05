@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -48,6 +48,3 @@ Your praise shall sound from shore to shore,
 till suns shall rise and set no more:
 Alleluia! Alleluia!
 Alleluia! Alleluia! Alleluia!
-
-
-

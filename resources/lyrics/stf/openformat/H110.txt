@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -83,6 +83,3 @@ In our Kingdom-shaped endeavour,
 when God's glorious work is done,
 to the promise of forever,
 God is here:his love goes on.
-
-
-

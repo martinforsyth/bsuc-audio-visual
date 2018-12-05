@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -51,6 +51,3 @@ Forgive us, Father;hear our prayer.
 We would walk with you anywhere,
 through your suffering, with forgiveness,
 take your life into the world.
-
-
-

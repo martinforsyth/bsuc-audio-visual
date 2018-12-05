@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -72,6 +72,3 @@ Thou of life the fountain art;
 freely let me take of thee;
 spring thou up within my heart,
 rise to all eternity.
-
-
-

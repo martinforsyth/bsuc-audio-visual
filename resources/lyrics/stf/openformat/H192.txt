@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -46,6 +46,3 @@ The miracle of childbirth now reveals God's only Son,
 a miracle beginning that continues on and on.
 The stable holds the echo of the tomb that's yet to be,
 on the manger lies the shadow of the cross he's yet to see.
-
-
-

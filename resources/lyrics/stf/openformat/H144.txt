@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -42,6 +42,3 @@ Here is my heart, Lord, here is my hope.
 Here is my love, Lord, help me to cope.
 Here is my time, Lord, here is my might.
 Here I am yours, Lord, bless me tonight.
-
-
-

@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -62,6 +62,3 @@ and great will be your song.
 We lift up our hands and pray,
 we lift up our hands and pray,
 for holy is your name.
-
-
-

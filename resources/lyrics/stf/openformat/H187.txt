@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -60,6 +60,3 @@ in Bethlehem, all on a Christmas morn,
 and Christian folk throughout the world will ever say,
 'Most highly favoured lady.'
 Gloria!
-
-
-

@@ -2,16 +2,21 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
+
+    <comments>
+      <comment>The refrain is sung twice after verses 1 and 3.</comment>
+    </comments>
 
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
 
-
+      <author>Mark Johnson</author>
+      <author>Helen Johnson</author>
 
     </authors>
 
@@ -57,7 +62,3 @@ for eternity.
 Refrain
 
 Everywhere around me!
-
-
-The refrain is sung twice after verses 1 and 3.
-Mark Johnson and Helen Johnson

@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -61,6 +61,3 @@ But we, who now know that you ended triumphantly
 working with wood till your task was complete,
 can come to your cross with our hope and humility,
 laying our pride at the carpenter's feet:
-
-
-

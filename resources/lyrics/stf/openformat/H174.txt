@@ -2,10 +2,14 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
+
+<comments>
+<comment>The verses may be sung progressively through Advent until verse 6 on Christmas Day. Verses 1 & 2 should be used on the First Sunday of Advent.</comment>
+</comments>
 
     <verseOrder>xxxVERSEORDER</verseOrder>
 
@@ -76,8 +80,3 @@ Jesus Christ, the Saviour now is here,
 God has lit his flame of love,
 through his Son from Heaven above.
 So let it burn.
-
-
-The verses may be sung progressively through Advent until verse 6 on Christmas Day. Verses 1 & 2 should be used on the First Sunday of Advent.
-
-

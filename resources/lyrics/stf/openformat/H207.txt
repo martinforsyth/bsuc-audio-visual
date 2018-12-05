@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -64,6 +64,3 @@ May the messages of Advent
 guide us through the Christmas maze.
 Jesus is the heart of Christmas,
 sing each carol in his praise!
-
-
-

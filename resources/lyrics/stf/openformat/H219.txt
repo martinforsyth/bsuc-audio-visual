@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -56,6 +56,3 @@ But on this night a single star
 is just enough to signal grace:
 a child is born in Bethlehem
 and offered for the human race.
-
-
-

@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -53,6 +53,3 @@ Lord we praise you for Jesus our Saviour,
 for your love that he showed on earth,
 how he offers us life by his Spirit
 showing us the way to our new birth.
-
-
-

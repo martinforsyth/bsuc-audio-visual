@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -33,6 +33,3 @@ Faithful God, faithful God,
 all sufficient One, I worship you.
 Shalom my peace, my strong Deliverer,
 I lift you up, faithful God.
-
-
-

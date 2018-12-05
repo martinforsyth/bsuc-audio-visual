@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -64,6 +64,3 @@ for our growing in your likeness
 bring the life of Christ to mind;
 that by our response and service
 earth its destiny may find.
-
-
-

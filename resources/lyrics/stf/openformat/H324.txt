@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -70,6 +70,3 @@ near the grave of human violence,
 the most precious Word of Life
 cleared his throat and ended silence,
 for the good of us all.
-
-
-

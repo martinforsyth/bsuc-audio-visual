@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -49,6 +49,3 @@ There've been times when I've turned from his presence,
 and I've walked other paths, other ways;
 but I've called on his name in the dark of my shame,
 and his mercy was gentle as silence.
-
-
-

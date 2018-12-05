@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -77,6 +77,3 @@ In Christ, our Head, you then shall know,
 shall feel, your sins forgiven,
 anticipate your heaven below,
 and own that love is heaven.
-
-
-

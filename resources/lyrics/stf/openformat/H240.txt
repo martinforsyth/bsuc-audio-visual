@@ -2,7 +2,7 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
 
   <properties>
-		
+
     <titles>
       <title>xxxTITLE</title>
     </titles>
@@ -56,6 +56,3 @@ When we have struggled and searched through the night,
 sorting and sifting the wrong from the right,
 Saviour, surround us with circles of care,
 angels of healing, of hope, and of prayer.
-
-
-
