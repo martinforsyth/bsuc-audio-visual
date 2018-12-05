@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2017-04-15T20:06:16">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-05T09:20:01">
   <properties>
     <titles>
       <title>SF166 Christmas is coming</title>
@@ -11,7 +11,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><br/>The first is God's promose<br/>to put the wrong things right,<br/>and bring to earth's darkness<br/>the hope of love and light.</lines>
+      <lines><br/>The first is God's promise<br/>to put the wrong things right,<br/>and bring to earth's darkness<br/>the hope of love and light.</lines>
     </verse>
     <verse name="v2">
       <lines><br/>The second for the prophets,<br/>who said that Christ would come<br/>with good news for many<br/>and angry words for some.</lines>
@@ -26,7 +26,7 @@
       <lines><br/>At last we light the candle<br/>kept new for Christmas day<br/>This shines bright for Jesus,<br/>new-born,and here to stay.</lines>
     </verse>
     <verse name="v6">
-      <lines><br/>Christ is among us    The candles in the ring<br/>remind us that our Saviour<br/>will light up everything</lines>
+      <lines><br/>Christ is among us<br/>The candles in the ring<br/>remind us that our Saviour<br/>will light up everything</lines>
     </verse>
     <verse name="c1">
       <lines><br/>Christmas is coming !<br/>The Church is glad to sing,<br/>and let the Advent candles<br/>brightly burn in a ring.</lines>
