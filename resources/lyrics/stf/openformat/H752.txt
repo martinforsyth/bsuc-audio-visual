@@ -27,12 +27,14 @@
 </song>
 
 
-
+1
 
 Glory to God, glory to God,
 glory in the highest!
 Glory to God, glory to God,
 alleluia, alleluia!
+
+2
 
 Gloria, gloria
 in excelsis Deo!

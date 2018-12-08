@@ -27,7 +27,7 @@
 </song>
 
 
-
+1
 
 In the Lord I'll be ever thankful,
 in the Lord I will rejoice!
@@ -35,7 +35,8 @@ Look to God, do not be afraid;
 lift up your voices, the Lord is near;
 lift up your voices, the Lord is near.
 
-Original Catalan:
+2
+
 El Senyor es la meva forca,
 el Senyor, el meu cant.
 Ell m'ha estat la salvacio.

@@ -27,7 +27,7 @@
 </song>
 
 
-
+1
 
 all   Wa wa wa Emimimo,
 cantor   Emioloye.
@@ -35,6 +35,8 @@ all   Wa wa wa Alagbara,
 cantor   Alagbarameta.
 all   Wao, wao, wao.
 cantor   Emimimo.
+
+2
 
 all   Come, O Holy Spirit, come,
 cantor   Holy Spirit come.
