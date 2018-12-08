@@ -1,83 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF807 Ascribe to the Lord, you powers of heaven,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 29
-
 1
-
 Ascribe to the Lord, you powers of heaven,
 ascribe to the Lord glory and strength.
-
 2
-
 Ascribe to the Lord the honour due to his name;
 worship the Lord in the beauty of holiness.
-
 3
-
 The voice of the Lord is upon the waters;the God of glory thunders;
 the Lord is upon the mighty waters.
-
 4
-
 The voice of the Lord is powerful;
 the voice of the Lord is a glorious voice.
-
 5
-
 The voice of the Lord breaks the cedar trees;
 the Lord breaks the cedars of Lebanon;
-
 6
-
 He makes Lebanon skip like a calf
 and Sirion like a young wild ox.
-
 7
-
 The voice of the Lord splits the flash of lightning;
 the voice of the Lord shakes the wilderness;
 the Lord shakes the wilderness of Kadesh.
-
 8
-
 The voice of the Lord makes the oak trees writhe and strips the forests bare;
 in his temple all cry, 'Glory!'
-
 9
-
 The Lord sits enthroned above the water flood;
 the Lord sits enthroned as king for evermore.
-
 10
-
 The Lord shall give strength to his people;
 the Lord shall give his people the blessing of peace.

@@ -1,57 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF80 My God, I am thine;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>My God, I am thine;<br/>what a comfort divine,<br/>what a blessing to know that my Jesus is mine!<br/>In the heavenly Lamb<br/>thrice happy I am,<br/>and my heart it doth dance at the sound of his name.
     </verse>
-
+    <verse name="v2"><br/>True pleasures abound<br/>in the rapturous sound;<br/>and whoever hath found it hath paradise found.<br/>My Jesus to know,<br/>as rejoicing I go<br/>to my life everlasting, 'tis heaven below.
+    </verse>
+    <verse name="v3"><br/>Yet onward I haste<br/>to the heavenly feast:<br/>that, that is the fullness;but this is the taste;<br/>and this I shall prove,<br/>till with joy I remove<br/>to the heaven of heavens in Jesus's love.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-My God, I am thine;
-what a comfort divine,
-what a blessing to know that my Jesus is mine!
-In the heavenly Lamb
-thrice happy I am,
-and my heart it doth dance at the sound of his name.
-
-2
-
-True pleasures abound
-in the rapturous sound;
-and whoever hath found it hath paradise found.
-My Jesus to know,
-as rejoicing I go
-to my life everlasting, 'tis heaven below.
-
-3
-
-Yet onward I haste
-to the heavenly feast:
-that, that is the fullness;but this is the taste;
-and this I shall prove,
-till with joy I remove
-to the heaven of heavens in Jesus's love.

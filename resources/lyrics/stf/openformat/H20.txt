@@ -1,67 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF20 Be still,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>David J. Evans (b. 1957)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Be still,<br/>for the presence of the Lord,<br/>the Holy One, is here;<br/>come bow before him now<br/>with reverence and fear:<br/>in him no sin is found --<br/>we stand on holy ground.<br/>Be still,<br/>for the presence of the Lord,<br/>the Holy One, is here.
     </verse>
-
+    <verse name="v2"><br/>Be still,<br/>for the glory of the Lord<br/>is shining all around;<br/>he burns with holy fire,<br/>with splendour he is crowned:<br/>how awesome is the sight --<br/>our radiant King of light!<br/>Be still,<br/>for the glory of the Lord<br/>is shining all around.
+    </verse>
+    <verse name="v3"><br/>Be still,<br/>for the power of the Lord<br/>is moving in this place;<br/>he comes to cleanse and heal,<br/>to minister his grace:<br/>no work too hard for him --<br/>in faith receive from him.<br/>Be still,<br/>for the power of the Lord<br/>is moving in this place.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-Be still,
-for the presence of the Lord,
-the Holy One, is here;
-come bow before him now
-with reverence and fear:
-in him no sin is found --
-we stand on holy ground.
-Be still,
-for the presence of the Lord,
-the Holy One, is here.
-
-2
-
-Be still,
-for the glory of the Lord
-is shining all around;
-he burns with holy fire,
-with splendour he is crowned:
-how awesome is the sight --
-our radiant King of light!
-Be still,
-for the glory of the Lord
-is shining all around.
-
-3
-
-Be still,
-for the power of the Lord
-is moving in this place;
-he comes to cleanse and heal,
-to minister his grace:
-no work too hard for him --
-in faith receive from him.
-Be still,
-for the power of the Lord
-is moving in this place.

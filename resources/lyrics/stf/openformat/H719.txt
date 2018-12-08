@@ -1,84 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF719 We pray for peace,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Alan Gaunt (b. 1935)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We pray for peace,<br/>but not the easy peace<br/>built on complacency<br/>and not the truth of God.<br/>We pray for real peace,<br/>the peace God's love alone can seal.
     </verse>
-
+    <verse name="v2"><br/>We pray for peace,<br/>but not the cruel peace<br/>leaving God's poor bereft<br/>and dying in distress;<br/>we pray for real peace,<br/>enriching all the human race.
+    </verse>
+    <verse name="v3"><br/>We pray for peace,<br/>and not the evil peace<br/>defending unjust laws<br/>and nursing prejudice,<br/>but for the real peace<br/>of justice, mercy, truth and love.
+    </verse>
+    <verse name="v4"><br/>We pray for peace:<br/>holy communion<br/>with Christ our risen Lord<br/>and every living thing;<br/>God's will fulfilled on earth<br/>and all creation reconciled.
+    </verse>
+    <verse name="v5"><br/>We pray for peace,<br/>and, for the sake of peace,<br/>look to the risen Christ,<br/>who gives the grace we need<br/>to serve the cause of peace<br/>and make our own self-sacrifice.
+    </verse>
+    <verse name="v6"><br/>God, give us peace;<br/>if you withdraw your love<br/>there is no peace for us,<br/>nor any hope of it.<br/>With you to lead us on,<br/>through death or tumult, peace will come.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We pray for peace,
-but not the easy peace
-built on complacency
-and not the truth of God.
-We pray for real peace,
-the peace God's love alone can seal.
-
-2
-
-We pray for peace,
-but not the cruel peace
-leaving God's poor bereft
-and dying in distress;
-we pray for real peace,
-enriching all the human race.
-
-3
-
-We pray for peace,
-and not the evil peace
-defending unjust laws
-and nursing prejudice,
-but for the real peace
-of justice, mercy, truth and love.
-
-4
-
-We pray for peace:
-holy communion
-with Christ our risen Lord
-and every living thing;
-God's will fulfilled on earth
-and all creation reconciled.
-
-5
-
-We pray for peace,
-and, for the sake of peace,
-look to the risen Christ,
-who gives the grace we need
-to serve the cause of peace
-and make our own self-sacrifice.
-
-6
-
-God, give us peace;
-if you withdraw your love
-there is no peace for us,
-nor any hope of it.
-With you to lead us on,
-through death or tumult, peace will come.

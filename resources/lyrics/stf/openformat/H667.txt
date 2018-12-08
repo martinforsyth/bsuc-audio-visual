@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF667 O Watcher in the wilderness,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Dominic Grant (b. 1970)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>O Watcher in the wilderness,<br/>O Lord of bush and flame,<br/>you meet us when we least expect<br/>and summon us by name.<br/>From our routine we turn aside<br/>to see your wonders here;<br/>you bid us stand on holy ground,<br/>and overcome our fear.
     </verse>
-
+    <verse name="v2"><br/>O Friend and Master, Jesus Christ,<br/>in whose great name we meet,<br/>you take the basin and the towel<br/>and kneel to wash our feet.<br/>You call upon us by this sign,<br/>as we've been served, to serve;<br/>then send us out to do God's work,<br/>to give without reserve.
+    </verse>
+    <verse name="v3"><br/>O Guide and comfort, Holy God,<br/>among your people now,<br/>you speak to us, and urge us grow,<br/>and gifts and grace endow.<br/>Unblock our ears, unlock our hearts,<br/>truly to hear your word;<br/>and strengthen, Lord, each onward step,<br/>to live as we have heard.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-O Watcher in the wilderness,
-O Lord of bush and flame,
-you meet us when we least expect
-and summon us by name.
-From our routine we turn aside
-to see your wonders here;
-you bid us stand on holy ground,
-and overcome our fear.
-
-2
-
-O Friend and Master, Jesus Christ,
-in whose great name we meet,
-you take the basin and the towel
-and kneel to wash our feet.
-You call upon us by this sign,
-as we've been served, to serve;
-then send us out to do God's work,
-to give without reserve.
-
-3
-
-O Guide and comfort, Holy God,
-among your people now,
-you speak to us, and urge us grow,
-and gifts and grace endow.
-Unblock our ears, unlock our hearts,
-truly to hear your word;
-and strengthen, Lord, each onward step,
-to live as we have heard.

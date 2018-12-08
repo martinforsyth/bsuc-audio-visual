@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF392 O Holy Spirit, Lord of grace,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Charles Coffin (1676-1749)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>O Holy Spirit, Lord of grace,<br/>eternal fount of love,<br/>inflame, we pray, our inmost hearts<br/>with fire from heaven above.
     </verse>
-
+    <verse name="v2"><br/>As you unite in holy bond<br/>the Father and the Son,<br/>so fill us all with mutual love,<br/>and make our hearts as one.
+    </verse>
+    <verse name="v3"><br/>All glory to the Father be,<br/>the Spirit and the Son,<br/>all glory to the One in Three,<br/>while endless ages run.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-O Holy Spirit, Lord of grace,
-eternal fount of love,
-inflame, we pray, our inmost hearts
-with fire from heaven above.
-
-2
-
-As you unite in holy bond
-the Father and the Son,
-so fill us all with mutual love,
-and make our hearts as one.
-
-3
-
-All glory to the Father be,
-the Spirit and the Son,
-all glory to the One in Three,
-while endless ages run.

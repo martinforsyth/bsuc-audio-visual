@@ -1,55 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF539 On this Baptism day, God we thank you</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Paul Wood (b. 1967)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>On this Baptism day, God we thank you<br/>for the water, new life and call.<br/>For this child given life by your Spirit<br/>the potential offered to us all.<br/>Praise the Father! Praise the Spirit!<br/>Praise the Son on this Baptismal Day!<br/>For the gift of life is precious;<br/>so, we worship God today.
     </verse>
-
+    <verse name="v2"><br/>We baptize in response to our maker,<br/>who has promised to be our guide.<br/>We rejoice for new life God has given<br/>and his pledge to travel by our side.
+    </verse>
+    <verse name="v3"><br/>Lord we praise you for Jesus our Saviour,<br/>for your love that he showed on earth,<br/>how he offers us life by his Spirit<br/>showing us the way to our new birth.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-On this Baptism day, God we thank you
-for the water, new life and call.
-For this child given life by your Spirit
-the potential offered to us all.
-Praise the Father! Praise the Spirit!
-Praise the Son on this Baptismal Day!
-For the gift of life is precious;
-so, we worship God today.
-
-2
-
-We baptize in response to our maker,
-who has promised to be our guide.
-We rejoice for new life God has given
-and his pledge to travel by our side.
-
-3
-
-Lord we praise you for Jesus our Saviour,
-for your love that he showed on earth,
-how he offers us life by his Spirit
-showing us the way to our new birth.

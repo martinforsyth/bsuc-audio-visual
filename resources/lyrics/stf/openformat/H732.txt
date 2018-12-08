@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF732 Day of judgment! Day of wonder!</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John Newton (1725-1807)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Day of judgment! Day of wonder!<br/>Listen to the trumpet's sound,<br/>louder than the voice of thunder,<br/>echoes all creation round:<br/>God of mercy, God of glory,<br/>may we then in Christ be found.
     </verse>
-
+    <verse name="v2"><br/>See the Judge, our nature wearing,<br/>with the angel he outsoars.<br/>Those who wait for Christ's appearing<br/>then shall sing, 'This God is ours!'<br/>Gracious Saviour, Lord of glory,<br/>own us in that day as yours.
+    </verse>
+    <verse name="v3"><br/>At God's call we shall awaken,<br/>to the bidding of the Lord;<br/>every nation will be shaken<br/>by God's own eternal word;<br/>friend of sinners, Christ in glory,<br/>intercede for us with God.
+    </verse>
+    <verse name="v4"><br/>And to those who have confessed him,<br/>loved and served the Lord below,<br/>Christ will say, 'Come now, you blessed,<br/>see the kingdom I bestow'.<br/>God of mercy, friend of sinners,<br/>we shall then your glory know.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Day of judgment! Day of wonder!
-Listen to the trumpet's sound,
-louder than the voice of thunder,
-echoes all creation round:
-God of mercy, God of glory,
-may we then in Christ be found.
-
-2
-
-See the Judge, our nature wearing,
-with the angel he outsoars.
-Those who wait for Christ's appearing
-then shall sing, 'This God is ours!'
-Gracious Saviour, Lord of glory,
-own us in that day as yours.
-
-3
-
-At God's call we shall awaken,
-to the bidding of the Lord;
-every nation will be shaken
-by God's own eternal word;
-friend of sinners, Christ in glory,
-intercede for us with God.
-
-4
-
-And to those who have confessed him,
-loved and served the Lord below,
-Christ will say, 'Come now, you blessed,
-see the kingdom I bestow'.
-God of mercy, friend of sinners,
-we shall then your glory know.

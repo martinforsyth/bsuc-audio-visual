@@ -1,63 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF741 We pray until the hour,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We pray until the hour,<br/>that awesome hour unknown,<br/>when, robed in majesty and power,<br/>you shall from heaven come down.
     </verse>
-
+    <verse name="v2"><br/>O Christ our souls prepare<br/>for that tremendous day,<br/>and fill us now with watchful care,<br/>and stir us up to pray.
+    </verse>
+    <verse name="v3"><br/>At last may we be found<br/>obedient to your word,<br/>attentive to the judgement sound,<br/>and looking for our Lord!
+    </verse>
+    <verse name="v4"><br/>To those who shall endure,<br/>Christ gives his promised rest,<br/>we watch each moment to secure<br/>our place among the blest.<br/>based on Thou judge of quick and dead.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We pray until the hour,
-that awesome hour unknown,
-when, robed in majesty and power,
-you shall from heaven come down.
-
-2
-
-O Christ our souls prepare
-for that tremendous day,
-and fill us now with watchful care,
-and stir us up to pray.
-
-3
-
-At last may we be found
-obedient to your word,
-attentive to the judgement sound,
-and looking for our Lord!
-
-4
-
-To those who shall endure,
-Christ gives his promised rest,
-we watch each moment to secure
-our place among the blest.
-
-
-
-
-based on Thou judge of quick and dead.

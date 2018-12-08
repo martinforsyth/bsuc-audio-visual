@@ -1,62 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF275 You came to our world as a part of a family,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Marjorie Dobson (b. 1940)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Jesus the carpenter, hanging on Calvary,
 nails through your feet and your work-hardened hands --
 wood you have worked with and wood is your destiny --
 paying the price of our sinful demands.
-
 1
-
 You came to our world as a part of a family,
 living and learning the carpenter's trade.
 You followed your father's instructions so faithfully,
 shaping and crafting the yokes that you made:
-
 2
-
 You called other workers to join in your ministry,
 laying rough hands on the sick and the lame.
 You taught of God's love with such power and authority,
 people who knew you believed you insane:
-
 3
-
 You faced with great courage the open hostility
 coming from those who believed they were right.
 They stripped you and beat you and laughed at you finally,
 thinking your death was the end of the fight:
-
 4
-
 But we, who now know that you ended triumphantly
 working with wood till your task was complete,
 can come to your cross with our hope and humility,

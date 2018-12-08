@@ -1,70 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF117 Sing praise to God who reigns above,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Johann Jakob Schuetz (1640-1690)</author>
       <author>Frances Elizabeth Cox (1812-1897)</author>
       <author>Honor Mary Thwaites (1914-1993)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Sing praise to God who reigns above,<br/>the God of all creation,<br/>the God of power, the God of love,<br/>the God of our salvation;<br/>with healing balm my soul he fills,<br/>and every faithless murmur stills:<br/>to God all praise and glory!
     </verse>
-
+    <verse name="v2"><br/>What God's almighty power has made<br/>that will he ever cherish,<br/>and will, unfailing, soon and late,<br/>with loving-kindness nourish;<br/>and where he rules in kingly might<br/>there all is just and all is right:<br/>to God all praise and glory!
+    </verse>
+    <verse name="v3"><br/>The Lord is never far away,<br/>but, through all grief distressing,<br/>an ever-present help and stay,<br/>our peace, and joy, and blessing;<br/>as with a mother's tender hand,<br/>he leads his own, his chosen band:<br/>to God all praise and glory!
+    </verse>
+    <verse name="v4"><br/>O you who name Christ's holy name,<br/>give God all praise and glory:<br/>O you who own his power, proclaim<br/>aloud the wondrous story.<br/>Cast each false idol from its throne:<br/>the Lord is God, and he alone:<br/>to God all praise and glory!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Sing praise to God who reigns above,
-the God of all creation,
-the God of power, the God of love,
-the God of our salvation;
-with healing balm my soul he fills,
-and every faithless murmur stills:
-to God all praise and glory!
-
-2
-
-What God's almighty power has made
-that will he ever cherish,
-and will, unfailing, soon and late,
-with loving-kindness nourish;
-and where he rules in kingly might
-there all is just and all is right:
-to God all praise and glory!
-
-3
-
-The Lord is never far away,
-but, through all grief distressing,
-an ever-present help and stay,
-our peace, and joy, and blessing;
-as with a mother's tender hand,
-he leads his own, his chosen band:
-to God all praise and glory!
-
-4
-
-O you who name Christ's holy name,
-give God all praise and glory:
-O you who own his power, proclaim
-aloud the wondrous story.
-Cast each false idol from its throne:
-the Lord is God, and he alone:
-to God all praise and glory!

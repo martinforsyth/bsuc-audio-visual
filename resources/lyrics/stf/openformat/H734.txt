@@ -1,62 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF734 Going home, moving on,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Michael Forster (b. 1946)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Going home, moving on,<br/>through God's open door;<br/>hush, my soul, have no fear,<br/>Christ has gone before.<br/>Parting hurts, love protests,<br/>pain is not denied;<br/>yet, in Christ, life and hope<br/>span the great divide.<br/>Going home, moving on,<br/>through God's open door;<br/>hush, my soul, have no fear,<br/>Christ has gone before,<br/>Christ has gone before.
     </verse>
-
+    <verse name="v2"><br/>No more guilt, no more fear,<br/>all the past is healed:<br/>broken dreams now restored,<br/>perfect grace revealed.<br/>Christ has died, Christ is risen,<br/>Christ will come again:<br/>death destroyed, life restored,<br/>love alone shall reign.<br/>Going home, moving on,<br/>through God's open door;<br/>hush, my soul, have no fear,<br/>Christ has gone before,<br/>Christ has gone before.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Going home, moving on,
-through God's open door;
-hush, my soul, have no fear,
-Christ has gone before.
-Parting hurts, love protests,
-pain is not denied;
-yet, in Christ, life and hope
-span the great divide.
-Going home, moving on,
-through God's open door;
-hush, my soul, have no fear,
-Christ has gone before,
-Christ has gone before.
-
-2
-
-No more guilt, no more fear,
-all the past is healed:
-broken dreams now restored,
-perfect grace revealed.
-Christ has died, Christ is risen,
-Christ will come again:
-death destroyed, life restored,
-love alone shall reign.
-Going home, moving on,
-through God's open door;
-hush, my soul, have no fear,
-Christ has gone before,
-Christ has gone before.

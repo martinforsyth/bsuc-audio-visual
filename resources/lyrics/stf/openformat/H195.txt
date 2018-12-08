@@ -1,84 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF195 Christians, awake, salute the happy morn</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>John Byrom (1692-1763)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Christians, awake, salute the happy morn<br/>whereon the Saviour of the world was born;<br/>rise to adore the mystery of love,<br/>which hosts of angels chanted from above;<br/>with them the joyful tidings first begun<br/>of God incarnate and the Virgin's Son.
     </verse>
-
+    <verse name="v2"><br/>Then to the watchful shepherds it was told,<br/>who heard the angelic herald's voice, 'Behold,<br/>I bring good tidings of a Saviour's birth<br/>to you and all the nations upon earth;<br/>this day has God fulfilled his promised word,<br/>this day is born a Saviour, Christ the Lord.'
+    </verse>
+    <verse name="v3"><br/>He spoke;and straightway the celestial choir<br/>in hymns of joy, unknown before, conspire.<br/>The praises of redeeming love they sang,<br/>and heaven's whole orb with alleluias rang;<br/>God's highest glory was their anthem still,<br/>peace on the earth, in every heart goodwill.
+    </verse>
+    <verse name="v4"><br/>To Bethl'em straight the enlightened shepherds ran,<br/>to see, unfolding, God's eternal plan;<br/>then to their flocks, still praising God, return,<br/>and their glad hearts with holy rapture burn;<br/>amazed, the wondrous tidings they proclaim,<br/>the first apostles of his infant fame.
+    </verse>
+    <verse name="v5"><br/>Like Mary, let us ponder in our mind<br/>God's wondrous love in saving humankind;<br/>trace we the Babe, who has retrieved our loss,<br/>from his poor manger to his bitter cross;<br/>treading his steps, assisted by his grace,<br/>till our first heavenly state again takes place.
+    </verse>
+    <verse name="v6"><br/>Then may we hope, the angelic hosts among,<br/>to sing, redeemed, a glad triumphal song;<br/>he who was born upon this joyful day<br/>around us all his glory shall display;<br/>saved by his love, incessant we shall sing<br/>eternal praise to heaven's almighty King.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Christians, awake, salute the happy morn
-whereon the Saviour of the world was born;
-rise to adore the mystery of love,
-which hosts of angels chanted from above;
-with them the joyful tidings first begun
-of God incarnate and the Virgin's Son.
-
-2
-
-Then to the watchful shepherds it was told,
-who heard the angelic herald's voice, 'Behold,
-I bring good tidings of a Saviour's birth
-to you and all the nations upon earth;
-this day has God fulfilled his promised word,
-this day is born a Saviour, Christ the Lord.'
-
-3
-
-He spoke;and straightway the celestial choir
-in hymns of joy, unknown before, conspire.
-The praises of redeeming love they sang,
-and heaven's whole orb with alleluias rang;
-God's highest glory was their anthem still,
-peace on the earth, in every heart goodwill.
-
-4
-
-To Bethl'em straight the enlightened shepherds ran,
-to see, unfolding, God's eternal plan;
-then to their flocks, still praising God, return,
-and their glad hearts with holy rapture burn;
-amazed, the wondrous tidings they proclaim,
-the first apostles of his infant fame.
-
-5
-
-Like Mary, let us ponder in our mind
-God's wondrous love in saving humankind;
-trace we the Babe, who has retrieved our loss,
-from his poor manger to his bitter cross;
-treading his steps, assisted by his grace,
-till our first heavenly state again takes place.
-
-6
-
-Then may we hope, the angelic hosts among,
-to sing, redeemed, a glad triumphal song;
-he who was born upon this joyful day
-around us all his glory shall display;
-saved by his love, incessant we shall sing
-eternal praise to heaven's almighty King.

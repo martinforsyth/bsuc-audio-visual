@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF150 This is the day of rest,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>This is the day of rest,<br/>to use as God intended:<br/>time to renew our faith<br/>and let our lives be mended;<br/>time to fulfil our song<br/>and time to rediscover<br/>those to whom we belong,<br/>and God who is our lover.
     </verse>
-
+    <verse name="v2"><br/>Here is the feast of life<br/>to which we are invited;<br/>here Jesus offers food<br/>through which we are united:<br/>food for a company<br/>redeemed by blood and water,<br/>food through which God declares,<br/>'You are my son, my daughter.'
+    </verse>
+    <verse name="v3"><br/>This is the time of change<br/>delivered by God's Spirit<br/>moving to life and health<br/>those claiming little merit;<br/>change which God's love demands<br/>to prove that faith is living,<br/>change which must overflow<br/>in justice and forgiving.
+    </verse>
+    <verse name="v4"><br/>Glory to God on high,<br/>to Christ and to the Spirit.<br/>Glory to God on earth,<br/>whose image we inherit.<br/>Glory to God alone,<br/>our sacrament and story,<br/>in whom we live and move<br/>till lifted into glory.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-This is the day of rest,
-to use as God intended:
-time to renew our faith
-and let our lives be mended;
-time to fulfil our song
-and time to rediscover
-those to whom we belong,
-and God who is our lover.
-
-2
-
-Here is the feast of life
-to which we are invited;
-here Jesus offers food
-through which we are united:
-food for a company
-redeemed by blood and water,
-food through which God declares,
-'You are my son, my daughter.'
-
-3
-
-This is the time of change
-delivered by God's Spirit
-moving to life and health
-those claiming little merit;
-change which God's love demands
-to prove that faith is living,
-change which must overflow
-in justice and forgiving.
-
-4
-
-Glory to God on high,
-to Christ and to the Spirit.
-Glory to God on earth,
-whose image we inherit.
-Glory to God alone,
-our sacrament and story,
-in whom we live and move
-till lifted into glory.

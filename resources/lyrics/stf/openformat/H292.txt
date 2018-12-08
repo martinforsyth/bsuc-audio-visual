@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF292 After darkness, light;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Fred Pratt Green (1903-2000)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>After darkness, light;<br/>after winter, spring;<br/>after dying, life:<br/>Alleluia! Alleluia!
     </verse>
-
+    <verse name="v2"><br/>Take his body down;<br/>lay it in the tomb;<br/>love has overcome:<br/>Alleluia! Alleluia!
+    </verse>
+    <verse name="v3"><br/>Turn away in grief;<br/>turn away in faith;<br/>celebrate his death:<br/>Alleluia! Alleluia!
+    </verse>
+    <verse name="v4"><br/>Come whatever may,<br/>God will have his way;<br/>welcome, Easter Day!<br/>Alleluia! Alleluia!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-After darkness, light;
-after winter, spring;
-after dying, life:
-Alleluia! Alleluia!
-
-2
-
-Take his body down;
-lay it in the tomb;
-love has overcome:
-Alleluia! Alleluia!
-
-3
-
-Turn away in grief;
-turn away in faith;
-celebrate his death:
-Alleluia! Alleluia!
-
-4
-
-Come whatever may,
-God will have his way;
-welcome, Easter Day!
-Alleluia! Alleluia!

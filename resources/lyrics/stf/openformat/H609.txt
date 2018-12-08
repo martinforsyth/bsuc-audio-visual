@@ -1,68 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF609 As we gather in your presence now,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Joel Payne</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>As we gather in your presence now,<br/>Lord, we will worship;<br/>as we sing our thankful songs aloud;<br/>Lord, we will worship.<br/>When we go out in the name of Christ,<br/>Lord, we will worship;<br/>as your word and Spirit shape our lives,<br/>Lord, we will worship.<br/>And whatever we do, in word or deed,<br/>we do for the one who set us free;<br/>when we're on our feet or on our knees,<br/>Lord, we will worship,<br/>Lord, we will worship.
     </verse>
-
+    <verse name="v2"><br/>When we love our friends and families,<br/>Lord, we will worship;<br/>when we give ourselves to those in need,<br/>Lord, we will worship.<br/>When we take instruction cheerfully,<br/>Lord, we will worship;<br/>when we lead with Christ's humility,<br/>Lord, we will worship.
+    </verse>
+    <verse name="v3"><br/>In the course of every working day,<br/>Lord, we will worship;<br/>when our business takes us far away,<br/>Lord, we will worship.<br/>When we care for children in the home,<br/>Lord, we will worship;<br/>when our audience is you alone,<br/>Lord, we will worship.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-As we gather in your presence now,
-Lord, we will worship;
-as we sing our thankful songs aloud;
-Lord, we will worship.
-When we go out in the name of Christ,
-Lord, we will worship;
-as your word and Spirit shape our lives,
-Lord, we will worship.
-And whatever we do, in word or deed,
-we do for the one who set us free;
-when we're on our feet or on our knees,
-Lord, we will worship,
-Lord, we will worship.
-
-2
-
-When we love our friends and families,
-Lord, we will worship;
-when we give ourselves to those in need,
-Lord, we will worship.
-When we take instruction cheerfully,
-Lord, we will worship;
-when we lead with Christ's humility,
-Lord, we will worship.
-
-3
-
-In the course of every working day,
-Lord, we will worship;
-when our business takes us far away,
-Lord, we will worship.
-When we care for children in the home,
-Lord, we will worship;
-when our audience is you alone,
-Lord, we will worship.

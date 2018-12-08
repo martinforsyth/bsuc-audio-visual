@@ -1,44 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF579 Come, Holy Ghost, your influence shed,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Come, Holy Ghost, your influence shed,<br/>and realise the sign;<br/>your life infuse into the bread,<br/>your power into the wine.
     </verse>
-
+    <verse name="v2"><br/>Effectual let the tokens prove<br/>and made, by heavenly art,<br/>fit channels to convey your love<br/>to every faithful heart.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Come, Holy Ghost, your influence shed,
-and realise the sign;
-your life infuse into the bread,
-your power into the wine.
-
-2
-
-Effectual let the tokens prove
-and made, by heavenly art,
-fit channels to convey your love
-to every faithful heart.

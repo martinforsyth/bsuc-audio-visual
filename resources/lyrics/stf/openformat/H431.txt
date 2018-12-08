@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF431 O, the love of my Lord is the essence</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Estelle White (b. 1925)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>O, the love of my Lord is the essence<br/>of all that I love here on earth.<br/>All the beauty I see he has given to me,<br/>and his giving is gentle as silence.
     </verse>
-
+    <verse name="v2"><br/>Every day, every hour, every moment<br/>has been blessed by the strength of his love.<br/>At the turn of each tide he is there at my side,<br/>and his touch is as gentle as silence.
+    </verse>
+    <verse name="v3"><br/>There've been times when I've turned from his presence,<br/>and I've walked other paths, other ways;<br/>but I've called on his name in the dark of my shame,<br/>and his mercy was gentle as silence.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-O, the love of my Lord is the essence
-of all that I love here on earth.
-All the beauty I see he has given to me,
-and his giving is gentle as silence.
-
-2
-
-Every day, every hour, every moment
-has been blessed by the strength of his love.
-At the turn of each tide he is there at my side,
-and his touch is as gentle as silence.
-
-3
-
-There've been times when I've turned from his presence,
-and I've walked other paths, other ways;
-but I've called on his name in the dark of my shame,
-and his mercy was gentle as silence.

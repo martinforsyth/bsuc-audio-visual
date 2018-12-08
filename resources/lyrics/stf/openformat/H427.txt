@@ -1,39 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF427 I'm accepted, I'm forgiven,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
       <author>Rob Hayward</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>I'm accepted, I'm forgiven,<br/>I am fathered by the true and living God.<br/>I'm accepted, no condemnation,<br/>I am loved by the true and living God.<br/>There's no guilt or fear as I draw near<br/>to the Saviour and Creator of the world.<br/>There is joy and peace<br/>as I release my worship to you, O Lord.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-I'm accepted, I'm forgiven,
-I am fathered by the true and living God.
-I'm accepted, no condemnation,
-I am loved by the true and living God.
-There's no guilt or fear as I draw near
-to the Saviour and Creator of the world.
-There is joy and peace
-as I release my worship to you, O Lord.

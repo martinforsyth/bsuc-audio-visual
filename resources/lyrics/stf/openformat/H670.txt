@@ -1,61 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF670 We have nothing to give</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Matt Redman (b. 1974)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We have nothing to give<br/>that didn't first come from your hand;<br/>we have nothing to offer you<br/>which you did not provide.<br/>Every good, perfect gift comes from<br/>your kind and gracious heart,<br/>and all we do is give back to you<br/>what always has been yours.<br/>Lord, we're breathing the breath<br/>that you gave us to breathe,<br/>to worship you, to worship you.<br/>And we're singing these songs<br/>with the very same breath,<br/>to worship you, to worship you.
     </verse>
-
+    <verse name="v2"><br/>Who has given to you<br/>that it should be paid back to him?<br/>Who has given to you<br/>as if you needed anything?<br/>From you and to you and through you<br/>come all things, O Lord,<br/>and all we do is give back to you<br/>what always has been yours.<br/>Refrain</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We have nothing to give
-that didn't first come from your hand;
-we have nothing to offer you
-which you did not provide.
-Every good, perfect gift comes from
-your kind and gracious heart,
-and all we do is give back to you
-what always has been yours.
-
-Lord, we're breathing the breath
-that you gave us to breathe,
-to worship you, to worship you.
-And we're singing these songs
-with the very same breath,
-to worship you, to worship you.
-
-2
-
-Who has given to you
-that it should be paid back to him?
-Who has given to you
-as if you needed anything?
-From you and to you and through you
-come all things, O Lord,
-and all we do is give back to you
-what always has been yours.
-
-Refrain

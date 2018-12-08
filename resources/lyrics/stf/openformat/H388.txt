@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF388 Let every Christian pray,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Fred Pratt Green (1903-2000)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Let every Christian pray,<br/>this day, and every day,<br/>come, Holy Spirit, come!<br/>Was not the Church we love<br/>commissioned from above?<br/>Come, Holy Spirit, come!
     </verse>
-
+    <verse name="v2"><br/>The Spirit brought to birth<br/>the Church of Christ on earth<br/>to seek and save the lost:<br/>God never has withdrawn<br/>since that tremendous dawn,<br/>those gifts of Pentecost.
+    </verse>
+    <verse name="v3"><br/>Always the Spirit strove<br/>to teach her how to love:<br/>come, Holy Spirit, come!<br/>Age after age, anew,<br/>she proved the gospel true:<br/>come, Holy Spirit, come!
+    </verse>
+    <verse name="v4"><br/>Only the Spirit's power<br/>can fit us for this hour:<br/>come, Holy Spirit, come!<br/>Instruct, inspire, unite;<br/>and make us see the light:<br/>come, Holy Spirit, come!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Let every Christian pray,
-this day, and every day,
-come, Holy Spirit, come!
-Was not the Church we love
-commissioned from above?
-Come, Holy Spirit, come!
-
-2
-
-The Spirit brought to birth
-the Church of Christ on earth
-to seek and save the lost:
-God never has withdrawn
-since that tremendous dawn,
-those gifts of Pentecost.
-
-3
-
-Always the Spirit strove
-to teach her how to love:
-come, Holy Spirit, come!
-Age after age, anew,
-she proved the gospel true:
-come, Holy Spirit, come!
-
-4
-
-Only the Spirit's power
-can fit us for this hour:
-come, Holy Spirit, come!
-Instruct, inspire, unite;
-and make us see the light:
-come, Holy Spirit, come!

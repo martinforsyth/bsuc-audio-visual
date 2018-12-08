@@ -1,73 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF279 O precious sight, my Saviour stands,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Vicky Beeching</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>O precious sight, my Saviour stands,<br/>dying for me with outstretched hands.<br/>O precious sight;I love to gaze,<br/>remembering salvation day,<br/>remembering salvation day.
     </verse>
-
+    <verse name="v2"><br/>Though my eyes linger on this scene,<br/>may passing time and years not steal<br/>the power with which it impacts me,<br/>the freshness of its mystery,<br/>the freshness of its mystery.<br/>May I never lose the wonder,<br/>the wonder of the cross.<br/>May I see it like the first time,<br/>standing as a sinner lost.<br/>Undone by mercy and left speechless,<br/>watching wide-eyed at the cost.<br/>May I never lose the wonder,<br/>the wonder of the cross.
+    </verse>
+    <verse name="v3"><br/>Behold, the God-Man crucified,<br/>the perfect sinless sacrifice.<br/>As blood ran down those nails and wood,<br/>history was split in two,<br/>history was split in two.
+    </verse>
+    <verse name="v4"><br/>Behold, the empty wooden tree,<br/>his body gone, alive and free.<br/>We sing with everlasting joy<br/>for sin and death have been destroyed,<br/>sin and death have been destroyed.<br/>May I never lose the wonder ...</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-O precious sight, my Saviour stands,
-dying for me with outstretched hands.
-O precious sight;I love to gaze,
-remembering salvation day,
-remembering salvation day.
-
-2
-
-Though my eyes linger on this scene,
-may passing time and years not steal
-the power with which it impacts me,
-the freshness of its mystery,
-the freshness of its mystery.
-
-May I never lose the wonder,
-the wonder of the cross.
-May I see it like the first time,
-standing as a sinner lost.
-Undone by mercy and left speechless,
-watching wide-eyed at the cost.
-May I never lose the wonder,
-the wonder of the cross.
-
-3
-
-Behold, the God-Man crucified,
-the perfect sinless sacrifice.
-As blood ran down those nails and wood,
-history was split in two,
-history was split in two.
-
-4
-
-Behold, the empty wooden tree,
-his body gone, alive and free.
-We sing with everlasting joy
-for sin and death have been destroyed,
-sin and death have been destroyed.
-
-May I never lose the wonder ...

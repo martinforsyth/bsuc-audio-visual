@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF493 Come, Lord, to our souls come down,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Howard Charles Adie Gaunt (1902-1983)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Come, Lord, to our souls come down,<br/>through the gospel speaking;<br/>let your words, your cross and crown,<br/>lighten all our seeking.
     </verse>
-
+    <verse name="v2"><br/>Drive out darkness from the heart,<br/>banish pride and blindness;<br/>plant in every inward part<br/>truthfulness and kindness.
+    </verse>
+    <verse name="v3"><br/>Eyes be open, spirits stirred,<br/>minds new truth receiving;<br/>stir us, Lord, by your own word;<br/>deepen our believing.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Come, Lord, to our souls come down,
-through the gospel speaking;
-let your words, your cross and crown,
-lighten all our seeking.
-
-2
-
-Drive out darkness from the heart,
-banish pride and blindness;
-plant in every inward part
-truthfulness and kindness.
-
-3
-
-Eyes be open, spirits stirred,
-minds new truth receiving;
-stir us, Lord, by your own word;
-deepen our believing.

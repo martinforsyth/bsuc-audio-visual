@@ -1,171 +1,98 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF824 Bless the Lord, O my soul.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18 v19 v20 v21 v22 v23 v24 v25 v26 v27 v28</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 104:1-17;26-30
-
 1
-
 Bless the Lord, O my soul.
 O Lord my God, how excellent is your greatness!
-
 2
-
 You are clothed with majesty and honour,
 wrapped in light as in a garment.
-
 3
-
 You spread out the heavens like a curtain
 and lay the beams of your dwelling place in the waters above.
-
 4
-
 You make the clouds your chariot
 and ride on the wings of the wind.
-
 5
-
 You make the winds your messengers
 and flames of fire your servants.
-
 6
-
 You laid the foundations of the earth,
 that it never should move at any time.
-
 7
-
 You covered it with the deep like a garment;
 the waters stood high above the hills.
-
 8
-
 At your rebuke they fled;
 at the voice of your thunder they hastened away.
-
 9
-
 They rose up to the hills and flowed down to the valleys beneath,
 to the place which you had appointed for them.
-
 10
-
 You have set them their bounds that they should not pass,
 nor turn again to cover the earth.
-
 11
-
 You send the springs into the brooks,
 which run among the hills.
-
 12
-
 They give drink to every beast of the field,
 and the wild asses quench their thirst.
-
 13
-
 Beside them the birds of the air make their nests
 and sing among the branches.
-
 14
-
 You water the hills from your dwelling on high;
 the earth is filled with the fruit of your works.
-
 15
-
 You make grass to grow for the cattle
 and plants to meet our needs,
-
 16
-
 Bringing forth food from the earth
 and wine to gladden our hearts,
-
 17
-
 Oil to give us a cheerful countenance
 and bread to strengthen our hearts.
-
 18
-
 O Lord, how manifold are your works!
 In wisdom you have made them all;the earth is full of your creatures.
-
 19
-
 There is the sea, spread far and wide,
 and there move creatures beyond number, both small and great.
-
 20
-
 There go the ships, and there is that Leviathan
 which you have made to play in the deep.
-
 21
-
 All of these look to you
 to give them their food in due season.
-
 22
-
 When you give it them, they gather it;
 you open your hand and they are filled with good.
-
 23
-
 When you hide your face they are troubled;
 when you take away their breath, they die and return again to the dust.
-
 24
-
 When you send forth your spirit, they are created,
 and you renew the face of the earth.
-
 25
-
 May the glory of the Lord endure for ever;
 may the Lord rejoice in his works;
-
 26
-
 He looks on the earth and it trembles;
 he touches the mountains and they smoke.
-
 27
-
 I will sing to the Lord as long as I live;
 I will make music to my God while I have my being.
-
 28
-
 So shall my song please him while I rejoice in the Lord.

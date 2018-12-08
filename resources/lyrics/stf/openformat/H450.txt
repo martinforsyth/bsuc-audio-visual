@@ -1,85 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF450 Open, Lord, my inward ear,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Open, Lord, my inward ear,<br/>and bid my heart rejoice;<br/>bid my quiet spirit hear<br/>your comfortable voice;<br/>never in the whirlwind found,<br/>or where earthquakes rock the place,<br/>still and silent is the sound,<br/>the whisper of your grace.
     </verse>
-
+    <verse name="v2"><br/>From the world of sin, and noise,<br/>and hurry I withdraw;<br/>for the small and inward voice<br/>I wait with humble awe;<br/>silent am I now and still,<br/>dare not in your presence move;<br/>to my waiting soul reveal<br/>the secret of your love.
+    </verse>
+    <verse name="v3"><br/>You did undertake for me,<br/>for me to death were sold;<br/>wisdom in a mystery<br/>of bleeding love unfold;<br/>teach the lesson of your cross:<br/>let me die, with you to reign;<br/>all things let me count but loss,<br/>so I may you regain.
+    </verse>
+    <verse name="v4"><br/>Show me, as my soul can bear,<br/>the depth of inbred sin;<br/>all the unbelief declare,<br/>the pride that lurks within;<br/>take me, whom yourself have bought,<br/>bring into captivity<br/>every high aspiring thought<br/>and give humility.
+    </verse>
+    <verse name="v5"><br/>Lord, my time is in your hand,<br/>my soul to you convert;<br/>you can make me understand,<br/>though I am slow of heart;<br/>yours in whom I live and move,<br/>yours the work, your name divine;<br/>you are wisdom, power, and love,<br/>and all you are is mine.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Open, Lord, my inward ear,
-and bid my heart rejoice;
-bid my quiet spirit hear
-your comfortable voice;
-never in the whirlwind found,
-or where earthquakes rock the place,
-still and silent is the sound,
-the whisper of your grace.
-
-2
-
-From the world of sin, and noise,
-and hurry I withdraw;
-for the small and inward voice
-I wait with humble awe;
-silent am I now and still,
-dare not in your presence move;
-to my waiting soul reveal
-the secret of your love.
-
-3
-
-You did undertake for me,
-for me to death were sold;
-wisdom in a mystery
-of bleeding love unfold;
-teach the lesson of your cross:
-let me die, with you to reign;
-all things let me count but loss,
-so I may you regain.
-
-4
-
-Show me, as my soul can bear,
-the depth of inbred sin;
-all the unbelief declare,
-the pride that lurks within;
-take me, whom yourself have bought,
-bring into captivity
-every high aspiring thought
-and give humility.
-
-5
-
-Lord, my time is in your hand,
-my soul to you convert;
-you can make me understand,
-though I am slow of heart;
-yours in whom I live and move,
-yours the work, your name divine;
-you are wisdom, power, and love,
-and all you are is mine.

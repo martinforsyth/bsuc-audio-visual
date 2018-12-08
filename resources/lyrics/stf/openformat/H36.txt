@@ -1,53 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF36 There's a quiet understanding</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Tedd Smith (b. 1927)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>There's a quiet understanding<br/>when we're gathered in the Spirit,<br/>it's a promise that he gives us,<br/>when we gather in his name.<br/>There's a love we feel in Jesus,<br/>there's a manna that he feeds us,<br/>it's a promise that he gives us,<br/>when we gather in his name.
     </verse>
-
+    <verse name="v2"><br/>And we know when we're together,<br/>sharing love and understanding,<br/>that our brothers and our sisters<br/>feel the oneness that he brings.<br/>Thank you, thank you, thank you, Jesus,<br/>for the way you love and feed us,<br/>for the many ways you lead us;<br/>thank you, thank you, Lord;<br/>thank you, thank you, Lord.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-There's a quiet understanding
-when we're gathered in the Spirit,
-it's a promise that he gives us,
-when we gather in his name.
-There's a love we feel in Jesus,
-there's a manna that he feeds us,
-it's a promise that he gives us,
-when we gather in his name.
-
-2
-
-And we know when we're together,
-sharing love and understanding,
-that our brothers and our sisters
-feel the oneness that he brings.
-Thank you, thank you, thank you, Jesus,
-for the way you love and feed us,
-for the many ways you lead us;
-thank you, thank you, Lord;
-thank you, thank you, Lord.

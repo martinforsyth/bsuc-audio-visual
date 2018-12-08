@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF735 How blest are they who trust in Christ</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Fred Pratt Green (1903-2000)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>How blest are they who trust in Christ<br/>when we and those we love must part:<br/>we yield them up, for go they must,<br/>but do not lose them from our heart.
     </verse>
-
+    <verse name="v2"><br/>In ripened age, their harvest reaped,<br/>or gone from us in youth or prime,<br/>in Christ they have eternal life,<br/>released from all the bonds of time.
+    </verse>
+    <verse name="v3"><br/>In Christ, who tasted death for us,<br/>and leads us through our natural grief,<br/>we witness to a stricken world<br/>the strength and splendour of belief.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-How blest are they who trust in Christ
-when we and those we love must part:
-we yield them up, for go they must,
-but do not lose them from our heart.
-
-2
-
-In ripened age, their harvest reaped,
-or gone from us in youth or prime,
-in Christ they have eternal life,
-released from all the bonds of time.
-
-3
-
-In Christ, who tasted death for us,
-and leads us through our natural grief,
-we witness to a stricken world
-the strength and splendour of belief.

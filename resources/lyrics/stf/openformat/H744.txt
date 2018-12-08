@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF744 Come, let us join our friends above</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Come, let us join our friends above<br/>that have obtained the prize,<br/>and on the eagle wings of love<br/>to joys celestial rise:<br/>let all the saints terrestrial sing<br/>with those to glory gone;<br/>for all the servants of our King,<br/>in earth and heaven, are one.
     </verse>
-
+    <verse name="v2"><br/>One family we dwell in him,<br/>one Church, above, beneath,<br/>though now divided by the stream,<br/>the narrow stream of death:<br/>one army of the living God,<br/>to his command we bow;<br/>part of his host have crossed the flood,<br/>and part are crossing now.
+    </verse>
+    <verse name="v3"><br/>Ten thousand to their endless home<br/>this solemn moment fly;<br/>and we are to the margin come,<br/>and we expect to die;<br/>e'en now by faith we join our hands<br/>with those that went before,<br/>and greet the blood-besprinkled bands<br/>on the eternal shore.
+    </verse>
+    <verse name="v4"><br/>Our spirits too shall quickly join,<br/>like theirs with glory crowned,<br/>and shout to see our captain's sign,<br/>to hear his trumpet sound.<br/>O that we now might grasp our guide!<br/>O that the word were given!<br/>Come, Lord of hosts, the waves divide,<br/>and land us all in heaven.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Come, let us join our friends above
-that have obtained the prize,
-and on the eagle wings of love
-to joys celestial rise:
-let all the saints terrestrial sing
-with those to glory gone;
-for all the servants of our King,
-in earth and heaven, are one.
-
-2
-
-One family we dwell in him,
-one Church, above, beneath,
-though now divided by the stream,
-the narrow stream of death:
-one army of the living God,
-to his command we bow;
-part of his host have crossed the flood,
-and part are crossing now.
-
-3
-
-Ten thousand to their endless home
-this solemn moment fly;
-and we are to the margin come,
-and we expect to die;
-e'en now by faith we join our hands
-with those that went before,
-and greet the blood-besprinkled bands
-on the eternal shore.
-
-4
-
-Our spirits too shall quickly join,
-like theirs with glory crowned,
-and shout to see our captain's sign,
-to hear his trumpet sound.
-O that we now might grasp our guide!
-O that the word were given!
-Come, Lord of hosts, the waves divide,
-and land us all in heaven.

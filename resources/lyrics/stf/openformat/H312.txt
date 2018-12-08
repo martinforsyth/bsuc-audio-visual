@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF312 The head that once was crowned with thorns</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Thomas Kelly (1769-1855)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>The head that once was crowned with thorns<br/>is crowned with glory now;<br/>a royal diadem adorns<br/>the mighty Victor's brow.
     </verse>
-
+    <verse name="v2"><br/>The highest place that heaven affords<br/>is his, is his by right,<br/>the King of kings and Lord of lords,<br/>and heaven's eternal light.
+    </verse>
+    <verse name="v3"><br/>The joy of all who dwell above,<br/>the joy of all below<br/>to whom he manifests his love<br/>and grants his name to know.
+    </verse>
+    <verse name="v4"><br/>To them the cross, with all its shame,<br/>with all its grace, is given,<br/>their name an everlasting name,<br/>their joy the joy of heaven.
+    </verse>
+    <verse name="v5"><br/>They suffer with their Lord below,<br/>they reign with him above,<br/>their profit and their joy to know<br/>the mystery of his love.
+    </verse>
+    <verse name="v6"><br/>The cross he bore is life and health,<br/>though shame and death to him;<br/>his people's hope, his people's wealth,<br/>their everlasting theme.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-The head that once was crowned with thorns
-is crowned with glory now;
-a royal diadem adorns
-the mighty Victor's brow.
-
-2
-
-The highest place that heaven affords
-is his, is his by right,
-the King of kings and Lord of lords,
-and heaven's eternal light.
-
-3
-
-The joy of all who dwell above,
-the joy of all below
-to whom he manifests his love
-and grants his name to know.
-
-4
-
-To them the cross, with all its shame,
-with all its grace, is given,
-their name an everlasting name,
-their joy the joy of heaven.
-
-5
-
-They suffer with their Lord below,
-they reign with him above,
-their profit and their joy to know
-the mystery of his love.
-
-6
-
-The cross he bore is life and health,
-though shame and death to him;
-his people's hope, his people's wealth,
-their everlasting theme.

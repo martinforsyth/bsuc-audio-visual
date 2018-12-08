@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF618 Sacred the body God has created,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Ruth Duck (b. 1947)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Sacred the body God has created,<br/>temple of Spirit that dwells deep inside.<br/>Cherish each person;nurture creation.<br/>Treat flesh as holy, that love may abide.
     </verse>
-
+    <verse name="v2"><br/>Bodies are varied, made in all sizes,<br/>pale, full of colour, both fragile and strong.<br/>Holy the difference, gift of the Maker,<br/>so let us honour each story and song.
+    </verse>
+    <verse name="v3"><br/>Love respects persons, bodies and boundaries.<br/>Love does not batter, neglect, or abuse.<br/>Love touches gently, never coercing.<br/>Love leaves the other with power to choose.
+    </verse>
+    <verse name="v4"><br/>Holy of holies, God ever loving,<br/>make us your temples;indwell all we do.<br/>May we be careful, tender and caring,<br/>so may our bodies give honour to you.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Sacred the body God has created,
-temple of Spirit that dwells deep inside.
-Cherish each person;nurture creation.
-Treat flesh as holy, that love may abide.
-
-2
-
-Bodies are varied, made in all sizes,
-pale, full of colour, both fragile and strong.
-Holy the difference, gift of the Maker,
-so let us honour each story and song.
-
-3
-
-Love respects persons, bodies and boundaries.
-Love does not batter, neglect, or abuse.
-Love touches gently, never coercing.
-Love leaves the other with power to choose.
-
-4
-
-Holy of holies, God ever loving,
-make us your temples;indwell all we do.
-May we be careful, tender and caring,
-so may our bodies give honour to you.

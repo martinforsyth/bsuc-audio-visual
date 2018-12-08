@@ -1,79 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF334 Praise to the Holiest in the height,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
       <author>John Henry Newman (1801-1890)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Praise to the Holiest in the height,<br/>and in the depth be praise;<br/>in all his words most wonderful,<br/>most sure in all his ways.
     </verse>
-
+    <verse name="v2"><br/>O loving wisdom of our God!<br/>when all was sin and shame,<br/>a second Adam to the fight<br/>and to the rescue came.
+    </verse>
+    <verse name="v3"><br/>O wisest love! that flesh and blood,<br/>which did in Adam fail,<br/>should strive afresh against the foe,<br/>should strive and should prevail;
+    </verse>
+    <verse name="v4"><br/>And that a higher gift than grace<br/>should flesh and blood refine,<br/>God's presence and his very self,<br/>and essence all-divine.
+    </verse>
+    <verse name="v5"><br/>O generous love! that he, who came<br/>as man to smite the foe,<br/>the double agony for us<br/>as man should undergo;
+    </verse>
+    <verse name="v6"><br/>And in the garden secretly,<br/>and on the cross on high,<br/>should teach his followers, and inspire<br/>to suffer and to die.
+    </verse>
+    <verse name="v7"><br/>Praise to the Holiest in the height,<br/>and in the depth be praise;<br/>in all his words most wonderful,<br/>most sure in all his ways.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Praise to the Holiest in the height,
-and in the depth be praise;
-in all his words most wonderful,
-most sure in all his ways.
-
-2
-
-O loving wisdom of our God!
-when all was sin and shame,
-a second Adam to the fight
-and to the rescue came.
-
-3
-
-O wisest love! that flesh and blood,
-which did in Adam fail,
-should strive afresh against the foe,
-should strive and should prevail;
-
-4
-
-And that a higher gift than grace
-should flesh and blood refine,
-God's presence and his very self,
-and essence all-divine.
-
-5
-
-O generous love! that he, who came
-as man to smite the foe,
-the double agony for us
-as man should undergo;
-
-6
-
-And in the garden secretly,
-and on the cross on high,
-should teach his followers, and inspire
-to suffer and to die.
-
-7
-
-Praise to the Holiest in the height,
-and in the depth be praise;
-in all his words most wonderful,
-most sure in all his ways.

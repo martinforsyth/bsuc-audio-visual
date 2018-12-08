@@ -1,79 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF12 Morning glory, starlit sky,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
       <author>William Hubert Vanstone (1923-1999)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Morning glory, starlit sky,<br/>leaves in springtime, swallows' flight,<br/>autumn gales, tremendous seas,<br/>sounds and scents of summer night;
     </verse>
-
+    <verse name="v2"><br/>Soaring music, towering words,<br/>art's perfection, scholar's truth,<br/>joy supreme of human love,<br/>memory's treasure, grace of youth;
+    </verse>
+    <verse name="v3"><br/>Open, Lord, are these, thy gifts,<br/>gifts of love to mind and sense;<br/>hidden is love's agony,<br/>love's endeavour, love's expense.
+    </verse>
+    <verse name="v4"><br/>Love that gives, gives evermore,<br/>gives with zeal, with eager hands,<br/>spares not, keeps not, all outpours,<br/>ventures all, its all expends.
+    </verse>
+    <verse name="v5"><br/>Drained is love in making full;<br/>bound in setting others free;<br/>poor in making many rich;<br/>weak in giving power to be.
+    </verse>
+    <verse name="v6"><br/>Therefore he who thee reveals,<br/>hangs, O Father, on that Tree,<br/>helpless;and the nails and thorns<br/>tell of what thy love must be.
+    </verse>
+    <verse name="v7"><br/>Thou art God, no monarch thou,<br/>throned in easy state to reign;<br/>thou art God, whose arms of love<br/>aching, spent, the world sustain.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Morning glory, starlit sky,
-leaves in springtime, swallows' flight,
-autumn gales, tremendous seas,
-sounds and scents of summer night;
-
-2
-
-Soaring music, towering words,
-art's perfection, scholar's truth,
-joy supreme of human love,
-memory's treasure, grace of youth;
-
-3
-
-Open, Lord, are these, thy gifts,
-gifts of love to mind and sense;
-hidden is love's agony,
-love's endeavour, love's expense.
-
-4
-
-Love that gives, gives evermore,
-gives with zeal, with eager hands,
-spares not, keeps not, all outpours,
-ventures all, its all expends.
-
-5
-
-Drained is love in making full;
-bound in setting others free;
-poor in making many rich;
-weak in giving power to be.
-
-6
-
-Therefore he who thee reveals,
-hangs, O Father, on that Tree,
-helpless;and the nails and thorns
-tell of what thy love must be.
-
-7
-
-Thou art God, no monarch thou,
-throned in easy state to reign;
-thou art God, whose arms of love
-aching, spent, the world sustain.

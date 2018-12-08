@@ -1,66 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF269 To see the King of heaven fall</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Keith Getty (b. 1974) </author>
       <author>Stuart Townend (b. 1963)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>To see the King of heaven fall<br/>in anguish to his knees,<br/>the Light and Hope of all the world<br/>now overwhelmed with grief.<br/>What nameless horrors must he see,<br/>to cry out in the garden:<br/>'Oh, take this cup away from me --<br/>yet not my will but yours,<br/>yet not my will but yours.'
     </verse>
-
+    <verse name="v2"><br/>To know each friend will fall away,<br/>and heaven's voice be still,<br/>for hell to have its vengeful day<br/>upon Golgotha's hill.<br/>No words describe the Saviour's plight --<br/>to be by God forsaken<br/>till wrath and love are satisfied<br/>and every sin is paid<br/>and every sin is paid.
+    </verse>
+    <verse name="v3"><br/>What took him to this wretched place,<br/>what kept him on this road?<br/>His love for Adam's cursed race,<br/>for every broken soul.<br/>No sin too slight to overlook,<br/>no crime too great to carry,<br/>all mingled in this poisoned cup --<br/>and yet he drank it all,<br/>the Saviour drank it all,<br/>the Saviour drank it all.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-To see the King of heaven fall
-in anguish to his knees,
-the Light and Hope of all the world
-now overwhelmed with grief.
-What nameless horrors must he see,
-to cry out in the garden:
-'Oh, take this cup away from me --
-yet not my will but yours,
-yet not my will but yours.'
-
-2
-
-To know each friend will fall away,
-and heaven's voice be still,
-for hell to have its vengeful day
-upon Golgotha's hill.
-No words describe the Saviour's plight --
-to be by God forsaken
-till wrath and love are satisfied
-and every sin is paid
-and every sin is paid.
-
-3
-
-What took him to this wretched place,
-what kept him on this road?
-His love for Adam's cursed race,
-for every broken soul.
-No sin too slight to overlook,
-no crime too great to carry,
-all mingled in this poisoned cup --
-and yet he drank it all,
-the Saviour drank it all,
-the Saviour drank it all.

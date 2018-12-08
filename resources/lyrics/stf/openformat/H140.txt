@@ -1,48 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF140 We praise God in the morning when the sun is bright,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Captain Alan Price</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We praise God in the morning when the sun is bright,<br/>we praise him in the evening when day turns to night.<br/>We praise him if it's sunny or if it's wet.<br/>No matter what the weather we'll never forget to<br/>praise God (bop, bop, showaddy do wah).<br/>Praise God (bop, bop, showaddy do wah).<br/>Hallelujah, we'll praise the Lord.
     </verse>
-
+    <verse name="v2"><br/>We praise God when we're singing our songs of praise,<br/>we praise him when we worship in our different ways.<br/>We praise him for the food that we eat each day<br/>but in everything we do we want to say,<br/>Refrain</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We praise God in the morning when the sun is bright,
-we praise him in the evening when day turns to night.
-We praise him if it's sunny or if it's wet.
-No matter what the weather we'll never forget to
-praise God (bop, bop, showaddy do wah).
-Praise God (bop, bop, showaddy do wah).
-Hallelujah, we'll praise the Lord.
-
-2
-
-We praise God when we're singing our songs of praise,
-we praise him when we worship in our different ways.
-We praise him for the food that we eat each day
-but in everything we do we want to say,
-Refrain

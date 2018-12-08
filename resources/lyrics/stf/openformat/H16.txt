@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF16 We give immortal praise</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Isaac Watts (1674-1748)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We give immortal praise<br/>to God the Father's love,<br/>for all our comforts here,<br/>and better hopes above.<br/>He sent his own eternal Son<br/>to die for sins that all have done.
     </verse>
-
+    <verse name="v2"><br/>To God the Son belongs<br/>immortal glory too,<br/>who bought us with his blood<br/>from everlasting woe:<br/>and now he lives, and now he reigns,<br/>and sees the fruit of all his pains.
+    </verse>
+    <verse name="v3"><br/>To God the Spirit's name<br/>immortal worship give,<br/>whose new-creating power<br/>makes the dead sinner live:<br/>his work completes the great design,<br/>and fills the soul with joy divine.
+    </verse>
+    <verse name="v4"><br/>Almighty God, to thee<br/>be endless honours done,<br/>the undivided Three,<br/>and the mysterious One:<br/>where reason fails with all her powers,<br/>there faith prevails, and love adores.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We give immortal praise
-to God the Father's love,
-for all our comforts here,
-and better hopes above.
-He sent his own eternal Son
-to die for sins that all have done.
-
-2
-
-To God the Son belongs
-immortal glory too,
-who bought us with his blood
-from everlasting woe:
-and now he lives, and now he reigns,
-and sees the fruit of all his pains.
-
-3
-
-To God the Spirit's name
-immortal worship give,
-whose new-creating power
-makes the dead sinner live:
-his work completes the great design,
-and fills the soul with joy divine.
-
-4
-
-Almighty God, to thee
-be endless honours done,
-the undivided Three,
-and the mysterious One:
-where reason fails with all her powers,
-there faith prevails, and love adores.

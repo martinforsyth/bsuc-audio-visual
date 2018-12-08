@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF164 Your words to me are life and health;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>George Currie Martin (1865-1937)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Your words to me are life and health;<br/>they fortify my soul,<br/>enable, guide, and teach my heart<br/>to reach its perfect goal.
     </verse>
-
+    <verse name="v2"><br/>Your words to me are light and truth;<br/>from day to day they show<br/>their wisdom, passing earthly lore,<br/>as in their truth I grow.
+    </verse>
+    <verse name="v3"><br/>Your words to me are full of joy,<br/>of beauty, peace, and grace;<br/>from them I learn your blessed will,<br/>through them I see your face.
+    </verse>
+    <verse name="v4"><br/>Your words are perfected in One,<br/>yourself, the living Word;<br/>within my heart your image print<br/>in clearest lines, O Lord.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Your words to me are life and health;
-they fortify my soul,
-enable, guide, and teach my heart
-to reach its perfect goal.
-
-2
-
-Your words to me are light and truth;
-from day to day they show
-their wisdom, passing earthly lore,
-as in their truth I grow.
-
-3
-
-Your words to me are full of joy,
-of beauty, peace, and grace;
-from them I learn your blessed will,
-through them I see your face.
-
-4
-
-Your words are perfected in One,
-yourself, the living Word;
-within my heart your image print
-in clearest lines, O Lord.

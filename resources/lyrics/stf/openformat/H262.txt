@@ -1,70 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF262 All glory, laud, and honour</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>St Theodulph of Orleans (d. 821)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>All glory, laud, and honour<br/>to thee, Redeemer, King,<br/>to whom the lips of children<br/>made sweet hosannas ring!<br/>Thou art the King of Israel,<br/>thou David's royal Son,<br/>who in the Lord's name comest,<br/>the King and Blessed One.
     </verse>
-
+    <verse name="v2"><br/>The company of angels<br/>are praising thee on high,<br/>and mortal men and all things<br/>created make reply.<br/>The people of the Hebrews<br/>with palms before thee went;<br/>our praise and prayer and anthems<br/>before thee we present.
+    </verse>
+    <verse name="v3"><br/>To thee before thy Passion<br/>they sang their hymns of praise;<br/>to thee now high exalted<br/>our melody we raise.<br/>Thou didst accept their praises;<br/>accept the prayers we bring,<br/>who in all good delightest,<br/>thou good and gracious King.
+    </verse>
+    <verse name="v4"><br/>All glory, laud, and honour<br/>to thee, Redeemer, King,<br/>to whom the lips of children<br/>made sweet hosannas ring!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-All glory, laud, and honour
-to thee, Redeemer, King,
-to whom the lips of children
-made sweet hosannas ring!
-Thou art the King of Israel,
-thou David's royal Son,
-who in the Lord's name comest,
-the King and Blessed One.
-
-2
-
-The company of angels
-are praising thee on high,
-and mortal men and all things
-created make reply.
-The people of the Hebrews
-with palms before thee went;
-our praise and prayer and anthems
-before thee we present.
-
-3
-
-To thee before thy Passion
-they sang their hymns of praise;
-to thee now high exalted
-our melody we raise.
-Thou didst accept their praises;
-accept the prayers we bring,
-who in all good delightest,
-thou good and gracious King.
-
-4
-
-All glory, laud, and honour
-to thee, Redeemer, King,
-to whom the lips of children
-made sweet hosannas ring!

@@ -1,85 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF110 In the wonder of creation,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Andrew T. Murphy (b. 1981)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>In the wonder of creation,<br/>when all nature shares one song,<br/>showing God's imagination,<br/>all may see his love goes on.<br/>Through the Holy Story spoken,<br/>of God's people called as one,<br/>gathered, exiled, saved and broken,<br/>this we learn:his love goes on.
     </verse>
-
+    <verse name="v2"><br/>In the Christ who died to save us;<br/>in God's risen, living Son;<br/>through the Spirit, whom he gave us;<br/>this we know:his love goes on.<br/>In the telling of the gospel<br/>Matthew, Mark and Luke and John<br/>join the Church in testifying<br/>through the years:his love goes on.
+    </verse>
+    <verse name="v3"><br/>From the perfect days of gladness<br/>when the sun has brightly shone,<br/>to the slog of working madness,<br/>all the while his love goes on.<br/>Through the times of harsh temptation,<br/>seeking strength but finding none,<br/>in our human desperation,<br/>mercy comes:his love goes on.
+    </verse>
+    <verse name="v4"><br/>In the joys of celebration,<br/>of new birth or victory won,<br/>in the deep peace of salvation,<br/>tell the world his love goes on!<br/>Through the dark days of depression,<br/>when all sign of faith is gone,<br/>hope may find no fresh expression,<br/>but we trust his love goes on.
+    </verse>
+    <verse name="v5"><br/>Through the hopes of our tomorrows,<br/>and the things we've left undone --<br/>future joys and present sorrows --<br/>through all time, his love goes on.<br/>In our Kingdom-shaped endeavour,<br/>when God's glorious work is done,<br/>to the promise of forever,<br/>God is here:his love goes on.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-In the wonder of creation,
-when all nature shares one song,
-showing God's imagination,
-all may see his love goes on.
-Through the Holy Story spoken,
-of God's people called as one,
-gathered, exiled, saved and broken,
-this we learn:his love goes on.
-
-2
-
-In the Christ who died to save us;
-in God's risen, living Son;
-through the Spirit, whom he gave us;
-this we know:his love goes on.
-In the telling of the gospel
-Matthew, Mark and Luke and John
-join the Church in testifying
-through the years:his love goes on.
-
-3
-
-From the perfect days of gladness
-when the sun has brightly shone,
-to the slog of working madness,
-all the while his love goes on.
-Through the times of harsh temptation,
-seeking strength but finding none,
-in our human desperation,
-mercy comes:his love goes on.
-
-4
-
-In the joys of celebration,
-of new birth or victory won,
-in the deep peace of salvation,
-tell the world his love goes on!
-Through the dark days of depression,
-when all sign of faith is gone,
-hope may find no fresh expression,
-but we trust his love goes on.
-
-5
-
-Through the hopes of our tomorrows,
-and the things we've left undone --
-future joys and present sorrows --
-through all time, his love goes on.
-In our Kingdom-shaped endeavour,
-when God's glorious work is done,
-to the promise of forever,
-God is here:his love goes on.

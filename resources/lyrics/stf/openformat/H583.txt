@@ -1,59 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF583 Christ is the bread of life,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Taize Community</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Eat this bread, drink this cup, come to him and never be hungry.
 Eat this bread, drink this cup, trust in me and you will not thirst.
 or
 Jesus Christ, bread of life, those who come to you will not hunger.
 Jesus Christ, risen Lord, those who trust in you will not thirst.
-
 1
-
 Christ is the bread of life,
 the true bread sent from the Father.
-
 2
-
 Our ancestors ate manna in the desert,
 but this is the bread come down from heaven.
-
 3
-
 Eat his flesh and drink his blood,
 and Christ will raise you up on the last day.
-
 4
-
 Anyone who eats this bread will live for ever.
-
 5
-
 If we believe and eat this bread, we will have eternal life.

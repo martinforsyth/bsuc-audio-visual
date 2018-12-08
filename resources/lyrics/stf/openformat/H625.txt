@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF625 Deep in the darkness a starlight is gleaming,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Jan Berry (b. 1953)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Deep in the darkness a starlight is gleaming,<br/>calling us out from the safety of home.<br/>God of the questions, the mystery of dreaming,<br/>lighten our journey into the unknown.
     </verse>
-
+    <verse name="v2"><br/>Out of the darkness the voices are crying,<br/>terror and fear screaming loud in the night.<br/>God of the hurting, of innocence dying,<br/>fire us with anger to struggle for right.
+    </verse>
+    <verse name="v3"><br/>Still in the darkness we search for your healing,<br/>hoping for meaning to comfort our fear.<br/>God of the silence, of unspoken feeling,<br/>teach us the wisdom to make your truth clear.
+    </verse>
+    <verse name="v4"><br/>On through the darkness we follow your leading,<br/>searching for joy and a refuge to stay.<br/>God of our longing, the bliss we are seeking,<br/>journey with us to the brightness of day.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Deep in the darkness a starlight is gleaming,
-calling us out from the safety of home.
-God of the questions, the mystery of dreaming,
-lighten our journey into the unknown.
-
-2
-
-Out of the darkness the voices are crying,
-terror and fear screaming loud in the night.
-God of the hurting, of innocence dying,
-fire us with anger to struggle for right.
-
-3
-
-Still in the darkness we search for your healing,
-hoping for meaning to comfort our fear.
-God of the silence, of unspoken feeling,
-teach us the wisdom to make your truth clear.
-
-4
-
-On through the darkness we follow your leading,
-searching for joy and a refuge to stay.
-God of our longing, the bliss we are seeking,
-journey with us to the brightness of day.

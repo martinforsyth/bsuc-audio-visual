@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF717 We do not hope to ease our minds</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Marnie Barrell (b. 1952)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We do not hope to ease our minds<br/>by simple answers, shifted blame,<br/>while Christ is homeless, hungry, poor,<br/>and we are rich who bear his name.<br/>As long as justice is a dream<br/>and human dignity denied,<br/>we stand with Christ;disturb us still<br/>till every need is satisfied.
     </verse>
-
+    <verse name="v2"><br/>We cannot ask to live at peace<br/>in comfort and security<br/>while Christ is tried in Pilate's hall<br/>and drags his cross to Calvary.<br/>As long as hatred stifles truth<br/>and freedom is betrayed by fear,<br/>we stand with Christ;give us no peace<br/>till his peace reigns in triumph here.
+    </verse>
+    <verse name="v3"><br/>We will not pray to be preserved<br/>from any depth of agony<br/>while Christ's despairing cry rings out:<br/>God, why have you abandoned me?<br/>As long as we have hope to share<br/>of life renewed beyond the pain,<br/>we stand with Christ all through the night<br/>till Easter morning dawns again.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We do not hope to ease our minds
-by simple answers, shifted blame,
-while Christ is homeless, hungry, poor,
-and we are rich who bear his name.
-As long as justice is a dream
-and human dignity denied,
-we stand with Christ;disturb us still
-till every need is satisfied.
-
-2
-
-We cannot ask to live at peace
-in comfort and security
-while Christ is tried in Pilate's hall
-and drags his cross to Calvary.
-As long as hatred stifles truth
-and freedom is betrayed by fear,
-we stand with Christ;give us no peace
-till his peace reigns in triumph here.
-
-3
-
-We will not pray to be preserved
-from any depth of agony
-while Christ's despairing cry rings out:
-God, why have you abandoned me?
-As long as we have hope to share
-of life renewed beyond the pain,
-we stand with Christ all through the night
-till Easter morning dawns again.

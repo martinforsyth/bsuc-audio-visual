@@ -1,60 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF775 Unarmed he faces forces of demons and death;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Original Xhosa:
 Ewe, thina.
 Ewe, thina.
 Ewe, thina.
 Ewe, thina.
-
 Sizowa nyathela amadimoni.
 Refrain
-
 English:
 We walk his way.
 We walk his way.
 We walk his way.
 We walk his way.
-
 1
-
 Unarmed he faces forces of demons and death;
 Refrain
-
 2
-
 He breaks the bonds of hell, dying on the cross;
 Refrain
-
 3
-
 The tree of freedom blooms by his empty grave;
 Refrain

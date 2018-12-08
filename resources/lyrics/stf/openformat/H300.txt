@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF300 Hail the day that sees him rise, Alleluia!</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Hail the day that sees him rise, Alleluia!<br/>ravished from our wistful eyes! Alleluia!<br/>Christ, awhile to mortals given, Alleluia!<br/>reascends his native heaven:Alleluia!
     </verse>
-
+    <verse name="v2"><br/>There the glorious triumph waits:Alleluia!<br/>lift your heads, eternal gates;Alleluia!<br/>wide unfold the radiant scene;Alleluia!<br/>take the King of Glory in! Alleluia!
+    </verse>
+    <verse name="v3"><br/>Him though highest heaven receives, Alleluia!<br/>still he loves the earth he leaves;Alleluia!<br/>though returning to his throne, Alleluia!<br/>still he calls the world his own:Alleluia!
+    </verse>
+    <verse name="v4"><br/>See! He lifts his hands above;Alleluia!<br/>see! He shows the prints of love;Alleluia!<br/>hark! His gracious lips bestow Alleluia!<br/>blessings on his Church below:Alleluia!
+    </verse>
+    <verse name="v5"><br/>Master, parted from our sight, Alleluia!<br/>high above the azure height, Alleluia!<br/>grant our hearts to you may rise, Alleluia!<br/>following you beyond the skies:Alleluia!
+    </verse>
+    <verse name="v6"><br/>Cast ourselves before your throne, Alleluia!<br/>here our heaven of heavens to own, Alleluia!<br/>there we shall with you remain, Alleluia!<br/>partners of your endless reign:Alleluia!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Hail the day that sees him rise, Alleluia!
-ravished from our wistful eyes! Alleluia!
-Christ, awhile to mortals given, Alleluia!
-reascends his native heaven:Alleluia!
-
-2
-
-There the glorious triumph waits:Alleluia!
-lift your heads, eternal gates;Alleluia!
-wide unfold the radiant scene;Alleluia!
-take the King of Glory in! Alleluia!
-
-3
-
-Him though highest heaven receives, Alleluia!
-still he loves the earth he leaves;Alleluia!
-though returning to his throne, Alleluia!
-still he calls the world his own:Alleluia!
-
-4
-
-See! He lifts his hands above;Alleluia!
-see! He shows the prints of love;Alleluia!
-hark! His gracious lips bestow Alleluia!
-blessings on his Church below:Alleluia!
-
-5
-
-Master, parted from our sight, Alleluia!
-high above the azure height, Alleluia!
-grant our hearts to you may rise, Alleluia!
-following you beyond the skies:Alleluia!
-
-6
-
-Cast ourselves before your throne, Alleluia!
-here our heaven of heavens to own, Alleluia!
-there we shall with you remain, Alleluia!
-partners of your endless reign:Alleluia!

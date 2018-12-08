@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF710 Peace, perfect peace, is the gift of Christ our Lord.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Kevin Mayhew (b. 1942)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Peace, perfect peace, is the gift of Christ our Lord.<br/>Peace, perfect peace, is the gift of Christ our Lord.<br/>Thus, says the Lord, will the world know my friends.<br/>Peace, perfect peace, is the gift of Christ our Lord.
     </verse>
-
+    <verse name="v2"><br/>Love, perfect love, is the gift of Christ our Lord.<br/>Love, perfect love, is the gift of Christ our Lord.<br/>Thus, says the Lord, will the world know my friends.<br/>Love, perfect love, is the gift of Christ our Lord.
+    </verse>
+    <verse name="v3"><br/>Faith, perfect faith, is the gift of Christ our Lord.<br/>Faith, perfect faith, is the gift of Christ our Lord.<br/>Thus, says the Lord, will the world know my friends.<br/>Faith, perfect faith, is the gift of Christ our Lord.
+    </verse>
+    <verse name="v4"><br/>Hope, perfect hope, is the gift of Christ our Lord.<br/>Hope, perfect hope, is the gift of Christ our Lord.<br/>Thus, says the Lord, will the world know my friends.<br/>Hope, perfect hope, is the gift of Christ our Lord.
+    </verse>
+    <verse name="v5"><br/>Joy, perfect joy, is the gift of Christ our Lord.<br/>Joy, perfect joy, is the gift of Christ our Lord.<br/>Thus, says the Lord, will the world know my friends.<br/>Joy, perfect joy, is the gift of Christ our Lord.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Peace, perfect peace, is the gift of Christ our Lord.
-Peace, perfect peace, is the gift of Christ our Lord.
-Thus, says the Lord, will the world know my friends.
-Peace, perfect peace, is the gift of Christ our Lord.
-
-2
-
-Love, perfect love, is the gift of Christ our Lord.
-Love, perfect love, is the gift of Christ our Lord.
-Thus, says the Lord, will the world know my friends.
-Love, perfect love, is the gift of Christ our Lord.
-
-3
-
-Faith, perfect faith, is the gift of Christ our Lord.
-Faith, perfect faith, is the gift of Christ our Lord.
-Thus, says the Lord, will the world know my friends.
-Faith, perfect faith, is the gift of Christ our Lord.
-
-4
-
-Hope, perfect hope, is the gift of Christ our Lord.
-Hope, perfect hope, is the gift of Christ our Lord.
-Thus, says the Lord, will the world know my friends.
-Hope, perfect hope, is the gift of Christ our Lord.
-
-5
-
-Joy, perfect joy, is the gift of Christ our Lord.
-Joy, perfect joy, is the gift of Christ our Lord.
-Thus, says the Lord, will the world know my friends.
-Joy, perfect joy, is the gift of Christ our Lord.

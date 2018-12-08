@@ -1,53 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF40 Blessed be the name of the Lord,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Clinton Utterbach</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Blessed be the name of the Lord,<br/>blessed be the name of the Lord,<br/>blessed be the name of the Lord Most High!<br/>Blessed be the name of the Lord,<br/>blessed be the name of the Lord,<br/>blessed be the name of the Lord Most High!<br/>The name of the Lord is a strong tower,<br/>the righteous run into it,<br/>and they are saved.<br/>The name of the Lord is a strong tower,<br/>the righteous run into it,<br/>and they are saved.
     </verse>
-
+    <verse name="v2"><br/>Glory to the name of the Lord ...
+    </verse>
+    <verse name="v3"><br/>Holy is the name of the Lord ...</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Blessed be the name of the Lord,
-blessed be the name of the Lord,
-blessed be the name of the Lord Most High!
-Blessed be the name of the Lord,
-blessed be the name of the Lord,
-blessed be the name of the Lord Most High!
-The name of the Lord is a strong tower,
-the righteous run into it,
-and they are saved.
-The name of the Lord is a strong tower,
-the righteous run into it,
-and they are saved.
-
-2
-
-Glory to the name of the Lord ...
-
-3
-
-Holy is the name of the Lord ...

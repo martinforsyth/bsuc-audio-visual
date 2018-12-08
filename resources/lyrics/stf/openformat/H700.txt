@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF700 God weeps</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Shirley Erena Murray (b. 1931)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God weeps<br/>at love withheld,<br/>at strength misused,<br/>at children's innocence abused,<br/>and till we change the way we love,<br/>God weeps.
     </verse>
-
+    <verse name="v2"><br/>God bleeds<br/>at anger's fist,<br/>at trust betrayed,<br/>at women battered and afraid,<br/>and till we change the way we win,<br/>God bleeds.
+    </verse>
+    <verse name="v3"><br/>God cries<br/>at hungry mouths,<br/>at running sores,<br/>at creatures dying without cause,<br/>and till we change the way we care,<br/>God cries.
+    </verse>
+    <verse name="v4"><br/>God waits<br/>for stones to melt,<br/>for peace to seed,<br/>for hearts to hold each other's need,<br/>and till we understand the Christ,<br/>God waits.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God weeps
-at love withheld,
-at strength misused,
-at children's innocence abused,
-and till we change the way we love,
-God weeps.
-
-2
-
-God bleeds
-at anger's fist,
-at trust betrayed,
-at women battered and afraid,
-and till we change the way we win,
-God bleeds.
-
-3
-
-God cries
-at hungry mouths,
-at running sores,
-at creatures dying without cause,
-and till we change the way we care,
-God cries.
-
-4
-
-God waits
-for stones to melt,
-for peace to seed,
-for hearts to hold each other's need,
-and till we understand the Christ,
-God waits.

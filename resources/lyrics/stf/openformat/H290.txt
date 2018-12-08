@@ -1,78 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF290 Who would ever have believed it?</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949) </author>
       <author>Graham Maule (b. 1958)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Who would ever have believed it?<br/>Who could ever have conceived it?<br/>Who dared trace God's hand behind it<br/>when a servant came among us?
     </verse>
-
+    <verse name="v2"><br/>Like a sapling in dry soil,<br/>he was rooted in our presence;<br/>lacking beauty, grace and splendour,<br/>no one felt attracted to him.
+    </verse>
+    <verse name="v3"><br/>We despised him, we disowned him,<br/>though he clearly hurt and suffered:<br/>we, believing he was worthless,<br/>never turned our eyes towards him.
+    </verse>
+    <verse name="v4"><br/>Yet it was the pain and torment<br/>we deserved which he accepted,<br/>while we reckoned his afflictions<br/>must have come by heaven's instruction.
+    </verse>
+    <verse name="v5"><br/>Though our sins let him be wounded,<br/>though our cruelty left him beaten,<br/>yet, through how and why he suffered,<br/>God revealed our hope of healing.
+    </verse>
+    <verse name="v6"><br/>We, like sheep despite our wisdom,<br/>all had wandered from God's purpose;<br/>and our due in pain and anger<br/>God let fall on one among us.
+    </verse>
+    <verse name="v7"><br/>Who would ever have believed it?<br/>Who could ever have conceived it?<br/>Who dared trace God's hand behind it<br/>when a servant came among us?</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Who would ever have believed it?
-Who could ever have conceived it?
-Who dared trace God's hand behind it
-when a servant came among us?
-
-2
-
-Like a sapling in dry soil,
-he was rooted in our presence;
-lacking beauty, grace and splendour,
-no one felt attracted to him.
-
-3
-
-We despised him, we disowned him,
-though he clearly hurt and suffered:
-we, believing he was worthless,
-never turned our eyes towards him.
-
-4
-
-Yet it was the pain and torment
-we deserved which he accepted,
-while we reckoned his afflictions
-must have come by heaven's instruction.
-
-5
-
-Though our sins let him be wounded,
-though our cruelty left him beaten,
-yet, through how and why he suffered,
-God revealed our hope of healing.
-
-6
-
-We, like sheep despite our wisdom,
-all had wandered from God's purpose;
-and our due in pain and anger
-God let fall on one among us.
-
-7
-
-Who would ever have believed it?
-Who could ever have conceived it?
-Who dared trace God's hand behind it
-when a servant came among us?

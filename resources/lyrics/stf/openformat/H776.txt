@@ -1,44 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF776 In the Lord I'll be ever thankful,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Taize Community</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>In the Lord I'll be ever thankful,<br/>in the Lord I will rejoice!<br/>Look to God, do not be afraid;<br/>lift up your voices, the Lord is near;<br/>lift up your voices, the Lord is near.
     </verse>
-
+    <verse name="v2"><br/>El Senyor es la meva forca,<br/>el Senyor, el meu cant.<br/>Ell m'ha estat la salvacio.<br/>En ell confio, i no tinc por.<br/>En ell confio, i no tinc por.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-In the Lord I'll be ever thankful,
-in the Lord I will rejoice!
-Look to God, do not be afraid;
-lift up your voices, the Lord is near;
-lift up your voices, the Lord is near.
-
-2
-
-El Senyor es la meva forca,
-el Senyor, el meu cant.
-Ell m'ha estat la salvacio.
-En ell confio, i no tinc por.
-En ell confio, i no tinc por.

@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF273 Here hangs a man discarded,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Brian Wren (b. 1936)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Here hangs a man discarded,<br/>a scarecrow hoisted high,<br/>a nonsense pointing nowhere<br/>to all who hurry by.
     </verse>
-
+    <verse name="v2"><br/>Can such a clown of sorrows<br/>still bring a useful word,<br/>when faith and love seem phantoms<br/>and every hope absurd?
+    </verse>
+    <verse name="v3"><br/>Yet here is help and comfort<br/>for lives by comfort bound,<br/>when drums of dazzling progress<br/>give strangely hollow sound:
+    </verse>
+    <verse name="v4"><br/>Life, emptied of all meaning,<br/>drained out in bleak distress,<br/>can share in broken silence<br/>our deepest emptiness:
+    </verse>
+    <verse name="v5"><br/>And love that freely entered<br/>the pit of life's despair,<br/>can name our hidden darkness<br/>and suffer with us there.
+    </verse>
+    <verse name="v6"><br/>Christ, in our darkness risen,<br/>help all who long for light<br/>to hold the hand of promise<br/>till faith receives its sight.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Here hangs a man discarded,
-a scarecrow hoisted high,
-a nonsense pointing nowhere
-to all who hurry by.
-
-2
-
-Can such a clown of sorrows
-still bring a useful word,
-when faith and love seem phantoms
-and every hope absurd?
-
-3
-
-Yet here is help and comfort
-for lives by comfort bound,
-when drums of dazzling progress
-give strangely hollow sound:
-
-4
-
-Life, emptied of all meaning,
-drained out in bleak distress,
-can share in broken silence
-our deepest emptiness:
-
-5
-
-And love that freely entered
-the pit of life's despair,
-can name our hidden darkness
-and suffer with us there.
-
-6
-
-Christ, in our darkness risen,
-help all who long for light
-to hold the hand of promise
-till faith receives its sight.

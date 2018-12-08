@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF668 Teach me, my God and King,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>George Herbert (1593-1633)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Teach me, my God and King,<br/>in all things thee to see,<br/>and what I do in anything,<br/>to do it as for thee.
     </verse>
-
+    <verse name="v2"><br/>For those who look on glass<br/>on it may stay the eye;<br/>or if it pleases, through it pass,<br/>and then the heaven espy.
+    </verse>
+    <verse name="v3"><br/>All may of thee partake:<br/>nothing can be so mean,<br/>which with this tincture, 'For thy sake'<br/>will not grow bright and clean.
+    </verse>
+    <verse name="v4"><br/>A servant with this clause<br/>makes drudgery divine;<br/>who sweeps a room, as for thy laws,<br/>makes that and the action fine.
+    </verse>
+    <verse name="v5"><br/>This is the famous stone<br/>that turneth all to gold;<br/>for that which God doth touch and own<br/>cannot for less be told.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Teach me, my God and King,
-in all things thee to see,
-and what I do in anything,
-to do it as for thee.
-
-2
-
-For those who look on glass
-on it may stay the eye;
-or if it pleases, through it pass,
-and then the heaven espy.
-
-3
-
-All may of thee partake:
-nothing can be so mean,
-which with this tincture, 'For thy sake'
-will not grow bright and clean.
-
-4
-
-A servant with this clause
-makes drudgery divine;
-who sweeps a room, as for thy laws,
-makes that and the action fine.
-
-5
-
-This is the famous stone
-that turneth all to gold;
-for that which God doth touch and own
-cannot for less be told.

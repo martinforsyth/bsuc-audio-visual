@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF501 Help us, O Lord, to learn</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>William Watkins Reid (b. 1923)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Help us, O Lord, to learn<br/>the truths your word imparts,<br/>to study that your laws may be<br/>inscribed upon our hearts.
     </verse>
-
+    <verse name="v2"><br/>Help us, O Lord, to live<br/>the faith which we proclaim,<br/>that all our thoughts and words and deeds<br/>may glorify your name.
+    </verse>
+    <verse name="v3"><br/>Help us, O Lord, to teach<br/>the beauty of your ways,<br/>that all who seek may find the Christ,<br/>and make a life of praise.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Help us, O Lord, to learn
-the truths your word imparts,
-to study that your laws may be
-inscribed upon our hearts.
-
-2
-
-Help us, O Lord, to live
-the faith which we proclaim,
-that all our thoughts and words and deeds
-may glorify your name.
-
-3
-
-Help us, O Lord, to teach
-the beauty of your ways,
-that all who seek may find the Christ,
-and make a life of praise.

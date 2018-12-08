@@ -1,56 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF822 Make a joyful noise to the Lord, all the earth.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 100
-
 1
-
 Make a joyful noise to the Lord, all the earth.
 Worship the Lord with gladness;
 come into his presence with singing.
-
 2
-
 Know that the Lord is God.
 It is he that made us, and we are his;
 we are his people, and the sheep of his pasture.
-
 3
-
 Enter his gates with thanksgiving,
 and his courts with praise.
 Give thanks to him, bless his name.
-
 4
-
 For the Lord is good;
 his steadfast love endures for ever,
 and his faithfulness to all generations.

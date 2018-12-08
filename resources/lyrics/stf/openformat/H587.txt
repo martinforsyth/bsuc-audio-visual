@@ -1,64 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF587 I am the bread,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Brian Hoare (b. 1935)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>I am the bread,<br/>the bread of life;<br/>who comes to me will never hunger.<br/>I am the bread,<br/>the bread of heaven;<br/>who feeds on me will never die.<br/>And as you eat, remember me --<br/>my body broken on the tree:<br/>my life was given to set you free,<br/>and I'm alive for evermore.
     </verse>
-
+    <verse name="v2"><br/>I am the vine,<br/>the living vine;<br/>apart from me you can do nothing.<br/>I am the vine,<br/>the real vine:<br/>abide in me and I in you.<br/>And as you drink, remember me --<br/>my blood was shed upon the tree:<br/>my life was given to set you free,<br/>and I'm alive for evermore.
+    </verse>
+    <verse name="v3"><br/>So eat this bread<br/>and drink this wine,<br/>and as you do, receive this life of mine.<br/>All that I am I give to you,<br/>that you may live for evermore.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-I am the bread,
-the bread of life;
-who comes to me will never hunger.
-I am the bread,
-the bread of heaven;
-who feeds on me will never die.
-And as you eat, remember me --
-my body broken on the tree:
-my life was given to set you free,
-and I'm alive for evermore.
-
-2
-
-I am the vine,
-the living vine;
-apart from me you can do nothing.
-I am the vine,
-the real vine:
-abide in me and I in you.
-And as you drink, remember me --
-my blood was shed upon the tree:
-my life was given to set you free,
-and I'm alive for evermore.
-
-3
-
-So eat this bread
-and drink this wine,
-and as you do, receive this life of mine.
-All that I am I give to you,
-that you may live for evermore.

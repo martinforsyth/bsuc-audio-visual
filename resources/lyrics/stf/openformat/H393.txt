@@ -1,57 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF393 She sits like a bird, brooding on the waters,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949) </author>
       <author>Graham Maule (b. 1958)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>She sits like a bird, brooding on the waters,<br/>hovering on the chaos of the world's first day;<br/>she sighs and she sings, mothering creation,<br/>waiting to give birth to all the Word will say.
     </verse>
-
+    <verse name="v2"><br/>She wings over earth, resting where she wishes,<br/>lighting close at hand or soaring through the skies;<br/>she nests in the womb, welcoming each wonder,<br/>nourishing potential hidden to our eyes.
+    </verse>
+    <verse name="v3"><br/>She dances in fire, startling her spectators,<br/>waking tongues of ecstasy where dumbness reigned;<br/>she weans and inspires all whose hearts are open,<br/>nor can she be captured, silenced, or restrained.
+    </verse>
+    <verse name="v4"><br/>For she is the Spirit, one with God in essence,<br/>gifted by the Saviour in eternal love;<br/>and she is the key opening the scriptures,<br/>enemy of apathy and heavenly dove.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-She sits like a bird, brooding on the waters,
-hovering on the chaos of the world's first day;
-she sighs and she sings, mothering creation,
-waiting to give birth to all the Word will say.
-
-2
-
-She wings over earth, resting where she wishes,
-lighting close at hand or soaring through the skies;
-she nests in the womb, welcoming each wonder,
-nourishing potential hidden to our eyes.
-
-3
-
-She dances in fire, startling her spectators,
-waking tongues of ecstasy where dumbness reigned;
-she weans and inspires all whose hearts are open,
-nor can she be captured, silenced, or restrained.
-
-4
-
-For she is the Spirit, one with God in essence,
-gifted by the Saviour in eternal love;
-and she is the key opening the scriptures,
-enemy of apathy and heavenly dove.

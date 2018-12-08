@@ -1,72 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF830 I lift up my eyes to the hills,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 121
-
 1
-
 I lift up my eyes to the hills,
 from where is my help to come?
-
 2
-
 My help comes from the Lord,
 the maker of heaven and earth.
-
 3
-
 He will not suffer your foot to stumble;
 he who watches over you will not sleep.
-
 4
-
 Behold, he who keeps watch over Israel,
 shall neither slumber nor sleep.
-
 5
-
 The Lord himself watches over you;
 the Lord is your shade at your right hand,
-
 6
-
 So that the sun shall not strike you by day,
 neither the moon by night.
-
 7
-
 The Lord shall keep you from all evil;
 it is he who shall keep your soul.
-
 8
-
 The Lord shall keep watch over your going out and your coming in,
 from this time forth for evermore.

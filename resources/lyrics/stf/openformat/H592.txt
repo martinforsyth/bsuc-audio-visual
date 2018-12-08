@@ -1,48 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF592 Let us break bread together with the Lord;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Let us break bread together with the Lord;<br/>let us break bread together with the Lord:<br/>When I fall on my knees,<br/>with my face to the rising sun,<br/>O Lord, have mercy on me.
     </verse>
-
+    <verse name="v2"><br/>Let us drink wine together with the Lord;<br/>let us drink wine together with the Lord:
+    </verse>
+    <verse name="v3"><br/>Let us praise God together in the Lord;<br/>let us praise God together in the Lord:</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Let us break bread together with the Lord;
-let us break bread together with the Lord:
-When I fall on my knees,
-with my face to the rising sun,
-O Lord, have mercy on me.
-
-2
-
-Let us drink wine together with the Lord;
-let us drink wine together with the Lord:
-
-3
-
-Let us praise God together in the Lord;
-let us praise God together in the Lord:

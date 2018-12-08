@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF658 A charge to keep I have:</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>A charge to keep I have:<br/>a God to glorify;<br/>a never-dying soul to save,<br/>and fit it for the sky;
     </verse>
-
+    <verse name="v2"><br/>To serve the present age,<br/>my calling to fulfil;<br/>O may it all my powers engage<br/>to do my Master's will!
+    </verse>
+    <verse name="v3"><br/>Arm me with jealous care,<br/>as in your sight to live;<br/>and O your servant, Lord, prepare<br/>a strict account to give!
+    </verse>
+    <verse name="v4"><br/>Help me to watch and pray,<br/>and on yourself rely,<br/>so shall I not my trust betray,<br/>nor love within me die.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-A charge to keep I have:
-a God to glorify;
-a never-dying soul to save,
-and fit it for the sky;
-
-2
-
-To serve the present age,
-my calling to fulfil;
-O may it all my powers engage
-to do my Master's will!
-
-3
-
-Arm me with jealous care,
-as in your sight to live;
-and O your servant, Lord, prepare
-a strict account to give!
-
-4
-
-Help me to watch and pray,
-and on yourself rely,
-so shall I not my trust betray,
-nor love within me die.

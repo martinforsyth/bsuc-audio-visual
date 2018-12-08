@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF265 Ride on, ride on in majesty!</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Henry Hart Milman (1791-1868)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Ride on, ride on in majesty!<br/>Hark, all the tribes 'Hosanna!' cry;<br/>your humble beast pursues its road<br/>with palms and scattered garments strowed.
     </verse>
-
+    <verse name="v2"><br/>Ride on, ride on in majesty!<br/>In lowly pomp ride on to die:<br/>O Christ, your triumphs now begin<br/>o'er captive death and conquered sin.
+    </verse>
+    <verse name="v3"><br/>Ride on, ride on in majesty!<br/>The winged squadrons of the sky<br/>look down with sad and wondering eyes<br/>to see the approaching sacrifice.
+    </verse>
+    <verse name="v4"><br/>Ride on, ride on in majesty!<br/>Your last and fiercest strife is nigh;<br/>the Father, on his sapphire throne,<br/>expects his own anointed Son.
+    </verse>
+    <verse name="v5"><br/>Ride on, ride on in majesty!<br/>In lowly pomp ride on to die;<br/>bow your meek head to mortal pain,<br/>then take, O God, your power, and reign.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Ride on, ride on in majesty!
-Hark, all the tribes 'Hosanna!' cry;
-your humble beast pursues its road
-with palms and scattered garments strowed.
-
-2
-
-Ride on, ride on in majesty!
-In lowly pomp ride on to die:
-O Christ, your triumphs now begin
-o'er captive death and conquered sin.
-
-3
-
-Ride on, ride on in majesty!
-The winged squadrons of the sky
-look down with sad and wondering eyes
-to see the approaching sacrifice.
-
-4
-
-Ride on, ride on in majesty!
-Your last and fiercest strife is nigh;
-the Father, on his sapphire throne,
-expects his own anointed Son.
-
-5
-
-Ride on, ride on in majesty!
-In lowly pomp ride on to die;
-bow your meek head to mortal pain,
-then take, O God, your power, and reign.

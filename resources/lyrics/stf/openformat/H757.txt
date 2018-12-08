@@ -1,80 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF757 The word of the Lord lasts for ever.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
     <authors>
       <author>Fintan O'Carroll (1922-1981) </author>
       <author>Christopher Walker (b. 1947)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Alleluia, alleluia!
 Alleluia, alleluia!
-
 1
-
 The word of the Lord lasts for ever.
 What is the word that is living?
 It is brought to us through his Son:Jesus Christ.
-
 2
-
 God brings the world to himself
 now in his Christ reconciling;
 he has trusted us with the news of redeeming love.
-
 3
-
 The word of the Lord is alive,
 the word of the Lord is active.
 It can judge our thoughts, bring us closer to the Father.
-
 4
-
 Father of all you are blessed,
 creator of earth and heaven,
 for the mysteries of the Kingdom shown to children.
-
 5
-
 'I call you friends,' says the Lord,
 'you who are my disciples.
 I make known to you all I've learned from my Father.'
-
 6
-
 'The sheep of my flock,' says the Lord,
 'hearing my voice, will listen.
 They will follow me, for I know them;they are mine.'
-
 7
-
 'Even if you have to die,
 close to my Word keep faithful:
 for your faithfulness I will give you the crown of life.'
-
 8
-
 Stay awake, pray at all times,
 praying that you may be strengthened,
 that with confidence you can meet the Son of Man.

@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF637 Soldiers of Christ, arise,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Soldiers of Christ, arise,<br/>and put your armour on,<br/>strong in the strength which God supplies<br/>through his eternal Son;<br/>strong in the Lord of hosts,<br/>and in his mighty power,<br/>who in the strength of Jesus trusts<br/>is more than conqueror.
     </verse>
-
+    <verse name="v2"><br/>Stand then in his great might,<br/>with all his strength endued;<br/>but take, to arm you for the fight,<br/>the panoply of God;<br/>that, having all things done,<br/>and all your conflicts passed,<br/>you may o'ercome through Christ alone,<br/>and stand complete at last.
+    </verse>
+    <verse name="v3"><br/>Leave no unguarded place,<br/>no weakness of the soul;<br/>take every virtue, every grace,<br/>and fortify the whole:<br/>indissolubly joined,<br/>to battle all proceed;<br/>but arm yourselves with all the mind<br/>that was in Christ, your Head.
+    </verse>
+    <verse name="v4"><br/>From strength to strength go on,<br/>wrestle, and fight, and pray,<br/>tread all the powers of darkness down,<br/>and win the well-fought day;<br/>still let the Spirit cry<br/>in all his soldiers:come!<br/>Till Christ the Lord descend from high,<br/>and take the conquerors home.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Soldiers of Christ, arise,
-and put your armour on,
-strong in the strength which God supplies
-through his eternal Son;
-strong in the Lord of hosts,
-and in his mighty power,
-who in the strength of Jesus trusts
-is more than conqueror.
-
-2
-
-Stand then in his great might,
-with all his strength endued;
-but take, to arm you for the fight,
-the panoply of God;
-that, having all things done,
-and all your conflicts passed,
-you may o'ercome through Christ alone,
-and stand complete at last.
-
-3
-
-Leave no unguarded place,
-no weakness of the soul;
-take every virtue, every grace,
-and fortify the whole:
-indissolubly joined,
-to battle all proceed;
-but arm yourselves with all the mind
-that was in Christ, your Head.
-
-4
-
-From strength to strength go on,
-wrestle, and fight, and pray,
-tread all the powers of darkness down,
-and win the well-fought day;
-still let the Spirit cry
-in all his soldiers:come!
-Till Christ the Lord descend from high,
-and take the conquerors home.

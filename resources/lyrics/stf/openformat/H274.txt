@@ -1,64 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF274 Jesus Christ, I think upon your sacrifice,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Matt Redman (b. 1974)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Jesus Christ, I think upon your sacrifice,<br/>you became nothing, poured out to death.<br/>Many times I've wondered at your gift of life,<br/>and I'm in that place once again.<br/>And I'm in that place once again.<br/>And once again I look upon<br/>the cross where you died,<br/>I'm humbled by your mercy<br/>and I'm broken inside.<br/>Once again I thank you,<br/>once again I pour out my life.
     </verse>
-
+    <verse name="v2"><br/>Now you are exalted to the highest place,<br/>King of the heavens, where one day I'll bow.<br/>But for now, I marvel at this saving grace,<br/>and I'm full of praise once again.<br/>I'm full of praise once again.<br/>Refrain<br/>Thank you for the cross,<br/>thank you for the cross,<br/>thank you for the cross, my Friend.<br/>Thank you for the cross,<br/>thank you for the cross,<br/>thank you for the cross, my Friend.<br/>Refrain</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Jesus Christ, I think upon your sacrifice,
-you became nothing, poured out to death.
-Many times I've wondered at your gift of life,
-and I'm in that place once again.
-And I'm in that place once again.
-
-And once again I look upon
-the cross where you died,
-I'm humbled by your mercy
-and I'm broken inside.
-Once again I thank you,
-once again I pour out my life.
-
-2
-
-Now you are exalted to the highest place,
-King of the heavens, where one day I'll bow.
-But for now, I marvel at this saving grace,
-and I'm full of praise once again.
-I'm full of praise once again.
-
-Refrain
-
-Thank you for the cross,
-thank you for the cross,
-thank you for the cross, my Friend.
-Thank you for the cross,
-thank you for the cross,
-thank you for the cross, my Friend.
-
-Refrain

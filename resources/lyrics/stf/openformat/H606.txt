@@ -1,60 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF606 We pledge to one another,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Jill Jenkins (b. 1937)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We pledge to one another,<br/>before the Lord above,<br/>complete and full and perfect,<br/>this union of our love --<br/>a love that will be patient,<br/>a love that will be wise,<br/>that will not twist with envy,<br/>nor lose itself in lies;<br/>a love that will not falter,<br/>a love to hold us fast,<br/>and bind us to each other<br/>as long as life shall last.
     </verse>
-
+    <verse name="v2"><br/>We pray that God will guide us<br/>through all the years to be,<br/>our lives be shaped by courage,<br/>hope and serenity.<br/>Through joy and celebration,<br/>through loneliness and pain,<br/>may loyalty, compassion<br/>and tenderness remain,<br/>that those who share the blessing<br/>of love that cannot cease,<br/>may walk the paths of gentleness<br/>into the place of peace.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We pledge to one another,
-before the Lord above,
-complete and full and perfect,
-this union of our love --
-a love that will be patient,
-a love that will be wise,
-that will not twist with envy,
-nor lose itself in lies;
-a love that will not falter,
-a love to hold us fast,
-and bind us to each other
-as long as life shall last.
-
-2
-
-We pray that God will guide us
-through all the years to be,
-our lives be shaped by courage,
-hope and serenity.
-Through joy and celebration,
-through loneliness and pain,
-may loyalty, compassion
-and tenderness remain,
-that those who share the blessing
-of love that cannot cease,
-may walk the paths of gentleness
-into the place of peace.

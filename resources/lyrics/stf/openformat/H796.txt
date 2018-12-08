@@ -1,76 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF796 Christ our passover has been sacrificed for us:</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 A SONG OF RESURRECTION
-
 1
-
 Christ our passover has been sacrificed for us:
 so let us celebrate the feast,
-
 2
-
 not with the old leaven of corruption and wickedness:
 but with the unleavened bread of sincerity and truth.
-
 3
-
 Christ once raised from the dead dies no more:
 death has no more dominion over him.
-
 4
-
 In dying he died to sin once for all:
 in living he lives to God.
-
 5
-
 See yourselves therefore as dead to sin:
 and alive to God in Jesus Christ our Lord.
-
 6
-
 Christ has been raised from the dead:
 the first fruits of those who sleep.
-
 7
-
 For as by man came death:
 by man has come also the resurrection of the dead;
-
 8
-
 for as in Adam all die:
 even so in Christ shall all be made alive.
-
 Glory to the Father and to the Son
 and to the Holy Spirit;
 as it was in the beginning is now

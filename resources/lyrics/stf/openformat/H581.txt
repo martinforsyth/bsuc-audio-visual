@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF581 Come, my table is a meeting place,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Clare Stainsby (b. 1959)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Come, my table is a meeting place,<br/>here I'm waiting ready for you,<br/>come and share, you are invited,<br/>come, beloved, I chose you.
     </verse>
-
+    <verse name="v2"><br/>Come, my table is a feeding place,<br/>bread, my body broken for you,<br/>wine, my blood poured out to save you,<br/>given eternally for you.
+    </verse>
+    <verse name="v3"><br/>Come, my table is a touching place,<br/>hands to greet you span time and space,<br/>see my arms stretched out in welcome,<br/>this for you a holy place.
+    </verse>
+    <verse name="v4"><br/>Come and meet me in this moment,<br/>taste and see this gift of my grace,<br/>here, the feast spread out before you,<br/>come, my child, and take your place.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Come, my table is a meeting place,
-here I'm waiting ready for you,
-come and share, you are invited,
-come, beloved, I chose you.
-
-2
-
-Come, my table is a feeding place,
-bread, my body broken for you,
-wine, my blood poured out to save you,
-given eternally for you.
-
-3
-
-Come, my table is a touching place,
-hands to greet you span time and space,
-see my arms stretched out in welcome,
-this for you a holy place.
-
-4
-
-Come and meet me in this moment,
-taste and see this gift of my grace,
-here, the feast spread out before you,
-come, my child, and take your place.

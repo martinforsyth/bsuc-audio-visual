@@ -1,52 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF86 Praise the Lord! You heavens, adore him;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Praise the Lord! You heavens, adore him;<br/>praise him, angels in the height;<br/>sun and moon, rejoice before him;<br/>praise him, all you stars and light.<br/>Praise the Lord, for he has spoken;<br/>worlds his mighty voice obeyed;<br/>laws that never shall be broken<br/>for their guidance he has made.
     </verse>
-
+    <verse name="v2"><br/>Praise the Lord, for he is glorious!<br/>Never shall his promise fail;<br/>God has made his saints victorious;<br/>sin and death shall not prevail.<br/>Praise the God of our salvation;<br/>hosts on high, his power proclaim;<br/>heaven and earth, and all creation,<br/>laud and magnify his name!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Praise the Lord! You heavens, adore him;
-praise him, angels in the height;
-sun and moon, rejoice before him;
-praise him, all you stars and light.
-Praise the Lord, for he has spoken;
-worlds his mighty voice obeyed;
-laws that never shall be broken
-for their guidance he has made.
-
-2
-
-Praise the Lord, for he is glorious!
-Never shall his promise fail;
-God has made his saints victorious;
-sin and death shall not prevail.
-Praise the God of our salvation;
-hosts on high, his power proclaim;
-heaven and earth, and all creation,
-laud and magnify his name!

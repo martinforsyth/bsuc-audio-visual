@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF253 Love inspired the anger</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Andrew Pratt (b. 1948)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Love inspired the anger<br/>that cleared a temple court,<br/>overturned the wisdom<br/>which their greed had wrought.
     </verse>
-
+    <verse name="v2"><br/>Love inspired the anger<br/>that set the leper free<br/>from the legal strictures<br/>that brought misery.
+    </verse>
+    <verse name="v3"><br/>Love inspired the anger<br/>that cursed a viper's brood:<br/>set on domination,<br/>self with God confused.
+    </verse>
+    <verse name="v4"><br/>Love inspires the anger<br/>that curses poverty,<br/>preaches life's enrichment,<br/>seeks equality.
+    </verse>
+    <verse name="v5"><br/>Love inspires the anger<br/>that still can set us free<br/>from the world's conventions<br/>bringing liberty.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Love inspired the anger
-that cleared a temple court,
-overturned the wisdom
-which their greed had wrought.
-
-2
-
-Love inspired the anger
-that set the leper free
-from the legal strictures
-that brought misery.
-
-3
-
-Love inspired the anger
-that cursed a viper's brood:
-set on domination,
-self with God confused.
-
-4
-
-Love inspires the anger
-that curses poverty,
-preaches life's enrichment,
-seeks equality.
-
-5
-
-Love inspires the anger
-that still can set us free
-from the world's conventions
-bringing liberty.

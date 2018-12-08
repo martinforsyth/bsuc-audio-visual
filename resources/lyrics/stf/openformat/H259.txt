@@ -1,62 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF259 Jesus, on the mountain peak,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Brian Wren (b. 1936)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Jesus, on the mountain peak,<br/>stands alone in glory blazing.<br/>Let us, if we dare to speak,<br/>join the saints and angels praising:<br/>Alleluia! Alleluia! Alleluia!
     </verse>
-
+    <verse name="v2"><br/>Trembling at his feet we saw<br/>Moses and Elijah speaking.<br/>All the Prophets and the Law<br/>shout through them their joyful greeting:<br/>Alleluia! Alleluia! Alleluia!
+    </verse>
+    <verse name="v3"><br/>Swift the cloud of glory came,<br/>God, proclaiming in its thunder,<br/>Jesus as the Son by name!<br/>Nations, cry aloud in wonder:<br/>Alleluia! Alleluia! Alleluia!
+    </verse>
+    <verse name="v4"><br/>Jesus is the chosen One,<br/>living hope of every nation,<br/>hear and heed him, everyone;<br/>sing, with earth and all creation:<br/>Alleluia! Alleluia! Alleluia!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Jesus, on the mountain peak,
-stands alone in glory blazing.
-Let us, if we dare to speak,
-join the saints and angels praising:
-Alleluia! Alleluia! Alleluia!
-
-2
-
-Trembling at his feet we saw
-Moses and Elijah speaking.
-All the Prophets and the Law
-shout through them their joyful greeting:
-Alleluia! Alleluia! Alleluia!
-
-3
-
-Swift the cloud of glory came,
-God, proclaiming in its thunder,
-Jesus as the Son by name!
-Nations, cry aloud in wonder:
-Alleluia! Alleluia! Alleluia!
-
-4
-
-Jesus is the chosen One,
-living hope of every nation,
-hear and heed him, everyone;
-sing, with earth and all creation:
-Alleluia! Alleluia! Alleluia!

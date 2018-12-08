@@ -1,57 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF200 God is born among us:earth receives the Christ child,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God is born among us:earth receives the Christ child,<br/>all the night awakens, light dispels the darkness.<br/>Joyful angels raise an anthem singing praises to the heavens:<br/>gloria, gloria, gloria, in excelsis Deo!<br/>Joyful angels raise an anthem singing praises to the heavens:<br/>gloria, gloria, gloria, in excelsis Deo!
     </verse>
-
+    <verse name="v2"><br/>In the fields the shepherds heard the angel chorus:<br/>'leave your sheep, go quickly, Bethlehem is calling!'<br/>There the Lord had come among us;God redeeming all creation:<br/>gloria, gloria, gloria, in excelsis Deo!<br/>There the Lord had come among us;God redeeming all creation:<br/>gloria, gloria, gloria, in excelsis Deo!
+    </verse>
+    <verse name="v3"><br/>All the hosts of heaven, all the heavenly powers,<br/>tell the story clearly, but we are confounded.<br/>This transcends our understanding, here in awe we gaze in wonder:<br/>gloria, gloria, gloria, in excelsis Deo!<br/>This transcends our understanding, here in awe we gaze in wonder:<br/>gloria, gloria, gloria, in excelsis Deo!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God is born among us:earth receives the Christ child,
-all the night awakens, light dispels the darkness.
-Joyful angels raise an anthem singing praises to the heavens:
-gloria, gloria, gloria, in excelsis Deo!
-Joyful angels raise an anthem singing praises to the heavens:
-gloria, gloria, gloria, in excelsis Deo!
-
-2
-
-In the fields the shepherds heard the angel chorus:
-'leave your sheep, go quickly, Bethlehem is calling!'
-There the Lord had come among us;God redeeming all creation:
-gloria, gloria, gloria, in excelsis Deo!
-There the Lord had come among us;God redeeming all creation:
-gloria, gloria, gloria, in excelsis Deo!
-
-3
-
-All the hosts of heaven, all the heavenly powers,
-tell the story clearly, but we are confounded.
-This transcends our understanding, here in awe we gaze in wonder:
-gloria, gloria, gloria, in excelsis Deo!
-This transcends our understanding, here in awe we gaze in wonder:
-gloria, gloria, gloria, in excelsis Deo!

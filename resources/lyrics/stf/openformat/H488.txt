@@ -1,61 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF488 You showed us mercy when we were in darkness,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Ian Worsfold (b. 1974)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>You showed us mercy when we were in darkness,<br/>you showed us freedom when we were in chains;<br/>you showed forgiveness when we were in depths of sin<br/>and now your life runs through our veins.
     </verse>
-
+    <verse name="v2"><br/>You showed compassion when we were so helpless,<br/>you brought us healing when we were in pain;<br/>you gave us hope when we were despairing<br/>and now your love lifts us again<br/>You are our sun in the morning,<br/>our moon in the night,<br/>our energy in the daytime,<br/>our rest through the night.<br/>You're our lifesource, our Creator,<br/>the beginning and the end<br/>for you are God Almighty and on you we depend!
+    </verse>
+    <verse name="v3"><br/>You show us boldness when we are uncertain,<br/>you are our strength when we are weak;<br/>you are our comfort when we need security<br/>for you are God, and your face we seek.<br/>Refrain</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-You showed us mercy when we were in darkness,
-you showed us freedom when we were in chains;
-you showed forgiveness when we were in depths of sin
-and now your life runs through our veins.
-
-2
-
-You showed compassion when we were so helpless,
-you brought us healing when we were in pain;
-you gave us hope when we were despairing
-and now your love lifts us again
-
-You are our sun in the morning,
-our moon in the night,
-our energy in the daytime,
-our rest through the night.
-You're our lifesource, our Creator,
-the beginning and the end
-for you are God Almighty and on you we depend!
-
-3
-
-You show us boldness when we are uncertain,
-you are our strength when we are weak;
-you are our comfort when we need security
-for you are God, and your face we seek.
-
-Refrain

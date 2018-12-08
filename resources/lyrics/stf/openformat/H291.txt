@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF291 'Why has God forsaken me?'</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>William L.(Bill) Wallace (b. 1933)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>'Why has God forsaken me?'<br/>cried out Jesus from the cross<br/>as he shared the loneliness<br/>of our deepest grief and loss.
     </verse>
-
+    <verse name="v2"><br/>Jesus, as his life expired,<br/>placed himself within God's care:<br/>at our dying, Christ, may we<br/>trust the love which conquers fear.
+    </verse>
+    <verse name="v3"><br/>Mystery shrouds our life and death<br/>but we need not be afraid,<br/>for the mystery's heart is love,<br/>God's great love which Christ displayed.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-'Why has God forsaken me?'
-cried out Jesus from the cross
-as he shared the loneliness
-of our deepest grief and loss.
-
-2
-
-Jesus, as his life expired,
-placed himself within God's care:
-at our dying, Christ, may we
-trust the love which conquers fear.
-
-3
-
-Mystery shrouds our life and death
-but we need not be afraid,
-for the mystery's heart is love,
-God's great love which Christ displayed.

@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF320 Father, whose everlasting love</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Father, whose everlasting love<br/>your only Son for sinners gave,<br/>whose grace to all did freely move,<br/>and sent him down the world to save:
     </verse>
-
+    <verse name="v2"><br/>Help us your mercy to extol,<br/>immense, unfathomed, unconfined;<br/>to praise the Lamb who died for all,<br/>the Saviour of all humankind.
+    </verse>
+    <verse name="v3"><br/>Your undistinguishing regard<br/>was cast on Adam's fallen race;<br/>for all you have in Christ prepared<br/>sufficient, sovereign, saving grace.
+    </verse>
+    <verse name="v4"><br/>The world he suffered to redeem;<br/>for all he has the atonement made;<br/>for those who will not come to him<br/>the ransom of his life was paid.
+    </verse>
+    <verse name="v5"><br/>Arise, O God, maintain your cause!<br/>The fullness of the nations call;<br/>lift up the standard of your cross,<br/>and all shall own you died for all.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Father, whose everlasting love
-your only Son for sinners gave,
-whose grace to all did freely move,
-and sent him down the world to save:
-
-2
-
-Help us your mercy to extol,
-immense, unfathomed, unconfined;
-to praise the Lamb who died for all,
-the Saviour of all humankind.
-
-3
-
-Your undistinguishing regard
-was cast on Adam's fallen race;
-for all you have in Christ prepared
-sufficient, sovereign, saving grace.
-
-4
-
-The world he suffered to redeem;
-for all he has the atonement made;
-for those who will not come to him
-the ransom of his life was paid.
-
-5
-
-Arise, O God, maintain your cause!
-The fullness of the nations call;
-lift up the standard of your cross,
-and all shall own you died for all.

@@ -1,39 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF772 May the road rise up to meet you;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>May the road rise up to meet you;<br/>may the wind be always at your back.<br/>May the sun shine warm upon your face;<br/>may the rain fall soft upon your fields.<br/>And until we meet again, may God hold you.<br/>Until we meet again, may God hold you.<br/>Until we meet again, may God hold you<br/>in the hollow of his hand.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-May the road rise up to meet you;
-may the wind be always at your back.
-May the sun shine warm upon your face;
-may the rain fall soft upon your fields.
-And until we meet again, may God hold you.
-Until we meet again, may God hold you.
-Until we meet again, may God hold you
-in the hollow of his hand.

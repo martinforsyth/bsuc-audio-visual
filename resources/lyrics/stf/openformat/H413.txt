@@ -1,66 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF413 Call us to be your compassion,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Marty Haugen (b. 1950)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Send down the fire of your justice,
 send down the rains of your love;
 come, send down the Spirit,
 breathe life in your people,
 and we shall be people of God.
-
 1
-
 Call us to be your compassion,
 teach us the song of your love;
 give us hearts that sing,
 give us deeds that ring,
 make us ring with the sound of your love.
-
 2
-
 Call us to learn of your mercy,
 teach us the way of your peace;
 give us hearts that feel,
 give us hands that heal,
 make us walk in the way of your peace.
-
 3
-
 Call us to answer oppression,
 teach us the fire of your truth;
 give us righteous souls,
 till your justice rolls,
 make us burn with the fire of your truth.
-
 4
-
 Call us to witness your kingdom,
 give us the presence of Christ;
 may your holy light

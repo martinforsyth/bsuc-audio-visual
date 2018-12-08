@@ -1,62 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF121 Autumn days when the grass is jewelled,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Estelle White (b. 1925)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Autumn days when the grass is jewelled,<br/>and the silk inside a chestnut shell,<br/>jet planes meeting in the air to get refuelled,<br/>all these things I love so well,<br/>So I mustn't forget,<br/>no, I mustn't forget<br/>to say a great big thank-you,<br/>I mustn't forget.
     </verse>
-
+    <verse name="v2"><br/>Clouds that look like familiar faces,<br/>and a winter's moon with frosted rings,<br/>smell of bacon as I fasten up my laces,<br/>and the song the milkman sings.
+    </verse>
+    <verse name="v3"><br/>Whipped-up spray that is rainbow-scattered,<br/>and a swallow curving in the sky,<br/>shoes so comfy though they're worn-out and they're battered,<br/>and the taste of apple-pie.
+    </verse>
+    <verse name="v4"><br/>Scent of gardens when the rain's been falling,<br/>and a minnow darting down a stream,<br/>picked-up engine that's been stuttering and stalling,<br/>and a win for my home team.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Autumn days when the grass is jewelled,
-and the silk inside a chestnut shell,
-jet planes meeting in the air to get refuelled,
-all these things I love so well,
-So I mustn't forget,
-no, I mustn't forget
-to say a great big thank-you,
-I mustn't forget.
-
-2
-
-Clouds that look like familiar faces,
-and a winter's moon with frosted rings,
-smell of bacon as I fasten up my laces,
-and the song the milkman sings.
-
-3
-
-Whipped-up spray that is rainbow-scattered,
-and a swallow curving in the sky,
-shoes so comfy though they're worn-out and they're battered,
-and the taste of apple-pie.
-
-4
-
-Scent of gardens when the rain's been falling,
-and a minnow darting down a stream,
-picked-up engine that's been stuttering and stalling,
-and a win for my home team.

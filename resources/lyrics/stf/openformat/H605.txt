@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF605 O perfect Love, all human thought transcending,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Dorothy Frances Gurney (1858-1932)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>O perfect Love, all human thought transcending,<br/>lowly we kneel in prayer before your throne,<br/>that theirs may be the love which knows no ending<br/>who in your love for evermore are one.
     </verse>
-
+    <verse name="v2"><br/>O perfect Life, be now their full assurance<br/>of tender charity and steadfast faith,<br/>of patient hope, and quiet brave endurance,<br/>with childlike trust that fears not pain or death.
+    </verse>
+    <verse name="v3"><br/>Grant them the joy which brightens earthly sorrow,<br/>grant them the peace which calms all earthly strife;<br/>and to life's day the glorious unknown morrow<br/>that dawns upon eternal love and life.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-O perfect Love, all human thought transcending,
-lowly we kneel in prayer before your throne,
-that theirs may be the love which knows no ending
-who in your love for evermore are one.
-
-2
-
-O perfect Life, be now their full assurance
-of tender charity and steadfast faith,
-of patient hope, and quiet brave endurance,
-with childlike trust that fears not pain or death.
-
-3
-
-Grant them the joy which brightens earthly sorrow,
-grant them the peace which calms all earthly strife;
-and to life's day the glorious unknown morrow
-that dawns upon eternal love and life.

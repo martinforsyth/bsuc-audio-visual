@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF162 The prophets' voice comes down the years</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
-
-
       <author>Alan Hinton</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>The prophets' voice comes down the years<br/>to teach and to inspire,<br/>to show the nature of our God<br/>in words and deeds of fire;<br/>not to disclose some rigid plan<br/>that God has set in stone,<br/>but to renew the promises<br/>the saints have always known.
     </verse>
-
+    <verse name="v2"><br/>The prophets' voice speaks of the past --<br/>the actions that reveal<br/>the way God used the people then<br/>this broken world to heal;<br/>and then translates the things gone by<br/>in ways that we find new<br/>so we can judge the world we know<br/>by standards ever true.
+    </verse>
+    <verse name="v3"><br/>The prophets' voice holds up a glass<br/>in which to see our day;<br/>events which span the globe around<br/>and things we do and say.<br/>It calls us to repent and turn<br/>from things that tear life down,<br/>to choose the path that Jesus chose<br/>and share his work and crown.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-The prophets' voice comes down the years
-to teach and to inspire,
-to show the nature of our God
-in words and deeds of fire;
-not to disclose some rigid plan
-that God has set in stone,
-but to renew the promises
-the saints have always known.
-
-2
-
-The prophets' voice speaks of the past --
-the actions that reveal
-the way God used the people then
-this broken world to heal;
-and then translates the things gone by
-in ways that we find new
-so we can judge the world we know
-by standards ever true.
-
-3
-
-The prophets' voice holds up a glass
-in which to see our day;
-events which span the globe around
-and things we do and say.
-It calls us to repent and turn
-from things that tear life down,
-to choose the path that Jesus chose
-and share his work and crown.

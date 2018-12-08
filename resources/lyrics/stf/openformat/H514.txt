@@ -1,59 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF514 The thirsty deer longs for the streams;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>George Mulrain</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>The thirsty deer longs for the streams;<br/>my thirsty soul longs for our God.<br/>I have been weeping aloud<br/>all day and all night<br/>as I long for the face of our God.<br/>Why are you cast down, O my soul?<br/>Why are you so troubled inside?<br/>O put your hope in our God,<br/>yes, God is our help,<br/>O sing praises to our living God.
     </verse>
-
+    <verse name="v2"><br/>I'm never alone when I sing,<br/>declaring the wonders of God.<br/>The crowds in God's holy house,<br/>they all join with me<br/>just to proclaim how God's great and good.
+    </verse>
+    <verse name="v3"><br/>The wicked may make fun of me<br/>and tease me if I am depressed;<br/>but I am confident that<br/>God will rescue me,<br/>yes, God's always done this in times past.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-The thirsty deer longs for the streams;
-my thirsty soul longs for our God.
-I have been weeping aloud
-all day and all night
-as I long for the face of our God.
-Why are you cast down, O my soul?
-Why are you so troubled inside?
-O put your hope in our God,
-yes, God is our help,
-O sing praises to our living God.
-
-2
-
-I'm never alone when I sing,
-declaring the wonders of God.
-The crowds in God's holy house,
-they all join with me
-just to proclaim how God's great and good.
-
-3
-
-The wicked may make fun of me
-and tease me if I am depressed;
-but I am confident that
-God will rescue me,
-yes, God's always done this in times past.

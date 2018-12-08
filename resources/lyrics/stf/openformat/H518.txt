@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF518 Father, hear the prayer we offer:</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Love Maria Willis (1824-1908)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Father, hear the prayer we offer:<br/>not for ease that prayer shall be,<br/>but for strength that we may ever<br/>live our lives courageously.
     </verse>
-
+    <verse name="v2"><br/>Not for ever in green pastures<br/>do we ask our way to be;<br/>but the steep and rugged pathway<br/>may we tread rejoicingly.
+    </verse>
+    <verse name="v3"><br/>Not for ever by still waters<br/>would we idly rest and stay;<br/>but would strike the living fountains<br/>from the rocks along our way.
+    </verse>
+    <verse name="v4"><br/>Be our strength in hours of weakness,<br/>in our wanderings be our guide;<br/>through endeavour, failure, danger,<br/>Father, be there at our side.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Father, hear the prayer we offer:
-not for ease that prayer shall be,
-but for strength that we may ever
-live our lives courageously.
-
-2
-
-Not for ever in green pastures
-do we ask our way to be;
-but the steep and rugged pathway
-may we tread rejoicingly.
-
-3
-
-Not for ever by still waters
-would we idly rest and stay;
-but would strike the living fountains
-from the rocks along our way.
-
-4
-
-Be our strength in hours of weakness,
-in our wanderings be our guide;
-through endeavour, failure, danger,
-Father, be there at our side.

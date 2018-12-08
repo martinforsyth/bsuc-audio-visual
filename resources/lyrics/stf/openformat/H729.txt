@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF729 Touch the earth lightly,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Shirley Erena Murray (b. 1931)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Touch the earth lightly,<br/>use the earth gently,<br/>nourish the life of the world in our care:<br/>gift of great wonder,<br/>ours to surrender,<br/>trust for the children tomorrow will bear.
     </verse>
-
+    <verse name="v2"><br/>We who endanger,<br/>who create hunger,<br/>agents of death for all creatures that live,<br/>we who would foster<br/>clouds of disaster --<br/>God of our planet, forestall and forgive!
+    </verse>
+    <verse name="v3"><br/>Let there be greening,<br/>birth from the burning,<br/>water that blesses and air that is sweet,<br/>health in God's garden,<br/>hope in God's children,<br/>regeneration that peace will complete.
+    </verse>
+    <verse name="v4"><br/>God of all living,<br/>God of all loving,<br/>God of the seedling, the snow and the sun,<br/>teach us, deflect us,<br/>Christ reconnect us,<br/>using us gently, and making us one.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Touch the earth lightly,
-use the earth gently,
-nourish the life of the world in our care:
-gift of great wonder,
-ours to surrender,
-trust for the children tomorrow will bear.
-
-2
-
-We who endanger,
-who create hunger,
-agents of death for all creatures that live,
-we who would foster
-clouds of disaster --
-God of our planet, forestall and forgive!
-
-3
-
-Let there be greening,
-birth from the burning,
-water that blesses and air that is sweet,
-health in God's garden,
-hope in God's children,
-regeneration that peace will complete.
-
-4
-
-God of all living,
-God of all loving,
-God of the seedling, the snow and the sun,
-teach us, deflect us,
-Christ reconnect us,
-using us gently, and making us one.

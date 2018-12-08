@@ -1,79 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF390 My God! I know, I feel thee mine,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>My God! I know, I feel thee mine,<br/>and will not quit my claim,<br/>till all I have is lost in thine<br/>and all renewed I am.
     </verse>
-
+    <verse name="v2"><br/>I hold thee with a trembling hand,<br/>but will not let thee go,<br/>till steadfastly by faith I stand<br/>and all thy goodness know.
+    </verse>
+    <verse name="v3"><br/>When shall I see the welcome hour<br/>that plants my God in me --<br/>spirit of health, and life, and power,<br/>and perfect liberty?
+    </verse>
+    <verse name="v4"><br/>Jesus, thine all-victorious love<br/>shed in my heart abroad;<br/>then shall my feet no longer rove,<br/>rooted and fixed in God.
+    </verse>
+    <verse name="v5"><br/>O that in me the sacred fire<br/>might now begin to glow,<br/>burn up the dross of base desire,<br/>and make the mountains flow!
+    </verse>
+    <verse name="v6"><br/>O that it now from heaven might fall,<br/>and all my sins consume!<br/>Come, Holy Ghost, for thee I call,<br/>spirit of burning, come!
+    </verse>
+    <verse name="v7"><br/>Refining fire, go through my heart,<br/>illuminate my soul;<br/>scatter thy life through every part,<br/>and sanctify the whole.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-My God! I know, I feel thee mine,
-and will not quit my claim,
-till all I have is lost in thine
-and all renewed I am.
-
-2
-
-I hold thee with a trembling hand,
-but will not let thee go,
-till steadfastly by faith I stand
-and all thy goodness know.
-
-3
-
-When shall I see the welcome hour
-that plants my God in me --
-spirit of health, and life, and power,
-and perfect liberty?
-
-4
-
-Jesus, thine all-victorious love
-shed in my heart abroad;
-then shall my feet no longer rove,
-rooted and fixed in God.
-
-5
-
-O that in me the sacred fire
-might now begin to glow,
-burn up the dross of base desire,
-and make the mountains flow!
-
-6
-
-O that it now from heaven might fall,
-and all my sins consume!
-Come, Holy Ghost, for thee I call,
-spirit of burning, come!
-
-7
-
-Refining fire, go through my heart,
-illuminate my soul;
-scatter thy life through every part,
-and sanctify the whole.

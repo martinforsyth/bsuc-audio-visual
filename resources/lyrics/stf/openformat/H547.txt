@@ -1,63 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF547 Beyond these walls of worship</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Ian Worsfold (b. 1974) </author>
       <author>Paul Wood (b. 1967)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Beyond these walls of worship<br/>in the stress and joy of life,<br/>can we offer you our bodies<br/>as a living sacrifice?<br/>Will we keep you at the centre<br/>far beyond the Sunday call?<br/>Will we turn to you,<br/>be transformed by you;<br/>still declare you God of all?
     </verse>
-
+    <verse name="v2"><br/>Beyond these walls of worship,<br/>in the times of work and rest,<br/>will we display your love for all<br/>when our faith's put to the test?<br/>When the people that surround us<br/>deny that you are there,<br/>will we display our faith in you --<br/>in life, in praise, in prayer?
+    </verse>
+    <verse name="v3"><br/>Beyond these walls of worship<br/>may your Spirit strengthen us<br/>to make the whole of life our worship<br/>as we witness to your love.<br/>From this hour in your presence<br/>send us out now to proclaim<br/>that we'll live our life as a sacrifice<br/>to the glory of your name.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Beyond these walls of worship
-in the stress and joy of life,
-can we offer you our bodies
-as a living sacrifice?
-Will we keep you at the centre
-far beyond the Sunday call?
-Will we turn to you,
-be transformed by you;
-still declare you God of all?
-
-2
-
-Beyond these walls of worship,
-in the times of work and rest,
-will we display your love for all
-when our faith's put to the test?
-When the people that surround us
-deny that you are there,
-will we display our faith in you --
-in life, in praise, in prayer?
-
-3
-
-Beyond these walls of worship
-may your Spirit strengthen us
-to make the whole of life our worship
-as we witness to your love.
-From this hour in your presence
-send us out now to proclaim
-that we'll live our life as a sacrifice
-to the glory of your name.

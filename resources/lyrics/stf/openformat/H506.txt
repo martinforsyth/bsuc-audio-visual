@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF506 My heart is full of Christ, and longs</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>My heart is full of Christ, and longs<br/>its glorious matter to declare!<br/>Of him I make my loftier songs,<br/>I cannot from his praise forbear;<br/>my ready tongue makes haste to sing<br/>the glories of my heavenly King.
     </verse>
-
+    <verse name="v2"><br/>Fairer than all the earth-born race,<br/>perfect in comeliness thou art;<br/>replenished are thy lips with grace,<br/>and full of love thy tender heart:<br/>God ever blest! We bow the knee,<br/>and own all fullness dwells in thee.
+    </verse>
+    <verse name="v3"><br/>Gird on thy thigh the Spirit's sword,<br/>and take to thee thy power divine;<br/>stir up thy strength, almighty Lord,<br/>all power and majesty are thine:<br/>assert thy worship and renown;<br/>O all-redeeming God, come down!
+    </verse>
+    <verse name="v4"><br/>Come, and maintain thy righteous cause,<br/>and let thy glorious toil succeed;<br/>dispread the victory of thy cross,<br/>ride on, and prosper in thy deed;<br/>through earth triumphantly ride on,<br/>and reign in every heart alone.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-My heart is full of Christ, and longs
-its glorious matter to declare!
-Of him I make my loftier songs,
-I cannot from his praise forbear;
-my ready tongue makes haste to sing
-the glories of my heavenly King.
-
-2
-
-Fairer than all the earth-born race,
-perfect in comeliness thou art;
-replenished are thy lips with grace,
-and full of love thy tender heart:
-God ever blest! We bow the knee,
-and own all fullness dwells in thee.
-
-3
-
-Gird on thy thigh the Spirit's sword,
-and take to thee thy power divine;
-stir up thy strength, almighty Lord,
-all power and majesty are thine:
-assert thy worship and renown;
-O all-redeeming God, come down!
-
-4
-
-Come, and maintain thy righteous cause,
-and let thy glorious toil succeed;
-dispread the victory of thy cross,
-ride on, and prosper in thy deed;
-through earth triumphantly ride on,
-and reign in every heart alone.

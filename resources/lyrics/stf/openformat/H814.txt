@@ -1,96 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF814 How lovely is your dwelling place, O Lord of hosts!</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 84
-
 1
-
 How lovely is your dwelling place, O Lord of hosts!
 My soul longs, indeed it faints for the courts of the Lord;
 my heart and my flesh sing for joy to the living God.
-
 2
-
 Even the sparrow finds a home, and the swallow a nest for herself,
 where she may lay her young, at your altars,
 O Lord of hosts, my King and my God.
-
 3
-
 Happy are those who live in your house,
 ever singing your praise.
-
 4
-
 Happy are those whose strength is in you,
 in whose heart are the highways to Zion.
-
 5
-
 As they go through the valley of Baca
 they make it a place of springs;
 the early rain also covers it with pools.
-
 6
-
 They go from strength to strength;
 the God of gods will be seen in Zion.
-
 7
-
 O Lord God of hosts, hear my prayer;
 give ear, O God of Jacob!
-
 8
-
 Behold our shield, O God;
 look on the face of your anointed.
-
 9
-
 For a day in your courts is better
 than a thousand elsewhere.
-
 10
-
 I would rather be a doorkeeper in the house of my God
 than live in the tents of wickedness.
-
 11
-
 For the Lord God is a sun and shield;
 he bestows favour and honour.
 No good thing does the Lord withhold
 from those who walk uprightly.
-
 12
-
 O Lord of hosts, happy is everyone who trusts in you.

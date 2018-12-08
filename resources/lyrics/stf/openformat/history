@@ -1,1580 +1,1779 @@
-    1  sudp apt-get install terminator
-    2  sudo apt-get install terminator
-    3  sudo apt-get install gdebi
-    4  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-    5  mkdir ~/Downloads/gdebi
-    6  mv ~/Downloads/chrome ~/Downloads/gdebi/.
-    7  ps -eaf|egrep http
-    8  service httpd start
-    9  ps -eaf|egrep http
-   10  ps -eaf|egrep apache
-   11  whils ((1));do ps -eaf|egrep apache;sleep 5;date;done
-   12  while ((1));do ps -eaf|egrep apache;sleep 5;date;done
-   13  while ((1));do ps -eaf|egrep maria;sleep 5;date;done
-   14  while ((1));do date; ps -eaf|egrep maria;sleep 2;done
-   15  cd ~/Downloads/wordpress/
-   16  ls
-   17  cp wp-config-sample.php wp-config.php 
-   18  rm wp-config.php 
-   19  ls
-   20  tar -xzvf wordpress-4.9.8-en_GB.tar.gz 
-   21  cd wordpress/
-   22  ls
-   23  nano ~/Downloads/wpinstall.txt
-   24  gedit ~/Downloads/wpinstall.txt
-   25  mousepad ~/Downloads/wpinstall.txt
-   26  ls /
-   27  ls /var/www/html/index.html 
-   28  mkdir /var/www/wpsite1
-   29  sudo mkdir /var/www/wpsite1
-   30  ls
-   31  cd ..
-   32  mv wordpress /var/www/wpsite1/.
-   33  sudo mv wordpress /var/www/wpsite1/.
-   34  sudo mv /var/www/wpsite1/wordpress/* /var/www/wpsite1/.
-   35  rm -rf /var/www/wpsite1/wordpress
-   36  sudo rm -rf /var/www/wpsite1/wordpress
-   37  sudo ls /var/www/wpsite1/
-   38  sudo ls /var/www/
-   39  sudo ls /var/www/html/
-   40  sudo mv /var/www/wpsite1 /var/www/html/.
-   41  sudo mv  /var/www/html/wpsite1/*  /var/www/html/.
-   42  sudo rm -rf /var/www/html/wpsite1
-   43  sudo mkdir /var/www/html/wp1
-   44  sudo mv /var/www/html/*  /var/www/html/wp1/.
-   45  sudo mv /var/www/html/wp-*  /var/www/html/wp1/.
-   46  sudo ls /var/www/html
-   47  sudo ls /var/www/html/wp
-   48  sudo ls /var/www/html/wp1/
-   49  sudo mv /var/www/html/wp1/index.html  /var/www/html/.
-   50  sudo tree /var/www/
-   51  sudo cp /etc/apache2/apache2.conf  /etc/apache2/apache2.conf.orig
-   52  sudo mousepad  /etc/apache2/apache2.conf &
-   53  sudo ls  /etc/apache2/mods-available/
-   54  sudo ls  /etc/apache2/mods-enabled/
-   55  sudo ls  /etc/apache2/mods-enabled/|egrep php
-   56  sudo ls  /etc/apache2/mods-available/|egrep php
-   57  sudo a2enmod php7
-   58  sudo a2enmod php7.2
-   59  sudo service apache2 reload
-   60  history|egrep php
-   61  apt-get install libapache2-mod-php7.2
-   62  sudo apt-get install libapache2-mod-php7.2
-   63  systemctl restart apache2
-   64  sudo mousepad  /var/www/html/info.php
-   65  sudo ls -l /var
-   66  sudo ls -l /var/www
-   67  sudo ls -l /var/www/html/
-   68  sudo ls -l /var/www/html/wp1/
-   69  sudo ls -l /var/www/html/
-   70  cd /var/www/html/
-   71  ls
-   72  chown www-data:www-data /var/www/html/info.php
-   73  sudo chown www-data:www-data /var/www/html/info.php
-   74  ls -l
-   75  sudo chown root:root /var/www/html/info.php
-   76  ls -l
-   77  suco chmod 777 info.php 
-   78  sudo chmod 777 info.php 
-   79  ls -l
-   80  sudo chmod 644 info.php 
-   81  ls -l
-   82  php -v
-   83  sudo ls -l /etc/apache2/mods-available/
-   84  sudo ls -l /etc/apache2/mods-enabled/
-   85  sudo ls -l /etc/apache2/mods-enabled/|egrep php
-   86  history|egrep mod
-   87  sudo a2enmod php7.2
-   88  find /etc/apache2/|egrep libphp
-   89  find /var/www|egrep libphp
-   90  sudo mousepad  /etc/php/7.2/apache2/php.ini &
-   91  sudo find /etc/|egrep 'dir\.conf'
-   92  sudo find /etc/|egrep 'dir\.conf'|xargs ls -l
-   93  sudo mousepad /etc/apache2/mods-available/dir.conf
-   94  cd Downloads/
-   95  ls
-   96  mkdir chrome
-   97  mv ../google-chrome-stable_current_amd64.deb chrome/.
-   98  cd chrome/
-   99  sudo gdebi google-chrome-stable_current_amd64.deb
-  100  cd ..
-  101  ls
-  102  cd ..
-  103  ls
-  104  tree
-  105  sudo apt install tree
-  106  sudo apt install slack
-  107  sudo apt install apache2
-  108  sudo apt install MariaDB
-  109  sudo apt install mysql
-  110  apt-cache search mysql
-  111  apt-cache search mariadb
-  112  apt-cache search mariadb-server
-  113  sudo apt install mariadb-server
-  114  apt-cache search php
-  115  apt-get install php
-  116  sudo apt-get install php
-  117  /etc/init.d/apache2 start
-  118  /etc/init.d/apache2 stop
-  119  sudo /etc/init.d/apache2 start
-  120  sudo apt install mariadb-client
-  121  sudo systemctl stop mariadb.service
-  122  sudo systemctl start mariadb.service
-  123  sudo mysql -u root -p
-  124  sudo mysql_secure_installation
-  125  sudo systemctl restart mariadb.service
-  126  mysql --version
-  127  sudo mysql -u root -p
-  128  ps -eaf|egrep apache2
-  129  pstree
-  130  pstree apache2
-  131  ps -eaf|egrep apache2
-  132  pstree 1821
-  133  man pstree
-  134  pstree -l 1821
-  135  pstree -p 1821
-  136  pstree -pg 1821
-  137  pstree -pgu 1821
-  138  pstree -pgut 1821
-  139  pstree -pgu 1821
-  140  sudo apt install apache2-doc
-  141  php -v
-  142  ls /var/www/html/
-  143  ls /var/www/html/wp1/
-  144  ls /var/www/html/wp1/wp-admin/
-  145  cp /var/www/html/wp1/wp-config-sample.php  /var/www/html/wp1/wp-config.php 
-  146  sudo cp /var/www/html/wp1/wp-config-sample.php  /var/www/html/wp1/wp-config.php 
-  147  sudo mousepad /var/www/html/wp1/wp-config.php &
-  148  sudo find /var/www/html/|egrep txt
-  149  sudo mousepad /var/www/html/wp1/wp-config.php &
-  150  history|egrep systemctl
-  151  systemctl restart apache2
-  152  ls /var/www
-  153  ls /var/www/html/
-  154  man pstree
-  155  ls /var/www/html/
-  156  ls -lh /var/www/html/
-  157  systemctl stop apache2
-  158  sudo apache2ctl
-  159  sudo apache2ctl start
-  160  systemctl status apache2
-  161  libapache2-mod-php7
-  162  sudo libapache2-mod-php7
-  163  sudo apt install libapache2-mod-php7.2.7
-  164  sudo apt install libapache2-mod-php7.2
-  165  sudo a2enmod php7
-  166  sudo a2enmod php7.2
-  167  sudo service apache2 restart
-  168  apt-get install php7.2-mysql
-  169  sudo apt-get install php7.2-mysql
-  170  sudo service apache2 restart
-  171  ps -eaf|egrep apache2
-  172  pidof apache2
-  173  find /var/www/html
-  174  find /var/www/html|xargs ls -l
-  175  sudo mousepad /var/www/html/wp1/wp-config.php &
-  176  pkill mousepad
-  177  sudo mousepad /var/www/html/wp1/wp-config.php 
-  178  sudo service apache2 restart
-  179  sudo ls -l /var/www/html/wp1
-  180  sudo ls -l /var/www/html/wp1/wp-content/
-  181  sudo ls -l /var/www/html/wp1/wp-content/plugins/
-  182  sudo mousepad /var/www/html/wp1/wp-config.php 
-  183  sudo service apache2 restart
-  184  sudo cat /etc/passwd
-  185  sudo mousepad /var/www/html/wp1/wp-config.php 
-  186  cd /var/www/html
-  187  ls
-  188  ls -l
-  189  cd wp1/
-  190  ls
-  191  ls -l
-  192  find . -type d
-  193  find . -type d -exec chmod 755 {} \;
-  194  find . -type d -exec sudo chmod 755 {} \;
-  195  ls -l
-  196  ls -l wp-content/
-  197  chown www-data:www-data wp-content
-  198  sudo chown www-data:www-data wp-content
-  199  ls -l wp-content/
-  200  ls -l
-  201  ls -l wp-content/
-  202  sudo chown -R www-data:www-data wp-content
-  203  ls -l wp-content/
-  204  ls ..
-  205  find|wc -l
-  206  while ((1));do find|wc -l;sleep 2;done
-  207  while ((1));do date;find|wc -l;sleep 2;done
-  208  du .
-  209  du -c .
-  210  du -ch .
-  211  du -c .
-  212  while ((1));do date;find|wc -l;du -c .sleep 2;done
-  213  while ((1));do date;find|wc -l;du -c .;sleep 2;done
-  214  while ((1));do date;find|wc -l;du -c .|egrep total;sleep 2;done
-  215  ls ..
-  216  ls ../..
-  217  which openlp
-  218  openlp
-  219  sudo apt install python3-distutils
-  220  sudo apt install emacs
-  221  cd ~/Downloads/
-  222  ls
-  223  sudo cp wpinstall.txtinstall.txt /var/www/html/wp1/.
-  224  sudo apt install libreoffice
-  225  sudo apt install build-essential
-  226  cd emacs-26.1/
-  227  ./configure
-  228  ./configure 
-  229  cd ~/Downloads/
-  230  ls
-  231  tar -xzvf emacs-26.1.tar.gz 
-  232  cd emacs-26.1/
-  233  ./configure
-  234  sudo apt-get install make
-  235  ./configure
-  236  sudo apt-get build-dep emacs26
-  237  ./configure
-  238  sudo apt-get build-dep emacs25
-  239  sudo apt-get build-dep emacs24
-  240  sudo apt-get build-dep emacs
-  241  sudo apt-get build-dep emacs26
-  242  sudo apt-get build-dep emacs25
-  243  sudo apt-get install openlp
-  244  openlp &
-  245  sudo apt-get remove openlp
-  246  sudo service apache2 restart
-  247  sudo add-apt-repository ppa:openlp-core/release
-  248  sudo apt update
-  249  sudo apt install openlp
-  250  ps -eaf|egrep openlp
-  251  openlp
-  252  cd ~/Downloads/emacs-26.1/
-  253  ./configure
-  254  time make
-  255  sudo make install
-  256  which emacs
-  257  emacs
-  258  sudo apt install vlc
-  259  sudo apt-get install php7.0-curl
-  260  php -v
-  261  sudo apt-get install php7.2-curl
-  262  sudo service apache2 restart
-  263  sudo apt-get install php7.2-mbstring
-  264  sudo service apache2 restart
-  265  sudo apt install vlc
-  266  sudo apt-get install vlc
-  267  ps -eaf|egrep apt
-  268  ps -eaf|egrep apt|egrep -v grep
-  269  while ((1));do date;ps -eaf|egrep apt|egrep -v grep;sleep 60;done
-  270  find /var/www/html/
-  271  find /var/www/html/|egrep -v '\.(po)'
-  272  find /var/www/html/|egrep -v '\.(po|mo)'
-  273  find /var/www/html/|egrep -v '\.(po|mo|jp)'
-  274  find /var/www/html/|egrep -v '\.(po|mo|jp|txt|)'
-  275  find /var/www/html/|egrep -v '\.(po|mo|jp|txt|)'|egrep '\.js'
-  276  ls /var/www/html/wp1/wp-content/themes/twentyfifteen/js
-  277  find /var/www/html/|egrep -v '\.(po|mo|jp|txt)'|egrep '\.js'
-  278  find /var/www/html/|egrep -v '\.(po|mo|jp|txt)'|egrep '\.js'|wc -l
-  279  find /var/www/html/|egrep -v '\.(po|mo|jp|txt)'|egrep '\.php'|wc -l
-  280  find /var/www/html/|egrep -v '\.(po|mo|jp|txt)'|egrep '\.php'
-  281  php -v
-  282  df -h
-  283  mousepad &
-  284  sudo apt-get install shutter
-  285  shutter ~/Pictures/* &
-  286  shutter
-  287  sudo apt-get remove shutter
-  288  sudo apt-get install shutter
-  289  shutter
-  290  sudo apt-get remove shutter
-  291  sudo apt autoremove
-  292  sudo apt-get install brasero
-  293  pwd
-  294  ls Downloads/swva/sept07/Stock\ Report.csv
-  295  libreoffice ~/Downloads/swva/sept07/Stock\ Report.ods &
-  296  cd ~/Downloads/
-  297  ls
-  298  rm *Clan*
-  299  ls -ltr
-  300  rm 'CLANGER September 2018 163.pdf' 
-  301  rm Stock\ Report.xlsx 
-  302  mousepad ~/Downloads/swva/sept07/Stock\ Report.csv 
-  303  emacs ~/Downloads/swva/sept07/Stock\ Report.csv &
-  304  ls /var/www/html/
-  305  ls /var/www/html/wp1/
-  306  emacs /var/www/html/wp1/index.php &
-  307  sudo service apache2 restart
-  308  ls mtp://[usb:001,004]/Internal shared storage/
-  309  df -h
-  310  mount
-  311  ls /
-  312  ls /mnt/
-  313  ls /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/
-  314  find /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/
-  315  find /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/|egrep csv
-  316  ssh forfamily@192.168.0.8
-  317  telnet 192.168.0.8
-  318  ssh forfamily@192.168.0.2
-  319  brasero 
-  320  ping 192.168.0.2
-  321  ping 192.168.0.8
-  322  ifconfig
-  323  emacs ~/x
-  324  emacs ~/x &
-  325  find ~/|egrep txt
-  326  find|egrep '\.iso$'
-  327  find|egrep '\.iso$'|xargs ls -lh
-  328  df -h
-  329  find|egrep '\.iso$'|xargs ls -lh
-  330  brasero
-  331  uname -a
-  332  which evince
-  333  sudo apt-get install evince
-  334  evince ~/Downloads/CW\ OPEN\ THE\ BOOK\ Autumn\ 2018.pdf 
-  335  gpdftext ~/Downloads/CW\ OPEN\ THE\ BOOK\ Autumn\ 2018.pdf &
-  336  xournal ~/Downloads/CW\ OPEN\ THE\ BOOK\ Autumn\ 2018.pdf &
-  337  sudo apt-get install pdfedit
-  338  apt-cache search pdf
-  339  apt-cache search pdf|egrep edit
-  340  apt-cache search pdf|egrep edit|egrep pdf
-  341  sudo apt-get install gpdftext
-  342  sudo apt-get install xournal
-  343  rm ~/Downloads/
-  344  emacs ~/Downloads/transcript.txt &
-  345  find /var/www/html/wp1/wp-content/plugins/
-  346  find /var/www/html/wp1/wp-content/plugins/|xarge file
-  347  find /var/www/html/wp1/wp-content/plugins/|xargs file
-  348  find /var/www/html/wp1/wp-content/plugins/|egrep '\.mo'
-  349  cat /var/www/html/wp1/wp-content/plugins/wp-knowledgebase/languages/wp-knowledgebase-de_DE.mo
-  350  sudo service apache2 restart
-  351  php -v
-  352  find /var/www/html/wp1/wp-content/plugins/|egrep 'yada'
-  353  top
-  354  openlp &
-  355  emacs &
-  356  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/readings.odp &
-  357  which gparted
-  358  sudo apt-get install gparted
-  359  xournal ~/Downloads/CW\ OPEN\ THE\ BOOK\ Autumn\ 2018.pdf 
-  360  mkdir ~/Downloads/wordpress
-  361  which gimp
-  362  sudo apt-get install gimp
-  363  gimp &
-  364  gimp ~/Pictures/*.jpeg &
-  365  cd ~/Pictures/
-  366  ls
-  367  mv 1a.png 1a.hand-of-seed.png
-  368  mv 1b.png 1b.mine-all-mine.png
-  369  ls
-  370  mv 2a.png 2a.lots-of-cash.png
-  371  mv 3a.png 3a.birds-eat-seed.png
-  372  mv 4a.png 4a.man-taking-seed.png
-  373  mv 5a.png 5a.need-bigger-barn.png
-  374  ls
-  375  cp 1b.mine-all-mine.png 2b.mine-all-mine.png 
-  376  cp 1b.mine-all-mine.png 3b.mine-all-mine.png 
-  377  cp 1b.mine-all-mine.png 4b.mine-all-mine.png 
-  378  cp 1b.mine-all-mine.png 5b.mine-all-mine.png 
-  379  ls
-  380  mkdir tmp
-  381  mkdir tmp/otb
-  382  mkdir tmp/otb/jpeg
-  383  mkdir tmp/otb/png
-  384  mv *.png tmp/otb/png/.
-  385  mv *.jpeg tmp/otb/jpeg/.
-  386  mv tmp/otb/png/ss* .
-  387  tree
-  388  pkill gimp
-  389  sudo gparted
-  390  gimp &
-  391  cd ~/Pictures/tmp/otb/png/
-  392  ls
-  393  mv bigger-barn.png 6b.bigger-barn.png
-  394  ls
-  395  mv 6a.need-bigger-barn.png 6a.smaller-barn.png 
-  396  ls
-  397  mv finest-food.png 7a.finest-food.png 
-  398  ls
-  399  mv 6b.mine-all-mine.png 7b.mine-all-mine.png 
-  400  ls
-  401  pkill chrome
-  402  history|egrep libre
-  403  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/candlleprayer.odp &
-  404  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/welcome.odp &
-  405  openlp &
-  406  sudo apt install simplescreenrecorder
-  407  sudo apt-get install ubuntu-restricted-extras
-  408  parole ~/pr.mp4 
-  409  vlc ~/pr.mp4 
-  410  ls ~
-  411  rm ~/pr.mp4 
-  412  ok guys, you can see this right?
-  413  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/welcome.odp &
-  414  emacs &
-  415  dpkg
-  416  dpkg -l
-  417  dpkg -l|egrep 'sql|maria'
-  418  terminator
-  419  man terminator_config
-  420  history
-  421  sudo shutdown now
-  422  terminator 
-  423  find /var/www/html/wp1/wp-content|egrep seed
-  424  sudo service apache2 restart
-  425  history|sgrep sql
-  426  history|egrep sql
-  427  dpkg -l|egrep 'sql|maria'
-  428  sudo apt-get install dbeaver
-  429  apt-cache search database
-  430  apt-cache search database|client
-  431  history|egrep cache
-  432  apt-cache search database|egrep client
-  433  emacs &
-  434  cd ~/dell
-  435  ls
-  436  ls bin
-  437  ls -a
-  438  ls -a bin/
-  439  cd ~/tmp
-  440  mkdir ~/tmp
-  441  cd ~/tmp
-  442  cp ~/dell/mybckup.tgz .
-  443  tree -d
-  444  du -ch
-  445  df -h
-  446  df -h ~/dell/
-  447  ls -h ~/dell/
-  448  ls -lh ~/dell/
-  449  tar -xzvf mybckup.tgz 
-  450  find|egrep terminator
-  451  cat ./.config/terminator/config
-  452  find|egrep config
-  453  find|egrep config|egrep -v spotify
-  454  man terminator_config
-  455  find /var/www/html/wp1/wp-content|egrep header
-  456  emacs &
-  457  ls
-  458  ls emacs
-  459  mv emacs/emacs-local-customize.el  emacs/emacs-customize-local.el 
-  460  ls emacs
-  461  find|egrep tgz
-  462  ls tmp
-  463  ls -a tmp
-  464  mkdir ~/emacs/bin
-  465  ls ~/emacs
-  466  ls ~/emacs/dell/
-  467  emacs
-  468  emacs &
-  469  sudo apt-get install shutter
-  470  history|egrep shutter
-  471  gimp ~/Pictures/otb-oct4.png &
-  472  ls -ltr
-  473  file otb
-  474  vlc otb
-  475  c
-  476  vlc otb.mp4 
-  477  cheese
-  478  sudo apt-get install cheese
-  479  cheese
-  480  kill sim
-  481  vlc otb.mp4 
-  482  top
-  483  vlc otb.mp4 
-  484  emacs &
-  485  openlp &
-  486  emacs &
-  487  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/readings.odp &
-  488  xournal ~/Downloads/Scan\ 1.jpeg 
-  489  gimp ~/Downloads/Scan\ 1.jpeg 
-  490  libreoffice ~/Downloads/swva/sept21/Stock\ Report.xlsx &
-  491  emacs &
-  492  openlp &
-  493  mkdir ~/Downloads/bsuc-internet-presence
-  494  cd ~/Downloads/bsuc-internet-presence
-  495  emacs readme &
-  496  ls - ltr ~/Downloads/
-  497  ls -ltr ~/Downloads/
-  498  rm ~/Downloads/*.xls
-  499  ls -ltr ~/Downloads/
-  500  rm ~/Downloads/*.xls
-  501  rm ~/Downloads/*ods*
-  502  top
-  503  find /var/www/html/wp1/wp-content|egrep 'index\.php'
-  504  find /var/www/html/wp1/wp-content|egrep 'index\.php'|wc -l
-  505  find /var/www/html/wp1/wp-content|egrep '\.css'
-  506  filename $(find /var/www/html/wp1/wp-content|egrep '\.css')
-  507  find /var/www/html/wp1/wp-content|egrep '\.css'|xargs filename
-  508  find /var/www/html/wp1/wp-content|egrep '\.css'|xargs basename
-  509  man basename
-  510  find /var/www/html/wp1/wp-content|egrep '\.css'|xargs ls
-  511  find /var/www/html/wp1/wp-content|egrep '\.css'|xargs basname
-  512  find /var/www/html/wp1/wp-content|egrep '\.css'|xargs basename
-  513  basename --help
-  514  find /var/www/html/wp1/wp-content|egrep '\.css'|xargs basename -a
-  515  find /var/www/html/wp1/wp-content|egrep '\.css'|xargs basename -a|sort
-  516  sudo gparted &
-  517  pkill gparted
-  518  su -
-  519  sudo passwd root
-  520  su -
-  521  ls -ltr
-  522  ls -ltr ~/Videos/
-  523  ls -ltrh ~/Videos/
-  524  vlc ~/Videos/harvest.mp4 
-  525  which vlc
-  526  vlc &
+    1  ifconfig -a
+    2  sudo passwd root
+    3  sudo apt-get install terminator
+    4  top
+    5  ps -eaf|egrep terminator
+    6  pkill terminator
+    7  ps -eaf|egrep firefox
+    8  pkill firefox
+    9  ps -eaf|egrep firefox
+   10  pkill firefox
+   11  ps -eaf|egrep firefox
+   12  ps -eaf|egrep firefox|egrep -v firefox
+   13  which vlc
+   14  ls -ltr ~/Downloads/
+   15  sudo apt-get install build-essential
+   16  sudo dpkg --configure -a
+   17  sudo apt-get install build-essential
+   18  sudo apt-get install build-dep emacs26
+   19  sudo apt-get install build-dep emacs25
+   20  sudo apt-get install build-dep emacs24
+   21  sudo apt-get install gcc
+   22  sudo apt-get build-dep emacs26
+   23  sudo apt-get build-dep emacs25
+   24  sudo apt-get build-dep emacs24
+   25  sudo apt-get build-dep emacs23
+   26  sudo apt-get install build-essential
+   27  apt cache search freetype
+   28  apt search freetype
+   29  ls -ltr ~/Downloads/
+   30  cd ~/Downloads/
+   31  mkdir ~/third
+   32  mv emacs-26.1.tar.gz ~/third/
+   33  cd ~/third/
+   34  tar -xvzf emacs-26.1.tar.gz 
+   35  apt cache search emacs
+   36  apt-cache search emacs
+   37  apt-cache 
+   38  apt-cache search 'emacs'
+   39  apt-cache search 'emacs'|egrep build
+   40  cd emacs-26.1/
+   41  ls
+   42  ./configure 
+   43  cat config.log 
+   44  ./configure 
+   45  apt-cache search 'emacs'
+   46  apt-cache search 'emacs'|egrep 26
+   47  apt-cache search 'emacs'|egrep 25
+   48  apt-cache search 'emacs'|egrep 24
+   49  apt-cache search 'netsurf'
+   50  apt-cache search 'netsurf|midori'
+   51  sudo apt-get install midori netsurf
+   52  pkill firefox
+   53  sudo add-apt-repository ppa:openlp-core/release
+   54  sudo apt update
+   55  sudo apt install openlp
+   56  openlp
+   57  ./configure 
+   58  apt-cache search 'emacs24'
+   59  apt-cache search 'emacs25'
+   60  ./configure 
+   61  apt-cache search 'emacs24'
+   62  sudo apt-get install build-dep emacs26
+   63  sudo apt-get  build-dep emacs26
+   64  sudo apt-get  build-dep emacs25
+   65  sudo apt-get  build-dep emacs24
+   66  sudo apt-get  build-dep emacs23
+   67  sudo apt-get  build-dep emacs22
+   68  apt-cache search '-dev'|egrep -i 'gtk'
+   69  apt-cache search '\-dev'|egrep -i 'gtk'
+   70  apt-cache search '\-dev'|egrep -i 'gtk'|egrep -i '\-dev'
+   71  sudo apt-get install libx11-dev
+   72  sudo apt-get install libxaw
+   73  sudo apt-get install libXaw
+   74  apt-cache search 'xaw'
+   75  apt-cache search 'xaw'|egrep -i libxaw
+   76  sudo apt-get install libXaw7 libXaw7-dev
+   77  sudo apt-get install libxaw7 libxaw7-dev
+   78  sudo apt-get install libjpeg libpng libgif libungif libtiff gnutls
+   79  apt-cache search 'jpeg'|egrep -i libjpeg
+   80  sudo apt-get install libjpeg-dev libpng-dev libgif-dev libungif-dev libtiff-dev gnutls
+   81  sudo apt-get install libjpeg-dev libpng-dev libgif-dev  libtiff-dev
+   82  apt-cache search gnut
+   83  sudo apt-get install libgnutls
+   84  sudo apt-get install libgnutls-dev
+   85  sudo apt-get install libtinfo-dev
+   86  which tputs
+   87  history
+   88  history|tee ~/lm18.3-prep-for-emacs26-build
+   89  emacs configure.log &
+   90  sudo apt-get install libfreetype6 libfreetype6-dev
+   91  time make
+   92  ./configure 2>&1|tee configure.log.4;time make
+   93  sudo make install
+   94  ./configure 
+   95  time ./configure 
+   96  ./configure 
+   97  time ./configure 
+   98  history
+   99  time make
+  100  which emacs
+  101  sudo make install
+  102  which emacs
+  103  emacs
+  104  emacs config.log 
+  105  time ./configure 2>&1 |tee configure.log 
+  106  time ./configure |tee configure.log.2 
+  107  diff configure.log configure.log.2
+  108  cat configure.log.2|egrep freetype
+  109  cat configure.log|egrep free type
+  110  cat configure.log|egrep freetype
+  111  sudo apt-get install libxft-dev
+  112  time ./configure |tee configure.log.3
+  113  cat configure.log.3|egrep freetype
+  114  sudo apt-get install imagemagick
+  115  sudo apt-get install imagemagick imagemagick-dev
+  116  sudo apt-get install imagemagick 
+  117  diff configure.log.3 configure.log.4
+  118  cat configure.log.4|egrep magick
+  119  emacs
+  120  history
+  121  cd emacs-26.1/
+  122  cd third/emacs-26.1/
+  123  time sudo make install
+  124  emacs
+  125  emacs ~/Downloads/configure.log.1 &
+  126  echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/chrome.list
+  127  sudo echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/chrome.list
+  128  su -
+  129  ls -ltr ~/Downloads/
+  130  emacs ~/Downloads/xp1.pl &
+  131  pkill chrome
+  132  su - ftpuser
+  133  ftp lm183to21
+  134  sudo /etc/init.d/vsftpd restart
+  135  ftp lm183to21
+  136  sudo /etc/init.d/vsftpd restart
+  137  umask
+  138  ls
+  139  history|egrep apache
+  140  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
+  141  su -
+  142  history|egrep apache
+  143  history|egrep 'apache|maria|php|mysql'
+  144  history|egrep 'apache|maria|php|mysql'|egrep -v egrep
+  145  sudo apt list installed
+  146  sudo apt list --installed
+  147  sudo apt list --installed|egrep 'maria|mysql|php|wordpress'
+  148  sudo apt list --installed|egrep 'maria|mysql|php|wordpress|apache'
+  149  sudo apt-get remove apache2
+  150  sudo apt-get remove mysql-client mysql-server php7.0
+  151  sudo apt-get remove vsftpd
+  152  sudo apt-get install mysql-client mysql-server php7.0 apache2
+  153  sudo apt-get install apache2-utils
+  154  sudo apt-get install php7.0-mysql libapache2-mod-php7.0 php7.0-cli php7.0-cgi php7.0-gd
+  155  ls ~/Downloads/
+  156  ls ~/third
+  157  ls ~/third/wordpress/
+  158  su -
+  159  man rsync
+  160  ls ~/Downloads/
+  161  ls ~/third
+  162  ls ~/third/wordpress/
+  163  rm -rf ~/third/wordpress
+  164  cd ~/Downloads/
+  165  tar -xzvf wordpress-4.9.8.tar.gz 
+  166  ls /var/www/html/
+  167  ls -l /var/www/html/
+  168  ls wordpress
+  169  cp -r wordpress/* /var/www/html/.
+  170  ls -l /var/www/html/
+  171  find /var/www/html/
+  172  find /var/www/html/|xargs ls -l
+  173  find /var/www/html/|xargs ls -l|egrep -v martin
+  174  sudo chown -R www-data:www-data /var/www/html/
+  175  sudo chmod -R 755 /var/www/html/
+  176  find /var/www/html/|xargs ls -l|egrep -v martin
+  177  mysql -u root -p
+  178  sudo mysql_secure_installation
+  179  mysql -u root -p
+  180  mysql -u root 
+  181  mysql 
+  182  mysql -u martinf -p
+  183  su -
+  184  which openlp
+  185  ls ~/Documents/
+  186  openlp &
+  187  ls ~/Downloads/
+  188  man unzip
+  189  unzip -d ~/Documents/bsuc-audio-visual/resources/ presentations-20181109T130403Z-001.zip
+  190  unzip -d ~/Documents/bsuc-audio-visual/resources/ ~/Downloads/presentations-20181109T130403Z-001.zip
+  191  ls
+  192  ls ~/Downloads/
+  193  rm ~/Downloads/presentations-20181109T130403Z-001.zip 
+  194  rm ~/Downloads/configure.log.1 
+  195  rm ~/Downloads/install*
+  196  rm ~/Downloads/quite-impressed.mp3 
+  197  rm ~/Downloads/xp1.pl 
+  198  ls ~/Downloads/
+  199  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/candleprayer.dark.background.odp 
+  200  sudo apt-get install gimp
+  201  gimp &
+  202  mkdir ~/Documents/bsuc-audio-visual
+  203  mkdir ~/Documents/bsuc-audio-visual/openlp
+  204  mkdir ~/Documents/bsuc-audio-visual/resources
+  205  sudo apt-get install filezilla
+  206  sudo apt-get install php7.0-zip
+  207  sudo /etc/init.d/apache2 restart
+  208  mkdir ~/Downloads/onecom/snapshots
+  209  mkdir ~/Downloads/onecom/snapshots/duplicator
+  210  mkdir ~/Downloads/shuttlepc
+  211  mkdir ~/Downloads/shuttlepc/snapshots
+  212  mkdir ~/Downloads/shuttlepc/snapshots/duplicator
+  213  mkdir ~/Downloads/shuttlepc/backups
+  214  mkdir ~/Downloads/shuttlepc/backups/updraft
+  215  ls ~/Downloads/
+  216  mkdir ~/Downloads/shuttlepc/snapshots/duplicator/1
+  217  ls -ltr ~/Downloads/
+  218  ls -ltrh ~/Downloads/
+  219  while ((1));do ls -ltrh ~/Downloads/;sleep 10;done
+  220  rm ~/Downloads/installer\ \(*
+  221  while ((1));do ls -ltrh ~/Downloads/;sleep 10;done
+  222  diff ~/Downloads/installer\ \(1\).php  ~/Downloads/installer.php 
+  223  while ((1));do ls -ltrh ~/Downloads/;sleep 10;done
+  224  filezilla &
+  225  su -
+  226  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
+  227  mysql -u martinf -p
+  228  history|egrep mysql
+  229  mysql -u root -p
+  230  mkdir ~/Downloads/onecom-clone-on-shuttlepc
+  231  mkdir ~/Downloads/onecom-clone-on-shuttlepc/backups
+  232  mkdir ~/Downloads/onecom-clone-on-shuttlepc/snapshots
+  233  tree ~/Downloads/
+  234  tree ~/Downloads/onecom
+  235  mkdir ~/Downloads/onecom-clone-on-shuttlepc/snapshots/duplicator
+  236  mkdir ~/Downloads/onecom-clone-on-shuttlepc/snapshots/duplicator/1
+  237  mkdir ~/Downloads/onecom-clone-on-shuttlepc/backups/updraft
+  238  ls /var/www/html/wp-content/updraft/
+  239  mkdir ~/Downloads/onecom-clone-on-shuttlepc/backups/updraft/1
+  240  cp -pr /var/www/html/wp-content/updraft/* ~/Downloads/onecom-clone-on-shuttlepc/backups/updraft/1/.
+  241  ls -l ~/Downloads/onecom-clone-on-shuttlepc/backups/updraft/1
+  242  ls -lh ~/Downloads/onecom-clone-on-shuttlepc/backups/updraft/1
+  243  ls /var/www/html/
+  244  ls /var/www/html/*.log
+  245  find /var/www/html/|egrep '\.log'
+  246  tail -f /var/www/html/wp-content/debug.log
+  247  tail -f /var/www/html/wp-content/debug.log|egrep -v 'deprecated'
+  248  emacs ~/.bashrc &
+  249  ls /var/www/html/wp-content/themes/*/*.php
+  250  ls /var/www/html/wp-content/themes/{*thirteen*, cloriato}/*.php
+  251  ls /var/www/html/wp-content/themes/{*thirteen*,cloriato}/*.php
+  252  ls /var/www/html/wp-content/themes/{*thirteen*,*cloriato*}/*.php
+  253  tree /var/www/html/wp-content/themes/{*thirteen*,*cloriato*}/*.php
+  254  tree /var/www/html/wp-content/themes/{*thirteen*,*cloriato*}
+  255  tree -L1 /var/www/html/wp-content/themes/{*thirteen*,*cloriato*}
+  256  tree -L 1 /var/www/html/wp-content/themes/{*thirteen*,*cloriato*}
+  257  ls /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php|sort
+  258  ls /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php|sort|basename
+  259  ls /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php|sort|xargs basename
+  260  basename $(ls /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php|sort)
+  261  for f in  $(ls /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php|sort);do basname $f;done
+  262  for f in  $(ls /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php|sort);do basename $f;done
+  263  for f in  $(ls /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php|sort);do basename $f;done|tee ~/tmp/x
+  264  mkdir ~/tmp
+  265  for f in  $(ls /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php|sort);do basename $f;done|tee ~/tmp/x.clnew
+  266  for f in  $(ls /var/www/html/wp-content/themes/cloriato-lite/*.php|sort);do basename $f;done|tee ~/tmp/x.cl
+  267  for f in  $(ls /var/www/html/wp-content/themes/twentyfourteen/*.php|sort);do basename $f;done|tee ~/tmp/x.2014
+  268  for f in  $(ls /var/www/html/wp-content/themes/twentythirteen/*.php|sort);do basename $f;done|tee ~/tmp/x.2013
+  269  for f in  $(ls /var/www/html/wp-content/themes/twentytwelve/*.php|sort);do basename $f;done|tee ~/tmp/x.2012
+  270  emacs &
+  271  ls ~/tmp
+  272  ls -l ~/tmp
+  273  emacs &
+  274  ls /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php
+  275  diff -r  /var/www/html/wp-content/themes/cloriato-lite_NEW  /var/www/html/wp-content/themes/cloriato-lite
+  276  man diff
+  277  diff --brief -r  /var/www/html/wp-content/themes/cloriato-lite_NEW  /var/www/html/wp-content/themes/cloriato-lite
+  278  diff --brief -r  /var/www/html/wp-content/themes/cloriato-lite_NEW  /var/www/html/wp-content/themes/cloriato-lite|egrep '\.php'
+  279  diff --brief -r  /var/www/html/wp-content/themes/cloriato-lite_NEW  /var/www/html/wp-content/themes/cloriato-lite|egrep '\.php.*differ'
+  280  diff /var/www/html/wp-content/themes/cloriato-lite_NEW/front-page.php  /var/www/html/wp-content/themes/cloriato-lite/front-page.php 
+  281  emacs /var/www/html/wp-content/themes/cloriato-lite_NEW/front-page.php  /var/www/html/wp-content/themes/cloriato-lite/front-page.php 
+  282  su -
+  283  cd ~/third/emacs-26.1/
+  284  ls
+  285  ./configure
+  286  ./configure|tee ~/x.php
+  287  while ((1));do date;cat ~/x.php|egrep php;sleep 10;done
+  288  emacs ~/.emacs
+  289  emacs ~/.emacs
+  290  cd ~/Downloads/
+  291  ls
+  292  unzip bootstrapblog-master.zip 
+  293  emacs ~/.emacs
+  294  emacs ~/.emacs &
+  295  su -
+  296  pkill chrome
+  297  openlp &
+  298  top
+  299  pkill chrome
+  300  top
+  301  pkill chrome
+  302  top
+  303  ls ~/code
+  304  mkdir ~/code
+  305  mkdir ~/code/emacs-lisp
+  306  mv ~/Downloads/dell\ setup-20181112T174029Z-001.zip ~/code/emacs-lisp/.
+  307  cd code/emacs-lisp/
+  308  ls
+  309  unzip dell\ setup-20181112T174029Z-001.zip 
+  310  ls
+  311  mv dell\ setup dellsetup
+  312  ls
+  313  rm dell\ setup-20181112T174029Z-001.zip 
+  314  ls
+  315  tree
+  316  emacs &
+  317  cat ~/Downloads/emacs 
+  318  rm ~/Downloads/emacs 
+  319  find /home/martin/code/emacs-lisp/dellsetup/|egrep '\.emacs'
+  320  cat /home/martin/code/emacs-lisp/dellsetup/k6/emacs/#.emacs.mf#
+  321  cp /home/martin/code/emacs-lisp/dellsetup/k6/emacs/#.emacs.mf#  /home/martin/code/emacs-lisp/dellsetup/k6/emacs/.emacs.mf
+  322  emacs&
+  323  emacs &
+  324  mkdir ~/code/web
+  325  mkdir ~/code/web/jquery
+  326  mkdir ~/code/web/angularjs
+  327  mkdir ~/code/web/javascript
+  328  mkdir ~/code/web/html
+  329  su -
+  330  top
+  331  top $(pidof chrome)
+  332  man top
+  333  top -p $(pidof chrome)
+  334  pidof bash
+  335  top -p $(pidof bash)
+  336  top -p $(pidof chrome)
+  337  pidof chrome
+  338  man top
+  339  pids=$(pidof chrome);echo $pids
+  340  pids=$(pidof chrome);$pidargs=echo $pids|sed -r -s/ /,/g;echo $pidargs
+  341  pids=$(pidof chrome);$pidargs=echo $pids|sed -r -s'/ /,/g';echo $pidargs
+  342  echo abc|ser -r -e 's/b/ddd/'
+  343  echo abc|sed -r -e 's/b/ddd/'
+  344  pids=$(pidof chrome);$pidargs=echo $pids|sed -r -e 's/ /,/g';echo $pidargs
+  345  pids=$(pidof chrome);$pidargs=$(echo $pids|sed -r -e 's/ /,/g');echo $pidargs
+  346  man sed
+  347  pids=$(pidof chrome);$pidargs=$(echo $pids|sed -r -e 's/ /,/g');echo $pidargs;echo $pids
+  348  pids=$(pidof chrome);$pidargs=$(echo $pids|sed -r -e 's/ /,/');echo $pidargs;echo $pids
+  349  pids=$(pidof chrome);$pidargs=$(echo $pids|sed -r -e 's/ /,/g');echo $pidargs;echo $pids
+  350  emacs &
+  351  find ~|egrep dp1
+  352  find /home/martin/Downloads/|egrep dp1
+  353  find /home/martin/code/|egrep dp1
+  354  mkdir ~/code/
+  355  tree ~/code/web/
+  356  mkdir ~/code/onecom-webspace-mirror
+  357  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
+  358  emacs &
+  359  filezilla &
+  360  emacs &
+  361  filezilla &
+  362  emacs &
+  363  ls -lh ~/code/onecom-webspace-mirror/test/jquery/
+  364  ls -lh ~/code/onecom-webspace-mirror/test/jquery/drpcal.html 
+  365  man curl
+  366  qq
+  367  curl -I www.cyberciti.biz/tips/
+  368  curl -I curl -I www.cyberciti.biz/tips/https://script.google.com/macros/s/AKfycbzti4_uUaGNWAub1_HA6bhQTtMttU8wuVWl6X70oJm5sLUl8yg/exec?daterange='
+  369  curl -I https://script.google.com/macros/s/AKfycbzti4_uUaGNWAub1_HA6bhQTtMttU8wuVWl6X70oJm5sLUl8yg/exec?daterange=01/11/2018 to 02/11/2018
+  370  curl -I -L  https://script.google.com/macros/s/AKfycbzti4_uUaGNWAub1_HA6bhQTtMttU8wuVWl6X70oJm5sLUl8yg/exec?daterange=01/11/2018 to 02/11/2018
+  371  curl -I -L  https://script.google.com/macros/s/AKfycbzti4_uUaGNWAub1_HA6bhQTtMttU8wuVWl6X70oJm5sLUl8yg/exec
+  372  curl -I  https://script.google.com/macros/s/AKfycbzti4_uUaGNWAub1_HA6bhQTtMttU8wuVWl6X70oJm5sLUl8yg/exec
+  373  pkill chrome
+  374  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
+  375  su -
+  376  mkdir ~/github
+  377  cd ~/github/
+  378  which git
+  379  sudo apt-get install git
+  380  ifconfig -a
+  381  sudo systemctl restart network.service
+  382  sudo systemctl restart networking.service
+  383  sudo ifdown enp0s4 && sudo ifup enp0s4
+  384  ifconfig -a
+  385  sudo systemctl restart networking.service
+  386  sudo restart
+  387  sudo restart --help
+  388  sudo restart --no-wait
+  389  sudo shutdown --help
+  390  sudo shutdown --reboot
+  391  sudo shutdown --reboot --now
+  392  sudo shutdown --reboot -now
+  393  sudo shutdown --reboot now
+  394  sudo apt-get install git
+  395  git config --global user.name "martinforsyth"
+  396  git config --global user.name
+  397  git config --global user.email "martin@forfamily.co.uk"
+  398  git config --global user.email
+  399  git config --global --list
+  400  cd tmp/
+  401  ls
+  402  rm x*
+  403  git checkout master
+  404  git clone https://git@github.com/martinforsyth/helloworld
+  405  tree
+  406  cd helloworld/
+  407  git status
+  408  git checkout -b some-branch-name
+  409  git status
+  410  emacs helloworld.c &
+  411  git status
+  412  git add helloworld.c 
+  413  git status
+  414  git reset HEAD helloworld.c
+  415  git status
+  416  git add helloworld.c 
+  417  git status
+  418  git commit -m "a commit message from cli"
+  419  git status
+  420  git push origin some-branch-name 
+  421  git push -h
+  422  git push origin some-branch-name -v
+  423  git push origin some-branch-name -u 
+  424  git push -u origin some-branch-name 
+  425  history
+  426  git config --global user.name
+  427  git push origin some-branch-name -h
+  428  git push  -h
+  429  git push origin some-branch-name
+  430  ls -al ~/.ssh
+  431  ls -al ~/.ssh/known_hosts 
+  432  ssh-keygen -t rsa -b 4096 -C "martin@forfamily.co.uk"
+  433  eval "$(ssh-agent -s)"
+  434  ssh-add ~/.ssh/id_rsa
+  435  ls -al ~/.ssh/known_hosts 
+  436  tree ~/.ssh
+  437  emacs ~/.ssh/id_rsa.pub &
+  438  git push origin some-branch-name
+  439  history|egrep git
+  440  cd ..
+  441  rm -rf helloworld/
+  442  git clone git@github.com/martinforsyth/helloworld
+  443  exit
+  444  bash
+  445  git clone git@github.com:martinforsyth/helloworld
+  446  git status
+  447  ls
+  448  cd helloworld/
+  449  git status
+  450  git checkout -b some-other-branch-name
+  451  git status
+  452  emacs helloworld.c 
+  453  git add helloworld.c 
+  454  git status
+  455  git commit -m "a commit message from cli"
+  456  git status
+  457  git push origin some-branch-name
+  458  git push origin some-other-branch-name 
+  459  cd ..
+  460  ls
+  461  ls ~/code/onecom-webspace-mirror/
+  462  ls ~/code/onecom-webspace-mirror/test/
+  463  mv ~/code/onecom-webspace-mirror ~/code/onecom-bsuc-webspace-mirror
+  464  mkdir create-repo-on-cmdline-test-01
+  465  cd create-repo-on-cmdline-test-01/
+  466  touch README.md
+  467  git init
+  468  git add README.md 
+  469  git commit -m "initial commit"
+  470  git remote add origin git@github.com:martinforsyth/create-repo-on-cmdline-test-01.git
+  471  git push -u origin master
+  472  git remote add origin github.com/martinforsyth/create-repo-on-cmdline-test-01.git
+  473  git push -u origin master
+  474  git status
+  475  ls
+  476  cd ..
+  477  rm -rf create-repo-on-cmdline-test-01/
+  478  cd ~/code/onecom-bsuc-webspace-mirror/
+  479  cd ..
+  480  mv onecom-bsuc-webspace-mirror onecom-hosted-bsuc
+  481  ls onecom-hosted-bsuc/
+  482  mkdir onecom-hosted-bsuc/var
+  483  mkdir onecom-hosted-bsuc/var/www
+  484  mv onecom-hosted-bsuc/test onecom-hosted-bsuc/var/www/.
+  485  tree onecom-hosted-bsuc/
+  486  cd onecom-hosted-bsuc/
+  487  ls
+  488  git init
+  489  history|egrep git
+  490  ls
+  491  cd var/www/test/
+  492  ls
+  493  emacs info.php
+  494  git add info.php 
+  495  git status
+  496  ls
+  497  git commit -m "First commit"
+  498  git remote add origin      git@github.com:martinforsyth/onecom-hosted-bsuc
+  499  git remote -v
+  500  git push origin master
+  501  git pull
+  502  git push origin master
+  503  ls
+  504  ls ..
+  505  ls ../..
+  506  ls ../../..
+  507  ls ../../../..
+  508  cd ../../../
+  509  ls
+  510  ls var
+  511  ls var/www
+  512  ls var/www/test/
+  513  cd ..
+  514  cp -r onecom-hosted-bsuc onecom-hosted-bsuc.bak
+  515  ls
+  516  tree onecom-hosted-bsuc.bak/
+  517  cd onecom-hosted-bsuc
+  518  ls
+  519  cd var
+  520  ls
+  521  cd www/
+  522  ls
+  523  cd test/
+  524  ls
+  525  rm -rf angularjs/ 
+  526  cd jquery/
   527  ls -ltr
-  528  ls -tr IMG_20180925*|head -n1
-  529  mount
-  530  mount|egrep -v sys
-  531  mount|sort |tee ~/x
-  532  mount|sort |tee ~/y
-  533  diff ~/x ~/y
-  534  ls /run/user/1000/gvfs/
-  535  ls /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/
-  536  ls /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/Internal\ shared\ storage/
-  537  ls /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/Internal\ shared\ storage/DCIM/Camera/
-  538  ls -ltr /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/Internal\ shared\ storage/DCIM/Camera/
-  539  mv /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/Internal\ shared\ storage/DCIM/Camera/IMG_20180925_175456599.jpg /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/Internal\ shared\ storage/DCIM/Camera/prop.meet.mins.2004-dec-15.1.jpg
-  540  mv /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/Internal\ shared\ storage/DCIM/Camera/IMG_20180925_175510030.jpg /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/Internal\ shared\ storage/DCIM/Camera/prop.meet.mins.2004-dec-15.2.jpg
-  541  cd /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/Internal\ shared\ storage/DCIM/Camera
-  542  ls
-  543  ls IMG*
-  544  ls IMG*|head -n1
-  545  ls -ltr IMG*|head -n1
-  546  ls -ltr IMG_20180925*|head -n1
-  547  ls -tr IMG_20180925*|head -n1
-  548  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2005-may-09.1.jpg
-  549  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2005-may-09.2.jpg
-  550  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2005-sept-27.1.jpg
-  551  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2005-sept-27.2.jpg
-  552  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2006-sept-06.1.jpg
-  553  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2007-jan-16.1.jpg
-  554  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2007-jan-16.2.jpg
-  555  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2008-may-07.1.jpg
-  556  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2008-may-07.2.jpg
-  557  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2009-jan-06.1.jpg
-  558  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2009-jan-06.2.jpg
-  559  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2009-apr-20.1.jpg
-  560  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2009-apr-20.2.jpg
-  561  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2009-may-18.1.jpg
-  562  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2009-may-18.2.jpg
-  563  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2009-may-18.3.jpg
-  564  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2010-feb-22.1.jpg
-  565  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2010-feb-22.2.jpg
-  566  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2010-mar-23.1.jpg
-  567  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2010-mar-23.2.jpg
-  568  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2010-mar-30.1.jpg
-  569  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2010-nov-24.1.jpg
-  570  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2010-nov-24.2.jpg
-  571  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2010-jan-11.1.jpg
-  572  mv prop.meet.mins.2010-jan-11.1.jpg  prop.meet.mins.2011-jan-11.1.jpg
-  573  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2011-jan-11.2.jpg
-  574  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2011-may-17.1.jpg
-  575  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2011-may-17.2.jpg
-  576  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2011-aug-15.1.jpg
-  577  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2011-aug-15.2.jpg
-  578  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2012-jul-04.1.jpg
-  579  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2012-jul-04.2.jpg
-  580  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2012-jul-04.3.jpg
-  581  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2012-jul-04.4.jpg
-  582  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2012-jul-04.5.jpg
-  583  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2012-jul-04.6.jpg
-  584  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2012-jul-04.summary.1.jpg
-  585  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2012-jul-04.summary.2.jpg
-  586  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2013-jan-28.1.jpg
-  587  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2013-jan-28.2.jpg
-  588  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2013-oct-08.1.jpg
-  589  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2013-oct-08.2.jpg
-  590  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2014-may-20.1.jpg
-  591  mv $(ls -tr IMG_20180925*|head -n1) prop.meet.mins.2014-oct-23.1.jpg
-  592  ls
-  593  ls *2003*
-  594  ls *2004*
-  595  ls *2005*
-  596  ls *2006*
-  597  ls *2007*
-  598  ls *2008*
-  599  ls *2009*
-  600  ls *2010*
-  601  ls *2011*
-  602  ls *2012*
-  603  ls *2013*
-  604  ls *2014*
-  605  ls *2015*
-  606  ls *2016*
-  607  ls *2017*
-  608  ls *2018*
-  609  history|egrep 'openlp|libre|'
-  610  history|egrep 'openlp|libre|emacs'
-  611  ls ~/emacs/dell/
-  612  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/readings.odp & && emacs ~/x && openlp &
-  613  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/readings.odp && emacs ~/x && openlp &
-  614  if true or true;then echo hi;fi
-  615  if true or false;then echo hi;fi
-  616  if false or false;then echo hi;fi
-  617  if false || false;then echo hi;fi
-  618  if false || true;then echo hi;fi
-  619  if false && true;then echo hi;fi
-  620  if true && true;then echo hi;fi
-  621  ls && ls
-  622  (ls) && (ls)
-  623  (libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/readings.odp) && (emacs ~/x) && openlp &
-  624  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/readings.odp & emacs ~/x & openlp &
-  625  history|egrep libre
-  626  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/readings.odp & emacs ~/x & openlp &
-  627  libreoffice &
-  628  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/welcome.odp &
-  629  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/candlleprayer.odp &
-  630  openlp &
-  631  cd /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/Internal\ shared\ storage/DCIM/Camera
-  632  cd /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C003%5D/Internal\ shared\ storage/DCIM/
-  633  ls
-  634  cd /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C003%5D/Internal\ shared\ storage/DCIM/Camera/
-  635  ls
-  636  ls -ltr
-  637  mv IMG_20180928_103550804.jpg 1.jpg
-  638  cd ~/Pictures/tmp/scratch/
-  639  mkdir t
-  640  cd t
-  641  ls -ltr
-  642  ls -tr
-  643  ls -tr|head -n1
-  644  mv $(ls -tr|head -n1) 02.jpg
-  645  mv $(ls -tr|head -n1) 03.jpg
-  646  ls
-  647  mv $(ls -tr IMG*|head -n1) 05.jpg
-  648  mv $(ls -tr IMG*|head -n1) 06.jpg
-  649  mv $(ls -tr IMG*|head -n1) 07.jpg
-  650  mv $(ls -tr IMG*|head -n1) 08.jpg
-  651  mv $(ls -tr IMG*|head -n1) 10.jpg
-  652  mv $(ls -tr IMG*|head -n1) 09.jpg
-  653  mv $(ls -tr IMG*|head -n1) 20.jpg
-  654  mv $(ls -tr IMG*|head -n1) 30.jpg
-  655  mv $(ls -tr IMG*|head -n1) 40.jpg
-  656  mv $(ls -tr IMG*|head -n1) xx.jpg
-  657  mv $(ls -tr IMG*|head -n1) 50.jpg
-  658  mv $(ls -tr IMG*|head -n1) 51.jpg
-  659  mv $(ls -tr IMG*|head -n1) 41.jpg
-  660  mv $(ls -tr IMG*|head -n1) 60.jpg
-  661  mv $(ls -tr IMG*|head -n1) 61.jpg
-  662  mv $(ls -tr IMG*|head -n1) 70.jpg
-  663  mv $(ls -tr IMG*|head -n1) 71.jpg
-  664  mv $(ls -tr IMG*|head -n1) 72.jpg
-  665  history|egrep libre
-  666  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/readings.odp &
-  667  openlp &
-  668  libreoffice &
-  669  ls -ltr
-  670  vlc onlineform.mp4 
-  671  ls -ltrh ~/Videos/
-  672  vlc ~/Videos/TT_MULTI_FILM.m4v 
-  673  mv ~/Videos/TT_MULTI_FILM.m4v  ~/Videos/intro.m4v 
-  674  cd ~/Videos/
-  675  ls -ltrh
-  676  man zip
-  677  zip howitworks.m4v.zip howitworks.m4v 
-  678  ls -ltrh
-  679  sudo apt-get install handbrake
-  680  handbrake &
-  681  ls /var/www/html/wp1/wp-content|egrep '\.css'|xargs basename -a
-  682  ls /var/www/html
-  683  ls /var/www/html/wp1/
-  684  ls -a /var/www/html/wp1/
-  685  find /var/www/html/wp1/
-  686  find /var/www/html/wp1/|egrep access
-  687  find /var/www/html/wp1|sort|tee ~/x
-  688  find /var/www/html/wp1|sort|tee ~/y
-  689  diff ~/x ~/y
-  690  find /var/www/html/wp1|sort|tee ~/z
-  691  diff ~/x ~/z
-  692  rm -r /var/www/html/wp1/wp-content/updraft
-  693  sudo rm -r /var/www/html/wp1/wp-content/updraft
-  694  find /var/www/html/wp1|sort|tee ~/zz
-  695  diff ~/x ~/zz
-  696  libreoffice &
-  697  gimp ~/Downloads/worship1.jpg 
-  698  history|egrep cd
-  699  cd /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/Internal\ shared\ storage
-  700  cd /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C003%5D/Internal\ shared\ storage/
-  701  find|egrep -i screenshot
-  702  emacs &
-  703  gimp ~/Pictures/tmp/link-to-doc.png 
-  704  cd ~/Pictures/tmp/
-  705  ls
-  706  ls bsuc*
-  707  mv bsucadmin4.2.png bsucadmin.4.2.png
-  708  mv bsucadmin4.3.png bsucadmin.4.3.png
-  709  mv bsucadmin4.4.png bsucadmin.4.4.png
-  710  ls bsuc*
-  711  mv bsucadmin.4.2.png bsucadminaccount.04.2.png 
-  712  mv bsucadmin.4.3.png bsucadminaccount.04.3.png 
-  713  mv bsucadmin.4.4.png bsucadminaccount.04.4.png 
-  714  mv bsucadmin.4.5.png bsucadminaccount.04.5.png 
-  715  mv bsucadmin.4.6.png bsucadminaccount.04.6.png 
-  716  mv bsucadmin.4.7.png bsucadminaccount.04.7.png 
-  717  mv bsucadmin.4.7.1.png bsucadminaccount.04.7.1.png 
-  718  mv bsucadmin.4.7.2.png bsucadminaccount.04.7.2.png 
-  719  ls
-  720  mv bsucadmin.4.8.png bsucadminaccount.04.8.png 
-  721  mv bsucadmin.4.9.png bsucadminaccount.04.9.png 
-  722  mv bsucadmin.4.10.png bsucadminaccount.04.10.png 
-  723  mv bsucadmin.4.11.png bsucadminaccount.04.11.png 
-  724  ls
-  725  mv bsucadminaccount.3.1.png  bsucadminaccount.3.01.png 
-  726  mv bsucadminaccount.3.2.png  bsucadminaccount.3.02.png 
-  727  mv bsucadminaccount.4.1.png  bsucadminaccount.4.01.png 
-  728  ls
-  729  mv bsucadminaccount.04.3.png  bsucadminaccount.4.03.png 
-  730  mv bsucadminaccount.04.4.png  bsucadminaccount.4.04.png 
-  731  mv bsucadminaccount.04.5.png  bsucadminaccount.4.05.png 
-  732  mv bsucadminaccount.04.6.png  bsucadminaccount.4.06.png 
-  733  mv bsucadminaccount.04.7.1.png  bsucadminaccount.4.07.1.png 
-  734  mv bsucadminaccount.04.7.2.png  bsucadminaccount.4.07.2.png 
-  735  mv bsucadminaccount.04.8.png  bsucadminaccount.4.08.png 
-  736  mv bsucadminaccount.04.9.png  bsucadminaccount.4.09.png 
-  737  ls
-  738  mv bsucadminaccount.04.10.png  bsucadminaccount.4.10.png 
-  739  mv bsucadminaccount.04.11.png  bsucadminaccount.4.11.png 
-  740  ls
-  741  mv bsucadminaccount.04.2.png  bsucadminaccount.4.02.png 
-  742  ls
-  743  pkill gimp
-  744  ls
-  745  ls bsucadminaccount.*
-  746  ls bsucadminaccount.*|sed 's/admin/ddddd/'
-  747  ls bsucadminaccount.*|sed 's/bsucadminaccount/setup/'
-  748  for f in $(ls bsucadminaccount.*);do echo $f|sed 's/bsucadminaccount/setup/';done
-  749  for f in $(ls bsucadminaccount.*);do cp $f $(echo $f|sed 's/bsucadminaccount/setup/');done
-  750  ls
-  751  ls -l
-  752  vlc ~/Videos/VID_20181005_110107729.mp4 
-  753  ls -ltr ~/Videos/
-  754  ls -ltrh ~/Videos/
-  755  ls -ltr ~/Videos/
-  756  ls -ltrh ~/Videos/
-  757  vlc ~/Videos/manualcopy.m4v 
-  758  rm ~/Videos/manualcopy.m4v 
-  759  vlc ~/Videos/manualcopy.m4v 
-  760  vlc ~/Videos/VID_20181005_110107729.mp4 
-  761  emacs ~/x &
-  762  sudo apt-get install vidcutter
-  763  apt-cache search database|egrep vid
-  764  apt-cache search database|egrep vid|egrep video
-  765  apt-cache search database|egrep avid
-  766  handbrake ~/Videos/VID_20181005_110107729.mp4 
-  767  cheese
-  768  mousepad ~/x &
-  769  libreoffice &
-  770  ls -ltr
-  771  vlc onlinepresence.01.mkv &
-  772  vlc onlinepresence.01.mp4 
-  773  vlc onlinepresence-why-bother.mkv 
-  774  rm onlinepresence-why-bother.mkv 
-  775  vlc onlinepresence-why-bother.mkv 
-  776  ls -ltr
-  777  rm onlinepresence*
-  778  ls -ltr
-  779  vlc ~/bsuc-online-01.mkv 
-  780  vlc ~/bsuc-online-02.mkv 
-  781  cp ~/bsuc-online-02.mkv  ~/bsuc-online-01.mkv 
-  782  vlc ~/bsuc-online-03.mkv 
-  783  vlc ~/bsuc-online-02.mkv 
-  784  vlc ~/bsuc-online-03.mkv 
-  785  vlc ~/bsuc-online-02.mkv 
-  786  vlc ~/bsuc-online-03.mkv 
-  787  vlc ~/bsuc-online-05.mkv 
-  788  ls -ltrh
-  789  mv bsuc-online-03.mkv bsuc-online-02.mkv 
-  790  mv bsuc-online-05.mkv bsuc-online-03.mkv 
-  791  vlc bsuc-online-01.mkv 
-  792  vlc bsuc-online-02.mkv 
-  793  vlc bsuc-online-03.mkv 
-  794  mousepad ~/x
-  795  find /var/www/html/wp1|wc -l
-  796  egrep 'Each week with' $(find /var/www/html/wp1)
-  797  egrep 'Each week with' $(find /var/www/html/wp1 -type f)
-  798  egrep 'Each week with' $(find /var/www/html/wp1 type -f)
-  799  find /var/www/html/wp1 type -f
-  800  find /var/www/html/wp1 -type f
-  801  egrep 'Each week with' $(find /var/www/html/wp1 -type f)
-  802  egrep 'with' $(find /var/www/html/wp1 -type f)
-  803  egrep 'publish' $(find /var/www/html/wp1 -type f)
-  804  egrep 'we publish' $(find /var/www/html/wp1 -type f)
-  805  egrep 'we *publish' $(find /var/www/html/wp1 -type f)
-  806  egrep 'also try' $(find /var/www/html/wp1 -type f)
-  807  egrep 'also try' $(find /var/www/html -type f)
-  808  egrep 'also *try' $(find /var/www/html -type f)
-  809  vlc googlecalendar.mkv 
-  810  vlc facebook01.mkv 
-  811  sudo apt-get install qpdfview
-  812  vlc facebook01.mkv 
-  813  vlc facebook02.mkv 
-  814  vlc facebook04.mkv 
-  815  ls -ltr
-  816  rm facebook0*
-  817  vlc facebook06.mkv 
-  818  ls -ltr
-  819  vlc f1.mkv 
-  820  ls -ltrh
-  821  vlc fb.mkv 
-  822  ls -ltr
-  823  ls -ltrh
-  824  vlc f2.mkv 
-  825  vlc f3.mkv 
-  826  vlc f4.mkv 
-  827  vlc f5.mkv 
-  828  vlc f6.mkv 
-  829  vlc f7.mkv 
-  830  ls 
-  831  ls Downloads/
-  832  ls Downloads/emacs/
-  833  ls Downloads/emacs/emacs-26.1
-  834  emacs  Downloads/emacs/emacs-26.1/config.log &
-  835  cd  Downloads/emacs/emacs-26.1
-  836  ./configure 2>&1|tee configure.log.1
-  837  openlp &
-  838  emacs ~/x &
-  839  libreoffice &
-  840  rm ~/Documents/psalm61.odp 
-  841  libreoffice &
-  842  ls ~/Downloads/
-  843  libreoffice &
-  844  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/welcome.odp &
-  845  openlp &
-  846  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/welcome.dark.background.odp &
-  847  openlp &
-  848  emacs &
-  849  find ~/code
-  850  ls ~/code
-  851  ls ~/code/googlescripts/
-  852  openlp &
-  853  pkill libreoffice
-  854  ps -eaf|egrep libre
-  855  kill -9 4137
-  856  kill -9 4157
-  857  history|egrep DCIM
-  858  cd /run/user/1000/gvfs/mtp\:host\=%5Busb%3A001%2C004%5D/Internal\ storage/
-  859  ls
-  860  cd DCIM/
-  861  ls 100ANDRO/
-  862  ls Camera/
-  863  ls Camera/|wc -l
-  864  ls -l Camera/|wc -l
-  865  df -h Camera/ 
-  866  du -h Camera/ 
-  867  cd ..
-  868  ls
-  869  cd ..
-  870  pwd
-  871  ls ..
-  872  gimp &
-  873  cd ~/Downloads/
-  874  ls -ltr
-  875  mv drive-download-20181025T205350Z-001.zip ~/Pictures/tmp/.
-  876  cd ~/Pictures/tmp/ls
-  877  cd ~/Pictures/tmp/
-  878  ls
-  879  ls -ltr
-  880  unzip drive-download-20181025T210026Z-001.zip 
-  881  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
-  882  ssh -X shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
-  883  lsb_release -a
-  884  uname -a
-  885  xclock
-  886  man ssh
-  887  pwd
-  888  ls tmp/
-  889  scp -r shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk:/var/www/wp/wp-content/gallery/gallery-1 /home/forfamily/tmp/.
-  890  su -
-  891  cd ~/tmp/
-  892  ls
-  893  ristretto ~/tmp/gallery-1/*
-  894  rm -rf ~/tmp/gallery-1
-  895  sudo apt-get install filezilla
-  896  filezilla
-  897  sudo apt-get install phpadmin
-  898  sudo apt-get install phpmyadmin
-  899  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
-  900  emacs &
-  901  history
-  902  history|egrep apache
-  903  history|egrep sql
-  904  sudo mysql -u root -p
-  905  sudo mysql -u root -p 
-  906  sudo mysql -u root -p wp_users < /tmp/tmp/db/backup_2018-10-26-0723_bsuctest_1e1c30809412-db 
-  907  sudo mysql -u root -p
-  908  sudo mysql -u root -p wordpress < /tmp/tmp/db/backup_2018-10-26-0723_bsuctest_1e1c30809412-db 
-  909  sudo service apache2 restart
-  910  filezilla &
-  911  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
-  912  du -ch ~/Downloads/bsuc-internet-presence/onecom/website/backups/updraft
-  913  cat ~/Downloads/bsuc-internet-presence/onecom/website/backups/updraft/log*|egrep -i updraft
-  914  cat ~/Downloads/bsuc-internet-presence/onecom/website/backups/updraft/log*|egrep -i 'updraft.*version'
-  915  cat ~/Downloads/bsuc-internet-presence/onecom/website/backups/updraft/log*|egrep -i 'version'
-  916  head  ~/Downloads/bsuc-internet-presence/onecom/website/backups/updraft/log*
-  917  su -
-  918  su -
-  919  cd ~/Documents/bsuc-audio-visual/
-  920  ls
-  921  ls resources/
-  922  ls openlp/
-  923  ls openlp/config/
-  924  ls openlp/songs-db/
-  925  ls openlp/songs-db/songs.unique/
-  926  du -ch openlp/songs-db/songs.unique/
-  927  ls 
-  928  ls resources/
-  929  ls resources/lyrics/
-  930  ls resources/lyrics/stf/
-  931  du -ch resources/lyrics/stf/
-  932  openlp &
-  933  cd openlp/songs-db/
-  934  ls
-  935  diff -r latest.exports/ songs.unique/
-  936  diff -r latest.exports/ songs.unique/|egrep -v 'createdIn'
-  937  ls songs.unique/
-  938  ls songs.unique/|sort
-  939  diff <(ls songs.unique/|sort) <(ls latest.exports/sort)
-  940  diff <(ls songs.unique/|sort|head) <(ls latest.exports/sort|head)
-  941  diff $(ls songs.unique/|sort|head) $(ls latest.exports/sort|head)
-  942  ls
-  943  ls songs.unique/|sort|tee ~/x
-  944  ls latest.exports/|sort|tee ~/xx
-  945  dif ~/x ~/xx
-  946  diff ~/x ~/xx
-  947  openlp &
-  948  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
-  949  emacs &
-  950  scp  /home/forfamily/code/web/simple.html shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk:/var/www/mytesting/.
-  951  filezilla &
-  952  cd ~/code/web/
-  953  ls
-  954  cd ~/code/web/angularjs/
-  955  ls
-  956  mv w3ex3.html w3ex3/.
-  957  mkdir ../jquery
-  958  sudo apt-get install npm
-  959  npm list -g
-  960  man npm
-  961  cd ..
-  962  ls
-  963  ls nodepackages/node_modules/
-  964  ls
-  965  cd nodepackages/
-  966  ls
-  967  mkdir mytestdir
-  968  mkdir mytestdir/daterangepicker
-  969  mkdir mytestdir/daterangepicker/node_modules
-  970  man mkdir
-  971  mkdir mytestdir/daterangepicker/node_modules/bootstrap/dist/css
-  972  mkdir -p mytestdir/daterangepicker/node_modules/bootstrap/dist/css
-  973  mkdir -p mytestdir/daterangepicker/node_modules/daterangepicker
-  974  mkdir -p mytestdir/daterangepicker/node_modules/jquery/dist
-  975  mkdir -p mytestdir/daterangepicker/node_modules/moment
-  976  mkdir -p mytestdir/daterangepicker/node_modules/angular
-  977  mkdir -p mytestdir/daterangepicker/src
-  978  cp node_modules/bootstrap/dist/css/bootstrap.css mytestdir/daterangepicker/node_modules/bootstrap/dist/css/.
-  979  cp node_modules/daterangepicker/daterangepicker.css mytestdir/daterangepicker/node_modules/daterangepicker/.
-  980  cp node_modules/jquery/dist/jquery.js mytestdir/daterangepicker/node_modules/jquery/dist/.
-  981  cp node_modules/moment/moment.js mytestdir/daterangepicker/node_modules/moment/.
-  982  cp node_modules/daterangepicker/daterangepicker.js mytestdir/daterangepicker/node_modules/daterangepicker/.
-  983  cp node_modules/angular/angular.js mytestdir/daterangepicker/node_modules/angular/.
-  984  ls mytestdir/
-  985  ls mytestdir/daterangepicker/
-  986  ls mytestdir/daterangepicker/src/
-  987  cp node_modules/angularjs-daterangepicker/src/angular-daterangepicker.js mytestdir/daterangepicker/src/.
-  988  tree mytestdir/
-  989  cp node_modules/angularjs-daterangepicker/test/index.html mytestdir/daterangepicker/src/.
-  990  tree mytestdir/
-  991  cp node_modules/angularjs-daterangepicker/test/app.js mytestdir/daterangepicker/src/.
-  992  tree mytestdir/
-  993  find|egrep 'index\.html'
-  994  diff ./node_modules/angularjs-daterangepicker/test/index.html ./mytestdir/daterangepicker/src/index.html
-  995  mkdir ~/code/web/nodepackages
-  996  mkdir ~/code/web/nodepackages/daterangepicker
-  997  npm install angularjs-daterangepicker ~/code/web/nodepackages/daterangepicker
-  998  cat /home/forfamily/npm-debug.log
-  999  npm install angularjs-daterangepicker
- 1000  ls
- 1001  ls node_modules/
- 1002  pwd
- 1003  rm -rf node_modules/
- 1004  cd ~/code/web/nodepackages/
- 1005  ls
- 1006  rm -rf daterangepicker/
- 1007  ls
- 1008  npm install angularjs-daterangepicker
- 1009  ls
- 1010  tree
- 1011  ls node_modules/
- 1012  find node_modules/|egrep '\.css$'
- 1013  npm install bootstrap
- 1014  ls
- 1015  ls node_modules/
- 1016  ls node_modules/bootstrap/
- 1017  ls node_modules/bootstrap/dist/
- 1018  ls node_modules/bootstrap/dist/css/
- 1019  npm help npm-install
- 1020  su -
- 1021  ls /var/www/html/wp1/wp-content/themes/
- 1022  egrep -R 'customise' /var/www/html/wp1/wp-content/themes/
- 1023  egrep -R 'the' /var/www/html/wp1/wp-content/themes/
- 1024  egrep -R 'this theme' /var/www/html/wp1/wp-content/themes/
- 1025  egrep -R 'this theme' /var/www/html/wp1/wp-content/
- 1026  egrep -R '\> this theme' /var/www/html/wp1/wp-content/
- 1027  egrep -R '> this theme' /var/www/html/wp1/wp-content/
- 1028  egrep -R '> this theme' /var/www/html/wp1
- 1029  egrep -R '\> this theme' /var/www/html/wp1
- 1030  egrep -R 'Just another' /var/www/html/wp1
- 1031  egrep -R 'asasas' /var/www/html/wp1
- 1032  egrep -R 'asasas' /var/www/html/
- 1033  emacs &
- 1034  pkill terminator 
- 1035  emacs &
- 1036  ls ~/emacs
- 1037  rm ~/emacs/emacs-customize-local.el 
- 1038  rm ~/emacs/emacs-local.el 
- 1039  ls ~/from-shuttlepc/emacs/
- 1040  ls ~/from-shuttlepc/emacs/*.el
- 1041  cp ~/from-shuttlepc/emacs/*.el ~/emacs/.
- 1042  emacs &
- 1043  ps -eaf|egrep firefox
- 1044  ps -eaf|egrep firefox|egrep -v grep
- 1045  filezilla &
- 1046  emacs &
- 1047  ls ~/code/
- 1048  ls ~/code/web/
- 1049  ls ~/code/web/*
- 1050  mkdir ~/code/web/onecom-mirror
- 1051  mkdir ~/code/web/onecom-mirror/test
- 1052  mkdir ~/code/web/google-scripts
- 1053  su -
- 1054  sudo apt-get install git
- 1055  git config --global user.name "martinforsyth"
- 1056  git config --global user.email "martin@forfamily.co.uk"
- 1057  git config --global --list
- 1058  ssh-keygen -t rsa -b 4096 -C "martin@forfamily.co.uk"
- 1059  eval "$(ssh-agent -s)"
- 1060  ssh-add ~/.ssh/id_rsa
- 1061  binars
- 1062  ssh-add ~/.ssh/id_rsa
- 1063  cat /home/forfamily/.ssh/id_rsa
- 1064  cat /home/forfamily/.ssh/id_rsa.pub 
- 1065  lsb_release -a
- 1066  pwd
- 1067  cd code/
- 1068  ls
- 1069  ls web/
- 1070  mkdir web.bak
- 1071  mv web/* web.bak/.
- 1072  cd web
- 1073  git clone git@github.com:martinforsyth/onecom-hosted-bsuc
- 1074  tree
- 1075  emacs ~/emacs/emacs-package-management.el 
- 1076  emacs &
- 1077  apt-cache search upnp
- 1078  apt-cache search upnp|egrep client
- 1079  apt-cache search upnp|egrep -i eez
- 1080  apt-cache search dlna|egrep -i eez
- 1081  apt-cache search dlna|egrep client
- 1082  apt-cache search dlna
- 1083  lsb_release -a
- 1084  apt-cache search spotify
- 1085  cd code/web/onecom-hosted-bsuc/
- 1086  ls
- 1087  ls -a 
- 1088  history|egrep git
- 1089  git pull origin master
- 1090  git log
- 1091  emacs &
- 1092  cd var/www/test/jquery/
- 1093  ls
- 1094  git log action_page.php
- 1095  git diff action_page.php
- 1096  git -h
- 1097  git --help
- 1098  git diff --help
- 1099  git log action_page.php
- 1100  git log -p action_page.php
- 1101  filezilla &
- 1102  rm ~/tmp/action_page.php 
- 1103  cd ~/Documents/
- 1104  ls
- 1105  mv bsuc-audio-visual bsuc-audio-visual.kitchen-tower
- 1106  ls
- 1107  git clone git@github.com:martinforsyth/bsuc-audio-visual
- 1108  ls
- 1109  ls bsuc-audio-visual
- 1110  ls bsuc-audio-visual/openlp/
- 1111  ls bsuc-audio-visual/openlp/songs-db/
- 1112  ls bsuc-audio-visual/openlp/songs-db/songs.unique/
- 1113  ls bsuc-audio-visual.kitchen-tower/openlp/songs-db/songs.unique/
- 1114  diff bsuc-audio-visual.kitchen-tower/openlp/songs-db/songs.unique/ bsuc-audio-visual/openlp/songs-db/songs.unique/
- 1115  diff bsuc-audio-visual/resources/lyrics/stf bsuc-audio-visual.kitchen-tower/resources/lyrics/stf
- 1116  rm bsuc-audio-visual.kitchen-tower/resources/lyrics/stf/*~
- 1117  diff bsuc-audio-visual/resources/lyrics/stf bsuc-audio-visual.kitchen-tower/resources/lyrics/stf
- 1118  rm bsuc-audio-visual.kitchen-tower/resources/lyrics/stf/SF820.tmp.txt 
- 1119  rm bsuc-audio-visual.kitchen-tower/resources/lyrics/stf/#x# 
- 1120  diff bsuc-audio-visual/resources/lyrics/stf bsuc-audio-visual.kitchen-tower/resources/lyrics/stf
- 1121  ls
- 1122  tree -d bsuc-audio-visual bsuc-audio-visual.kitchen-tower/
- 1123  cp -r bsuc-audio-visual.kitchen-tower/openlp/config bsuc-audio-visual/openlp/config
- 1124  ls bsuc-audio-visual/openlp/config
- 1125  cp -r bsuc-audio-visual.kitchen-tower/openlp/logs bsuc-audio-visual/openlp/.
- 1126  cp -r bsuc-audio-visual.kitchen-tower/openlp/services bsuc-audio-visual/openlp/.
- 1127  cp -r bsuc-audio-visual.kitchen-tower/resources/images bsuc-audio-visual/resources/.
- 1128  cp -r bsuc-audio-visual.kitchen-tower/resources/media bsuc-audio-visual/resources/.
- 1129  cp -r bsuc-audio-visual.kitchen-tower/resources/midifiles bsuc-audio-visual/resources/.
- 1130  cp -r bsuc-audio-visual.kitchen-tower/resources/presentations bsuc-audio-visual/resources/.
- 1131  cp -r bsuc-audio-visual.kitchen-tower/resources/stf-hymnview bsuc-audio-visual/resources/.
- 1132  tree -d bsuc-audio-visual bsuc-audio-visual.kitchen-tower/
- 1133  rm -rf bsuc-audio-visual.kitchen-tower
- 1134  git diff
- 1135  cd bsuc-audio-visual/
- 1136  git diff
- 1137  git log
- 1138  openlp &
- 1139  emacs &
- 1140  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/readings.dark.background.odp &
- 1141  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/candleprayer.dark.background.odp &
- 1142  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/welcome.dark.background.odp &
- 1143  openlp &
- 1144  cs ~/Documents/bsuc-audio-visual/
- 1145  cd ~/Documents/bsuc-audio-visual/
- 1146  git status
- 1147  history|egrep git
- 1148  git commit --help
- 1149  git commit -m "lords prayer and hymn"
- 1150  git commit * -m "lords prayer and hymn"
- 1151  git status
- 1152  git push origin master
- 1153  git status
- 1154  git log
- 1155  cd ~/Documents/bsuc-audio-visual/
- 1156  ls
- 1157  la openlp/songs-db/songs.unique/
- 1158  la openlp/songs-db/songs.unique/|egrep SF
- 1159  la openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF/SF/'
- 1160  la openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF/SF/'|sort
- 1161  la openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF/SF/'|sort -n
- 1162  la openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sort -n
- 1163  la openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sort -n|wc -l
- 1164  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sort -n|wc -l
- 1165  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sort -n
- 1166  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sort -n|wc -l
- 1167  ls resources/lyrics/stf/
- 1168  ls resources/lyrics/stf/|sed -r -e 's/.*H//'
- 1169  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n
- 1170  ls resources/lyrics/stf/
- 1171  head resources/lyrics/stf/*
- 1172  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n
- 1173  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sed -r -e 's/\.txt//'
- 1174  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sed -r -e 's/\.txt//'|sort -n
- 1175  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sort -n
- 1176  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+) */\1/'
- 1177  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+) */$1/'
- 1178  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'
- 1179  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+) */\1/'
- 1180  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+).*/\1/'
- 1181  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+).*/\1/'|sort
- 1182  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+).*/\1/'|sort -n
- 1183  history
- 1184  diff $(ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+).*/\1/'|sort -n) $(ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n)
- 1185  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n
- 1186  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n|sed -r -e 's/\.txt.*//'
- 1187  diff $(ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+).*/\1/'|sort -n) $(ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n|sed -r -e 's/\.txt.*//')
- 1188  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n|sed -r -e 's/\.txt.*//'
- 1189  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+).*/\1/'|sort -n
- 1190  diff $(ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+).*/\1/'|sort -n)         $(ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n|sed -r -e 's/\.txt.*//')
- 1191  diff $(ls) $(ls)
- 1192  ls
- 1193  cd ~/Documents/bsuc-audio-visual/
- 1194  history
- 1195  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+).*/\1/'|sort -n
- 1196  history
- 1197  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n|sed -r -e 's/\.txt.*//'
- 1198  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n|sed -r -e 's/\.txt.*//'|tee r.txt
- 1199  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/([0-9]+).*/\1/'|sort -n|tee o.txt
- 1200  diff r.txt o.txt 
- 1201  emacs &
- 1202  ls resources/lyrics/stf/
- 1203  ls resources/lyrics/stf/H100.
- 1204  man diff
- 1205  diff --side-by-side r.txt o.txt 
- 1206  man diff
- 1207  diff r.txt o.txt 
- 1208  diff r.txt o.txt |egrep '<'
- 1209  diff r.txt o.txt |egrep '<'|head
- 1210  diff r.txt o.txt |egrep '>'|head
- 1211  diff r.txt o.txt |egrep '>'|tee todo.txt
- 1212  diff r.txt o.txt |egrep '>'|sed -r -e 's/> //' |tee todo.txt
- 1213  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n|sed -r -e 's/\.txt.*//'|tee r.txt
- 1214  openlp &
- 1215  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sort -n|wc -l
- 1216  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n|sed -r -e 's/\.txt.*//'|wc -l
- 1217  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n|sed -r -e 's/\.txt.*//'
- 1218  ls resources/lyrics/stf/|sed -r -e 's/.*H//'|sort -n|sed -r -e 's/\.txt.*//'|tee in-sf-txt-files
- 1219  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sort -n|tee in-openlp
- 1220  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/ .*//'||sort -n|tee in-openlp
- 1221  ls openlp/songs-db/songs.unique/|egrep SF|sed -r -e 's/.*SF//'|sed -r -e 's/ .*//'|sort -n|tee in-openlp
- 1222  git status
- 1223  git add sf2olp.txt 
- 1224  git status
- 1225  git commit * -m "still to transfer from txt to openlp db"
- 1226  git status
- 1227  git commit sf2olp.txt -m "still to transfer from txt to openlp db"
- 1228  git status
- 1229  git push origin master
- 1230  git status
- 1231  ls -ltr
- 1232  rm o.txt 
- 1233  rm todo.txt*
- 1234  rm outstanding.txt~ 
- 1235  ls
- 1236  rm in-*
- 1237  ls
- 1238  rm *#*
- 1239  rm r.txt 
- 1240  ls
- 1241  cd ~/Documents/bsuc-audio-visual/
- 1242  ls
- 1243  emacs &
- 1244  ls
- 1245  ls sf2olp.txt 
- 1246  for f in $(cat sf2olp.txt);do echo $f;done
- 1247  ls resources/lyrics/stf/
- 1248  for f in $(cat sf2olp.txt);do echo H$f.txt;done
- 1249  for f in $(cat sf2olp.txt);do head resources/lyrics/stf/H$f.txt;done
- 1250  for f in $(cat sf2olp.txt);do head resources/lyrics/stf/H$f.txt;echo "########################";done
- 1251  for f in $(cat sf2olp.txt);do head -n1 resources/lyrics/stf/H$f.txt;echo "########################";done
- 1252  for f in $(cat sf2olp.txt);do head -n1 resources/lyrics/stf/H$f.txt;echo $f;echo "########################";done
- 1253  for f in $(cat sf2olp.txt);do head -n1 resources/lyrics/stf/H$f.txt;echo "########################";done
- 1254  for f in $(cat sf2olp.txt);do head resources/lyrics/stf/H$f.txt;echo "########################";done
- 1255  for f in $(cat sf2olp.txt);do head resources/lyrics/stf/H$f.txt|egrep 'v1 c1';echo "########################";done
- 1256  for f in $(cat sf2olp.txt);do head resources/lyrics/stf/H$f.txt|egrep 'v1 c1';echo $f;echo "########################";done
- 1257  for f in $(cat sf2olp.txt);do head resources/lyrics/stf/H$f.txt|egrep 'Verse:1';echo $f;echo "########################";done
- 1258  for f in $(cat sf2olp.txt);do head -n20 resources/lyrics/stf/H$f.txt|egrep 'Verse:1';echo $f;echo "########################";done
- 1259  for f in $(cat sf2olp.txt);do head -n20 resources/lyrics/stf/H$f.txt|egrep 'Verse\:1';echo $f;echo "########################";done
- 1260  openlp &
- 1261  ls openlp/songs-db/songs.unique/|egrep sf15
- 1262  ls openlp/songs-db/|egrep sf15
- 1263  ls openlp/songs-db/songs.unique/|egrep SF15
- 1264  rm openlp/songs-db/SF15\ The\ splendour\ of\ the\ King\ \(Chris\ Tomlin\).xml 
- 1265  for f in $(cat sf2olp.txt);do head -n20 resources/lyrics/stf/H$f.txt|egrep 'Verse\:1';echo $f;echo "########################";done|tee ~/x
- 1266  cat resources/lyrics/stf/H188.txt 
- 1267  git status
- 1268  git add resources/lyrics/stf/H148.txt resources/lyrics/stf/H604-alternative.txt sf2olp.txt
- 1269  git status
- 1270  git rm "openlp/songs-db/songs.unique/SF 188 There's a light upon the mountains (Henry Burton).xml"
- 1271  git status
- 1272  git commit  -m "updated some songs already exported"
- 1273  git push origin master
- 1274  for f in $(cat sf2olp.txt);do head -n20 resources/lyrics/stf/H$f.txt|egrep 'Verse\:1';echo $f;echo "########################";done
- 1275  for f in $(cat sf2olp.txt);do head -n20 resources/lyrics/stf/H$f.txt|egrep 'Verse\:1';echo $f;echo "########################";done|wc -l
- 1276  ls
- 1277  history
- 1278  git status
- 1279  git add README.md 
- 1280  git status
- 1281  git commit -m "Adding README file"
- 1282  git status
- 1283  git push origin master
- 1284  git log
- 1285  cd ~/Documents/bsuc-audio-visual/
- 1286  git status
- 1287  ls resources/presentations/
- 1288  ls resources/presentations/impress/
- 1289  ls -lh resources/presentations/impress/
- 1290  ls -lh resources/presentations/impress/*dark*
- 1291  git add resources/presentations/impress/candleprayer.dark.background.odp resources/presentations/impress/readings.dark.background.odp resources/presentations/impress/welcome.dark.background.odp
- 1292  git status
- 1293  git commit -m "adding presentations"
- 1294  git push origin master
- 1295  cd ~/Documents/bsuc-audio-visual/
- 1296  emacs &
- 1297  for f in $(cat sf2olp.txt);do head resources/lyrics/stf/H$f.txt|egrep 'v1 c1';echo $f;echo "########################";done
- 1298  for f in $(cat sf2olp.txt);do head resources/lyrics/stf/H$f.txt|egrep 'v1 c1';echo $f;echo "########################";done|head
- 1299  for f in $(cat sf2olp.txt);do head resources/lyrics/stf/H$f.txt|egrep 'v1 c1';echo $f;echo "########################";done|head -n20
- 1300  for f in $(cat sf2olp.txt);do head resources/lyrics/stf/H$f.txt|egrep 'v1 c1';echo $f;echo "########################";done|head -n30
- 1301  git pull origin master
- 1302  head sf2olp.txt 
- 1303  head -n50 sf2olp.txt 
- 1304  mkdir resources/lyrics/stf/openformat
- 1305  cd resources/lyrics/stf/
- 1306  for f in $(cat ../../../sf2olp.txt);do cp H$f.txt openformat/.;done
- 1307  ls openformat/
- 1308  ls openformat/|wc -l
- 1309  wc -l ../../../sf2olp.txt 
- 1310  git status
- 1311  git add openformat/*
- 1312  git status
- 1313  git commit -m "preparing for open formatting"
- 1314  git status
+  528  rm dp*
+  529  rm drpwithcalendar*
+  530  rm drpandcal*
+  531  ls
+  532  rm action_page.html 
+  533  cd ../../../
+  534  cd ..
+  535  ls
+  536  git add .
+  537  git commit -m "second commit"
+  538  git remote add origin      git@github.com:martinforsyth/onecom-hosted-bsuc
+  539  git push origin master
+  540  git pull
+  541  git pull master origin
+  542  git pull origin master
+  543  git pull origin master -m "pulling master to origin"
+  544  pwd
+  545  git remote add origin github.com/martinforsyth/onecom-hosted-bsuc
+  546  git pull origin master
+  547  tree
+  548  git add --all
+  549  git commit -m "commit all"
+  550  tree
+  551  git push origin master
+  552  ls
+  553  mkdir googlescripts
+  554  mkdir googlescripts/getcalendarevents
+  555  cd googlescripts/getcalendarevents
+  556  emacs getevents.gs
+  557  cd ..
+  558  mkdir shaftesburyuc
+  559  mkdir bsucshaftesbury
+  560  mkdir forfamily007
+  561  mv getcalendarevents shaftesburyuc/.
+  562  tree
+  563  cd ..
+  564  history|egrep git
+  565  history|egrep git|egrep add
+  566  git add --all
+  567  git status
+  568  git commit -m "first commit of shaftesburyuc@gmail.com account's get events script"
+  569  git status
+  570  git push origin master
+  571  cd ..
+  572  rm -rf onecom-hosted-bsuc
+  573  history|egrep git
+  574  git clone https://git@github.com/martinforsyth/onecom-hosted-bsuc
+  575  git clone git@github.com:martinforsyth/onecom-hosted-bsuc
+  576  ls
+  577  git clone https://git@github.com:martinforsyth/onecom-hosted-bsuc
+  578  git clone git@github.com:martinforsyth/onecom-hosted-bsuc
+  579  tree onecom-hosted-bsuc
+  580  filezilla &
+  581  cd onecom-hosted-bsuc/var/www/test/
+  582  emacs cal.html &
+  583  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
+  584  ls
+  585  emacs cal.txt &
+  586  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
+  587  cd code/onecom-hosted-bsuc
+  588  tree
+  589  git add --all
+  590  git status
+  591  git commit -m "some extra files"
+  592  git push origin master
+  593  git status
+  594  top
+  595  emacs ~/code/onecom-hosted-bsuc/var/www/test/cal.html &
+  596  cp ~/code/onecom-hosted-bsuc/var/www/test/cal.html /var/www/html/test/.
+  597  emacs &
+  598  git status
+  599  find|egrep caledit
+  600  find|egrep caledit|xargs rm
+  601  git status
+  602  git add --all
+  603  git status
+  604  git commit -m "blah blah"
+  605  git push origin master
+  606  git status
+  607  tree
+  608  tree -a
+  609  su -
+  610  apt-cache search pdf
+  611  apt-cache search pdf|egrep viewer
+  612  sudo apt-get install qpdfview
+  613  qpdfview ~/Downloads/dell-u2417h-monitor_user\'s\ guide2_en-us.pdf &
+  614  df -h
+  615  apt-cache search juicer
+  616  df -h
+  617  ls
+  618  cd Music/
+  619  ls
+  620  mkdir cd
+  621  cd cd
+  622  sudo apt-get install sound-juicer
+  623  sound-juicer &
+  624  ls ~/Music/
+  625  ls ~/Music/Various\ Artists/
+  626  ls ~/Music/Various\ Artists/Now\ That’s\ What\ I\ Call\ Music\!\ 72/
+  627  rm -rf ~/Music/Various\ Artists/
+  628  sudo apt-get install asunder
+  629  ls ~/Music/
+  630  ls
+  631  ls ~
+  632  ls ~/Various\ -\ Now\ That\'s\ What\ I\ Call\ Music\!\ 72\ Disc\ 2/
+  633  while ((1));do ls ~/Various\ -\ Now\ That\'s\ What\ I\ Call\ Music\!\ 72\ Disc\ 2/;sleep 30;done
+  634  asunder
+  635  mv ~/
+  636  mv ~/Various\ -\ Now\ That\'s\ What\ I\ Call\ Music\!\ 72\ Disc\ 2 .
+  637  ls
+  638  tree
+  639  du -ch ../cd
+  640  sudo apt-get install kodi
+  641  kodi
+  642  sudo apt-get remove kodi
+  643  sudo apt-get install software-properties-common
+  644  sudo add-apt-repository ppa:team-xbmc/ppa
+  645  sudo apt-get update
+  646  sudo apt-get install kodi
+  647  while ((1));do ls -lh ~/Various\ -\ Now\ That\'s\ What\ I\ Call\ Music\!\ 72\ Disc\ 2/;sleep 30;done
+  648  sudo apt install python-pip
+  649  sudo pip install --upgrade pip && sudo pip install pyopenssl --upgrade && sudo pip install cryptography --upgrade
+  650  history
+  651  pkill chrome
+  652  midori &
+  653  asunder &
+  654  ls
+  655  rm -rf Various\ -\ Now\ That\'s\ What\ I\ Call\ Music\!\ 72\ Disc\ 2/
+  656  while ((1));do ls -lh ~/Various\ -\ Now\ That\'s\ What\ I\ Call\ Music\!\ 72\ Disc\ 2/;sleep 30;done
+  657  ls -l
+  658  tree
+  659  sudo apt installk lame python-pip
+  660  sudo apt install lame 
+  661  sudo apt install flac
+  662  tree
+  663  rm Various\ -\ Now\ That\'s\ What\ I\ Call\ Music\!\ 72\ Disc\ 2/01\ -\ Take\ That\ -\ Greatest\ Day.ogg 
+  664  tree
+  665  kodi &
+  666  sudo apt install serviio
+  667  java -version
+  668  sudo apt-install default-jre
+  669  sudo apt-get install default-jre
+  670  java -version
+  671  sudo apt-get install default-jre
+  672  apt-cache search avconv
+  673  sudo apt-get install libav-tools
+  674  cd ~/Downloads/
+  675  ls
+  676  tar -xvfz serviio-1.10-linux.tar.gz 
+  677  gunzip serviio-1.10-linux.tar.gz
+  678  tar -xvf serviio-1.10-linux.tar 
+  679  cd serviio-1.10/
+  680  ls
+  681  cd bin/
+  682  ls -l
+  683  ./serviio.sh 
+  684  ./serviio-console.sh 
+  685  ps -eaf|egrep serv
+  686  ps -eaf|egrep serviio
+  687  which serviio
+  688  ls ..
+  689  cat ../README.txt 
+  690  cd ..
+  691  java -version
+  692  ps -eaf|egrep serviio
+  693  cd .
+  694  tree ~/Music/
+  695  bin/serviio.sh 
+  696  man tree
+  697  tree -h ~/Music/
+  698  man tree
+  699  tree -sdu ~/Music/
+  700  tree -s ~/Music/
+  701  tree -h ~/Music/
+  702  rm Music/cd/Various\ -\ Now\ That\'s\ What\ I\ Call\ Music\!\ 72\ Disc\ 2/01\ -\ Take\ That\ -\ Greatest\ Day.wav 
+  703  rm -rf Music/cd/Various\ -\ Now\ That\'s\ What\ I\ Call\ Music\!\ 72\ Disc\ 2/
+  704  ls Music/cd/
+  705  tree -h ~/Music/
+  706  while ((1));do date;tree -h ~/Music/;sleep 60;done
+  707  while ((1));do date;tree -h ~/Music/;du -h;sleep 60;done
+  708  while ((1));do date;tree -h ~/Music/;df -h;sleep 60;done
+  709  midori &
+  710  which kodi
+  711  apt-cache search kodi
+  712  apt-cache search kodi|egrep alone
+  713  man kodi
+  714  su -
+  715  while ((1));do date;tree -h ~/Music/;df -h|egrep 'Used|sda1';sleep 60;done
+  716  man systemctl
+  717  su -
+  718  while ((1));do date;tree -h ~/Music/;df -h|egrep 'Used|sda1';sleep 60;done
+  719  while ((1));do date;tree L 1 -h ~/Music/;df -h|egrep 'Used|sda1';sleep 60;done
+  720  while ((1));do date;tree -L 1 -h ~/Music/;df -h|egrep 'Used|sda1';sleep 60;done
+  721  midori &
+  722  man kodi
+  723  kodi --standalone
+  724  vlc &
+  725  while ((1));do date;tree -L 2 -h ~/Music/;df -h|egrep 'Used|sda1';sleep 60;done
+  726  ls ~
+  727  sudo apt-get install handbrake
+  728  ls ~/Videos/
+  729  while ((1));do date;tree -L 2 -h ~/Music/;df -h|egrep 'Used|sda1';sleep 60;done
+  730  ls ~/.config
+  731  apt-cache search upnp
+  732  apt-cache search upnp|egrep -i server
+  733  sudo apt-get install gmediaserver mediatomb minidlna ushare
+  734  mediatomb 
+  735  ls /home/
+  736  handbrake
+  737  sudo apt-get remove minidlna
+  738  ls ~/Videos/
+  739  ls -lh ~/Videos/
+  740  handbrake &
+  741  ls ~/Videos/
+  742  ls -lh ~/Videos/
+  743  vlc ~/Videos/VIDEO_TS.m4v 
+  744  ls -lh ~/Videos/
+  745  vlc ~/Videos/VTS_01_0.m4v 
+  746  apt-cache search video|egrep -i editor
+  747  vlc ~/Videos/forsyths.reading.church.beansheaf.m4v 
+  748  ls ~/Videos/s
+  749  ls ~/Videos
+  750  ls -lh ~/Videos
+  751  rm ~/Videos/forsyths.beansheaf 
+  752  rm ~/Videos/forsyths.m4v 
+  753  rm ~/Videos/V*
+  754  ls -lh ~/Videos
+  755  sudo apt-get install kdenlive
+  756  sudo apt-get install dvdauthor
+  757  apt-cache search video|egrep -i editor
+  758  apt-cache search openshot
+  759  kdenlive
+  760  sudo apt-get install flowblade kino melt pitivi openshot
+  761  openshot
+  762  flowblade
+  763  ls ~/Videos/
+  764  kodi
+  765  su -
+  766  midori
+  767  midori &
+  768  history|egrep git
+  769  git push --help
+  770  history|egrep git
+  771  history|egrep cd
+  772  cd onecom-hosted-bsuc/var/www/test/
+  773  cd ~/code/onecom-hosted-bsuc/var/www/test/
+  774  git status
+  775  ls
+  776  emacs cal.html &
+  777  ls /var/www/html/
+  778  ls /var/www/html/test/cal.html
+  779  xfce4-settings-editor 
+  780  xfce4-settings-manager 
+  781  emacs cal.html &
+  782  history|egrep svn
+  783  history|egrep git
+  784  git status
+  785  git add cal.html 
+  786  git status
+  787  git push origin master
+  788  git status
+  789  git diff
+  790  history|egrep git
+  791  find|egrep caledit|xargs rm
+  792  git commit -m "blah blah"
+  793  git diff
+  794  git status
+  795  git push origin master
+  796  git status
+  797  history|egrep install
+  798  ushare
+  799  man ushare
+  800  gmediaserver
+  801  man gmediaserver
+  802  serviio
+  803  history|egrep serv
+  804  ls /home/martin/Downloads/serviio-1.10/
+  805  ls /home/martin/Downloads/serviio-1.10/bin
+  806  /home/martin/Downloads/serviio-1.10/bin/serviio-console.sh 
+  807  ps -eaf|egrep midori
+  808  pkill midori
+  809  ls ~/Videos/
+  810  mv ~/Videos/forsyths.m4v ~/Videos/forsyths.reading.church.beansheaf.1.m4v 
+  811  history|egrep install
+  812  man ushare
+  813  ushare -p 49153
+  814  ushare -p 49153 /home/martin/Music/cd
+  815  mv ~/Videos/forsyths.m4v ~/Videos/forsyths.reading.church.beansheaf.4.m4v 
+  816  ls ~/Videos/
+  817  mv ~/Videos/forsyths.reading.church.beansheaf.4.m4v ~/Videos/forsyths.reading.church.beansheaf.2.m4v 
+  818  ls ~/Videos/
+  819  ushare -p 49153 -c /home/martin/Music/cd -c /home/martin/Videos
+  820  history|egrep install
+  821  man gmediaserver
+  822  ls ~/Videos/
+  823  mv ~/Videos/forsyths.m4v ~/Videos/forsyths.reading.church.beansheaf.4.m4v 
+  824  ls ~/Videos/
+  825  mv ~/Videos/forsyths.m4v ~/Videos/forsyths.reading.church.beansheaf.5.m4v 
+  826  kodi
+  827  handbrake
+  828  sudo shutdown  now
+  829  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
+  830  su -
+  831  /home/martin/Downloads/serviio-1.10/bin/serviio.sh 
+  832  midori &
+  833  su -
+  834  su -
+  835  midori &
+  836  terminator -h
+  837  terminator -s
+  838  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
+  839  su -
+  840  id
+  841  ls ~/.config/terminator/
+  842  cat ~/.config/terminator/config 
+  843  terminator -s
+  844  cat ~/.config/terminator/config 
+  845  cp ~/.config/terminator/config  ~/.config/terminator/config.orig
+  846  emacs ~/.config/terminator/config &
+  847  man terminator_config
+  848  terminator_config
+  849  man terminator_config 2>&1|tee ~/x
+  850  cat ~/x
+  851  terminator -s
+  852  bash -c su -
+  853  terminator -s
+  854  terminator -s
+  855  emacs &
+  856  su -
+  857  ls ~/code/onecom-hosted-bsuc/var/www/test/
+  858  tree ~/code/onecom-hosted-bsuc/var/www/test/
+  859  tree /var/www/html/
+  860  tree /var/www/html/test/
+  861  tree ~/code/onecom-hosted-bsuc/var/www/test/
+  862  diff -r /var/www/html/test/ ~/code/onecom-hosted-bsuc/var/www/test/
+  863  man diff
+  864  diff --brief -r /var/www/html/test/ ~/code/onecom-hosted-bsuc/var/www/test/
+  865  cp ~/.config/terminator/config.orig  ~/.config/terminator/config
+  866  xfce4-settings-manager 
+  867  diff --brief -r /var/www/html/test/ ~/code/onecom-hosted-bsuc/var/www/test/
+  868  ls -l  /home/martin/code/onecom-hosted-bsuc
+  869  cd ~/code/onecom-hosted-bsuc
+  870  git diff
+  871  git status
+  872  ls 
+  873  ls var/www/test/
+  874  ls
+  875  cp /var/www/html/test/cal.html ~/code/onecom-hosted-bsuc/var/www/test/.
+  876  git status
+  877  cp /var/www/html/test/implicationsofsharing.html ~/code/onecom-hosted-bsuc/var/www/test/.
+  878  cp /var/www/html/test/extractingfromcals.html ~/code/onecom-hosted-bsuc/var/www/test/.
+  879  cp /var/www/html/test/editingcals.html ~/code/onecom-hosted-bsuc/var/www/test/.
+  880  git status
+  881  cd var/www/test/
+  882  git status
+  883  git add cal.html editingcals.html extractingfromcals.html implicationsofsharing.html 
+  884  git status
+  885  history|egrep git
+  886  git status
+  887  git commit -m "update and new files"
+  888  git status
+  889  git push origin master
+  890  git status
+  891  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
+  892  su -
+  893  xfce4-settings-editor 
+  894  pkill chrome
+  895  xfce4-settings-editor 
+  896  midori &
+  897  diff ~/.config/terminator/config.orig  ~/.config/terminator/config
+  898  cat  ~/.config/terminator/config
+  899  cp -p  ~/.config/terminator/config   ~/.config/terminator/config.mod.3way
+  900  cp -p  ~/.config/terminator/config.orig   ~/.config/terminator/config
+  901  cat  ~/.config/terminator/config
+  902  emacs  ~/.config/terminator/config
+  903  cp -p  ~/.config/terminator/config.basic   ~/.config/terminator/config
+  904  terminator 
+  905  emacs  ~/.config/terminator/config
+  906  cp -p  ~/.config/terminator/config.none   ~/.config/terminator/config
+  907  terminator 
+  908  emacs  ~/.config/terminator/config
+  909  cp -p  ~/.config/terminator/config   ~/.config/terminator/config.default
+  910  rm ~/.config/terminator/config.orig 
+  911  emacs  ~/.config/terminator/config
+  912  emacs ~/code/onecom-hosted-bsuc/var/www/test/cal.html &
+  913  history|egrep cp
+  914  history|egrep cp|egrep var
+  915  cp /var/www/html/test/cal.html ~/code/onecom-hosted-bsuc/var/www/test/. && cp /var/www/html/test/implicationsofsharing.html ~/code/onecom-hosted-bsuc/var/www/test/. && cp /var/www/html/test/extractingfromcals.html ~/code/onecom-hosted-bsuc/var/www/test/. && cp /var/www/html/test/editingcals.html ~/code/onecom-hosted-bsuc/var/www/test/.
+  916  cd ~/code/onecom-hosted-bsuc/var/www/test/
+  917  git status
+  918  git diff
+  919  git status
+  920  git commit -a
+  921  git status
+  922  git commit -a -m "more updates"
+  923  git status
+  924  git push origin master
+  925  cp /var/www/html/test/cal.html ~/code/onecom-hosted-bsuc/var/www/test/. && cp /var/www/html/test/implicationsofsharing.html ~/code/onecom-hosted-bsuc/var/www/test/. && cp /var/www/html/test/extractingfromcals.html ~/code/onecom-hosted-bsuc/var/www/test/. && cp /var/www/html/test/editingcals.html ~/code/onecom-hosted-bsuc/var/www/test/.
+  926  git status
+  927  git commit -a -m "login to sign in"
+  928  git push origin master
+  929  git status
+  930  emacs jquery/drpcal.html &
+  931  git status
+  932  git diff
+  933  alsamixer
+  934  sudo apt-get install xfce-goodies
+  935  apt-cache search goodies
+  936  sudo apt-get install xfce4-goodies
+  937  sudo lspci -vvv > ~/hardware_info.txt
+  938  cat ~/hardware_info.txt 
+  939  cat ~/hardware_info.txt |wc
+  940  sudo apt install pavucontrol
+  941  pavucontrol
+  942  git status
+  943  git commit -a -m "Clearly separating WebApp scripts stored in different Google accounts"
+  944  git push origin master
+  945  git status
+  946  git commit -a -m "Remove reference to bsucshaftesbury Google account altogether"
+  947  git push origin master
+  948  git status
+  949  git add mystyle.css
+  950  git status
+  951  git commit -a -m "Some more tidying up"
+  952  git push origin master
+  953  git status
+  954  su -
+  955  emacs ~/code/onecom-hosted-bsuc
+  956  setsid emacs ~/code/onecom-hosted-bsuc &
+  957  cd code/onecom-hosted-bsuc
+  958  git diff
+  959  git diff --help
+  960  git diff --ignore-all-whitespace
+  961  git diff --help
+  962  git diff --ignore-all-space
+  963  git commit -a -m "spelling and whitespace tidy"
+  964  git push origin master
+  965  git diff --ignore-all-space
+  966  git commit -a -m "add resources"
+  967  git push origin master
+  968  git commit -a -m "correct anchor tag"
+  969  git push origin master
+  970  git commit -a -m "remove confusing text from heading"
+  971  git push origin master
+  972  git commit -a -m "more help links"
+  973  git push origin master
+  974  git commit -a -m "formatting"
+  975  git push origin master
+  976  git commit -a -m "fuller info"
+  977  git push origin master
+  978  cd ~/Downloads/
+  979  ls
+  980  tar -xzvf get_iplayer-3.17.tar.gz 
+  981  rm dell-u2417h-monitor_user\'s*
+  982  rm Desktops.exe 
+  983  ls
+  984  rm contacts.csv 
+  985  ls
+  986  rm SysinternalsSuite.zip 
+  987  ls
+  988  cat installer.php 
+  989  head installer.php 
+  990  head -n100 installer.php 
+  991  ls
+  992  cd get_iplayer-3.17/
+  993  ls
+  994  cat README.md 
+  995  ls
+  996  file *
+  997  ./get_iplayer
+  998  sudo apt-get install build-essential
+  999  cpan
+ 1000  ./get_iplayer
+ 1001  apt-cache search libxml
+ 1002  apt-cache search libxml2
+ 1003  sudo apt-get install libxml2 libxml2-dev
+ 1004  cpan -h
+ 1005  sudo apt-get install perl-doc
+ 1006  ./get_iplayer
+ 1007  ./get_iplayer -h
+ 1008  ./get_iplayer univesity
+ 1009  ./get_iplayer university
+ 1010  ./get_iplayer 'university'
+ 1011  ./get_iplayer -h
+ 1012  ./get_iplayer --available-since 1
+ 1013  ./get_iplayer --available-since 1 ".*"
+ 1014  ./get_iplayer ".*" --available-since 1 
+ 1015  ./get_iplayer '.*university.*'
+ 1016  ./get_iplayer -h
+ 1017  ./get_iplayer --basic-help
+ 1018  ./get_iplayer university ".*"
+ 1019  ./get_iplayer university "university challenge"
+ 1020  ./get_iplayer "university challenge"
+ 1021  pkill kodi
+ 1022  top
+ 1023  ./get_iplayer.cgi -p 1935 [-g ./get_iplayer] [-l 127.0.0.1] [--ffmpeg /usr/bin/ffmpeg]
+ 1024  ls
+ 1025  su -
+ 1026  ./get_iplayer.cgi -p 1935 -g ./get_iplayer -l 127.0.0.1 --ffmpeg /usr/bin/ffmpeg
+ 1027  su -
+ 1028  apt-cache search vivaldi
+ 1029  apt-cache search chromium
+ 1030  apt-cache search falkon
+ 1031  apt-cache search opera
+ 1032  apt-cache search opera-browser
+ 1033  apt-cache search opera|egrep browser
+ 1034  apt-cache search otter|egrep browser
+ 1035  apt-cache search chromium|egrep browser
+ 1036  apt-cache search firefox|egrep browser
+ 1037  apt-cache search tor|egrep browser
+ 1038  apt-cache search slimjet|egrep browser
+ 1039  apt-cache search browser|egrep '-browser'
+ 1040  apt-cache search browser|egrep '-browser'|egrep -v emacs
+ 1041  man mintinstall
+ 1042  apt-cache search whats
+ 1043  top
+ 1044  df -h
+ 1045  du -ch ~/Music/
+ 1046  apt-cache search what
+ 1047  apt-cache search whats-app
+ 1048  sudo apt-get install whatsapp-desktop
+ 1049  whatsapp
+ 1050  whatsapp-desktop
+ 1051  ps -eaf|egrep -i whats
+ 1052  kill -9 4886
+ 1053  ps -eaf|egrep -i whats
+ 1054  pkill chrome
+ 1055  tree ~/Documents/bsuc-audio-visual/openlp/songs-db/
+ 1056  du -ch ~/Documents/bsuc-audio-visual/openlp/songs-db/
+ 1057  opemlp &
+ 1058  top
+ 1059  openlp &
+ 1060  apt-cache search recorder
+ 1061  apt-cache search recorder|egrep screen
+ 1062  apt-cache search screencast
+ 1063  sudo apt-get install gtk-recordmydesktop
+ 1064  sudo shutdown now
+ 1065  cd code/onecom-hosted-bsuc
+ 1066  git log
+ 1067  cd var/www/test/jquery/
+ 1068  git log
+ 1069  git log action_page.php
+ 1070  cd ~/Documents/bsuc-audio-visual/
+ 1071  ls *
+ 1072  ls resources/lyrics/
+ 1073  ls resources/lyrics/stf/
+ 1074  du -ch resources/lyrics/stf/
+ 1075  du -ch openlp/songs-db/songs.unique/
+ 1076  ls openlp/songs-db/songs.unique/
+ 1077  ls openlp/songs-db/songs.unique/|sort
+ 1078  ls openlp/songs-db/songs.unique/|sort|egrep '\.1'
+ 1079  ls openlp/songs-db/songs.unique/|sort|egrep '\.2'
+ 1080  ls openlp/songs-db/songs.unique/|sort|egrep '2'
+ 1081  ls openlp/songs-db/songs.unique/|sort|egrep '2\.'
+ 1082  ls openlp/songs-db/songs.unique/|sort|egrep '1\.'
+ 1083  du -ch openlp/songs-db/songs.unique/
+ 1084  du -ch resources/lyrics/stf/
+ 1085  treee -d
+ 1086  tree -d
+ 1087  git init
+ 1088  ls openlp/songs-db/songs.unique/
+ 1089  git status
+ 1090  git add openlp/songs-db/songs.unique/*
+ 1091  git status
+ 1092  ls resources/lyrics/stf/*
+ 1093  ls resources/lyrics/stf/*|egrep '~'
+ 1094  ls resources/lyrics/stf/*|egrep '~'|xargs rm
+ 1095  ls resources/lyrics/stf/*|egrep '~'
+ 1096  ls resources/lyrics/stf/*|egrep 'tmp'
+ 1097  ls resources/lyrics/stf/*|egrep 'tmp'|xargs rm
+ 1098  ls resources/lyrics/stf/*|egrep '#'
+ 1099  ls resources/lyrics/stf/*|egrep '#'|xargs rm
+ 1100  ls resources/lyrics/stf/*|egrep -v '\.txt$'
+ 1101  git add  resources/lyrics/stf/*
+ 1102  git status
+ 1103  git status|head
+ 1104  git commit -m "initial commit"
+ 1105  git commit -m "initial commit"|head
+ 1106  git commit -m "initial commit"|head -n20
+ 1107  git remote add origin https://github.com/martinforsyth/bsuc-audio-visual.git
+ 1108  git push --help
+ 1109  git push -u origin master
+ 1110  ls ~/Downloads/
+ 1111  ls -l ~/Downloads/
+ 1112  qpdf ~/Downloads/dell-u2417h-monitor_user\'s_guide_en-us.pdf
+ 1113  qpdf ~/Downloads/dell-u2417h-monitor_user\'s_guide_en-us.pdf &
+ 1114  qpdf &
+ 1115  ps -eaf|egrep qpdf
+ 1116  qpdfview ~/Downloads/dell-u2417h-monitor_user\'s_guide_en-us.pdf &
+ 1117  ps -eaf
+ 1118  history|egrep tomb
+ 1119  ps -eaf|egrep tomb
+ 1120  vlc &
+ 1121  apt-cache search libupnp
+ 1122  sudo apt-get install libupnp
+ 1123  sudo apt-get install libupnp6
+ 1124  apt-cache search vlc
+ 1125  apt-cache search vlc|egrep upnp
+ 1126  apt-cache search vlc|egrep dlna
+ 1127  ushare
+ 1128  ushare ~/Music/cd
+ 1129  pkill mediatomb
+ 1130  ushare -p 49153 -c /home/martin/Music/cd -c /home/martin/Videos
+ 1131  apt-cache search backup
+ 1132  apt-cache search backup|egrep filesystem
+ 1133  apt-cache search chromium
+ 1134  sudo apt-get install chromium-browser
+ 1135  chromium-browser &
+ 1136  sudo shutdown now
+ 1137  cd Documents/bsuc-audio-visual/
+ 1138  git status
+ 1139  git pull origin master
+ 1140  tree
+ 1141  git pull origin master
+ 1142  ifconfig -a
+ 1143  while ((1));do clear;ifconfig -a;sleep 5;done
+ 1144  man git
+ 1145  info git
+ 1146  while ((1));do clear;date;ifconfig -a;sleep 5;done
+ 1147  git pull origin master
+ 1148  man giteveryday 
+ 1149  sudo reboot now
+ 1150  cd Documents/bsuc-audio-visual/
+ 1151  git pull origin master
+ 1152  while ((1));do clear;date;ifconfig -a;sleep 5;done
+ 1153  cd Documents/bsuc-audio-visual/
+ 1154  git pull origin master
+ 1155  history|egrep net
+ 1156  sudo systemctl restart networking.service
+ 1157  git pull origin master
+ 1158  while ((1));do clear;date;ifconfig -a;sleep 5;done
+ 1159  cd Documents/bsuc-audio-visual/
+ 1160  git pull origin master
+ 1161  while ((1));do clear;date;ifconfig -a;sleep 5;done
+ 1162  git pull origin master
+ 1163  cd Documents/bsuc-audio-visual/
+ 1164  while ((1));do clear;date;ifconfig -a;sleep 5;done
+ 1165  git pull origin master
+ 1166  ping https://github.com/martinforsyth/bsuc-audio-visual.git
+ 1167  git pull origin master
+ 1168  rm resources/presentations/impress/*dark*
+ 1169  git pull origin master
+ 1170  xfce4-screenshooter 
+ 1171  cat README.md 
+ 1172  emacs &
+ 1173  git diff
+ 1174  git add
+ 1175  git add README.md 
+ 1176  git commit -m "looking at XML song format"
+ 1177  git push origin master
+ 1178  git log
+ 1179  cd Documents/bsuc-audio-visual/
+ 1180  git pull origin master
+ 1181  cat README.md 
+ 1182  ls
+ 1183  rm x.*
+ 1184  ls
+ 1185  qpdfview &
+ 1186  apt-cache search xf4ce
+ 1187  apt-cache search xfce4
+ 1188  apt-cache search xfce4|egrep keyboard
+ 1189  apt-cache search xfce4|egrep screen
+ 1190  apt-cache search deezer
+ 1191  apt-cache search spotify
+ 1192  sudo apt-get install spotify-client
+ 1193  history|egrep shoot
+ 1194  sudo apt-get install spotify-client unity-webapps-deezer
+ 1195  sudo apt-get install shutter
+ 1196  shutter &
+ 1197  gimp ~/Pictures/IMG_2018112*
+ 1198  sudo apt-get remove shutter
+ 1199  topp
+ 1200  pkill chrome
+ 1201  pkill kodi
+ 1202  cd Documents/bsuc-audio-visual/
+ 1203  git pull origin master
+ 1204  ps -eaf|egrep record
+ 1205  pkill recordmydesktop
+ 1206  ps -eaf|egrep record
+ 1207  apt-cache search simple-screen
+ 1208  apt-cache search recorder
+ 1209  apt-cache search recorder|egrep simple
+ 1210  apt-cache search screen
+ 1211  apt-cache search screen|egrep record
+ 1212  ls -ltr
+ 1213  vlc out-2.ogv 
+ 1214  vlc out-3.ogv 
+ 1215  pactl list short sources
+ 1216  pacmd set-default-source 2
+ 1217  pactl list short sources
+ 1218  pkill recordmydesktop
+ 1219  ls -ltr
+ 1220  vlc out-5.ogv 
+ 1221  apt-cache search screen|egrep record
+ 1222  apt-cache search simplescreenrecorder
+ 1223  cd ~/Downloads/
+ 1224  tar -xzvf ssr-master.tar.gz 
+ 1225  cd ssr-master/
+ 1226  ls
+ 1227  cat README.md 
+ 1228  ./simple-build-and-install 
+ 1229  apt-cache search libav
+ 1230  apt-cache search libav|egrep dev
+ 1231  apt-cache search libffmpeg|egrep dev
+ 1232  ./simple-build-and-install 
+ 1233  apt-cache search ffmpeg|egrep dev
+ 1234  sudo apt-get install libavutil-dev
+ 1235  ./simple-build-and-install 
+ 1236  apt-cache search avcodec
+ 1237  sudo apt-get -y install libavcodec-dev
+ 1238  ./simple-build-and-install 
+ 1239  apt-cache search qt5
+ 1240  sudo apt-get -y install qt5-default
+ 1241  ./simple-build-and-install 
+ 1242  apt-cache search qt5|egrep dev
+ 1243  qt --version
+ 1244  qtdiag
+ 1245  apt-cache search qt5|egrep -v dev
+ 1246  apt-cache search qt
+ 1247  df -h
+ 1248  ./simple-build-and-install 
+ 1249  history
+ 1250  history|egrep get
+ 1251  sudo apt-get -y install qt-sdk
+ 1252  qtdiag
+ 1253  sudo apt-get remove qt5-default
+ 1254  ./simple-build-and-install 
+ 1255  apt-cache search libavformat
+ 1256  sudo apt-get -y install libavformat-ffmpeg56 libavformat-dev
+ 1257  apt-cache search 
+ 1258  apt-cache search libswscale
+ 1259  sudo apt-get -y install libswscale-dev libswscale-ffmpeg3
+ 1260  apt-cache search libswscalalsa
+ 1261  apt-cache search alsa
+ 1262  apt-cache search alsa|egrep lib
+ 1263  sudo apt-get -y install libasound2-dev libasound2
+ 1264  ./simple-build-and-install 
+ 1265  sudo apt-get -y install libpulse
+ 1266  apt-cache search libpulse
+ 1267  sudo apt-get -y install libpulse-dev
+ 1268  apt-cache search jack
+ 1269  apt-cache search libjack
+ 1270  sudo apt-get -y install libjack-dev
+ 1271  ./simple-build-and-install 
+ 1272  cd ssr-master/
+ 1273  cd ~/Downloads/ssr-master/
+ 1274  ./simple-build-and-install 
+ 1275  ls
+ 1276  su -
+ 1277  emacs README.md &
+ 1278  ls
+ 1279  cd build-release/
+ 1280  cmake -DCMAKE_INSTALL_PREFIX="/usr" -DCMAKE_BUILD_TYPE=Release ..
+ 1281  grep "This file is part of" `pkg-config --variable=includedir libavcodec`/libavcodec/avcodec.h
+ 1282  apt-cache search xinerama
+ 1283  cd ..
+ 1284  sudo apt-get -y install libxinerama1  libxinerama1-dbg
+ 1285  ./simple-build-and-install 
+ 1286  history|egrep get
+ 1287  dpkg query -L libxinerama1-dbg
+ 1288  dpkg-query -L libxinerama1-dbg
+ 1289  dpkg-query -L libxinerama1
+ 1290  ldd /usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+ 1291  ls /
+ 1292  ls /usr/
+ 1293  ls /usr/include/
+ 1294  ls /usr/include/|egrep --i x11
+ 1295  ls /usr/include/|egrep -i x11
+ 1296  ls /usr/include/X11|egrep -i x11
+ 1297  ls /usr/include/X11
+ 1298  find /usr/include/|egrep -i xinemara
+ 1299  find /usr/include/|egrep -i xinerama
+ 1300  find /usr/local/include/|egrep -i xinerama
+ 1301  find /usr/local/include/
+ 1302  find /usr/include/
+ 1303  find /usr|egrep -i xinerama
+ 1304  pkill chrome
+ 1305  sudo shutdown now
+ 1306  openlp &
+ 1307  cd ~/Documents/bsuc-audio-visual/
+ 1308  git status
+ 1309  libreoffice resources/presentations/impress/readings.dark.background.odp &
+ 1310  emacs &
+ 1311  git status
+ 1312  git add resources/presentations/impress/readings.dark.background.odp openlp/songs-db/songs.unique/SF171\ Hark\ the\ Glad\ Sound\ \(Philip\ Doddridge\).xml 
+ 1313  git status
+ 1314  git commit -m "Added SF171"
  1315  git push origin master
- 1316  git log
- 1317  cd openformat/
- 1318  ls
- 1319  for f in $(ls *.txt);do cat $f;done
- 1320  egrep -i reproduced *.txt
- 1321  egrep -i reproduced *.txt|wc -l
- 1322  ls *.txt|wc -l
- 1323  egrep -i 'reproduced' *.txt|wc -l
- 1324  egrep -i 'reproduced from' *.txt|wc -l
- 1325  sed -r -e 's/reproduced from/ccccc/ *.txt
- 1326  sed -r -e 's/reproduced from/ccccc/' *.txt
- 1327  sed -r -e 's/Reproduced from/ccccc/' *.txt
- 1328  sed -r -e 's/Reproduced from.*/cc/' *.txt
- 1329  sed -r -e 's/Reproduced from.*//' *.txt
- 1330  sed -r -e --in-place 's/Reproduced from.*//' *.txt
- 1331  man sed
- 1332  sed -r -e --in-place 's/Reproduced from.*//' *.txt
- 1333  sed -r --in-place -e 's/Reproduced from.*//' *.txt
- 1334  egrep -i 'Words and Music' *.txt|wc -l
- 1335  egrep -i 'Words and Music' *.txt
- 1336  sed -r --in-place -e 's/Words and Music:.*//' *.txt
- 1337  egrep -i '^[0-9]' *.txt
+ 1316  git status
+ 1317  cd ~/Documents/bsuc-audio-visual/
+ 1318  git pull origin master
+ 1319  git status
+ 1320  git pull origin master
+ 1321  libreoffice resources/presentations/impress/welcome.dark.background.odp &
+ 1322  git status
+ 1323  git add *
+ 1324  git status
+ 1325  git commit -m "updated"
+ 1326  git status
+ 1327  git push origin master
+ 1328  openlp &
+ 1329  f
+ 1330  spotify &
+ 1331  top
+ 1332  ifconfig -a
+ 1333  pkill midori
+ 1334  pkill spotify
+ 1335  top
+ 1336  openlp &
+ 1337  git pull origin master
  1338  git status
- 1339  git add *.txt
- 1340  git status
- 1341  git commit -m "removed copyright and other data at end of files"
- 1342  git push origin master
- 1343  head -n10 *.txt
- 1344  emacs &
- 1345  cd ~/Documents/bsuc-audio-visual/resources/lyrics/stf/openformat/
- 1346  head -n10 *.txt
- 1347  tail -n10 *.txt
- 1348  tail -n1 *.txt
- 1349  tail -n2 *.txt
- 1350  tail -n3 *.txt
- 1351  tail -n1 *.txt
- 1352  tail -n2 *.txt
- 1353  tail -n3 *.txt
- 1354  tail -n4 *.txt
- 1355  tail -n5 *.txt
- 1356  tail -n6 *.txt
- 1357  tail -n4 *.txt
- 1358  cat H96.txt 
- 1359  egrep -i 'Words:' *.txt
- 1360  sed -r --in-place -e 's/Words \(c\):.*//' *.txt
- 1361  egrep -i 'Words:' *.txt
- 1362  sed -r --in-place -e 's/Words: \(c\).*//' *.txt
- 1363  egrep -i 'Words:' *.txt
- 1364  sed -r --in-place -e 's/Words:.*//' *.txt
- 1365  egrep -i 'Words:' *.txt
- 1366  tail -n4 *.txt
- 1367  tail -n2 *.txt
- 1368  tail -n1 *.txt
- 1369  tail -n2 *.txt
- 1370  emacs &
- 1371  tail -n1 *.txt
- 1372  tail -n2 *.txt
- 1373  tail -n3 *.txt
- 1374  tail -n2 *.txt
- 1375  tail -n1 *.txt
- 1376  tail -n2 *.txt
- 1377  tail -n1 -n2 *.txt
- 1378  man tail
- 1379  tail -n1 +2 *.txt
- 1380  tail -n2 +2 *.txt
- 1381  tail -n2 +1 *.txt
- 1382  tail -n1 +2 *.txt
- 1383  egrep -i 'from the new revised' *.txt
- 1384  sed -r --in-place -e 's/From The New Revised Standard.*//' *.txt
- 1385  egrep -i 'from the new revised' *.txt
- 1386  tail -n1 +2 *.txt
- 1387  egrep -i 'from common worship' *.txt
- 1388  sed -r --in-place -e 's/From Common Worship.*//' *.txt
- 1389  tail -n1 +2 *.txt
- 1390  egrep -i ':' *.txt
- 1391  egrep -i ': ' *.txt
- 1392  egrep -i 'Translation: ' *.txt
- 1393  sed -r --in-place -e 's/Translation: .*//' *.txt
- 1394  egrep -i 'Translation: ' *.txt
- 1395  tail -n1 +2 *.txt
- 1396  tail -n2 *.txt
- 1397  egrep -i 'translated ' *.txt
- 1398  sed -r --in-place -e 's/translated by .*//' *.txt
- 1399  egrep -i 'translated ' *.txt
- 1400  sed -r --in-place -e 's/translated by.*//' *.txt
- 1401  egrep -i 'translated ' *.txt
- 1402  tail -n2 *.txt
- 1403  egrep -i 'liturgical ' *.txt
- 1404  sed -r --in-place -e 's/liturgical.*//' *.txt
- 1405  tail -n2 *.txt
- 1406  egrep -i 'liturgical ' *.txt
- 1407  sed -r --in-place -e 's/Liturgical.*//' *.txt
- 1408  tail -n2 *.txt
- 1409  egrep -i 'adapt ' *.txt
- 1410  egrep -i 'adapt' *.txt
- 1411  sed -r --in-place -e 's/adapt.*//' *.txt
- 1412  sed -r --in-place -e 's/Adapt.*//' *.txt
- 1413  tail -n2 *.txt
- 1414  egrep -i 'taize' *.txt
- 1415  emacs &
- 1416  tail -n2 *.txt
- 1417  tail -n1 *.txt
- 1418  tail -n1 *.txt|egrep -v txt
- 1419  tail -n1 *.txt|egrep -v txt|egrep -v '^ *$'
- 1420  tail -n1 *.txt
- 1421  for f in $(ls *.txt);do tail -n1 $f;done
- 1422  for f in $(ls *.txt);do tail -n1 $f;echo $0;done
- 1423  for f in $(ls *.txt);do tail -n1 $f;echo $?;done
- 1424  for f in $(ls *.txt);do echo -n "$f :"tail -n1 $f;done
- 1425  for f in $(ls *.txt);do echo "$f :"tail -n1 $f;done
- 1426  for f in $(ls *.txt);do echo "$f :";tail -n1 $f;done
- 1427  for f in $(ls *.txt);do echo -n "$f :";tail -n1 $f;done
- 1428  for f in $(ls *.txt);do echo -n "$f:";tail -n1 $f;done
- 1429  for f in $(ls *.txt);do echo -n "$f:";tail -n1 $f;done|tee -a ../../../../README.md 
- 1430  git status
- 1431  git add *.txt ../../../../README.md 
- 1432  git status
- 1433  git commit -m "sorting out authors"
- 1434  git log ../../../../README.md
- 1435  ls -ltr
- 1436  ls -ltrh
- 1437  vlc doodle.mkv 
- 1438  cd ~/Documents/bsuc-audio-visual/
- 1439  git status
- 1440  cat README.md 
- 1441  git status
- 1442  git push origin master
- 1443  git status
- 1444  git diff
- 1445  sudo shutdown now
- 1446  ls -ltr
- 1447  ls -ltrh
- 1448  vlc wp1.mkv 
- 1449  cd ~/Documents/bsuc-audio-visual/
- 1450  git pull origin master
- 1451  pkill chrome
- 1452  ls -ltr ~/Downloads/
- 1453  ls -ltrh ~/Downloads/
- 1454  vlc ~/Downloads/GofA.mp4 
- 1455  cd ~/Documents/bsuc-audio-visual/
- 1456  git status
- 1457  libreoffice ~/Documents/bsuc-audio-visual/resources/presentations/impress/candleprayer.dark.background.odp &
- 1458  rm ~/Documents/bsuc-audio-visual/resources/presentations/impress/saytogether.odp 
- 1459  rm ~/Documents/bsuc-audio-visual/resources/presentations/impress/candlleprayer.odp 
- 1460  rm ~/Documents/bsuc-audio-visual/resources/presentations/impress/ordinary26.odp 
- 1461  rm ~/Documents/bsuc-audio-visual/resources/presentations/impress/psalm61.odp 
- 1462  rm ~/Documents/bsuc-audio-visual/resources/presentations/impress/readings.odp 
- 1463  rm ~/Documents/bsuc-audio-visual/resources/presentations/impress/
- 1464  emacs ~/x
+ 1339  git pull origin master
+ 1340  find ~|egrep osz
+ 1341  ls -ltr ~/Downloads/
+ 1342  libreoffice ~/Downloads/Revised_Policies_and_Practices_of__Bell_Street_United_Church_11_Jul.docx &
+ 1343  libreoffice ~/Downloads/Model_Governing_Document_for_SCLEPs__Bell_Street_11_Jul.doc &
+ 1344  sudo systemctl restart networking.service
+ 1345  ifconfig -a
+ 1346  su -
+ 1347  while ((1));do clear;date;ifconfig -a;sleep 5;done
+ 1348  ifconfig enp0s4 down
+ 1349  sudo ifconfig enp0s4 down
+ 1350  sudo ifconfig enp0s4 up
+ 1351  sudo ifconfig enp0s4 down
+ 1352  sudo ifconfig enp0s4 up
+ 1353  ifconfig -a
+ 1354  sudo ifconfig enp0s4 down
+ 1355  ifconfig -a
+ 1356  sudo ifconfig enp0s4 up
+ 1357  emacs &
+ 1358  sudo shutdown now
+ 1359  top
+ 1360  cd ~/Documents/bsuc-audio-visual/
+ 1361  git status
+ 1362  git pull origin master
+ 1363  tree -d
+ 1364  emacs &
+ 1365  cd resources/lyrics/stf/openformat/
+ 1366  mkdir tmp
+ 1367  ls
+ 1368  for f in $(ls *.txt);do cat ../../../../x > tmp/$f;cat $f >> tmp/$f/;done
+ 1369  ls tmp
+ 1370  cat tmp/H174.txt 
+ 1371  rm tmp/*
+ 1372  for f in $(ls *.txt);do cat ../../../../x > tmp/$f;cat $f >> tmp/$f;done
+ 1373  cat tmp/H174.txt 
+ 1374  rm tmp/*
+ 1375  for f in $(ls *.txt);do cat ../../../../x > tmp/$f;cat $f >> tmp/$f;done
+ 1376  cat tmp/H174.txt 
+ 1377  sed -r -e 's/---\[Verse.*//' *.txt
+ 1378  sed -r -e 's/---\[Verse.*//' -e 's/---\[Chorus.*//' *.txt
+ 1379  sed -r -e 's/---\[Verse.*//' -e 's/---\[Chorus.*//' -e 's/v1 c1 v2 c1 v3.*//' *.txt
+ 1380  sed --in-place -r -e 's/---\[Verse.*//' -e 's/---\[Chorus.*//' -e 's/v1 c1 v2 c1 v3.*//' *.txt
+ 1381  cat *.txt
+ 1382  rm tmp/*
+ 1383  for f in $(ls *.txt);do cat ../../../../x > tmp/$f;cat $f >> tmp/$f;done
+ 1384  cat tmp/H174.txt 
+ 1385  cat *.txt
+ 1386  git status
+ 1387  git add *.txt
+ 1388  git status
+ 1389  git add ../../../../README.md 
+ 1390  git status
+ 1391  git commit -m "removed unwanted txt"
+ 1392  git status
+ 1393  git push origin master
+ 1394  cat tmp/H174.txt 
+ 1395  for f in $(ls *.txt);do cat $f|egrep -v ^ *$;done
+ 1396  for f in $(ls *.txt);do cat $f|egrep -v '^ *$';done
+ 1397  for f in $(ls *.txt);do cat $f|egrep -v '^ *$';done
+ 1398  for f in $(ls *.txt);do cat $f|egrep -v '^ *$';done
+ 1399  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^[0-9]';done
+ 1400  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^[a-zA-Z]';done
+ 1401  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^[a-zA-Z\']';done
+ 1402  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^[a-zA-Z]'|egrep -v '\'';done
+ 1403  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^[a-zA-Z]'|egrep -v "'";done
+ 1404  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^[a-zA-Z]'|egrep -v "'";done
+ 1405  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^[a-zA-Z]'|egrep -v "'";done
+ 1406  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^ *[a-zA-Z]'|egrep -v "'";done
+ 1407  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^ *[a-zA-Z]'|egrep -v "'";done
+ 1408  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^ *[a-zA-Z]'|egrep -v "'";done
+ 1409  <verse name="v2">
+ 1410  <verse name="v3">
+ 1411  <verse name="c1">
+ 1412  </song>
+ 1413  <verse name="v2">
+ 1414  <verse name="v3">
+ 1415  <verse name="c1">
+ 1416  </song>
+ 1417  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^ *[a-zA-Z]'|egrep -v "'";done
+ 1418  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^ *[a-zA-Z]'|egrep -v "'"|egrep -v '\(';done
+ 1419  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^ *[a-zA-Z]'|egrep -v "'"|egrep -v '\(|--';done
+ 1420  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^ *[a-zA-Z]'|egrep -v "'"|egrep -v '\(|--';done
+ 1421  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^ *[a-zA-Z]'|egrep -v "'"|egrep -v '\(|--';done
+ 1422  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^ *[a-zA-Z]'|egrep -v "'"|egrep -v '\(|--|!';done
+ 1423  for f in $(ls *.txt);do cat $f|egrep -v '^ *$'|egrep -v '^ *[a-zA-Z]'|egrep -v "'"|egrep -v '\(|--|!';done|wc -l
+ 1424  cat tmp/H174.txt 
+ 1425  cd resources/lyrics/stf/openformat/
+ 1426  cd ~/Documents/bsuc-audio-visual/resources/lyrics/stf/openformat/
+ 1427  ls
+ 1428  head *.txt
+ 1429  tail *.txt
+ 1430  cat *.txt
+ 1431  cat *.txt|wc -l
+ 1432  time cat *.txt
+ 1433  emacs &
+ 1434  cat H782.txt 
+ 1435  for f in $(ls *.txt);do egrep 2 $f;done
+ 1436  for f in $(ls *.txt);do egrep '^2' $f;done
+ 1437  for f in $(ls *.txt);do echo $f;egrep '^2' $f;done
+ 1438  for f in $(ls *.txt);do echo $f;egrep '^[0-9]' $f;done
+ 1439  for f in $(ls *.txt);do echo $f;egrep '^[0-9]' $f;done|tee x
+ 1440  for f in $(ls *.txt);do echo $f;egrep '^1 *$' $f;done
+ 1441  egrep Roundabout /var/www/html/wp-content/themes/cloriato-lite/*.php
+ 1442  egrep Roundabout /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php
+ 1443  ls  /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php
+ 1444  ls  /var/www/html/wp-content/themes/cloriato-lite_NEW/*.php|egrep front
+ 1445  ls  /var/www/html/wp-content/themes/cloriato-lite/*.php|egrep front
+ 1446  diff /var/www/html/wp-content/themes/cloriato-lite_NEW/front-page.php /var/www/html/wp-content/themes/cloriato-lite/front-page.php
+ 1447  emacs /var/www/html/wp-content/themes/cloriato-lite_NEW/front-page.php /var/www/html/wp-content/themes/cloriato-lite/front-page.php
+ 1448  history|egrep onecom
+ 1449  cd ~/code/onecom-hosted-bsuc
+ 1450  tree
+ 1451  mkdir var/www/wp
+ 1452  mkdir var/www/wp/wp-content
+ 1453  mkdir var/www/wp/wp-content/themes
+ 1454  mkdir var/www/wp/wp-content/themes/cloriato-lite
+ 1455  cd var/www/wp/wp-content/themes/cloriato-lite
+ 1456  scp shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk:/var/www/wp/wp-content/themes/cloriato-lite/front*php .
+ 1457  ls
+ 1458  rm front-page_ORG.php 
+ 1459  cd ../../../../
+ 1460  ls
+ 1461  cd ../../
+ 1462  git status
+ 1463  git pull origin master
+ 1464  git add var/www/wp/wp-content/themes/cloriato-lite/front-page.php 
  1465  git status
- 1466  git add resources/presentations/impress/candleprayer.dark.background.odp
+ 1466  git commit -m "original version of front page"
  1467  git status
- 1468  git commit -m "updated"
- 1469  git push origin master
- 1470  openlp &
- 1471  cd ~/code/web
+ 1468  git push origin master
+ 1469  emacs var/www/wp/wp-content/themes/cloriato-lite/front-page.php &
+ 1470  cd var/www/wp/wp-content/themes/cloriato-lite
+ 1471  git diff
  1472  ls
- 1473  cd ~/code/web/onecom-hosted-bsuc/
- 1474  ls
- 1475  git status
- 1476  git remote update
- 1477  git status
- 1478  git status -uno
- 1479  git pull origin master
- 1480  git status -uno
- 1481  ps -eaf|egrep fox
- 1482  cd ~/Documents/bsuc-audio-visual/
- 1483  git remote update
- 1484  git status -uno
- 1485  git pull origin master
- 1486  cd resources/lyrics/stf/openformat/
- 1487  ls
- 1488  head *.txt
- 1489  emacs process.pl &
- 1490  which perl
- 1491  ls ~/code/
- 1492  ls -l process.pl
- 1493  chmod 777 process.pl
- 1494  for f in $(ls *.txt);do ./process.pl $f;done
- 1495  ./process.pl H498.txt 
- 1496  for f in $(ls *.txt);do ./process.pl $f;done
- 1497  cat *.txt
- 1498  cat *.txt|egrep '^ *[0-9]'
- 1499  cat *.txt|egrep '^ +[0-9]'
- 1500  for f in $(ls *.txt);do ./process.pl $f;done
- 1501  git add process.pl
- 1502  git status
- 1503  git commit -m "script to generate compliant XML"
- 1504  git push origin master
- 1505  for f in $(ls *.txt);do ./process.pl $f;done
- 1506  git status
- 1507  git add process.pl
- 1508  git status
- 1509  git commit -m "work in progress"
- 1510  git push origin master
- 1511  for f in $(ls *.txt);do ./process.pl $f;done
- 1512  tail *.txt
- 1513  tail *.txt|egrep -v '^ *$'
- 1514  tail -n4 *.txt|egrep -v '^ *$'
- 1515  tail  *.txt|egrep -v '^ *$'
- 1516  tail  *.txt|egrep -v '^ *$'|egrep -B2 '\.txt'
- 1517  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'
- 1518  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|tee hasauthor
- 1519  cat hasauthor
- 1520  cat hasauthor|egrep -v '=='
- 1521  cat hasauthor|egrep -v '==|--'
- 1522  cat hasauthor|egrep -v '==|--|19|20'
- 1523  cat hasauthor|egrep -v '==|--|19|20|18'
- 1524  cat hasauthor|egrep -v '==|--|19|20|18|17'
- 1525  cat hasauthor|egrep -v '==|--|19|20|18|17|16'
- 1526  cat hasauthor|egrep -v '==|--|19|20|18|17|16|12'
- 1527  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|tee hasauthor
- 1528  cat hasauthor|egrep -v '==|--|19|20|18|17|16|12'
- 1529  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|tee hasauthor
- 1530  history
- 1531  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|tee hasauthor
- 1532  cat hasauthor
- 1533  cat hasauthor|egrep -v '==|--|20|19|18|17|16'
- 1534  cp hasauthor hasauthor.final
- 1535  cat hasauthor.final
- 1536  cat hasauthor.final|egrep -v '==|--'
- 1537  cat hasauthor.final|egrep -v '==|--|20|19|18|17|16'
- 1538  history
- 1539  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'
- 1540  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|egrep -v '20|19|18|17|16'
- 1541  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|egrep -v '20|19|18|17|16|--'
- 1542  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|egrep -v '20|19|18|17|16|--'|tee x
- 1543  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|egrep -v '--'|tee x
- 1544  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|egrep -v '((20|19|18|17|16)[0-9]{2})|--'|tee x
- 1545  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|egrep  '((20|19|18|17|16)[0-9]{2})|--'|tee x
- 1546  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|egrep -v '((20|19|18|17|16)[0-9]{2})|--'|tee x
- 1547  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|egrep -v '((20|19|18|17|16)[0-9]{2})|--'
- 1548  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|egrep -v '((20|19|18|17|16)[0-9]{2})|--|=='
- 1549  tail  *.txt|egrep -v '^ *$'|egrep -B1 '\.txt'|egrep -v '((20|19|18|17|16)[0-9]{2})|--|=='|wc -l
- 1550  ls *.txt|wc -l
- 1551  tail  *.txt|egrep -v '^ *$'|egrep -B5 '\.txt'|egrep -v '((20|19|18|17|16)[0-9]{2})|--|=='|wc -l
- 1552  tail  *.txt|egrep -v '^ *$'|egrep -B5 '\.txt'|egrep '((20|19|18|17|16)[0-9]{2})'
- 1553  tail  *.txt|egrep -v '^ *$'|egrep -B5 '\.txt'|egrep '((20|19|18|17|16)[0-9]{2})'|wc -l
- 1554  tail  *.txt|egrep -v '^ *$'|egrep -B5 '\.txt'|egrep '((20|19|18|17|16)[0-9]{2})|=='|wc -l
- 1555  tail  *.txt|egrep -v '^ *$'|egrep -B5 '\.txt'|egrep '((20|19|18|17|16)[0-9]{2})|=='
- 1556  for f in $(ls *.txt);do egrep '((20|19|18|17|16)[0-9]{2})';done
- 1557  for f in $(ls *.txt);do cat $f|egrep '((20|19|18|17|16)[0-9]{2})';done
- 1558  for f in $(ls *.txt);do cat $f|egrep '((20|19|18|17|16)[0-9]{2})';done|wc -l
- 1559  for f in $(ls *.txt);do echo $f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';done
- 1560  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';done
- 1561  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';echo $?;done
- 1562  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';if $? == 0; then echo xcxcxcxcx;fi;done
- 1563  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';if $? -eq 0; then echo xcxcxcxcx;fi;done
- 1564  if a eq 0; then echo b;fi
- 1565  if $a eq 0; then echo b;fi
- 1566  if $a = 0; then echo b;fi
- 1567  if $a == 0; then echo b;fi
- 1568  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';if $?; then echo xcxcxcxcx;fi;done
- 1569  if 1;then echo b;fi
- 1570  if 1 then echo b;fi
- 1571  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';if [$?]; then echo xcxcxcxcx;fi;done
- 1572  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';if [ 0 -ne $? ]; then echo xcxcxcxcx;fi;done
- 1573  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';if [ 0 -eq $? ]; then echo xcxcxcxcx;fi;done
- 1574  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';if [ 0 -eq $? ]; then echo authoris;fi;done
- 1575  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';if [ 0 -eq $? ]; then echo $f has author;fi;done
- 1576  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';if [ 0 -eq $? ]; then echo $f has author;fi;done|egrep 'has author'
- 1577  for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';if [ 0 -eq $? ]; then echo $f has author;fi;done|egrep 'has author'|sed -r -e 's/ has author//'
- 1578  tail $(for f in $(ls *.txt);do echo ==$f;cat $f|egrep '((20|19|18|17|16)[0-9]{2})';if [ 0 -eq $? ]; then echo $f has author;fi;done|egrep 'has author'|sed -r -e 's/ has author//')
- 1579  history
- 1580  history|tee history
+ 1473  rm front-page.php 
+ 1474  git pull origin master
+ 1475  ls
+ 1476  git log
+ 1477  git checkout 26a845a253d97667e57d148b268b57ed44803f7d front-page.php
+ 1478  ls
+ 1479  git diff
+ 1480  scp shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk:/var/www/wp/wp-content/themes/cloriato-lite/front-page.php .
+ 1481  git diff
+ 1482  scp front-page.php     shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk:/var/www/wp/wp-content/themes/cloriato-lite/.
+ 1483  git diff
+ 1484  git diff --help
+ 1485  git add front-page.php 
+ 1486  git status
+ 1487  git commit -m "updated events"
+ 1488  git status
+ 1489  git push origin master
+ 1490  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
+ 1491  ssh shaftesburyuc.org.uk@ssh.shaftesburyuc.org.uk
+ 1492  cd ~/code/onecom-hosted-bsuc
+ 1493  git pull origin master
+ 1494  cd ~/Documents/bsuc-audio-visual/
+ 1495  git status
+ 1496  git remote --help
+ 1497  git remote -v
+ 1498  git pull origin master
+ 1499  cd resources/lyrics/stf/openformat/
+ 1500  emacs &
+ 1501  head *.txt
+ 1502  egrep verseOrder *.txt
+ 1503  egrep verseOrder *.txt|wc -l
+ 1504  egrep author *.txt
+ 1505  egrep authorsare *.txt
+ 1506  egrep authorsare *.txt|tee x
+ 1507  egrep authorsare *.txt|sed -r -e 's/:auth.*//'
+ 1508  egrep authorsare *.txt|sed -r -e 's/:auth.*//'|tee x
+ 1509  egrep author *.txt
+ 1510  egrep 'author> ' *.txt
+ 1511  egrep 'author> ' *.txt|egrep and
+ 1512  egrep 'author> ' *.txt|egrep 'and.*and'
+ 1513  egrep 'author> ' *.txt|egrep and
+ 1514  egrep 'author> ' *.txt|egrep and|sed -r -e 's/:.*//'
+ 1515  egrep 'author> ' *.txt|egrep and|sed -r -e 's/:.*//'|tee x
+ 1516  egrep 'author> ' *.txt
+ 1517  for f in $(ls *.txt);do sed -r -e 's/author> /author>/' $f;done
+ 1518  for f in $(ls *.txt);do sed --in-place -r -e 's/author> /author>/' $f;done
+ 1519  for f in $(ls *.txt);do sed -r -e 's/^.*xxxAUTHOR.*$//' $f;done
+ 1520  for f in $(ls *.txt);do sed --in-place -r -e 's/^.*xxxAUTHOR.*$//' $f;done
+ 1521  cat *.txt
+ 1522  cat *.txt|egrep author
+ 1523  git add *.txt
+ 1524  git commit -m "author XML"
+ 1525  git push origin master
+ 1526  git status
+ 1527  sudo shutdown now
+ 1528  sudo systemctl restart networking.service
+ 1529  sudo ifconfig enp0s4 up
+ 1530  sudo ifconfig enp0s4 down
+ 1531  sudo ifconfig enp0s4 up
+ 1532  su -
+ 1533  cd ~/Documents/bsuc-audio-visual/
+ 1534  git status
+ 1535  git remote status
+ 1536  cd ~/Documents/bsuc-audio-visual/
+ 1537  git remote -v
+ 1538  git remote update -h
+ 1539  got diff master origin/master
+ 1540  git diff master origin/master
+ 1541  git diff HEAD origin/HEAD
+ 1542  git diff master origin/master/HEAD
+ 1543  git pull origin master
+ 1544  openlp &
+ 1545  cd resources/lyrics/stf/openformat/
+ 1546  ls
+ 1547  cd -
+ 1548  git status
+ 1549  cp openlp/songs-db/songs.unique/SF166\ Christmas\ is\ coming\ \(Author\ Unknown\)-1.xml  openlp/songs-db/songs.unique/SF166\ Christmas\ is\ coming\ \(Author\ Unknown\).xml 
+ 1550  rm openlp/songs-db/songs.unique/SF166\ Christmas\ is\ coming\ \(Author\ Unknown\)-1.xml 
+ 1551  git status
+ 1552  git add openlp/songs-db/songs.unique/SF166\ Christmas\ is\ coming\ \(Author\ Unknown\).xml 
+ 1553  git status
+ 1554  git commit -m "updated song"
+ 1555  git push origin master
+ 1556  cd resources/lyrics/stf/openformat/
+ 1557  ls
+ 1558  cat *.txt
+ 1559  head -n 200 *.txt
+ 1560  head -n 200 *.txt|tee x
+ 1561  emacs x &
+ 1562  head -n 200 *.txt|egrep -v '^ *$'|tee x
+ 1563  cd ~/Documents/bsuc-audio-visual/
+ 1564  cd resources/lyrics/stf/openformat/
+ 1565  emacs &
+ 1566  apt-cache search screensaver
+ 1567  sudo apt list --installed|egrep 'screensaver'
+ 1568  git commit -m "removed unwanted txt"
+ 1569  sdfsdfsdf
+ 1570  sudo apt-get remove cinammon-screensaver
+ 1571  cd ~/Documents/bsuc-audio-visual/resources/lyrics/stf/openformat/
+ 1572  sudo apt-get remove cinnamon-screensaver
+ 1573  emacs x &
+ 1574  cat ~/y
+ 1575  cat y
+ 1576  cat y|sed -r -s 's/==> //'
+ 1577  cat y|sed -r -s -e 's/==> //' -e 's/< ==//'
+ 1578  cat y|sed -r -s -e 's/==> //' -e 's/ <==//'
+ 1579  cat y|sed -r -s -e 's/==> //' -e 's/ <==//'|sort
+ 1580  cat y|egrep txt|sed -r -s -e 's/==> //' -e 's/ <==//'|sort
+ 1581  cat y|egrep txt|sed -r -s -e 's/==> //' -e 's/ <==//'|sort|tee y.songs.with.numbered.verses
+ 1582  ls *.txt|sort
+ 1583  cat y|egrep txt|sed -r -s -e 's/==> //' -e 's/ <==//'|sort|tee y.songs.with.numbered.verses
+ 1584  ls *.txt|sort|tee y.all.songs
+ 1585  diff y.all.songs y.songs.with.numbered.verses 
+ 1586  ==> H646.txt <==
+ 1587  diff y.all.songs y.songs.with.numbered.verses 
+ 1588  diff y.all.songs y.songs.with.numbered.verses |egrep <
+ 1589  diff y.all.songs y.songs.with.numbered.verses |egrep '<'
+ 1590  diff y.all.songs y.songs.with.numbered.verses |egrep '<'|sed -r -e 's/^.*H/H/'
+ 1591  diff y.all.songs y.songs.with.numbered.verses |egrep '<'|sed -r -e 's/^.*H/H/'|sort
+ 1592  diff y.all.songs y.songs.with.numbered.verses |egrep '<'|sed -r -e 's/^.*H/H/'|sort|tee y.songs.that.need editing.before.auto.processing
+ 1593  diff y.all.songs y.songs.with.numbered.verses |egrep '<'|sed -r -e 's/^.*H/H/'|sort|tee y.songs.that.need editing.before.auto.processing|wc -l
+ 1594  wc -l y.*
+ 1595  diff y.all.songs y.songs.with.numbered.verses |egrep '<'|sed -r -e 's/^.*H/H/'|sort|tee y.songs.that.need.editing.before.auto.processing|wc -l
+ 1596  wc -l y.*
+ 1597  rm y.songs.that.need
+ 1598  wc -l y.*
+ 1599  for f in $(cat y.songs.with.numbered.verses);do cat $f;done
+ 1600  for f in $(cat y.songs.with.numbered.verses);do echo $f;cat $f;done
+ 1601  for f in $(cat y.songs.with.numbered.verses);do echo $f;cat $f|tail -n1;done
+ 1602  for f in $(cat y.songs.with.numbered.verses);do echo $f;cat $f|tail -n2;done
+ 1603  for f in $(cat y.songs.with.numbered.verses);do echo $f;cat $f|tail -n3;done
+ 1604  ls
+ 1605  cat H282.txt 
+ 1606  tail -n1 *.txt
+ 1607  for f in $(cat y.songs.with.numbered.verses);do echo $f;cat $f|tail -n1;done
+ 1608  for f in $(cat y.songs.with.numbered.verses);do cat $f|tail -n1;done
+ 1609  for f in $(cat y.songs.that.need.editing.before.auto.processing);do cat $f|tail -n1;done
+ 1610  ls x 
+ 1611  ls xx
+ 1612  for f in $(cat y.songs.that.need.editing.before.auto.processing);do cat $f|tail -n1;done|tee xx
+ 1613  for f in $(cat y.songs.that.need.editing.before.auto.processing);do echo$f;cat $f|tail -n1;done|tee xx
+ 1614  for f in $(cat y.songs.that.need.editing.before.auto.processing);do echo $f;cat $f|tail -n1;done|tee xx
+ 1615  cat ~/Documents/A\ New\ Commandment\ \(Author\ Unknown\).xml 
+ 1616  cat ~/Documents/A\ New\ Commandment\ \(Author\ Unknown\).xml |egrep -i order
+ 1617  cat ~/Documents/*.xml
+ 1618  sudo apt list --installed|egrep 'screensaver'
+ 1619  sudo apt-get remove xscreensaver
+ 1620  sudo apt-get install xscreensaver
+ 1621  cd ~/Documents/bsuc-audio-visual/resources/lyrics/stf/openformat/
+ 1622  emacs &
+ 1623  apt-cache search xournal
+ 1624  sudo apt-get install xournal
+ 1625  libreoffice ~/Downloads/CW\ OPEN\ THE\ BOOK\ Spring\ 2019.doc 
+ 1626  pk
+ 1627  pkill chrome
+ 1628  ls
+ 1629  git add y.songs.that.need.author.handling.before.auto.processing 
+ 1630  git add y.songs.that.need.editing.before.auto.processing 
+ 1631  git add y.songs.with.numbered.verses 
+ 1632  git add y.all.songs 
+ 1633  git status
+ 1634  git add *.txt
+ 1635  git status
+ 1636  git commit -m ""in progress
+ 1637  git commit -m "in progress"
+ 1638  git push origin master
+ 1639  cd ~/Documents/bsuc-audio-visual/resources/lyrics/stf/openformat/
+ 1640  git diff
+ 1641  git status
+ 1642  lshw
+ 1643  lshw|tee x
+ 1644  emacs x &
+ 1645  top
+ 1646  cat x
+ 1647  head x
+ 1648  history
+ 1649  cat ~/Documents/bsuc-audio-visual/resources/lyrics/stf/openformat/x
+ 1650  ls -ltr ~/Documents/bsuc-audio-visual/resources/lyrics/stf/openformat/
+ 1651  cat ~/Documents/bsuc-audio-visual/resources/lyrics/stf/openformat/xx
+ 1652  ls -ltr ~/
+ 1653  cat x.desktop 
+ 1654  cd ~/Documents/bsuc-audio-visual/resources/lyrics/stf/openformat/
+ 1655  cd -
+ 1656  cd ~/Documents/bsuc-audio-visual/
+ 1657  git pull origin master
+ 1658  emacs &
+ 1659  for f in $(ls *.txt);do echo $f;egrep '^[0-9] *$';done
+ 1660  for f in $(ls H*.txt);do echo $f;egrep '^[0-9] *$' $f;done
+ 1661  ls
+ 1662  cd resources/lyrics/stf/openformat/
+ 1663  for f in $(ls H*.txt);do echo $f;egrep '^[0-9] *$' $f;done
+ 1664  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;done
+ 1665  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if $? -eq 0;then echo $f found;done
+ 1666  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if $? -eq 0;then echo $f found;fi;done
+ 1667  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if $? ;then echo $f found;fi;done
+ 1668  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($?)) ;then echo $f found;fi;done
+ 1669  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($?)) ;then echo $f found;fi;done|egrep found
+ 1670  cat H89.txt 
+ 1671  cat H790.txt 
+ 1672  cat H788.txt 
+ 1673  cat H772.txt 
+ 1674  cat H624.txt 
+ 1675  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($?)) ;then echo $f found;fi;done|egrep found|wc -l
+ 1676  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($?)) ;then echo $f found;fi;done|egrep found|tee x
+ 1677  git add *.txt
+ 1678  git commit -m "added verse numbers where appropriate"
+ 1679  git push origin master
+ 1680  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($?)) ;then echo $f found;fi;done|egrep found
+ 1681  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($?)) ;then echo $f found;fi;done|egrep found|wc -l
+ 1682  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($?)) ;then echo $f found;fi;done
+ 1683  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($? -ne 0)) ;then echo $f found;fi;done
+ 1684  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($? == 0)) ;then echo $f found;fi;done
+ 1685  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($? != 0)) ;then echo $f found;fi;done
+ 1686  cat H89.txt 
+ 1687  cat H8.txt 
+ 1688  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($? != 0)) ;then echo $f found;fi;done
+ 1689  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($? == 0)) ;then echo $f found file with numbered verses;fi;done
+ 1690  cat H89.txt 
+ 1691  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($? == 0)) ;then echo $f found file with numbered verses;fi;done|egrep numbered
+ 1692  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($? == 0)) ;then echo $f found file with numbered verses;fi;done|egrep numbered|wc -l
+ 1693  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($? == 0)) ;then echo $f found file with numbered verses;fi;done|egrep numbered|tee y.songs.with.numbered.verses 
+ 1694  for f in $(ls H*.txt);do echo $f;egrep '^1 *$' $f;if (($? == 0)) ;then echo $f found file with numbered verses;fi;done|egrep numbered|sed -r -e 's/ found.*//'|tee y.songs.with.numbered.verses 
+ 1695  for f in $(cat y.songs.with.numbered.verses);do echo $f;done
+ 1696  for f in $(cat y.songs.with.numbered.verses);do echo $f;cat $f|egrep -v '^ *$';done
+ 1697  ls tmp/
+ 1698  rm tmp/*
+ 1699  for f in $(cat y.songs.with.numbered.verses);do echo $f;cat $f|egrep -v '^ *$'|tee tmp/$f;done
+ 1700  ls tmp/
+ 1701  mv  tmp/* .
+ 1702  ./process.pl H86.txt 
+ 1703  ls -ltr
+ 1704  ls -ltr y.*
+ 1705  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f;done
+ 1706  cat H97.txt 
+ 1707  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f;done
+ 1708  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|egrep -v '^SF.*xml';done
+ 1709  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|egrep -v '^SF.*encoding';done
+ 1710  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|egrep -v 'SF.*encoding';done
+ 1711  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|egrep -v 'SF.*encoding'|sed -r -e 's/<title>SFH/<title>SF/' -e 's/\.txt / /';done
+ 1712  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|egrep -v 'SF.*encoding'|sed -r -e 's/<title>SFH/<title>SF/' -e 's/\.txt / /';done
+ 1713  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|egrep -v 'SF.*encoding'|sed -r -e 's/<title>SFH/<title>SF/' -e 's/\.txt / /';done
+ 1714  rm tmp/*
+ 1715  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|egrep -v 'SF.*encoding'|sed -r -e 's/<title>SFH/<title>SF/' -e 's/\.txt / /'|tee tmp/$f;done
+ 1716  mv  tmp/* .
+ 1717  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f;done
+ 1718  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|sed -r -e 's/ v1 /v1 /';done
+ 1719  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|sed -r -e 's/ v1 /v1 /'|tee tmp/$f;done
+ 1720  mkdir tmp2
+ 1721  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|sed -r -e 's/ v1 /v1 /'|tee tmp2/$f;done
+ 1722  mv tmp2/* .
+ 1723  cat *.txt
+ 1724  for f in $(cat y.songs.with.numbered.verses);do egrep -B1 '^1 *$' $f;done
+ 1725  for f in $(cat y.songs.with.numbered.verses);do echo ==$f;egrep -B1 '^1 *$' $f;done
+ 1726  for f in $(cat y.songs.with.numbered.verses);do echo ==$f;egrep -B1 '^1 *$' $f;done|egrep -v '/song'
+ 1727  for f in $(cat y.songs.with.numbered.verses);do echo ==$f;egrep -B1 '^1 *$' $f;done|egrep -v '/song|^1 *$'
+ 1728  cat H757.txt 
+ 1729  cat H775.txt 
+ 1730  for f in $(cat y.songs.with.numbered.verses);do echo ==$f;egrep -B1 '^1 *$' $f;done|egrep -v '/song|^1 *$'
+ 1731  for f in $(cat y.songs.with.numbered.verses);do echo ==$f;egrep -B1 '^1 *$' $f;done|egrep -v '/song|^1 *$'|tee x
+ 1732  for f in $(cat y.songs.with.numbered.verses);do echo ==$f;egrep -B1 '^1 *$' $f;done|egrep -v '/song|^1 *$'
+ 1733  .txt
+ 1734  H732.txt
+ 1735  H733.txt
+ 1736  H734.txt
+ 1737  H735.txt
+ 1738  H736.txt
+ 1739  H737.txt
+ 1740  H738.txt
+ 1741  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f;done
+ 1742  mkdir tmp3
+ 1743  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|tee tmp3/$f;done
+ 1744  mkdir tmp4
+ 1745  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|tee tmp4/$f;done
+ 1746  mkdir tmp5
+ 1747  for f in $(cat y.songs.with.numbered.verses);do  ./process.pl $f|tee tmp5/$f;done
+ 1748  mv tmp5/* .
+ 1749  for f in $(cat y.songs.with.numbered.verses);do  sed -r -e  's/modifiedDate="xxx"/modifiedDate="12345678"/' |;done
+ 1750  for f in $(cat y.songs.with.numbered.verses);do  sed -r -e  's/modifiedDate="xxx"/modifiedDate="12345678"/';done
+ 1751  for f in $(cat y.songs.with.numbered.verses);do  sed -r -e  's/modifiedDate="xxx"/modifiedDate="12345678"/' $f;done
+ 1752  for f in $(cat y.songs.with.numbered.verses);do  sed -r -e  's/modifiedDate="xxx"/modifiedDate="2018-12-10T06:49:59"/' $f;done
+ 1753  mkdir tmp6
+ 1754  for f in $(cat y.songs.with.numbered.verses);do  sed -r -e  's/modifiedDate="xxx"/modifiedDate="2018-12-10T06:49:59"/' $f|tee tmp6/$f;done
+ 1755  ls tmp6
+ 1756  cat tmp6/H630.txt 
+ 1757  mv tmp6/* .
+ 1758  for f in $(cat y.songs.with.numbered.verses);do cat $f|tee tmp6/$f;done
+ 1759  cat tmp6/*
+ 1760  cat tmp6/*|head -n500
+ 1761  cat tmp6/*
+ 1762  <verse name="v1"><br/>May the road rise up to meet you;<br/>may the wind be always at your back.<br/>May the sun shine warm upon your face;<br/>may the rain fall soft upon your fields.<br/>And until we meet again, may God hold you.<br/>Until we meet again, may God hold you.<br/>Until we meet again, may God hold you<br/>in the hollow of his hand.</verse>
+ 1763  </song>
+ 1764  cat tmp6/*
+ 1765  mv tmp6/* .
+ 1766  mkdir tmp7
+ 1767  for f in $(cat y.songs.with.numbered.verses);do cat $f|tee tmp7/$f;done
+ 1768  cat tmp7/*
+ 1769  mv tmp7/* .
+ 1770  ls
+ 1771  git add *.txt
+ 1772  git add *.pl
+ 1773  git add y.*
+ 1774  cd ../../../../
+ 1775  ls
+ 1776  find|egrep history
+ 1777  cd -
+ 1778  history
+ 1779  history|tee history 

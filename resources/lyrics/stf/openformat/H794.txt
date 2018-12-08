@@ -1,51 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF794 Now, Lord, you let your servant go in peace:</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 NUNC DIMITTIS (The Song of Simeon)
-
 1
-
 Now, Lord, you let your servant go in peace:
 your word has been fulfilled.
-
 2
-
 My own eyes have seen the salvation
 which you have prepared in the sight of every people;
-
 3
-
 A light to reveal you to the nations
 and the glory of your people Israel.
-
 Glory to the Father and to the Son
 and to the Holy Spirit;
 as it was in the beginning is now

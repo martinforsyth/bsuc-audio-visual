@@ -1,79 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF827 Praise the Lord!</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 113
-
 1
-
 Praise the Lord!
 Praise, O servants of the Lord;
 praise the name of the Lord.
-
 2
-
 Blessed be the name of the Lord
 from this time on and for evermore.
-
 3
-
 From the rising of the sun to its setting
 the name of the Lord is to be praised.
-
 4
-
 The Lord is high above all nations,
 and his glory above the heavens.
-
 5
-
 Who is like the Lord our God,
 who is seated on high,
-
 6
-
 who looks far down
 on the heavens and the earth?
-
 7
-
 He raises the poor from the dust,
 and lifts the needy from the ash heap,
-
 8
-
 to make them sit with princes,
 with the princes of his people.
-
 9
-
 He gives the barren woman a home,
 making her the joyous mother of children.
 Praise the Lord!

@@ -1,119 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF816 Lord, you have been our refuge</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 90
-
 1
-
 Lord, you have been our refuge
 from one generation to another.
-
 2
-
 Before the mountains were brought forth, or the earth and the world were formed,
 from everlasting to everlasting you are God.
-
 3
-
 You turn us back to dust and say:
 'Turn back, O children of earth.'
-
 4
-
 For a thousand years in your sight are but as yesterday,
 which passes like a watch in the night.
-
 5
-
 You sweep them away like a dream;
 they fade away suddenly like the grass.
-
 6
-
 In the morning it is green and flourishes;
 in the evening it is dried up and withered.
-
 7
-
 For we consume away in your displeasure;
 we are afraid at your wrathful indignation.
-
 8
-
 You have set our misdeeds before you
 and our secret sins in the light of your countenance.
-
 9
-
 When you are angry, all our days are gone;
 our years come to an end like a sigh.
-
 10
-
 The days of our life are three score years and ten,
 or if our strength endures, even four score;
 yet the sum of them is but labour and sorrow,
 for they soon pass away and we are gone.
-
 11
-
 Who regards the power of your wrath
 and your indignation like those who fear you?
-
 12
-
 So teach us to number our days
 that we may apply our hearts to wisdom.
-
 13
-
 Turn again, O Lord;how long will you delay?
 Have compassion on your servants.
-
 14
-
 Satisfy us with your loving-kindness in the morning,
 that we may rejoice and be glad all our days.
-
 15
-
 Give us gladness for the days you have afflicted us,
 and for the years in which we have seen adversity.
-
 16
-
 Show your servants your works,
 and let your glory be over their children.
-
 17
-
 May the gracious favour of the Lord our God be upon us;
 prosper our handiwork;O prosper the work of our hands.

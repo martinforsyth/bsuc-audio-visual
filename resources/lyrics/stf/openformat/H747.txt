@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF747 Give me the wings of faith to rise</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Isaac Watts (1674-1748)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Give me the wings of faith to rise<br/>within the veil, and see<br/>the saints above, how great their joys,<br/>how bright their glories be.
     </verse>
-
+    <verse name="v2"><br/>Once they were mourners here below,<br/>and poured out sighs and tears;<br/>they wrestled hard, as we do now,<br/>with sins and doubts and fears.
+    </verse>
+    <verse name="v3"><br/>I ask them whence their victory came;<br/>they, with united breath,<br/>ascribe their conquest to the Lamb,<br/>their triumph to his death.
+    </verse>
+    <verse name="v4"><br/>They marked the footsteps that he trod;<br/>his zeal inspired their breast;<br/>and, following their incarnate God,<br/>possess the promised rest.
+    </verse>
+    <verse name="v5"><br/>Our glorious Leader claims our praise<br/>for his own pattern given;<br/>while the long cloud of witnesses<br/>show the same path to heaven.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Give me the wings of faith to rise
-within the veil, and see
-the saints above, how great their joys,
-how bright their glories be.
-
-2
-
-Once they were mourners here below,
-and poured out sighs and tears;
-they wrestled hard, as we do now,
-with sins and doubts and fears.
-
-3
-
-I ask them whence their victory came;
-they, with united breath,
-ascribe their conquest to the Lamb,
-their triumph to his death.
-
-4
-
-They marked the footsteps that he trod;
-his zeal inspired their breast;
-and, following their incarnate God,
-possess the promised rest.
-
-5
-
-Our glorious Leader claims our praise
-for his own pattern given;
-while the long cloud of witnesses
-show the same path to heaven.

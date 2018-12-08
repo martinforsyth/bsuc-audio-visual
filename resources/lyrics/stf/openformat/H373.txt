@@ -1,61 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF373 Come, Holy Ghost, our souls inspire,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Come, Holy Ghost, our souls inspire,<br/>and lighten with celestial fire;<br/>thou the anointing Spirit art,<br/>who dost thy sevenfold gifts impart.
     </verse>
-
+    <verse name="v2"><br/>Thy blessed unction from above<br/>is comfort, life, and fire of love;<br/>enable with perpetual light<br/>the dullness of our blinded sight.
+    </verse>
+    <verse name="v3"><br/>Anoint and cheer our soiled face<br/>with the abundance of thy grace;<br/>keep far our foes, give peace at home;<br/>where thou art guide no ill can come.
+    </verse>
+    <verse name="v4"><br/>Teach us to know the Father, Son,<br/>and thee, of both, to be but One;<br/>that through the ages all along<br/>this may be our endless song:<br/>'Praise to thy eternal merit,<br/>Father, Son, and Holy Spirit. Amen.'</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Come, Holy Ghost, our souls inspire,
-and lighten with celestial fire;
-thou the anointing Spirit art,
-who dost thy sevenfold gifts impart.
-
-2
-
-Thy blessed unction from above
-is comfort, life, and fire of love;
-enable with perpetual light
-the dullness of our blinded sight.
-
-3
-
-Anoint and cheer our soiled face
-with the abundance of thy grace;
-keep far our foes, give peace at home;
-where thou art guide no ill can come.
-
-4
-
-Teach us to know the Father, Son,
-and thee, of both, to be but One;
-that through the ages all along
-this may be our endless song:
-
-'Praise to thy eternal merit,
-Father, Son, and Holy Spirit. Amen.'

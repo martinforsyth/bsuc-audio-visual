@@ -1,82 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF174 Light a candle in a darkened place,</title>
     </titles>
-
-<comments>
-<comment>The verses may be sung progressively through Advent until verse 6 on Christmas Day. Verses 1 & 2 should be used on the First Sunday of Advent.</comment>
-</comments>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <comments>
+      <comment>The verses may be sung progressively through Advent until verse 6 on Christmas Day. Verses 1 & 2 should be used on the First Sunday of Advent.</comment>
+    </comments>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Clare Stainsby (b. 1959)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Light a candle in a darkened place,<br/>in its flame see hope on every face,<br/>Christ our Saviour will be born,<br/>heralding a brand new dawn,<br/>so let it burn.
     </verse>
-
+    <verse name="v2"><br/>In the darkness, see the coming light,<br/>Word of God speaks through the darkest night,<br/>keep a watch, the time is near,<br/>time for hope and not for fear,<br/>so let it burn.
+    </verse>
+    <verse name="v3"><br/>Stepping through each page of history,<br/>prophets contemplate this mystery,<br/>celebrate the coming King,<br/>words of joy and hope they bring,<br/>so let it burn.
+    </verse>
+    <verse name="v4"><br/>In the desert now the waiting's done,<br/>make things ready for your King, says John,<br/>see, his glory is revealed,<br/>and the hope for all is sealed,<br/>so let it burn.
+    </verse>
+    <verse name="v5"><br/>Mary found true favour with the Lord,<br/>yet she trembled at his strange reward,<br/>knew this was the special One,<br/>hope for many through God's Son,<br/>so let it burn.
+    </verse>
+    <verse name="v6"><br/>Do not fear, today I bring good cheer,<br/>Jesus Christ, the Saviour now is here,<br/>God has lit his flame of love,<br/>through his Son from Heaven above.<br/>So let it burn.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Light a candle in a darkened place,
-in its flame see hope on every face,
-Christ our Saviour will be born,
-heralding a brand new dawn,
-so let it burn.
-
-2
-
-In the darkness, see the coming light,
-Word of God speaks through the darkest night,
-keep a watch, the time is near,
-time for hope and not for fear,
-so let it burn.
-
-3
-
-Stepping through each page of history,
-prophets contemplate this mystery,
-celebrate the coming King,
-words of joy and hope they bring,
-so let it burn.
-
-4
-
-In the desert now the waiting's done,
-make things ready for your King, says John,
-see, his glory is revealed,
-and the hope for all is sealed,
-so let it burn.
-
-5
-
-Mary found true favour with the Lord,
-yet she trembled at his strange reward,
-knew this was the special One,
-hope for many through God's Son,
-so let it burn.
-
-6
-
-Do not fear, today I bring good cheer,
-Jesus Christ, the Saviour now is here,
-God has lit his flame of love,
-through his Son from Heaven above.
-So let it burn.

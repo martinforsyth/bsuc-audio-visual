@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF108 In the beginning God played with the planets,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Andrew Pratt (b. 1948)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>In the beginning God played with the planets,<br/>set them a-spinning in time and in space,<br/>stars in the night sky, while sun lit the daytime,<br/>blue was the globe that was formed for our race.
     </verse>
-
+    <verse name="v2"><br/>God saw the seas and the fish that swam in them,<br/>formed the dry land where the trees soon would grow,<br/>animals now could inhabit the countries<br/>warmed by the oceans or covered in snow.
+    </verse>
+    <verse name="v3"><br/>After the animals, people were coming,<br/>made in God's likeness to live on the earth;<br/>big the blue planet God gave them to live on,<br/>sharing its riches, its wonder and worth.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-In the beginning God played with the planets,
-set them a-spinning in time and in space,
-stars in the night sky, while sun lit the daytime,
-blue was the globe that was formed for our race.
-
-2
-
-God saw the seas and the fish that swam in them,
-formed the dry land where the trees soon would grow,
-animals now could inhabit the countries
-warmed by the oceans or covered in snow.
-
-3
-
-After the animals, people were coming,
-made in God's likeness to live on the earth;
-big the blue planet God gave them to live on,
-sharing its riches, its wonder and worth.

@@ -1,60 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF386 In the beginning was darkness and nothing;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Vicky Beeching</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>In the beginning was darkness and nothing;<br/>your Spirit was moving over the deep.<br/>You spoke a whisper and creation existed,<br/>birthed by the mighty words that you speak.<br/>Just say the word and my weary soul will be renewed.<br/>Breathe on me O breath of God and fill me with life anew.<br/>Breathe on me O breath of God and set this heart on fire for you.
     </verse>
-
+    <verse name="v2"><br/>Bones in a valley were changed into an army,<br/>raised by your Spirit's powerful touch.<br/>Here in your presence I'm needing your refreshing;<br/>Lord please revive my heart with your love.<br/>Just say the word and my weary soul will be renewed.<br/>Breathe on me O breath of God ...<br/>Revival fire, fall down like the rain.<br/>Revival fire, set my soul ablaze.<br/>Revival fire, fall down like the rain.<br/>Revival fire, set my soul ablaze.<br/>Breathe on me O breath of God ...</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-In the beginning was darkness and nothing;
-your Spirit was moving over the deep.
-You spoke a whisper and creation existed,
-birthed by the mighty words that you speak.
-
-Just say the word and my weary soul will be renewed.
-
-Breathe on me O breath of God and fill me with life anew.
-Breathe on me O breath of God and set this heart on fire for you.
-
-2
-
-Bones in a valley were changed into an army,
-raised by your Spirit's powerful touch.
-Here in your presence I'm needing your refreshing;
-Lord please revive my heart with your love.
-
-Just say the word and my weary soul will be renewed.
-
-Breathe on me O breath of God ...
-
-Revival fire, fall down like the rain.
-Revival fire, set my soul ablaze.
-Revival fire, fall down like the rain.
-Revival fire, set my soul ablaze.
-
-Breathe on me O breath of God ...

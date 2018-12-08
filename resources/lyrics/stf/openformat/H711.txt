@@ -1,57 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF711 Pray for the Church, afflicted and oppressed,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Fred Pratt Green (1903-2000)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Pray for the Church, afflicted and oppressed,<br/>for all who suffer for the gospel's sake,<br/>that Christ may show us how to serve them best<br/>in that one Kingdom Satan cannot shake.<br/>But how much more than us they have to give,<br/>who by their dying show us how to live!
     </verse>
-
+    <verse name="v2"><br/>Pray for Christ's dissidents, who daily wait,<br/>as Jesus waited in the olive grove,<br/>the unjust trial, the pre-determined fate,<br/>the world's contempt for reconciling love.<br/>Shall all they won for us, at such a cost,<br/>be by our negligence or weakness lost?
+    </verse>
+    <verse name="v3"><br/>Pray that if times of testing should lay bare<br/>what sort we are, who call ourselves his own,<br/>we may be counted worthy then to wear,<br/>with quiet fortitude, Christ's only crown:<br/>the crown that in his saints he wears again --<br/>the crown of thorns that signifies his reign.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Pray for the Church, afflicted and oppressed,
-for all who suffer for the gospel's sake,
-that Christ may show us how to serve them best
-in that one Kingdom Satan cannot shake.
-But how much more than us they have to give,
-who by their dying show us how to live!
-
-2
-
-Pray for Christ's dissidents, who daily wait,
-as Jesus waited in the olive grove,
-the unjust trial, the pre-determined fate,
-the world's contempt for reconciling love.
-Shall all they won for us, at such a cost,
-be by our negligence or weakness lost?
-
-3
-
-Pray that if times of testing should lay bare
-what sort we are, who call ourselves his own,
-we may be counted worthy then to wear,
-with quiet fortitude, Christ's only crown:
-the crown that in his saints he wears again --
-the crown of thorns that signifies his reign.

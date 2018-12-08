@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF647 God grant us words to speak</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Alan Luff (b. 1928)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God grant us words to speak<br/>when words are all we bear<br/>to ease the pain that others feel<br/>and show our loving care.
     </verse>
-
+    <verse name="v2"><br/>And grant us words to weave<br/>an armour of the mind,<br/>to keep us sane within the hurts<br/>that torment humankind.
+    </verse>
+    <verse name="v3"><br/>And help us lean upon<br/>the only perfect Word,<br/>whose tears and anger showed his love<br/>for sinners whom he cured.
+    </verse>
+    <verse name="v4"><br/>Even upon the Cross<br/>his thoughts amid death's strife<br/>were for the ones whose pain he healed<br/>by words of love and life.
+    </verse>
+    <verse name="v5"><br/>Now we may grasp that sign<br/>that is above all speech,<br/>and struggle through the pain we feel<br/>to own the hope we teach.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God grant us words to speak
-when words are all we bear
-to ease the pain that others feel
-and show our loving care.
-
-2
-
-And grant us words to weave
-an armour of the mind,
-to keep us sane within the hurts
-that torment humankind.
-
-3
-
-And help us lean upon
-the only perfect Word,
-whose tears and anger showed his love
-for sinners whom he cured.
-
-4
-
-Even upon the Cross
-his thoughts amid death's strife
-were for the ones whose pain he healed
-by words of love and life.
-
-5
-
-Now we may grasp that sign
-that is above all speech,
-and struggle through the pain we feel
-to own the hope we teach.

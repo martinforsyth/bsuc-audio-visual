@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF502 I know that my Redeemer lives,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>I know that my Redeemer lives,<br/>and ever prays for me;<br/>a token of his love he gives,<br/>a pledge of liberty.
     </verse>
-
+    <verse name="v2"><br/>I find him lifting up my head,<br/>he brings salvation near,<br/>his presence makes me free indeed,<br/>and he will soon appear.
+    </verse>
+    <verse name="v3"><br/>He wills that I should holy be;<br/>what can withstand his will?<br/>The counsel of his grace in me<br/>he surely shall fulfil.
+    </verse>
+    <verse name="v4"><br/>Jesus, I hang upon your word;<br/>I steadfastly believe<br/>you will return and claim me, Lord,<br/>and to yourself receive.
+    </verse>
+    <verse name="v5"><br/>Your love I soon expect to find<br/>in all its depth and height,<br/>to comprehend the eternal mind,<br/>and grasp the Infinite.
+    </verse>
+    <verse name="v6"><br/>When God is mine, and I am his,<br/>of paradise possessed,<br/>I taste unutterable bliss<br/>and everlasting rest.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-I know that my Redeemer lives,
-and ever prays for me;
-a token of his love he gives,
-a pledge of liberty.
-
-2
-
-I find him lifting up my head,
-he brings salvation near,
-his presence makes me free indeed,
-and he will soon appear.
-
-3
-
-He wills that I should holy be;
-what can withstand his will?
-The counsel of his grace in me
-he surely shall fulfil.
-
-4
-
-Jesus, I hang upon your word;
-I steadfastly believe
-you will return and claim me, Lord,
-and to yourself receive.
-
-5
-
-Your love I soon expect to find
-in all its depth and height,
-to comprehend the eternal mind,
-and grasp the Infinite.
-
-6
-
-When God is mine, and I am his,
-of paradise possessed,
-I taste unutterable bliss
-and everlasting rest.

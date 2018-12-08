@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF97 When all your mercies, O my God,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Joseph Addison (1672-1719)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>When all your mercies, O my God,<br/>my rising soul surveys,<br/>transported with the view, I'm lost<br/>in wonder, love, and praise.
     </verse>
-
+    <verse name="v2"><br/>Unnumbered comforts on my soul<br/>your tender care bestowed,<br/>before my infant heart conceived<br/>from whom those comforts flowed.
+    </verse>
+    <verse name="v3"><br/>Ten thousand thousand precious gifts<br/>my daily thanks employ,<br/>nor is the least a cheerful heart<br/>that tastes those gifts with joy.
+    </verse>
+    <verse name="v4"><br/>Through every period of my life<br/>your goodness I'll pursue,<br/>and after death, in distant worlds,<br/>the glorious theme renew.
+    </verse>
+    <verse name="v5"><br/>Through all eternity to you<br/>a joyful song I'll raise;<br/>for O eternity's too short<br/>to utter all your praise!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-When all your mercies, O my God,
-my rising soul surveys,
-transported with the view, I'm lost
-in wonder, love, and praise.
-
-2
-
-Unnumbered comforts on my soul
-your tender care bestowed,
-before my infant heart conceived
-from whom those comforts flowed.
-
-3
-
-Ten thousand thousand precious gifts
-my daily thanks employ,
-nor is the least a cheerful heart
-that tastes those gifts with joy.
-
-4
-
-Through every period of my life
-your goodness I'll pursue,
-and after death, in distant worlds,
-the glorious theme renew.
-
-5
-
-Through all eternity to you
-a joyful song I'll raise;
-for O eternity's too short
-to utter all your praise!

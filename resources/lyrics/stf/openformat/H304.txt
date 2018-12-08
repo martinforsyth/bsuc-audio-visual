@@ -1,77 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF304 Jesus is risen, alleluia!</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Bernard Kyamanywa (b. 1938)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Jesus is risen, alleluia!<br/>Worship and praise him, alleluia!<br/>Now our redeemer bursts from the grave;<br/>lost to the tomb, Christ rises to save.<br/>Come, let us worship him,<br/>endlessly sing;<br/>Christ is alive and death loses its sting.<br/>Sins are forgiven, alleluia!<br/>Jesus is risen, alleluia!
     </verse>
-
+    <verse name="v2"><br/>Buried for three days, destined for death,<br/>now he returns to breathe with our breath.<br/>Blest are the ears alert to his voice,<br/>blest are the hearts which for him rejoice.
+    </verse>
+    <verse name="v3"><br/>'Don't be afraid!' the angel had said,<br/>'Why seek the living here with the dead?<br/>Look, where he lay, his body is gone,<br/>risen and vibrant, warm with the sun.'
+    </verse>
+    <verse name="v4"><br/>'Go and tell others, Christ is alive.'<br/>Love is eternal, faith and hope thrive.<br/>What God intended, Jesus fulfilled;<br/>what God conceives can never be killed.
+    </verse>
+    <verse name="v5"><br/>Christ has arisen! Now all can see<br/>how humankind is meant to be free.<br/>Though powers of darkness threaten their worst,<br/>through every barrier Jesus has burst.
+    </verse>
+    <verse name="v6"><br/>Let heaven echo, let the earth sing:<br/>Jesus is saviour of everything.<br/>All those who trust him, Christ will receive;<br/>therefore rejoice, obey and believe!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Jesus is risen, alleluia!
-Worship and praise him, alleluia!
-Now our redeemer bursts from the grave;
-lost to the tomb, Christ rises to save.
-Come, let us worship him,
-endlessly sing;
-Christ is alive and death loses its sting.
-Sins are forgiven, alleluia!
-Jesus is risen, alleluia!
-
-2
-
-Buried for three days, destined for death,
-now he returns to breathe with our breath.
-Blest are the ears alert to his voice,
-blest are the hearts which for him rejoice.
-
-3
-
-'Don't be afraid!' the angel had said,
-'Why seek the living here with the dead?
-Look, where he lay, his body is gone,
-risen and vibrant, warm with the sun.'
-
-4
-
-'Go and tell others, Christ is alive.'
-Love is eternal, faith and hope thrive.
-What God intended, Jesus fulfilled;
-what God conceives can never be killed.
-
-5
-
-Christ has arisen! Now all can see
-how humankind is meant to be free.
-Though powers of darkness threaten their worst,
-through every barrier Jesus has burst.
-
-6
-
-Let heaven echo, let the earth sing:
-Jesus is saviour of everything.
-All those who trust him, Christ will receive;
-therefore rejoice, obey and believe!

@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF443 Come, let us sing of a wonderful love,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Robert Walmsley (1831-1905)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Come, let us sing of a wonderful love,<br/>tender and true;<br/>out of the heart of the Father above,<br/>streaming to me and to you:<br/>wonderful love<br/>dwells in the heart of the Father above.
     </verse>
-
+    <verse name="v2"><br/>Jesus, the Saviour, this gospel to tell,<br/>joyfully came;<br/>came with the helpless and hopeless to dwell,<br/>sharing their sorrow and shame;<br/>seeking the lost,<br/>saving, redeeming at measureless cost.
+    </verse>
+    <verse name="v3"><br/>Jesus is seeking the wanderers yet;<br/>why do they roam?<br/>Love only waits to forgive and forget;<br/>home, weary wanderer, home!<br/>Wonderful love<br/>dwells in the heart of the Father above.
+    </verse>
+    <verse name="v4"><br/>Come to my heart, O thou wonderful love,<br/>come and abide,<br/>lifting my life, till it rises above<br/>envy and falsehood and pride;<br/>seeking to be<br/>lowly and humble, a learner of thee.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Come, let us sing of a wonderful love,
-tender and true;
-out of the heart of the Father above,
-streaming to me and to you:
-wonderful love
-dwells in the heart of the Father above.
-
-2
-
-Jesus, the Saviour, this gospel to tell,
-joyfully came;
-came with the helpless and hopeless to dwell,
-sharing their sorrow and shame;
-seeking the lost,
-saving, redeeming at measureless cost.
-
-3
-
-Jesus is seeking the wanderers yet;
-why do they roam?
-Love only waits to forgive and forget;
-home, weary wanderer, home!
-Wonderful love
-dwells in the heart of the Father above.
-
-4
-
-Come to my heart, O thou wonderful love,
-come and abide,
-lifting my life, till it rises above
-envy and falsehood and pride;
-seeking to be
-lowly and humble, a learner of thee.

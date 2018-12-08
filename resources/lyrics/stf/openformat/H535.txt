@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF535 God, when I came into this life</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Fred Kaan (1929-2009)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God, when I came into this life<br/>you called me by my name;<br/>today I come, commit myself,<br/>responding to your claim.
     </verse>
-
+    <verse name="v2"><br/>You give me freedom to believe;<br/>today I make my choice<br/>and to the worship of the Church<br/>I add my learning voice.
+    </verse>
+    <verse name="v3"><br/>Within the circle of the faith,<br/>as member of your cast,<br/>I take my place with all the saints<br/>of future, present, past.
+    </verse>
+    <verse name="v4"><br/>In all the tensions of my life,<br/>between my faith and doubt,<br/>let your great Spirit give me hope,<br/>sustain me, lead me out.
+    </verse>
+    <verse name="v5"><br/>So, help me in my unbelief<br/>and let my life be true:<br/>feet firmly planted on the earth,<br/>my sights set high on you.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God, when I came into this life
-you called me by my name;
-today I come, commit myself,
-responding to your claim.
-
-2
-
-You give me freedom to believe;
-today I make my choice
-and to the worship of the Church
-I add my learning voice.
-
-3
-
-Within the circle of the faith,
-as member of your cast,
-I take my place with all the saints
-of future, present, past.
-
-4
-
-In all the tensions of my life,
-between my faith and doubt,
-let your great Spirit give me hope,
-sustain me, lead me out.
-
-5
-
-So, help me in my unbelief
-and let my life be true:
-feet firmly planted on the earth,
-my sights set high on you.

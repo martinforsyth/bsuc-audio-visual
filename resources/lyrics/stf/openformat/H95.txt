@@ -1,59 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF95 We praise you, O God;acclaim you as Lord.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We praise you, O God;acclaim you as Lord.<br/>All of creation resounds to the voice of the heavenly host<br/>united in song,<br/>praising your majesty, praising your glory.<br/>Alleluia, alleluia.<br/>Holy is God, holy and strong.<br/>Alleluia, alleluia.<br/>Holy Immortal One.
     </verse>
-
+    <verse name="v2"><br/>Apostles and prophets, the martyrs for Christ,<br/>sing of your goodness while bathed in the beams of your infinite love,<br/>your splendour and light,
+    </verse>
+    <verse name="v3"><br/>Lord Jesus the Christ, your death brings us life.<br/>Come with your judgment and grant us a place in the Kingdom of God,<br/>at one with your saints,
+    </verse>
+    <verse name="v4"><br/>Lord, grant us salvation, protect us from harm.<br/>Free us from evil and bless us with mercy as daily in you<br/>we trust and we hope,</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We praise you, O God;acclaim you as Lord.
-All of creation resounds to the voice of the heavenly host
-united in song,
-praising your majesty, praising your glory.
-Alleluia, alleluia.
-Holy is God, holy and strong.
-Alleluia, alleluia.
-Holy Immortal One.
-
-2
-
-Apostles and prophets, the martyrs for Christ,
-sing of your goodness while bathed in the beams of your infinite love,
-your splendour and light,
-
-3
-
-Lord Jesus the Christ, your death brings us life.
-Come with your judgment and grant us a place in the Kingdom of God,
-at one with your saints,
-
-4
-
-Lord, grant us salvation, protect us from harm.
-Free us from evil and bless us with mercy as daily in you
-we trust and we hope,

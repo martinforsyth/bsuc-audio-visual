@@ -1,50 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF555 Jesus, all for Jesus;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Jennifer Atkinson</author>
       <author>Robin Mark</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Jesus, all for Jesus;<br/>all I am and have and ever hope to be.<br/>Jesus, all for Jesus;<br/>all I am and have and ever hope to be.
     </verse>
-
+    <verse name="v2"><br/>All of my ambitions, hopes and plans,<br/>I surrender these into your hands.<br/>All of my ambitions, hopes and plans,<br/>I surrender these into your hands.<br/>For it's only in your will that I am free.<br/>For it's only in your will that I am free.<br/>(repeat verse 1.)</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Jesus, all for Jesus;
-all I am and have and ever hope to be.
-Jesus, all for Jesus;
-all I am and have and ever hope to be.
-
-2
-
-All of my ambitions, hopes and plans,
-I surrender these into your hands.
-All of my ambitions, hopes and plans,
-I surrender these into your hands.
-
-For it's only in your will that I am free.
-For it's only in your will that I am free.
-
-(repeat verse 1.)

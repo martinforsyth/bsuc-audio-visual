@@ -1,62 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF800 Happy are those who do not follow the advice of the wicked,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 1
-
 1
-
 Happy are those who do not follow the advice of the wicked,
 or take the path that sinners tread, or sit in the seat of scoffers;
-
 2
-
 their delight is in the law of the Lord,
 and on his law they meditate day and night.
-
 3
-
 They are like trees planted by streams of water, which yield their fruit in its season,
 their leaves do not wither. In all that they do, they prosper.
-
 4
-
 The wicked are not so,
 they are like chaff that the wind drives away.
-
 5
-
 Therefore the wicked will not stand in the judgment,
 nor sinners in the congregation of the righteous;
-
 6
-
 for the Lord watches over the way of the righteous,
 but the way of the wicked will perish.

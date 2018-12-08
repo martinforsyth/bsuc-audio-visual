@@ -1,79 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF364 O for a thousand tongues to sing</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>O for a thousand tongues to sing<br/>my great Redeemer's praise,<br/>the glories of my God and King,<br/>the triumphs of his grace!
     </verse>
-
+    <verse name="v2"><br/>My gracious Master and my God,<br/>assist me to proclaim,<br/>to spread through all the earth abroad<br/>the honours of your name.
+    </verse>
+    <verse name="v3"><br/>Jesus -- the name that charms our fears,<br/>that bids our sorrows cease;<br/>'tis music in the sinner's ears,<br/>'tis life, and health, and peace.
+    </verse>
+    <verse name="v4"><br/>He breaks the power of cancelled sin,<br/>he sets the prisoner free;<br/>his blood can make the foulest clean,<br/>his blood availed for me.
+    </verse>
+    <verse name="v5"><br/>He speaks;and, listening to his voice,<br/>new life the dead receive;<br/>the mournful, broken hearts rejoice;<br/>the humble poor believe.
+    </verse>
+    <verse name="v6"><br/>See all your sins on Jesus laid:<br/>the Lamb of God was slain;<br/>his soul was once an offering made<br/>that all may heaven gain.
+    </verse>
+    <verse name="v7"><br/>In Christ, our Head, you then shall know,<br/>shall feel, your sins forgiven,<br/>anticipate your heaven below,<br/>and own that love is heaven.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-O for a thousand tongues to sing
-my great Redeemer's praise,
-the glories of my God and King,
-the triumphs of his grace!
-
-2
-
-My gracious Master and my God,
-assist me to proclaim,
-to spread through all the earth abroad
-the honours of your name.
-
-3
-
-Jesus -- the name that charms our fears,
-that bids our sorrows cease;
-'tis music in the sinner's ears,
-'tis life, and health, and peace.
-
-4
-
-He breaks the power of cancelled sin,
-he sets the prisoner free;
-his blood can make the foulest clean,
-his blood availed for me.
-
-5
-
-He speaks;and, listening to his voice,
-new life the dead receive;
-the mournful, broken hearts rejoice;
-the humble poor believe.
-
-6
-
-See all your sins on Jesus laid:
-the Lamb of God was slain;
-his soul was once an offering made
-that all may heaven gain.
-
-7
-
-In Christ, our Head, you then shall know,
-shall feel, your sins forgiven,
-anticipate your heaven below,
-and own that love is heaven.

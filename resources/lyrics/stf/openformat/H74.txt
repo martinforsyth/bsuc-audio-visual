@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF74 For the music of creation,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Shirley Erena Murray (b. 1931)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>For the music of creation,<br/>for the song your Spirit sings,<br/>for your sound's divine expression,<br/>burst of joy in living things:<br/>God, our God, the world's composer,<br/>hear us, echoes of your voice --<br/>music is your art, your glory,<br/>let the human heart rejoice!
     </verse>
-
+    <verse name="v2"><br/>Psalms and symphonies exalt you,<br/>drum and trumpet, string and reed,<br/>simple melodies acclaim you,<br/>tunes that rise from deepest need,<br/>hymns of longing and belonging,<br/>carols from a cheerful throat,<br/>lilt of lullaby and love song<br/>catching heaven in a note.
+    </verse>
+    <verse name="v3"><br/>All the voices of the ages<br/>in transcendent chorus meet,<br/>worship lifting up the senses,<br/>hands that praise, and dancing feet;<br/>over discord and division<br/>music speaks your joy and peace,<br/>harmony of earth and heaven,<br/>song of God that cannot cease!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-For the music of creation,
-for the song your Spirit sings,
-for your sound's divine expression,
-burst of joy in living things:
-God, our God, the world's composer,
-hear us, echoes of your voice --
-music is your art, your glory,
-let the human heart rejoice!
-
-2
-
-Psalms and symphonies exalt you,
-drum and trumpet, string and reed,
-simple melodies acclaim you,
-tunes that rise from deepest need,
-hymns of longing and belonging,
-carols from a cheerful throat,
-lilt of lullaby and love song
-catching heaven in a note.
-
-3
-
-All the voices of the ages
-in transcendent chorus meet,
-worship lifting up the senses,
-hands that praise, and dancing feet;
-over discord and division
-music speaks your joy and peace,
-harmony of earth and heaven,
-song of God that cannot cease!

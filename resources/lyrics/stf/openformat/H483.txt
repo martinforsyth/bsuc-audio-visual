@@ -1,73 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF483 We are marching in the light of God,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Anders Nyberg (b. 1955</author>
       <author>Andrew Maries (b. 1949)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We are marching in the light of God,<br/>we are marching in the light of God.<br/>We are marching in the light of God,<br/>we are marching in the light of God.<br/>We are marching, oh,<br/>we are marching in the light of God,<br/>we are marching, oh,<br/>we are marching in the light of God.
     </verse>
-
+    <verse name="v2"><br/>We are living in the love of God,<br/>we are living in the love of God.<br/>We are living in the love of God,<br/>we are living in the love of God.<br/>We are living, oh,<br/>we are living in the love of God,<br/>we are living, oh,<br/>we are living in the love of God.
+    </verse>
+    <verse name="v3"><br/>We are moving in the power of God,<br/>we are moving in the power of God.<br/>We are moving in the power of God,<br/>we are moving in the power of God.<br/>We are moving, oh,<br/>we are moving in the power of God,<br/>we are moving, oh,<br/>we are moving in the power of God.<br/>Original Xhosa:<br/>Siyahamb' ekukhanyen' kwenkhos',<br/>Siyahamb' ekukhanyen' kwenkhos'.<br/>Siyahamb' ekukhanyen' kwenkhos',<br/>Siyahamb' ekukhanyen' kwenkhos'.<br/>Siya' hamba hamba, siyahamba,<br/>hamba siyahamb' ekukhanyen' kwenkhos'.<br/>Siya' hamba hamba, siyahamba,<br/>hamba siyahamb' ekukhanyen' kwenkhos'.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We are marching in the light of God,
-we are marching in the light of God.
-We are marching in the light of God,
-we are marching in the light of God.
-We are marching, oh,
-we are marching in the light of God,
-we are marching, oh,
-we are marching in the light of God.
-
-2
-
-We are living in the love of God,
-we are living in the love of God.
-We are living in the love of God,
-we are living in the love of God.
-We are living, oh,
-we are living in the love of God,
-we are living, oh,
-we are living in the love of God.
-
-3
-
-We are moving in the power of God,
-we are moving in the power of God.
-We are moving in the power of God,
-we are moving in the power of God.
-We are moving, oh,
-we are moving in the power of God,
-we are moving, oh,
-we are moving in the power of God.
-
-Original Xhosa:
-Siyahamb' ekukhanyen' kwenkhos',
-Siyahamb' ekukhanyen' kwenkhos'.
-Siyahamb' ekukhanyen' kwenkhos',
-Siyahamb' ekukhanyen' kwenkhos'.
-
-Siya' hamba hamba, siyahamba,
-hamba siyahamb' ekukhanyen' kwenkhos'.
-Siya' hamba hamba, siyahamba,
-hamba siyahamb' ekukhanyen' kwenkhos'.

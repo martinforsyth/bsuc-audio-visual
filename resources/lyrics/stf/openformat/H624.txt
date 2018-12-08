@@ -1,42 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF624 Calm me, Lord, as you calmed the storm;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>David Adam (b. 1936)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Calm me, Lord, as you calmed the storm;<br/>still me, Lord, keep me from harm.<br/>Let all the tumult within me cease;<br/>enfold me, Lord, in your peace.
     </verse>
-
+    <verse name="v2"><br/>Calm me, Lord, as you calmed the storm;<br/>still me, Lord, keep me from harm.<br/>Let all the tumult within me cease;<br/>enfold me, Lord, enfold me in your peace.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-Calm me, Lord, as you calmed the storm;
-still me, Lord, keep me from harm.
-Let all the tumult within me cease;
-enfold me, Lord, in your peace.
-
-2
-
-Calm me, Lord, as you calmed the storm;
-still me, Lord, keep me from harm.
-Let all the tumult within me cease;
-enfold me, Lord, enfold me in your peace.

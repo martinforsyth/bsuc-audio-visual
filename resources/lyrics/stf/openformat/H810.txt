@@ -1,87 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF810 God is our refuge and strength,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 46
-
 1
-
 God is our refuge and strength,
 a very present help in trouble;
-
 2
-
 Therefore we will not fear, though the earth be moved,
 and though the mountains tremble in the heart of the sea;
-
 3
-
 Though the waters rage and swell,
 and though the mountains quake at the towering seas.
-
 4
-
 There is a river whose streams make glad the city of God,
 the holy place of the dwelling of the Most High.
-
 5
-
 God is in the midst of her;therefore shall she not be removed;
 God shall help her at the break of day.
-
 6
-
 The nations are in uproar and the kingdoms are shaken,
 but God utters his voice and the earth shall melt away.
-
 7
-
 The Lord of hosts is with us;
 the God of Jacob is our stronghold.
-
 8
-
 Come and behold the works of the Lord,
 what destruction he has wrought upon the earth.
-
 9
-
 He makes wars to cease in all the world;
 he shatters the bow and snaps the spear and burns the chariots in the fire.
-
 10
-
 'Be still, and know that I am God;
 I will be exalted among the nations;I will be exalted in the earth.'
-
 11
-
 The Lord of hosts is with us;
 the God of Jacob is our stronghold.

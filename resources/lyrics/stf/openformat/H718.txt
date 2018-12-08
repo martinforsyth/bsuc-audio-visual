@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF718 We lay our broken world</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Anna Briggs (b. 1947)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We lay our broken world<br/>in sorrow at your feet,<br/>haunted by hunger, war and fear,<br/>oppressed by power and hate.
     </verse>
-
+    <verse name="v2"><br/>Here human life seems less<br/>than profit, might and pride,<br/>though to unite us all in you,<br/>you lived and loved and died.
+    </verse>
+    <verse name="v3"><br/>We bring our broken towns,<br/>our neighbours hurt and bruised;<br/>you show us how old pain and wounds<br/>for new life can be used.
+    </verse>
+    <verse name="v4"><br/>We bring our broken loves,<br/>friends parted, families torn;<br/>then in your life and death we see<br/>that love must be reborn.
+    </verse>
+    <verse name="v5"><br/>We bring our broken selves,<br/>confused and closed and tired;<br/>then through your gift of healing grace<br/>new purpose is inspired.
+    </verse>
+    <verse name="v6"><br/>O Spirit, on us breathe,<br/>with life and strength anew;<br/>find in us love, and hope, and trust,<br/>and lift us up to you.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We lay our broken world
-in sorrow at your feet,
-haunted by hunger, war and fear,
-oppressed by power and hate.
-
-2
-
-Here human life seems less
-than profit, might and pride,
-though to unite us all in you,
-you lived and loved and died.
-
-3
-
-We bring our broken towns,
-our neighbours hurt and bruised;
-you show us how old pain and wounds
-for new life can be used.
-
-4
-
-We bring our broken loves,
-friends parted, families torn;
-then in your life and death we see
-that love must be reborn.
-
-5
-
-We bring our broken selves,
-confused and closed and tired;
-then through your gift of healing grace
-new purpose is inspired.
-
-6
-
-O Spirit, on us breathe,
-with life and strength anew;
-find in us love, and hope, and trust,
-and lift us up to you.

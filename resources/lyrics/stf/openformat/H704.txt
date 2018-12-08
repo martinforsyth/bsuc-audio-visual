@@ -1,79 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF704 In labour all creation groans</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
       <author>Delores Dufner</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>In labour all creation groans<br/>till fear and hatred cease,<br/>till human hearts have understood:<br/>in Christ alone is peace.
     </verse>
-
+    <verse name="v2"><br/>In labour all creation groans<br/>till unjust wages cease,<br/>till poor are clothed and children fed<br/>and Christ becomes their peace.
+    </verse>
+    <verse name="v3"><br/>In labour all creation groans<br/>till prejudice shall cease,<br/>till every gender, race, and creed<br/>in Christ will live at peace.
+    </verse>
+    <verse name="v4"><br/>In labour all creation groans<br/>till violent crime shall cease,<br/>till force gives way to gentleness<br/>and Christ becomes our peace.
+    </verse>
+    <verse name="v5"><br/>In labour all creation groans<br/>till rape and murder cease,<br/>till women walk by night unharmed<br/>and Christ is this world's peace.
+    </verse>
+    <verse name="v6"><br/>In labour all creation groans<br/>till false divisions cease,<br/>till differences are reconciled<br/>in Christ who is our peace.
+    </verse>
+    <verse name="v7"><br/>In labour all creation groans,<br/>God's justice to increase.<br/>When right in place of might prevails,<br/>then Christ will be our peace.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-In labour all creation groans
-till fear and hatred cease,
-till human hearts have understood:
-in Christ alone is peace.
-
-2
-
-In labour all creation groans
-till unjust wages cease,
-till poor are clothed and children fed
-and Christ becomes their peace.
-
-3
-
-In labour all creation groans
-till prejudice shall cease,
-till every gender, race, and creed
-in Christ will live at peace.
-
-4
-
-In labour all creation groans
-till violent crime shall cease,
-till force gives way to gentleness
-and Christ becomes our peace.
-
-5
-
-In labour all creation groans
-till rape and murder cease,
-till women walk by night unharmed
-and Christ is this world's peace.
-
-6
-
-In labour all creation groans
-till false divisions cease,
-till differences are reconciled
-in Christ who is our peace.
-
-7
-
-In labour all creation groans,
-God's justice to increase.
-When right in place of might prevails,
-then Christ will be our peace.

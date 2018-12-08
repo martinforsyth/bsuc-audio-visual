@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF194 Child of joy and peace,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Shirley Erena Murray (b. 1931)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Child of joy and peace,<br/>born to every race --<br/>by your star, the wise will know you,<br/>East and West their homage show you,<br/>look into your face,<br/>child of joy and peace.
     </verse>
-
+    <verse name="v2"><br/>Born among the poor<br/>on a stable floor,<br/>cold and raw, you know our hunger,<br/>weep our tears and cry our anger --<br/>yet you tell us more,<br/>born among the poor:
+    </verse>
+    <verse name="v3"><br/>Every child needs bread<br/>till the world is fed;<br/>you give bread, your hands enable<br/>all to gather round one table --<br/>Christmas must be shared,<br/>every child needs bread.
+    </verse>
+    <verse name="v4"><br/>Son of poverty,<br/>shame us till we see<br/>self-concerned, how we deny you,<br/>by our greed we crucify you<br/>on a Christmas tree,<br/>Son of poverty.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Child of joy and peace,
-born to every race --
-by your star, the wise will know you,
-East and West their homage show you,
-look into your face,
-child of joy and peace.
-
-2
-
-Born among the poor
-on a stable floor,
-cold and raw, you know our hunger,
-weep our tears and cry our anger --
-yet you tell us more,
-born among the poor:
-
-3
-
-Every child needs bread
-till the world is fed;
-you give bread, your hands enable
-all to gather round one table --
-Christmas must be shared,
-every child needs bread.
-
-4
-
-Son of poverty,
-shame us till we see
-self-concerned, how we deny you,
-by our greed we crucify you
-on a Christmas tree,
-Son of poverty.

@@ -1,62 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF246 He came to earth in poverty,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Martin Leckebusch (b. 1962)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>He came to earth in poverty,<br/>a child uniquely holy,<br/>forsaking heaven's majesty<br/>to live among the lowly:<br/>Emmanuel means God has come,<br/>a child of human birth --<br/>and here with us he made his home,<br/>the Son of God on earth.
     </verse>
-
+    <verse name="v2"><br/>A servant toiling with his hands,<br/>his sovereignty concealing,<br/>our daily lives he understands<br/>with perfect fellow-feeling:
+    </verse>
+    <verse name="v3"><br/>In meek obedience stooping down<br/>to taste humiliation,<br/>he freely took a thorny crown<br/>for reconciliation:
+    </verse>
+    <verse name="v4"><br/>Emmanuel! Our God is near,<br/>our every sorrow sharing:<br/>he knows our feelings -- he is here,<br/>our human frailty bearing:</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-He came to earth in poverty,
-a child uniquely holy,
-forsaking heaven's majesty
-to live among the lowly:
-Emmanuel means God has come,
-a child of human birth --
-and here with us he made his home,
-the Son of God on earth.
-
-2
-
-A servant toiling with his hands,
-his sovereignty concealing,
-our daily lives he understands
-with perfect fellow-feeling:
-
-3
-
-In meek obedience stooping down
-to taste humiliation,
-he freely took a thorny crown
-for reconciliation:
-
-4
-
-Emmanuel! Our God is near,
-our every sorrow sharing:
-he knows our feelings -- he is here,
-our human frailty bearing:

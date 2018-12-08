@@ -1,75 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF220 When a young unmarried couple</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Peter Relf (b. 1944)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>When a young unmarried couple<br/>tried to find a place to stay,<br/>then a Middle-Eastern village<br/>had no space, 'No, not today.'<br/>Mary's pregnancy was clear.<br/>'Go away! There's no room here!'
     </verse>
-
+    <verse name="v2"><br/>Labour pains forced urgent action:<br/>any shelter now till dawn!<br/>In a shed to house the livestock<br/>Mary's baby then was born --<br/>nowhere for the child to lay<br/>but a feeding trough with hay.
+    </verse>
+    <verse name="v3"><br/>Such undignified beginnings<br/>for a child -- no matter who --<br/>yet this is the baby Jesus,<br/>God's own Son! It's strange, but true:<br/>our God comes among the poor<br/>bringing hope for evermore.
+    </verse>
+    <verse name="v4"><br/>Songs that paint a cosy Christmas<br/>miss the truth of God above!<br/>See how God, rejected, homeless,<br/>came a child with wide-eyed love.<br/>Love transforms and brings release!<br/>Love brings justice, joy and peace!
+    </verse>
+    <verse name="v5"><br/>Here's good news:our God is with us,<br/>friend for life, in joy and need!<br/>In rejection, pain and trouble<br/>Jesus is our Friend in deed.<br/>Baby child and dying Friend,<br/>living Lord:love without end.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-When a young unmarried couple
-tried to find a place to stay,
-then a Middle-Eastern village
-had no space, 'No, not today.'
-Mary's pregnancy was clear.
-'Go away! There's no room here!'
-
-2
-
-Labour pains forced urgent action:
-any shelter now till dawn!
-In a shed to house the livestock
-Mary's baby then was born --
-nowhere for the child to lay
-but a feeding trough with hay.
-
-3
-
-Such undignified beginnings
-for a child -- no matter who --
-yet this is the baby Jesus,
-God's own Son! It's strange, but true:
-our God comes among the poor
-bringing hope for evermore.
-
-4
-
-Songs that paint a cosy Christmas
-miss the truth of God above!
-See how God, rejected, homeless,
-came a child with wide-eyed love.
-Love transforms and brings release!
-Love brings justice, joy and peace!
-
-5
-
-Here's good news:our God is with us,
-friend for life, in joy and need!
-In rejection, pain and trouble
-Jesus is our Friend in deed.
-Baby child and dying Friend,
-living Lord:love without end.

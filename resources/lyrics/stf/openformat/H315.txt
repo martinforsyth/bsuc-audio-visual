@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF315 We sing the praise of Jesus,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Norman Wallwork (b. 1946)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We sing the praise of Jesus,<br/>of our ascending Lord;<br/>the triumph of our Saviour,<br/>of Christ the Son of God.<br/>The forty days are over,<br/>earth sees his face no more;<br/>but Christ the King of glory<br/>we worship and adore.
     </verse>
-
+    <verse name="v2"><br/>Rejoicing in Christ's promise<br/>we wait in prayer and praise,<br/>the Spirit sent from heaven<br/>to set the earth ablaze;<br/>we pray with expectation,<br/>we praise with one accord,<br/>we wait for living fire,<br/>the power of the Lord.
+    </verse>
+    <verse name="v3"><br/>Therefore with saints and angels<br/>and all the hosts above<br/>we lift our hearts and voices<br/>to bless the God of love;<br/>to sing of our Redeemer<br/>who intercedes and prays,<br/>that God the Holy Spirit<br/>may guide us all our days.
+    </verse>
+    <verse name="v4"><br/>With songs of alleluia<br/>let earth and heaven ring;<br/>and praises to the Father<br/>let all creation sing.<br/>All honour be to Jesus,<br/>God's own eternal Son;<br/>and to the Holy Spirit<br/>let endless praise be done!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We sing the praise of Jesus,
-of our ascending Lord;
-the triumph of our Saviour,
-of Christ the Son of God.
-The forty days are over,
-earth sees his face no more;
-but Christ the King of glory
-we worship and adore.
-
-2
-
-Rejoicing in Christ's promise
-we wait in prayer and praise,
-the Spirit sent from heaven
-to set the earth ablaze;
-we pray with expectation,
-we praise with one accord,
-we wait for living fire,
-the power of the Lord.
-
-3
-
-Therefore with saints and angels
-and all the hosts above
-we lift our hearts and voices
-to bless the God of love;
-to sing of our Redeemer
-who intercedes and prays,
-that God the Holy Spirit
-may guide us all our days.
-
-4
-
-With songs of alleluia
-let earth and heaven ring;
-and praises to the Father
-let all creation sing.
-All honour be to Jesus,
-God's own eternal Son;
-and to the Holy Spirit
-let endless praise be done!

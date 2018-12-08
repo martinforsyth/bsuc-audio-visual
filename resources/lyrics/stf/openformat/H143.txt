@@ -1,49 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF143 Hail, gladdening Light, of his pure glory poured</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Hail, gladdening Light, of his pure glory poured<br/>who is the immortal Father, heavenly, blest,<br/>holiest of holies, Jesus Christ our Lord!
     </verse>
-
+    <verse name="v2"><br/>Now we are come to the sun's hour of rest;<br/>the lights of evening round us shine;<br/>we hymn the Father, Son, and Holy Spirit divine.
+    </verse>
+    <verse name="v3"><br/>Worthiest art thou at all times to be sung<br/>with undefiled tongue,<br/>Son of our God, giver of life, alone;<br/>therefore in all the world thy glories, Lord, they own.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Hail, gladdening Light, of his pure glory poured
-who is the immortal Father, heavenly, blest,
-holiest of holies, Jesus Christ our Lord!
-
-2
-
-Now we are come to the sun's hour of rest;
-the lights of evening round us shine;
-we hymn the Father, Son, and Holy Spirit divine.
-
-3
-
-Worthiest art thou at all times to be sung
-with undefiled tongue,
-Son of our God, giver of life, alone;
-therefore in all the world thy glories, Lord, they own.

@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF491 As servants working an estate</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Thomas H. Troeger (b. 1945)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>As servants working an estate<br/>whose owner is away,<br/>and whose return they all await<br/>though no one knows the day,<br/>so none of us can name the hour,<br/>the season or the year<br/>when Christ with all of heaven's power<br/>will suddenly appear.
     </verse>
-
+    <verse name="v2"><br/>Our task is not to calculate<br/>what angels do not know,<br/>but faithfully to watch and wait<br/>and Christ's compassion show.<br/>Not loading fragile human schemes<br/>with hopes they cannot bear,<br/>we trust the promise that redeems<br/>the present from despair.
+    </verse>
+    <verse name="v3"><br/>For Christ the Lord will surely come,<br/>the King whom kings will fear,<br/>and with God's perfect justice plumb<br/>the justice we do here,<br/>revealing that the present age<br/>and every age that's past<br/>are not the final moral gauge<br/>that judges us at last.
+    </verse>
+    <verse name="v4"><br/>So guide, Lord Christ, our every choice<br/>that when our hearts shall hear<br/>your step, your knock, your calling voice<br/>we will not hide in fear,<br/>but welcome you from realms above<br/>to your estate below,<br/>where justice, mercy, peace and love<br/>abundantly will grow.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-As servants working an estate
-whose owner is away,
-and whose return they all await
-though no one knows the day,
-so none of us can name the hour,
-the season or the year
-when Christ with all of heaven's power
-will suddenly appear.
-
-2
-
-Our task is not to calculate
-what angels do not know,
-but faithfully to watch and wait
-and Christ's compassion show.
-Not loading fragile human schemes
-with hopes they cannot bear,
-we trust the promise that redeems
-the present from despair.
-
-3
-
-For Christ the Lord will surely come,
-the King whom kings will fear,
-and with God's perfect justice plumb
-the justice we do here,
-revealing that the present age
-and every age that's past
-are not the final moral gauge
-that judges us at last.
-
-4
-
-So guide, Lord Christ, our every choice
-that when our hearts shall hear
-your step, your knock, your calling voice
-we will not hide in fear,
-but welcome you from realms above
-to your estate below,
-where justice, mercy, peace and love
-abundantly will grow.

@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF159 Not far beyond the sea nor high</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>George Bradford Caird (1917-1984)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Not far beyond the sea nor high<br/>above the heavens, but very nigh<br/>your voice, O God, is heard.<br/>For each new step of faith we take<br/>you have more truth and light to break<br/>forth from your holy word.
     </verse>
-
+    <verse name="v2"><br/>The babes in Christ your Scriptures feed<br/>with milk sufficient for their need,<br/>the nurture of the Lord.<br/>Beneath life's burden and its heat<br/>the fully grown find stronger meat<br/>in your unfailing word.
+    </verse>
+    <verse name="v3"><br/>Rooted and grounded in your love,<br/>with saints on earth and saints above<br/>we join in full accord,<br/>to grasp the breadth, length, depth, and height,<br/>the crucified and risen might<br/>of Christ, the incarnate Word.
+    </verse>
+    <verse name="v4"><br/>Help us to press toward that mark,<br/>and, though our vision now is dark,<br/>to live by what we see;<br/>so, when we see you face to face,<br/>your truth and light our dwelling-place<br/>for evermore shall be.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Not far beyond the sea nor high
-above the heavens, but very nigh
-your voice, O God, is heard.
-For each new step of faith we take
-you have more truth and light to break
-forth from your holy word.
-
-2
-
-The babes in Christ your Scriptures feed
-with milk sufficient for their need,
-the nurture of the Lord.
-Beneath life's burden and its heat
-the fully grown find stronger meat
-in your unfailing word.
-
-3
-
-Rooted and grounded in your love,
-with saints on earth and saints above
-we join in full accord,
-to grasp the breadth, length, depth, and height,
-the crucified and risen might
-of Christ, the incarnate Word.
-
-4
-
-Help us to press toward that mark,
-and, though our vision now is dark,
-to live by what we see;
-so, when we see you face to face,
-your truth and light our dwelling-place
-for evermore shall be.

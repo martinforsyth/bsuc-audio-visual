@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF705 It is God who holds the nations in the hollow of his hand;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Fred Pratt Green (1903-2000)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>It is God who holds the nations in the hollow of his hand;<br/>it is God whose light is shining in the darkness of the land;<br/>it is God who builds the City on the Rock and not on sand:<br/>may the living God be praised!
     </verse>
-
+    <verse name="v2"><br/>It is God whose purpose summons us to use the present hour;<br/>who recalls us to our senses when a nation's life turns sour;<br/>in the discipline of freedom we shall know God's saving power:<br/>may the living God be praised!
+    </verse>
+    <verse name="v3"><br/>When a thankful nation, looking back, has cause to celebrate<br/>those who win our admiration by their service to the state;<br/>when self-giving is a measure of the greatness of the great:<br/>may the living God be praised!
+    </verse>
+    <verse name="v4"><br/>God reminds us every sunrise that the world is ours on lease:<br/>for the sake of life tomorrow may our love for it increase;<br/>may all races live together, share its riches, be at peace:<br/>may the living God be praised!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-It is God who holds the nations in the hollow of his hand;
-it is God whose light is shining in the darkness of the land;
-it is God who builds the City on the Rock and not on sand:
-may the living God be praised!
-
-2
-
-It is God whose purpose summons us to use the present hour;
-who recalls us to our senses when a nation's life turns sour;
-in the discipline of freedom we shall know God's saving power:
-may the living God be praised!
-
-3
-
-When a thankful nation, looking back, has cause to celebrate
-those who win our admiration by their service to the state;
-when self-giving is a measure of the greatness of the great:
-may the living God be praised!
-
-4
-
-God reminds us every sunrise that the world is ours on lease:
-for the sake of life tomorrow may our love for it increase;
-may all races live together, share its riches, be at peace:
-may the living God be praised!

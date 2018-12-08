@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF171 Hark the glad sound! The Saviour comes,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Philip Doddridge (1702-1751)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Hark the glad sound! The Saviour comes,<br/>the Saviour promised long;<br/>let every heart prepare a throne,<br/>and every voice a song.
     </verse>
-
+    <verse name="v2"><br/>He comes the prisoners to release,<br/>in Satan's bondage held;<br/>the gates of brass before him burst,<br/>the iron fetters yield.
+    </verse>
+    <verse name="v3"><br/>He comes the broken heart to bind,<br/>the bleeding soul to cure,<br/>and with the treasures of his grace<br/>to enrich the humble poor.
+    </verse>
+    <verse name="v4"><br/>Our glad hosannas, Prince of Peace,<br/>your welcome shall proclaim,<br/>and heaven's eternal arches ring<br/>with your beloved name.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Hark the glad sound! The Saviour comes,
-the Saviour promised long;
-let every heart prepare a throne,
-and every voice a song.
-
-2
-
-He comes the prisoners to release,
-in Satan's bondage held;
-the gates of brass before him burst,
-the iron fetters yield.
-
-3
-
-He comes the broken heart to bind,
-the bleeding soul to cure,
-and with the treasures of his grace
-to enrich the humble poor.
-
-4
-
-Our glad hosannas, Prince of Peace,
-your welcome shall proclaim,
-and heaven's eternal arches ring
-with your beloved name.

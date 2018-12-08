@@ -1,53 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF239 Sent by the Lord am I;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
-
-
       <author>Jose Aguiar</author>
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Sent by the Lord am I;<br/>my hands are ready now<br/>to make the earth the place<br/>in which the kingdom comes.<br/>Sent by the Lord am I;<br/>my hands are ready now<br/>to make the earth the place<br/>in which the kingdom comes.
     </verse>
-
+    <verse name="v2"><br/>The angels cannot change<br/>a world of hurt and pain<br/>into a world of love,<br/>of justice and of peace.<br/>The task is mine to do,<br/>to set it really free.<br/>Oh, help me to obey;<br/>help me to do your will.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Sent by the Lord am I;
-my hands are ready now
-to make the earth the place
-in which the kingdom comes.
-Sent by the Lord am I;
-my hands are ready now
-to make the earth the place
-in which the kingdom comes.
-
-2
-
-The angels cannot change
-a world of hurt and pain
-into a world of love,
-of justice and of peace.
-The task is mine to do,
-to set it really free.
-Oh, help me to obey;
-help me to do your will.

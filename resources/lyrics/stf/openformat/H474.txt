@@ -1,39 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF474 Neither death, nor life,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
       <author>Marty Haugen (b. 1950)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>Neither death, nor life,<br/>nor angels, nor powers,<br/>nor trials in the present,<br/>nor any trial to come,<br/>neither height, nor depth,<br/>nor all of creation<br/>can ever separate us from the love of God<br/>poured out in Christ Jesus, Christ Jesus our Lord.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-Neither death, nor life,
-nor angels, nor powers,
-nor trials in the present,
-nor any trial to come,
-neither height, nor depth,
-nor all of creation
-can ever separate us from the love of God
-poured out in Christ Jesus, Christ Jesus our Lord.

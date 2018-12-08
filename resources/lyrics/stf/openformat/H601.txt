@@ -1,41 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF601 We do not presume to come to this table</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>We do not presume to come to this table<br/>trusting in our own righteousness.<br/>Only by your grace and your love are we able,<br/>only in your mercy we rest.<br/>For you are the same Lord,<br/>merciful and mighty,<br/>and to worship you we come.<br/>The blood and the body of Jesus your Son<br/>may cleanse us all,<br/>so we may live in him for evermore.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-We do not presume to come to this table
-trusting in our own righteousness.
-Only by your grace and your love are we able,
-only in your mercy we rest.
-For you are the same Lord,
-merciful and mighty,
-and to worship you we come.
-The blood and the body of Jesus your Son
-may cleanse us all,
-so we may live in him for evermore.

@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF743 Come, let us join our cheerful songs</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Isaac Watts (1674-1748)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Come, let us join our cheerful songs<br/>with angels round the throne;<br/>ten thousand thousand are their tongues,<br/>but all their joys are one.
     </verse>
-
+    <verse name="v2"><br/>'Worthy the Lamb that died,' they cry,<br/>'to be exalted thus!'<br/>'Worthy the Lamb!' our lips reply,<br/>'for he was slain for us.'
+    </verse>
+    <verse name="v3"><br/>Jesus is worthy to receive<br/>honour and power divine;<br/>and blessings, more than we can give,<br/>be, Lord, for ever thine.
+    </verse>
+    <verse name="v4"><br/>Let all creation join in one<br/>to bless the sacred name<br/>of him that sits upon the throne,<br/>and to adore the Lamb.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Come, let us join our cheerful songs
-with angels round the throne;
-ten thousand thousand are their tongues,
-but all their joys are one.
-
-2
-
-'Worthy the Lamb that died,' they cry,
-'to be exalted thus!'
-'Worthy the Lamb!' our lips reply,
-'for he was slain for us.'
-
-3
-
-Jesus is worthy to receive
-honour and power divine;
-and blessings, more than we can give,
-be, Lord, for ever thine.
-
-4
-
-Let all creation join in one
-to bless the sacred name
-of him that sits upon the throne,
-and to adore the Lamb.

@@ -1,151 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF45 Earth's creator,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
     <authors>
       <author>Bernadette Farrell (b. 1957)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Earth's creator,<br/>everyday God,<br/>Loving Maker,<br/>O Jesus,<br/>you who shaped us,<br/>O Spirit,<br/>recreate us,<br/>come, be with us.
     </verse>
-
+    <verse name="v2"><br/>In your presence,<br/>everyday God,<br/>we are gathered,<br/>O Jesus,<br/>you have called us,<br/>O Spirit,<br/>to restore us,<br/>come, be with us.
+    </verse>
+    <verse name="v3"><br/>Life of all lives,<br/>everyday God,<br/>love of all loves,<br/>O Jesus,<br/>hope of all hopes,<br/>O Spirit,<br/>light of all lights,<br/>come, be with us.
+    </verse>
+    <verse name="v4"><br/>In our resting,<br/>everyday God,<br/>in our rising,<br/>O Jesus,<br/>in our hoping,<br/>O Spirit,<br/>in our waiting,<br/>come, be with us.
+    </verse>
+    <verse name="v5"><br/>In our dreaming,<br/>everyday God,<br/>in our daring,<br/>O Jesus,<br/>in our searching,<br/>O Spirit,<br/>in our sharing,<br/>come, be with us.
+    </verse>
+    <verse name="v6"><br/>God of laughter,<br/>everyday God,<br/>God of sorrow,<br/>O Jesus,<br/>home and shelter,<br/>O Spirit,<br/>strong and patient,<br/>come, be with us.
+    </verse>
+    <verse name="v7"><br/>Way of freedom,<br/>everyday God,<br/>star of morning,<br/>O Jesus,<br/>timeless healer,<br/>O Spirit,<br/>flame eternal,<br/>come, be with us.
+    </verse>
+    <verse name="v8"><br/>Word of gladness,<br/>everyday God,<br/>word of mercy,<br/>O Jesus,<br/>word of friendship,<br/>O Spirit,<br/>word of challenge,<br/>come, be with us.
+    </verse>
+    <verse name="v9"><br/>Gentle father,<br/>everyday God,<br/>faithful brother,<br/>O Jesus,<br/>tender sister,<br/>O Spirit,<br/>loving mother,<br/>come, be with us.
+    </verse>
+    <verse name="v10"><br/>Our beginning,<br/>everyday God,<br/>our unfolding,<br/>O Jesus,<br/>our enduring,<br/>O Spirit,<br/>journey's ending,<br/>come, be with us.
+    </verse>
+    <verse name="v11"><br/>Alleluia,<br/>everyday God,<br/>now and always,<br/>O Jesus,<br/>alleluia,<br/>O Spirit,<br/>through all ages,<br/>come, be with us.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Earth's creator,
-everyday God,
-Loving Maker,
-O Jesus,
-you who shaped us,
-O Spirit,
-recreate us,
-come, be with us.
-
-2
-
-In your presence,
-everyday God,
-we are gathered,
-O Jesus,
-you have called us,
-O Spirit,
-to restore us,
-come, be with us.
-
-3
-
-Life of all lives,
-everyday God,
-love of all loves,
-O Jesus,
-hope of all hopes,
-O Spirit,
-light of all lights,
-come, be with us.
-
-4
-
-In our resting,
-everyday God,
-in our rising,
-O Jesus,
-in our hoping,
-O Spirit,
-in our waiting,
-come, be with us.
-
-5
-
-In our dreaming,
-everyday God,
-in our daring,
-O Jesus,
-in our searching,
-O Spirit,
-in our sharing,
-come, be with us.
-
-6
-
-God of laughter,
-everyday God,
-God of sorrow,
-O Jesus,
-home and shelter,
-O Spirit,
-strong and patient,
-come, be with us.
-
-7
-
-Way of freedom,
-everyday God,
-star of morning,
-O Jesus,
-timeless healer,
-O Spirit,
-flame eternal,
-come, be with us.
-
-8
-
-Word of gladness,
-everyday God,
-word of mercy,
-O Jesus,
-word of friendship,
-O Spirit,
-word of challenge,
-come, be with us.
-
-9
-
-Gentle father,
-everyday God,
-faithful brother,
-O Jesus,
-tender sister,
-O Spirit,
-loving mother,
-come, be with us.
-
-10
-
-Our beginning,
-everyday God,
-our unfolding,
-O Jesus,
-our enduring,
-O Spirit,
-journey's ending,
-come, be with us.
-
-11
-
-Alleluia,
-everyday God,
-now and always,
-O Jesus,
-alleluia,
-O Spirit,
-through all ages,
-come, be with us.

@@ -1,61 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF380 Holy breath of God,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Johnny Markin</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Holy breath of God,<br/>find me in this place.<br/>Fall, sweet mercy, fall on me,<br/>healing by your grace.<br/>Tender hand of God,<br/>hold me in your care.<br/>All my fears and broken dreams,<br/>every burden bear.<br/>Come, O breath of God,<br/>breathe your life again.<br/>Stir the embers of this heart,<br/>set my soul aflame.<br/>Come, O breath of God,<br/>draw me once again<br/>ever closer to your heart,<br/>to your burning flame.
     </verse>
-
+    <verse name="v2"><br/>Light of Life Divine,<br/>search my selfish ways.<br/>Tear from me my foolish will;<br/>lead me all my days.<br/>Ageless God of Hope,<br/>stay for ever near<br/>to the wounded broken heart;<br/>scatter every fear.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Holy breath of God,
-find me in this place.
-Fall, sweet mercy, fall on me,
-healing by your grace.
-Tender hand of God,
-hold me in your care.
-All my fears and broken dreams,
-every burden bear.
-
-Come, O breath of God,
-breathe your life again.
-Stir the embers of this heart,
-set my soul aflame.
-Come, O breath of God,
-draw me once again
-ever closer to your heart,
-to your burning flame.
-
-2
-
-Light of Life Divine,
-search my selfish ways.
-Tear from me my foolish will;
-lead me all my days.
-Ageless God of Hope,
-stay for ever near
-to the wounded broken heart;
-scatter every fear.

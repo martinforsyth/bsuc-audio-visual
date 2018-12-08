@@ -1,51 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF422 Father, we have sinned</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Stuart Townend (b. 1963) </author>
       <author>Keith Getty (b. 1974)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Father, we have sinned<br/>in word, and deed, and thought,<br/>through ignorance, through weakness,<br/>through deliberate fault:<br/>we've sinned against our neighbours<br/>and against you, Lord,<br/>yet we are truly sorry,<br/>and we turn to you once more.
     </verse>
-
+    <verse name="v2"><br/>Father of the nations,<br/>you who bless the poor,<br/>we're servants of the endless want<br/>and drive for more.<br/>We've made our greed a virtue,<br/>while the children starve;<br/>come, change our joy to sorrow,<br/>till our lives reflect your heart.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Father, we have sinned
-in word, and deed, and thought,
-through ignorance, through weakness,
-through deliberate fault:
-we've sinned against our neighbours
-and against you, Lord,
-yet we are truly sorry,
-and we turn to you once more.
-
-2
-
-Father of the nations,
-you who bless the poor,
-we're servants of the endless want
-and drive for more.
-We've made our greed a virtue,
-while the children starve;
-come, change our joy to sorrow,
-till our lives reflect your heart.

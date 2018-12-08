@@ -1,68 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF818 O come, let us sing to the Lord;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 95 Venite
-
 1
-
 O come, let us sing to the Lord;
 let us make a joyful noise to the rock of our salvation!
-
 2
-
 Let us come into his presence with thanksgiving;
 let us make a joyful noise to him with songs of praise!
-
 3
-
 For the Lord is a great God,
 and a great King above all gods.
-
 4
-
 In his hand are the depths of the earth;
 the heights of the mountains are his also.
-
 5
-
 The sea is his, for he made it,
 and the dry land, which his hands have formed.
-
 6
-
 O come, let us worship and bow down,
 let us kneel before the Lord, our Maker!
-
 7
-
 For he is our God,
 and we are the people of his pasture,
 and the sheep of his hand.

@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF419 Almighty God, we come to make confession,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Christopher J. Ellis (b. 1949)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Almighty God, we come to make confession,<br/>for we have sinned in thought and word and deed.<br/>We now repent in honesty and sorrow;<br/>forgive us, Lord, and meet us in our need.
     </verse>
-
+    <verse name="v2"><br/>Forgiving God, I come to make confession<br/>of all the harm and hurt that I have done;<br/>of bitter words and many selfish actions,<br/>forgive me, Lord, and make me like your Son.
+    </verse>
+    <verse name="v3"><br/>Forgiving God, I come to make confession<br/>of all that I have failed to do this day;<br/>of help withheld, concern and love restricted,<br/>forgive me, Lord, and lead me in your way.
+    </verse>
+    <verse name="v4"><br/>Redeeming God, we come to seek forgiveness,<br/>for Jesus Christ has died to set us free.<br/>Forgive the past and fill us with your Spirit<br/>that we may live to serve you joyfully.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Almighty God, we come to make confession,
-for we have sinned in thought and word and deed.
-We now repent in honesty and sorrow;
-forgive us, Lord, and meet us in our need.
-
-2
-
-Forgiving God, I come to make confession
-of all the harm and hurt that I have done;
-of bitter words and many selfish actions,
-forgive me, Lord, and make me like your Son.
-
-3
-
-Forgiving God, I come to make confession
-of all that I have failed to do this day;
-of help withheld, concern and love restricted,
-forgive me, Lord, and lead me in your way.
-
-4
-
-Redeeming God, we come to seek forgiveness,
-for Jesus Christ has died to set us free.
-Forgive the past and fill us with your Spirit
-that we may live to serve you joyfully.

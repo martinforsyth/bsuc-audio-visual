@@ -1,77 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF831 I was glad when they said to me,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 122
-
 1
-
 I was glad when they said to me,
 'Let us go to the house of the Lord!'
-
 2
-
 Our feet are standing
 within your gates, O Jerusalem.
-
 3
-
 Jerusalem -- built as a city
 that is bound firmly together.
-
 4
-
 To it the tribes go up, the tribes of the Lord,
 as was decreed for Israel, to give thanks to the name of the Lord.
-
 5
-
 For there the thrones for judgement were set up,
 the thrones of the house of David.
-
 6
-
 Pray for the peace of Jerusalem:
 \b'May they prosper who love you.
-
 7
-
 Peace be within your walls,
 and security within your towers.'
-
 8
-
 For the sake of my relatives and friends
 I will say, 'Peace be within you.'
-
 9
-
 For the sake of the house of the Lord our God,
 I will seek your good.

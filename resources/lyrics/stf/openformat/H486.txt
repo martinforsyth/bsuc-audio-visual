@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF486 Who would true valour see,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>John Bunyan (1628-1688)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Who would true valour see,<br/>let him come hither;<br/>one here will constant be,<br/>come wind, come weather;<br/>there's no discouragement<br/>shall make him once relent<br/>his first avowed intent<br/>to be a pilgrim.
     </verse>
-
+    <verse name="v2"><br/>Whoso beset him round<br/>with dismal stories<br/>do but themselves confound;<br/>his strength the more is.<br/>No lion can him fright;<br/>he'll with a giant fight;<br/>but he will have a right<br/>to be a pilgrim.
+    </verse>
+    <verse name="v3"><br/>Hobgoblin nor foul fiend<br/>can daunt his spirit;<br/>he knows he at the end<br/>shall life inherit.<br/>Then fancies fly away,<br/>he'll fear not what men say;<br/>he'll labour night and day<br/>to be a pilgrim.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Who would true valour see,
-let him come hither;
-one here will constant be,
-come wind, come weather;
-there's no discouragement
-shall make him once relent
-his first avowed intent
-to be a pilgrim.
-
-2
-
-Whoso beset him round
-with dismal stories
-do but themselves confound;
-his strength the more is.
-No lion can him fright;
-he'll with a giant fight;
-but he will have a right
-to be a pilgrim.
-
-3
-
-Hobgoblin nor foul fiend
-can daunt his spirit;
-he knows he at the end
-shall life inherit.
-Then fancies fly away,
-he'll fear not what men say;
-he'll labour night and day
-to be a pilgrim.

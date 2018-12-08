@@ -1,64 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF475 O God of Bethel, by whose hand</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Philip Doddridge (1702-1751) </author>
       <author>John Logan (1748-1788)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>O God of Bethel, by whose hand<br/>thy people still are fed;<br/>who through this earthly pilgrimage<br/>hast all our forebears led.
     </verse>
-
+    <verse name="v2"><br/>Our vows, our prayers, we now present<br/>before thy throne of grace:<br/>God of our forebears, be the God<br/>of their succeeding race.
+    </verse>
+    <verse name="v3"><br/>Through each perplexing path of life<br/>our wandering footsteps guide;<br/>give us each day our daily bread,<br/>and raiment fit provide.
+    </verse>
+    <verse name="v4"><br/>O spread thy covering wings around,<br/>till all our wanderings cease,<br/>and at our Father's loved abode<br/>our souls arrive in peace.
+    </verse>
+    <verse name="v5"><br/>To thee as to our Covenant-God<br/>we'll our whole selves resign;<br/>and this not as a tithe alone,<br/>for all we have is thine.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-O God of Bethel, by whose hand
-thy people still are fed;
-who through this earthly pilgrimage
-hast all our forebears led.
-
-2
-
-Our vows, our prayers, we now present
-before thy throne of grace:
-God of our forebears, be the God
-of their succeeding race.
-
-3
-
-Through each perplexing path of life
-our wandering footsteps guide;
-give us each day our daily bread,
-and raiment fit provide.
-
-4
-
-O spread thy covering wings around,
-till all our wanderings cease,
-and at our Father's loved abode
-our souls arrive in peace.
-
-5
-
-To thee as to our Covenant-God
-we'll our whole selves resign;
-and this not as a tithe alone,
-for all we have is thine.

@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF147 The day thou gavest, Lord, is ended,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>John Ellerton (1826-1893)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>The day thou gavest, Lord, is ended,<br/>the darkness falls at thy behest;<br/>to thee our morning hymns ascended,<br/>thy praise shall sanctify our rest.
     </verse>
-
+    <verse name="v2"><br/>We thank thee that thy Church unsleeping,<br/>while earth rolls onward into light,<br/>through all the world her watch is keeping,<br/>and rests not now by day or night.
+    </verse>
+    <verse name="v3"><br/>As o'er each continent and island<br/>the dawn leads on another day,<br/>the voice of prayer is never silent,<br/>nor dies the strain of praise away.
+    </verse>
+    <verse name="v4"><br/>The sun that bids us rest is waking<br/>our brethren 'neath the western sky,<br/>and hour by hour fresh lips are making<br/>thy wondrous doings heard on high.
+    </verse>
+    <verse name="v5"><br/>So be it, Lord;thy throne shall never,<br/>like earth's proud empires, pass away;<br/>thy kingdom stands, and grows for ever,<br/>till all thy creatures own thy sway.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-The day thou gavest, Lord, is ended,
-the darkness falls at thy behest;
-to thee our morning hymns ascended,
-thy praise shall sanctify our rest.
-
-2
-
-We thank thee that thy Church unsleeping,
-while earth rolls onward into light,
-through all the world her watch is keeping,
-and rests not now by day or night.
-
-3
-
-As o'er each continent and island
-the dawn leads on another day,
-the voice of prayer is never silent,
-nor dies the strain of praise away.
-
-4
-
-The sun that bids us rest is waking
-our brethren 'neath the western sky,
-and hour by hour fresh lips are making
-thy wondrous doings heard on high.
-
-5
-
-So be it, Lord;thy throne shall never,
-like earth's proud empires, pass away;
-thy kingdom stands, and grows for ever,
-till all thy creatures own thy sway.

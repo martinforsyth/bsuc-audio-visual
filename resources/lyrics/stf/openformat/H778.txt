@@ -1,49 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF778 Praise the Lord, all you nations,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Laudate Dominum,
 laudate Dominum,
 omnes gentes, alleluia!
-
 1
-
 Praise the Lord, all you nations,
 praise God, all you peoples.
 Alleluia.
 Strong is God's love and mercy,
 God is faithful for ever.
 Alleluia!
-
 2
-
 Alleluia, alleluia --
 let everything living
 give praise to the Lord!

@@ -1,56 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF798 Great and wonderful are your deeds,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 GREAT AND WONDERFUL
-
 1
-
 Great and wonderful are your deeds,
 Lord God the Almighty.
-
 2
-
 Just and true are your ways,
 O ruler of the nations.
-
 3
-
 Who shall not revere and praise your name, O Lord?
 for you alone are holy.
-
 4
-
 All nations shall come and worship in your presence:
 for your just dealings have been revealed.
-
 To the One who sits on the throne and to the Lamb
 be blessing and honour and glory and might,
 for ever and ever. Amen.

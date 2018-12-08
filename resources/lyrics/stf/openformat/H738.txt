@@ -1,55 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF738 There is a new heaven;there is a new earth;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Ruth Duck (b. 1947)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>There is a new heaven;there is a new earth;<br/>there is a new city that God brings to birth.<br/>It lives in the mind of our Saviour this day<br/>where tears, pain, and sadness are all wiped away.<br/>Come, people of God, your courage renew,<br/>for God reigns already, creates life anew.<br/>Be faithful and bold to welcome God's day,<br/>that tears, pain, and sadness may vanish away.
     </verse>
-
+    <verse name="v2"><br/>The homeless and hungry will sing a new song,<br/>for leisure and labour to all shall belong;<br/>distinctions, divisions which hurt and destroy<br/>will all disappear, leaving love, hope, and joy.
+    </verse>
+    <verse name="v3"><br/>The river lifegiving shall stream from God's throne,<br/>with healing, forgiving:war shall not be known.<br/>The nations shall gather to live in God's light,<br/>united forever in joy and delight.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-There is a new heaven;there is a new earth;
-there is a new city that God brings to birth.
-It lives in the mind of our Saviour this day
-where tears, pain, and sadness are all wiped away.
-Come, people of God, your courage renew,
-for God reigns already, creates life anew.
-Be faithful and bold to welcome God's day,
-that tears, pain, and sadness may vanish away.
-
-2
-
-The homeless and hungry will sing a new song,
-for leisure and labour to all shall belong;
-distinctions, divisions which hurt and destroy
-will all disappear, leaving love, hope, and joy.
-
-3
-
-The river lifegiving shall stream from God's throne,
-with healing, forgiving:war shall not be known.
-The nations shall gather to live in God's light,
-united forever in joy and delight.

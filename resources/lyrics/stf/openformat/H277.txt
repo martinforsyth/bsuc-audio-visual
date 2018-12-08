@@ -1,107 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF277 My song is love unknown,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
       <author>Samuel Crossman (c. 1624-1683)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>My song is love unknown,<br/>my Saviour's love to me,<br/>love to the loveless shown,<br/>that they might lovely be.<br/>O who am I,<br/>that for my sake<br/>my Lord should take<br/>frail flesh and die?
     </verse>
-
+    <verse name="v2"><br/>He came from his blest throne,<br/>salvation to bestow;<br/>but they made strange, and none<br/>the longed-for Christ would know.<br/>But O my Friend,<br/>my Friend indeed,<br/>who at my need<br/>his life did spend!
+    </verse>
+    <verse name="v3"><br/>Sometimes they strew his way,<br/>and his sweet praises sing;<br/>resounding all the day<br/>hosannas to their King.<br/>Then 'Crucify!'<br/>is all their breath,<br/>and for his death<br/>they thirst and cry.
+    </verse>
+    <verse name="v4"><br/>Why, what has my Lord done?<br/>What makes this rage and spite?<br/>He made the lame to run,<br/>he gave the blind their sight.<br/>Sweet injuries!<br/>Yet they at these<br/>themselves displease,<br/>and 'gainst him rise.
+    </verse>
+    <verse name="v5"><br/>They rise, and needs will have<br/>my dear Lord made away;<br/>a murderer they save,<br/>the Prince of Life they slay.<br/>Yet cheerful he<br/>to suffering goes,<br/>that he his foes<br/>from thence might free.
+    </verse>
+    <verse name="v6"><br/>In life no house, no home,<br/>my Lord on earth might have;<br/>in death, no friendly tomb<br/>but what a stranger gave.<br/>What may I say?<br/>Heaven was his home;<br/>but mine the tomb<br/>wherein he lay.
+    </verse>
+    <verse name="v7"><br/>Here might I stay and sing,<br/>no story so divine:<br/>never was love, dear King,<br/>never was grief like thine!<br/>This is my Friend,<br/>in whose sweet praise<br/>I all my days<br/>could gladly spend.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-My song is love unknown,
-my Saviour's love to me,
-love to the loveless shown,
-that they might lovely be.
-O who am I,
-that for my sake
-my Lord should take
-frail flesh and die?
-
-2
-
-He came from his blest throne,
-salvation to bestow;
-but they made strange, and none
-the longed-for Christ would know.
-But O my Friend,
-my Friend indeed,
-who at my need
-his life did spend!
-
-3
-
-Sometimes they strew his way,
-and his sweet praises sing;
-resounding all the day
-hosannas to their King.
-Then 'Crucify!'
-is all their breath,
-and for his death
-they thirst and cry.
-
-4
-
-Why, what has my Lord done?
-What makes this rage and spite?
-He made the lame to run,
-he gave the blind their sight.
-Sweet injuries!
-Yet they at these
-themselves displease,
-and 'gainst him rise.
-
-5
-
-They rise, and needs will have
-my dear Lord made away;
-a murderer they save,
-the Prince of Life they slay.
-Yet cheerful he
-to suffering goes,
-that he his foes
-from thence might free.
-
-6
-
-In life no house, no home,
-my Lord on earth might have;
-in death, no friendly tomb
-but what a stranger gave.
-What may I say?
-Heaven was his home;
-but mine the tomb
-wherein he lay.
-
-7
-
-Here might I stay and sing,
-no story so divine:
-never was love, dear King,
-never was grief like thine!
-This is my Friend,
-in whose sweet praise
-I all my days
-could gladly spend.

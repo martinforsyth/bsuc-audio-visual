@@ -1,54 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF630 How long, O Lord, will you forget</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Barbara Woollett (b. 1937)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>How long, O Lord, will you forget<br/>an answer to my prayer?<br/>No tokens of your love I see,<br/>your face is turned away from me;<br/>I wrestle with despair.
     </verse>
-
+    <verse name="v2"><br/>How long, O Lord, will you forsake<br/>and leave me in this way?<br/>When will you come to my relief?<br/>My heart is overwhelmed with grief,<br/>by evil night and day.
+    </verse>
+    <verse name="v3"><br/>How long, O Lord? But you forgive<br/>with mercy from above.<br/>I find that all your ways are just,<br/>I learn to praise you and to trust<br/>in your unfailing love.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-How long, O Lord, will you forget
-an answer to my prayer?
-No tokens of your love I see,
-your face is turned away from me;
-I wrestle with despair.
-
-2
-
-How long, O Lord, will you forsake
-and leave me in this way?
-When will you come to my relief?
-My heart is overwhelmed with grief,
-by evil night and day.
-
-3
-
-How long, O Lord? But you forgive
-with mercy from above.
-I find that all your ways are just,
-I learn to praise you and to trust
-in your unfailing love.

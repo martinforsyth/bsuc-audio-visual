@@ -1,75 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF268 Sing, my tongue, the Saviour's glory,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>St Thomas Aquinas (c. 1225-1274)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Sing, my tongue, the Saviour's glory,<br/>of his cross the mystery sing;<br/>lift on high the wondrous trophy,<br/>tell the triumph of the King:<br/>he, the world's Redeemer, conquers<br/>death, through death now vanquishing.
     </verse>
-
+    <verse name="v2"><br/>On the night of that last supper<br/>seated with his chosen band,<br/>he, the paschal victim eating,<br/>first fulfils the law's command,<br/>then as food to his disciples<br/>gives himself with his own hand.
+    </verse>
+    <verse name="v3"><br/>Word made flesh! His word life-giving,<br/>gives his flesh our meat to be,<br/>bids us drink his blood, believing,<br/>through his death, we life shall see:<br/>blessed they who thus receiving<br/>are from death and sin set free.
+    </verse>
+    <verse name="v4"><br/>Low in adoration bending,<br/>now our hearts our God revere;<br/>faith her aid to sight is lending,<br/>though unseen the Lord is near;<br/>ancient types and shadows ending,<br/>Christ our paschal Lamb is here.
+    </verse>
+    <verse name="v5"><br/>Praise for ever, thanks and blessing,<br/>thine, O gracious Father, be;<br/>praise be thine, O Christ, who bringest<br/>life and immortality;<br/>praise be thine, thou quickening Spirit,<br/>praise through all eternity.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Sing, my tongue, the Saviour's glory,
-of his cross the mystery sing;
-lift on high the wondrous trophy,
-tell the triumph of the King:
-he, the world's Redeemer, conquers
-death, through death now vanquishing.
-
-2
-
-On the night of that last supper
-seated with his chosen band,
-he, the paschal victim eating,
-first fulfils the law's command,
-then as food to his disciples
-gives himself with his own hand.
-
-3
-
-Word made flesh! His word life-giving,
-gives his flesh our meat to be,
-bids us drink his blood, believing,
-through his death, we life shall see:
-blessed they who thus receiving
-are from death and sin set free.
-
-4
-
-Low in adoration bending,
-now our hearts our God revere;
-faith her aid to sight is lending,
-though unseen the Lord is near;
-ancient types and shadows ending,
-Christ our paschal Lamb is here.
-
-5
-
-Praise for ever, thanks and blessing,
-thine, O gracious Father, be;
-praise be thine, O Christ, who bringest
-life and immortality;
-praise be thine, thou quickening Spirit,
-praise through all eternity.

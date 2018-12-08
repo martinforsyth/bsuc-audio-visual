@@ -1,55 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF523 Not my mother or my father, but it's me, O Lord,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 It's me, it's me, O Lord,
 standing in the need of prayer.
 It's me, it's me, O Lord,
 standing in the need of prayer.
-
 1
-
 Not my mother or my father, but it's me, O Lord,
 standing in the need of prayer;
 not my mother or my father, but it's me, O Lord,
 standing in the need of prayer.
-
 2
-
 Not my brother or my sister, but it's me, O Lord,
 standing in the need of prayer;
 not my brother or my sister, but it's me, O Lord,
 standing in the need of prayer.
-
 3
-
 Not the stranger or my neighbour, but it's me, O Lord,
 standing in the need of prayer;
 not the stranger or my neighbour, but it's me, O Lord,

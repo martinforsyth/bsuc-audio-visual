@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF322 How sweet the name of Jesus sounds</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>John Newton (1725-1807)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>How sweet the name of Jesus sounds<br/>in a believer's ear!<br/>It soothes our sorrows, heals our wounds,<br/>and drives away our fear.
     </verse>
-
+    <verse name="v2"><br/>It makes the wounded spirit whole,<br/>and calms the troubled breast;<br/>'tis manna to the hungry soul,<br/>and to the weary, rest.
+    </verse>
+    <verse name="v3"><br/>Dear name -- the rock on which I build,<br/>my shield and hiding-place,<br/>my never-failing treasury, filled<br/>with boundless stores of grace!
+    </verse>
+    <verse name="v4"><br/>Jesus! My Shepherd, Brother, Friend,<br/>my Prophet, Priest, and King,<br/>my Lord, my Life, my Way, my End,<br/>accept the praise I bring.
+    </verse>
+    <verse name="v5"><br/>Weak is the effort of my heart,<br/>and cold my warmest thought;<br/>but when I see thee as thou art,<br/>I'll praise thee as I ought.
+    </verse>
+    <verse name="v6"><br/>Till then I would thy love proclaim<br/>with every fleeting breath;<br/>and may the music of thy name<br/>refresh my soul in death.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-How sweet the name of Jesus sounds
-in a believer's ear!
-It soothes our sorrows, heals our wounds,
-and drives away our fear.
-
-2
-
-It makes the wounded spirit whole,
-and calms the troubled breast;
-'tis manna to the hungry soul,
-and to the weary, rest.
-
-3
-
-Dear name -- the rock on which I build,
-my shield and hiding-place,
-my never-failing treasury, filled
-with boundless stores of grace!
-
-4
-
-Jesus! My Shepherd, Brother, Friend,
-my Prophet, Priest, and King,
-my Lord, my Life, my Way, my End,
-accept the praise I bring.
-
-5
-
-Weak is the effort of my heart,
-and cold my warmest thought;
-but when I see thee as thou art,
-I'll praise thee as I ought.
-
-6
-
-Till then I would thy love proclaim
-with every fleeting breath;
-and may the music of thy name
-refresh my soul in death.

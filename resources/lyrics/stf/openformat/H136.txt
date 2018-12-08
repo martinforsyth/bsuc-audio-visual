@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF136 Morning has broken</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Eleanor Farjeon (1881-1965)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Morning has broken<br/>like the first morning;<br/>blackbird has spoken<br/>like the first bird.<br/>Praise for the singing!<br/>Praise for the morning!<br/>Praise for them, springing<br/>fresh from the Word!
     </verse>
-
+    <verse name="v2"><br/>Sweet the rain's new fall<br/>sunlit from heaven,<br/>like the first dewfall<br/>on the first grass.<br/>Praise for the sweetness<br/>of the wet garden,<br/>sprung in completeness<br/>where his feet pass.
+    </verse>
+    <verse name="v3"><br/>Mine is the sunlight!<br/>Mine is the morning<br/>born of the one light<br/>Eden saw play!<br/>Praise with elation,<br/>praise every morning,<br/>God's re-creation<br/>of the new day!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Morning has broken
-like the first morning;
-blackbird has spoken
-like the first bird.
-Praise for the singing!
-Praise for the morning!
-Praise for them, springing
-fresh from the Word!
-
-2
-
-Sweet the rain's new fall
-sunlit from heaven,
-like the first dewfall
-on the first grass.
-Praise for the sweetness
-of the wet garden,
-sprung in completeness
-where his feet pass.
-
-3
-
-Mine is the sunlight!
-Mine is the morning
-born of the one light
-Eden saw play!
-Praise with elation,
-praise every morning,
-God's re-creation
-of the new day!

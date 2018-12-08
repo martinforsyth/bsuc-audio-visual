@@ -1,57 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF602 With all my heart I thank you, Lord.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Paul Field (b. 1954)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>With all my heart I thank you, Lord.<br/>With all my heart I thank you, Lord,<br/>for this wine, and bread we break,<br/>for this sacrament we take,<br/>for the forgiveness that you make,<br/>I thank you, Lord.
     </verse>
-
+    <verse name="v2"><br/>With all my soul I thank you, Lord.<br/>With all my soul I thank you, Lord,<br/>for this victory that you've won,<br/>for this taste of things to come,<br/>for this love that makes us one,<br/>I thank you, Lord.
+    </verse>
+    <verse name="v3"><br/>With all my voice I thank you, Lord.<br/>With all my voice I thank you, Lord,<br/>for the sacrifice of pain,<br/>for the Spirit and the flame,<br/>for the power of your name,<br/>I thank you, Lord.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-With all my heart I thank you, Lord.
-With all my heart I thank you, Lord,
-for this wine, and bread we break,
-for this sacrament we take,
-for the forgiveness that you make,
-I thank you, Lord.
-
-2
-
-With all my soul I thank you, Lord.
-With all my soul I thank you, Lord,
-for this victory that you've won,
-for this taste of things to come,
-for this love that makes us one,
-I thank you, Lord.
-
-3
-
-With all my voice I thank you, Lord.
-With all my voice I thank you, Lord,
-for the sacrifice of pain,
-for the Spirit and the flame,
-for the power of your name,
-I thank you, Lord.

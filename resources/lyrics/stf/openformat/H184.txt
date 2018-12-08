@@ -1,57 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF184 Round orange, round orange, you serve as a sign</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Elizabeth J. Cosnett (b. 1936)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Round orange, round orange, you serve as a sign<br/>that God made the round world with purpose divine.<br/>The power of love is always the same:<br/>be glad, give thanks, rejoice in God's name.
     </verse>
-
+    <verse name="v2"><br/>Red ribbon, you tell of the bloodshed and pain<br/>which led to forgiveness when Jesus was slain.
+    </verse>
+    <verse name="v3"><br/>Ripe fruits, freely given, this truth you recall,<br/>when God hands out presents they're meant for us all.
+    </verse>
+    <verse name="v4"><br/>Bright candle, the message you carry is clear,<br/>the true light from God found a home with us here.
+    </verse>
+    <verse name="v5"><br/>Christingle, christingle, shine out in the night<br/>to kindle among us that marvellous light.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Round orange, round orange, you serve as a sign
-that God made the round world with purpose divine.
-The power of love is always the same:
-be glad, give thanks, rejoice in God's name.
-
-2
-
-Red ribbon, you tell of the bloodshed and pain
-which led to forgiveness when Jesus was slain.
-
-3
-
-Ripe fruits, freely given, this truth you recall,
-when God hands out presents they're meant for us all.
-
-4
-
-Bright candle, the message you carry is clear,
-the true light from God found a home with us here.
-
-5
-
-Christingle, christingle, shine out in the night
-to kindle among us that marvellous light.

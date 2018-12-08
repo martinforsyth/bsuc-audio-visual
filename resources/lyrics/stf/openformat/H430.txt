@@ -1,52 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF430 You take all my guilt away,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Noel Richards (b. 1955) </author>
       <author>Tricia Richards (b. 1960)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 My lips shall praise you,
 my great Redeemer;
 my heart will worship
 almighty Saviour.
-
 1
-
 You take all my guilt away,
 turn the darkest night to brightest day,
 you are the restorer of my soul.
-
 2
-
 Love that conquers every fear,
 in the midst of trouble you draw near,
 you are the restorer of my soul.
-
 3
-
 You're the source of happiness,
 bringing peace when I am in distress,
 you are the restorer of my soul.

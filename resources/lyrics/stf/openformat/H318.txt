@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF318 Christ, our King before creation,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Ivor H. Jones (b. 1934)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Christ, our King before creation,<br/>life, before all life began,<br/>crowned in deep humiliation<br/>by your partners in God's plan,<br/>make us humble in believing,<br/>and, believing, bold to pray:<br/>'Lord, forgive our self-deceiving,<br/>come and reign in us today!'
     </verse>
-
+    <verse name="v2"><br/>Lord of time and Lord of history,<br/>giving, when the world despairs,<br/>faith to wrestle with the mystery<br/>of a God who loves and cares,<br/>make us humble in believing,<br/>and, believing, bold to pray:<br/>'Lord, by grace beyond conceiving,<br/>come and reign in us today!'
+    </verse>
+    <verse name="v3"><br/>Word that ends our long debating,<br/>life of God which sets us free,<br/>through your body recreating<br/>life as life is meant to be,<br/>make us humble in believing,<br/>and, believing, bold to pray:<br/>'Lord, in us your aim achieving,<br/>come and reign in us today!'</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Christ, our King before creation,
-life, before all life began,
-crowned in deep humiliation
-by your partners in God's plan,
-make us humble in believing,
-and, believing, bold to pray:
-'Lord, forgive our self-deceiving,
-come and reign in us today!'
-
-2
-
-Lord of time and Lord of history,
-giving, when the world despairs,
-faith to wrestle with the mystery
-of a God who loves and cares,
-make us humble in believing,
-and, believing, bold to pray:
-'Lord, by grace beyond conceiving,
-come and reign in us today!'
-
-3
-
-Word that ends our long debating,
-life of God which sets us free,
-through your body recreating
-life as life is meant to be,
-make us humble in believing,
-and, believing, bold to pray:
-'Lord, in us your aim achieving,
-come and reign in us today!'

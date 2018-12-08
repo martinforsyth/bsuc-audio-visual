@@ -1,67 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF2 Come, let us sing to the One,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Keith Getty (b. 1974) </author>
       <author>Kristyn Getty (b. 1980)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Come, let us sing to the One,<br/>to the Father of life,<br/>whose light fills the earth like the sun;<br/>come, tell of the wonders he's done.<br/>Great is the world he has made,<br/>are the myst'ries untold,<br/>is his measureless power of old;<br/>come, come let us sing to our God.<br/>To our God, who is able<br/>to strengthen us in his grace<br/>beyond all we imagine,<br/>be all glory and praise,<br/>be all praise.
     </verse>
-
+    <verse name="v2"><br/>Come, let us sing to the One,<br/>to the Saviour of life,<br/>find the fullness of God in the Son;<br/>come, tell of the wonders he's done.<br/>Wild is the mercy of Christ,<br/>is the richness of grace,<br/>is the unending life we embrace;<br/>come, come let us sing to our God.
+    </verse>
+    <verse name="v3"><br/>Come, let us sing to the One,<br/>to the Spirit of life,<br/>leading us in the way of the Son;<br/>come, tell of the wonders he's done.<br/>Strong is the Spirit within,<br/>is the boldness to speak,<br/>is the power to run when we're weak;<br/>come, come let us sing to our God.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Come, let us sing to the One,
-to the Father of life,
-whose light fills the earth like the sun;
-come, tell of the wonders he's done.
-Great is the world he has made,
-are the myst'ries untold,
-is his measureless power of old;
-come, come let us sing to our God.
-To our God, who is able
-to strengthen us in his grace
-beyond all we imagine,
-be all glory and praise,
-be all praise.
-
-2
-
-Come, let us sing to the One,
-to the Saviour of life,
-find the fullness of God in the Son;
-come, tell of the wonders he's done.
-Wild is the mercy of Christ,
-is the richness of grace,
-is the unending life we embrace;
-come, come let us sing to our God.
-
-3
-
-Come, let us sing to the One,
-to the Spirit of life,
-leading us in the way of the Son;
-come, tell of the wonders he's done.
-Strong is the Spirit within,
-is the boldness to speak,
-is the power to run when we're weak;
-come, come let us sing to our God.

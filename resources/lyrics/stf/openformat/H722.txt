@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF722 When mountains that we thought secure</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Gareth Hill (b. 1956)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>When mountains that we thought secure<br/>lie crumbled where we stand<br/>and pain and helplessness endure<br/>-- all from another's hand --<br/>help us to bear the prophet's mark,<br/>to stand apart from hate<br/>and witness to the Father's call<br/>for justice in the land.
     </verse>
-
+    <verse name="v2"><br/>God is our strength and refuge still<br/>though all the earth give way;<br/>our help at every time of ill,<br/>the light of our dark day.<br/>And as his people in the world<br/>we bear the scars of grief,<br/>but echo faith's resounding note<br/>-- and still for justice pray.
+    </verse>
+    <verse name="v3"><br/>There is a place of holiness<br/>where God makes warfare cease.<br/>There is a day of hopefulness,<br/>a promised time of peace.<br/>So, here today, we bear the pain<br/>of inhumanity,<br/>but pledge our lives to live for truth<br/>so justice may increase.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-When mountains that we thought secure
-lie crumbled where we stand
-and pain and helplessness endure
--- all from another's hand --
-help us to bear the prophet's mark,
-to stand apart from hate
-and witness to the Father's call
-for justice in the land.
-
-2
-
-God is our strength and refuge still
-though all the earth give way;
-our help at every time of ill,
-the light of our dark day.
-And as his people in the world
-we bear the scars of grief,
-but echo faith's resounding note
--- and still for justice pray.
-
-3
-
-There is a place of holiness
-where God makes warfare cease.
-There is a day of hopefulness,
-a promised time of peace.
-So, here today, we bear the pain
-of inhumanity,
-but pledge our lives to live for truth
-so justice may increase.

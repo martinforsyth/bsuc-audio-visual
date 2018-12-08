@@ -1,64 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF118 Tell me who made all of creation,</title>
     </titles>
-
     <comments>
       <comment>The refrain is sung twice after verses 1 and 3.</comment>
     </comments>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
-
       <author>Mark Johnson</author>
       <author>Helen Johnson</author>
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Tell me who made all of creation,<br/>who designed the wonders of nature?<br/>Whose idea was pattern and colour,<br/>wonderful to see?<br/>Everywhere around me,<br/>I can see the hand of God,<br/>the evidence surrounds me,<br/>in the greatness of his world.
     </verse>
-
+    <verse name="v2"><br/>Tell me who made music and laughter,<br/>who designed our bodies to start with?<br/>Whose idea was thinking and feeling,<br/>who gave life to me?<br/>Refrain
+    </verse>
+    <verse name="v3"><br/>Don't stop looking, don't stop believing,<br/>God is to be found when you seek him.<br/>All creation tells of his glory,<br/>for eternity.<br/>Refrain<br/>Everywhere around me!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Tell me who made all of creation,
-who designed the wonders of nature?
-Whose idea was pattern and colour,
-wonderful to see?
-Everywhere around me,
-I can see the hand of God,
-the evidence surrounds me,
-in the greatness of his world.
-
-2
-
-Tell me who made music and laughter,
-who designed our bodies to start with?
-Whose idea was thinking and feeling,
-who gave life to me?
-Refrain
-
-3
-
-Don't stop looking, don't stop believing,
-God is to be found when you seek him.
-All creation tells of his glory,
-for eternity.
-Refrain
-
-Everywhere around me!

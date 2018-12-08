@@ -1,57 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF716 There are no strangers to God's love,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Andrew Pratt (b. 1948)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>There are no strangers to God's love,<br/>yet we have privatised God's grace.<br/>Bounded by nationhood and lies,<br/>in fear we shrouded love's own face.<br/>Acknowledging our sin and greed<br/>we come confessing common need.
     </verse>
-
+    <verse name="v2"><br/>These are our neighbours and our friends,<br/>the ones who run in fear from war,<br/>who dread abuse by power or state,<br/>or seek the means to be less poor;<br/>these are the ones we have denied,<br/>as in each one the Christ has cried.
+    </verse>
+    <verse name="v3"><br/>When people seeking sanctuary<br/>come to this place and need our aid,<br/>then in Christ's name let's offer care;<br/>through this our debt of love is paid.<br/>God's grace is free, this grace receive,<br/>let actions show what we believe.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-There are no strangers to God's love,
-yet we have privatised God's grace.
-Bounded by nationhood and lies,
-in fear we shrouded love's own face.
-Acknowledging our sin and greed
-we come confessing common need.
-
-2
-
-These are our neighbours and our friends,
-the ones who run in fear from war,
-who dread abuse by power or state,
-or seek the means to be less poor;
-these are the ones we have denied,
-as in each one the Christ has cried.
-
-3
-
-When people seeking sanctuary
-come to this place and need our aid,
-then in Christ's name let's offer care;
-through this our debt of love is paid.
-God's grace is free, this grace receive,
-let actions show what we believe.

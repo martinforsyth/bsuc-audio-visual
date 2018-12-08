@@ -1,107 +1,60 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF817 It is a good thing to give thanks to the Lord</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 92
-
 1
-
 It is a good thing to give thanks to the Lord
 and to sing praises to your name, O Most High;
-
 2
-
 To tell of your love early in the morning
 and of your faithfulness in the night-time,
-
 3
-
 Upon the ten-stringed instrument, upon the harp,
 and to the melody of the lyre.
-
 4
-
 For you, Lord, have made me glad by your acts,
 and I sing aloud at the works of your hands.
-
 5
-
 O Lord, how glorious are your works!
 Your thoughts are very deep.
-
 6
-
 The senseless do not know,
 nor do fools understand,
-
 7
-
 That though the wicked sprout like grass
 and all the workers of iniquity flourish,
-
 8
-
 It is only to be destroyed for ever;
 but you, O Lord, shall be exalted for evermore.
-
 9
-
 For lo, your enemies, O Lord, lo, your enemies shall perish,
 and all the workers of iniquity shall be scattered.
-
 10
-
 But my horn you have exalted like the horns of wild oxen;
 I am anointed with fresh oil.
-
 11
-
 My eyes will look down on my foes;
 my ears shall hear the ruin of the evildoers who rise up against me.
-
 12
-
 The righteous shall flourish like a palm tree,
 and shall spread abroad like a cedar of Lebanon.
-
 13
-
 Such as are planted in the house of the Lord
 shall flourish in the courts of our God.
-
 14
-
 They shall still bear fruit in old age;
 they shall be vigorous and in full leaf;
-
 15
-
 That they may show that the Lord is true;
 he is my rock, and there is no unrighteousness in him.

@@ -1,61 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF266 All the room was hushed and still,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Graham Kendrick (b. 1950)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>All the room was hushed and still,<br/>and when the bowl was filled<br/>he stooped to wash their feet.<br/>And when it was complete,<br/>he said, this is what I'm asking you to do,<br/>this is why I'm kneeling here beside you.<br/>This is what I want my Church to be,<br/>this is what I want the world to see --<br/>who it is you follow.<br/>Love each other,<br/>one another.<br/>Love each other<br/>in the way that I have loved you.<br/>Walk together,<br/>and whatever comes,<br/>love each other in the way that I have loved you.
     </verse>
-
+    <verse name="v2"><br/>Let the room be hushed and still,<br/>let us go to where he kneels<br/>and join him as he serves,<br/>and learn his ways of love.<br/>He said, this is what I'm asking you to do,<br/>this is why I'm kneeling here beside you.<br/>This is what I want my Church to be,<br/>this is what I want the world to see --<br/>who it is you follow.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-All the room was hushed and still,
-and when the bowl was filled
-he stooped to wash their feet.
-And when it was complete,
-he said, this is what I'm asking you to do,
-this is why I'm kneeling here beside you.
-This is what I want my Church to be,
-this is what I want the world to see --
-who it is you follow.
-Love each other,
-one another.
-Love each other
-in the way that I have loved you.
-Walk together,
-and whatever comes,
-love each other in the way that I have loved you.
-
-2
-
-Let the room be hushed and still,
-let us go to where he kneels
-and join him as he serves,
-and learn his ways of love.
-He said, this is what I'm asking you to do,
-this is why I'm kneeling here beside you.
-This is what I want my Church to be,
-this is what I want the world to see --
-who it is you follow.

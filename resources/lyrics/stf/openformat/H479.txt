@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF479 The King of love my shepherd is,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Henry Williams Baker (1821-1877)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>The King of love my shepherd is,<br/>whose goodness faileth never;<br/>I nothing lack if I am his<br/>and he is mine for ever.
     </verse>
-
+    <verse name="v2"><br/>Where streams of living water flow<br/>my ransomed soul he leadeth,<br/>and where the verdant pastures grow<br/>with food celestial feedeth.
+    </verse>
+    <verse name="v3"><br/>Perverse and foolish oft I strayed,<br/>but yet in love he sought me,<br/>and on his shoulder gently laid,<br/>and home rejoicing brought me.
+    </verse>
+    <verse name="v4"><br/>In death's dark vale I fear no ill<br/>with thee, dear Lord, beside me;<br/>thy rod and staff my comfort still,<br/>thy cross before to guide me.
+    </verse>
+    <verse name="v5"><br/>Thou spread'st a table in my sight;<br/>thy unction grace bestoweth;<br/>and O what transport of delight<br/>from thy pure chalice floweth!
+    </verse>
+    <verse name="v6"><br/>And so through all the length of days<br/>thy goodness faileth never:<br/>Good Shepherd, may I sing thy praise<br/>within thy house for ever.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-The King of love my shepherd is,
-whose goodness faileth never;
-I nothing lack if I am his
-and he is mine for ever.
-
-2
-
-Where streams of living water flow
-my ransomed soul he leadeth,
-and where the verdant pastures grow
-with food celestial feedeth.
-
-3
-
-Perverse and foolish oft I strayed,
-but yet in love he sought me,
-and on his shoulder gently laid,
-and home rejoicing brought me.
-
-4
-
-In death's dark vale I fear no ill
-with thee, dear Lord, beside me;
-thy rod and staff my comfort still,
-thy cross before to guide me.
-
-5
-
-Thou spread'st a table in my sight;
-thy unction grace bestoweth;
-and O what transport of delight
-from thy pure chalice floweth!
-
-6
-
-And so through all the length of days
-thy goodness faileth never:
-Good Shepherd, may I sing thy praise
-within thy house for ever.

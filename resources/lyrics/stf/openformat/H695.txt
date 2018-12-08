@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF695 'Come, now, you blessed, eat at my table,'</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Ruth Duck (b. 1947)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>'Come, now, you blessed, eat at my table,'<br/>said the great judge to the righteous above.<br/>'When I was hungry, thirsty, and homeless,<br/>sick and in prison, you showed me your love.'
     </verse>
-
+    <verse name="v2"><br/>'When did we see you hungry or thirsty?<br/>When were you homeless, a stranger alone?<br/>When did we see you sick or in prison?<br/>What have we done that you call us your own?'
+    </verse>
+    <verse name="v3"><br/>'When you gave bread to earth's hungry children,<br/>when you gave welcome to war's refugees,<br/>when you remembered those most forgotten,<br/>you cared for me in the smallest of these.'
+    </verse>
+    <verse name="v4"><br/>Christ, when we meet you out on life's roadways,<br/>looking to us in the faces of need,<br/>then may we know you, welcome, and show you<br/>love that is faithful in word and in deed.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-'Come, now, you blessed, eat at my table,'
-said the great judge to the righteous above.
-'When I was hungry, thirsty, and homeless,
-sick and in prison, you showed me your love.'
-
-2
-
-'When did we see you hungry or thirsty?
-When were you homeless, a stranger alone?
-When did we see you sick or in prison?
-What have we done that you call us your own?'
-
-3
-
-'When you gave bread to earth's hungry children,
-when you gave welcome to war's refugees,
-when you remembered those most forgotten,
-you cared for me in the smallest of these.'
-
-4
-
-Christ, when we meet you out on life's roadways,
-looking to us in the faces of need,
-then may we know you, welcome, and show you
-love that is faithful in word and in deed.

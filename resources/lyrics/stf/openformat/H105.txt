@@ -1,34 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF105 God said leaf and the shoot pushed through,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Steve Turner</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 God said, God said world,
 God said world and the world spun round.
 God said, God said light,
@@ -37,16 +21,12 @@ God said night and the sky went black,
 God said land and the sea rolled back.
 God said, God said world,
 God said world and the world spun round.
-
 1
-
 God said leaf and the shoot pushed through,
 God said fin and the first fish grew,
 God said beak and the big bird soared,
 God said fur and the jungle roared.
-
 2
-
 God said breath and Adam stood there,
 God said life and Eve breathed air,
 God said good and the world was great,

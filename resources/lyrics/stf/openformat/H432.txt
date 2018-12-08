@@ -1,62 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF432 O the bitter shame and sorrow,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Theodore Monod (1836-1921)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>O the bitter shame and sorrow,<br/>that a time could ever be<br/>when I let the Saviour's pity<br/>plead in vain, and proudly answered:<br/>none of you and all of me!
     </verse>
-
+    <verse name="v2"><br/>Yet you found me;there I saw you<br/>dying and in agony,<br/>heard you pray, 'Forgive them, Father,'<br/>and my wistful heart said faintly:<br/>some of you and some of me!
+    </verse>
+    <verse name="v3"><br/>Day by day your tender mercy,<br/>healing, helping, full and free,<br/>firm and strong, with endless patience<br/>brought me lower, while I whispered:<br/>more of you and less of me!
+    </verse>
+    <verse name="v4"><br/>Higher than the highest heaven,<br/>deeper than the deepest sea,<br/>Lord, your love at last has conquered;<br/>grant me now my spirit's longing:<br/>all of you and none of me!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-O the bitter shame and sorrow,
-that a time could ever be
-when I let the Saviour's pity
-plead in vain, and proudly answered:
-none of you and all of me!
-
-2
-
-Yet you found me;there I saw you
-dying and in agony,
-heard you pray, 'Forgive them, Father,'
-and my wistful heart said faintly:
-some of you and some of me!
-
-3
-
-Day by day your tender mercy,
-healing, helping, full and free,
-firm and strong, with endless patience
-brought me lower, while I whispered:
-more of you and less of me!
-
-4
-
-Higher than the highest heaven,
-deeper than the deepest sea,
-Lord, your love at last has conquered;
-grant me now my spirit's longing:
-all of you and none of me!

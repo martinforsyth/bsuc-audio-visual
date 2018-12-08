@@ -1,37 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF774 The peace of the earth be with you,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>The peace of the earth be with you,<br/>the peace of the heavens too;<br/>the peace of the rivers be with you,<br/>the peace of the oceans too.<br/>Deep peace falling over you.<br/>God's peace, God's peace growing in you.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-The peace of the earth be with you,
-the peace of the heavens too;
-the peace of the rivers be with you,
-the peace of the oceans too.
-Deep peace falling over you.
-God's peace, God's peace growing in you.

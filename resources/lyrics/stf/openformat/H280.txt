@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF280 O sacred head, sore wounded,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Paul Gerhardt (1607-1676)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>O sacred head, sore wounded,<br/>with grief and pain weighed down,<br/>how scornfully surrounded<br/>with thorns, thine only crown!<br/>How pale art thou with anguish,<br/>with sore abuse and scorn!<br/>How does that visage languish<br/>which once was bright as morn!
     </verse>
-
+    <verse name="v2"><br/>O Lord of life and glory,<br/>what bliss till now was thine!<br/>I read the wondrous story,<br/>I joy to call thee mine.<br/>Thy grief and thy compassion<br/>were all for sinners' gain;<br/>mine, mine was the transgression,<br/>but thine the deadly pain.
+    </verse>
+    <verse name="v3"><br/>What language shall I borrow<br/>to praise thee, dearest friend,<br/>for this thy dying sorrow,<br/>thy pity without end?<br/>Lord, make me thine for ever,<br/>nor let me faithless prove;<br/>O let me never, never<br/>abuse such dying love!
+    </verse>
+    <verse name="v4"><br/>Be near me, Lord, when dying;<br/>O show thy cross to me,<br/>that I, for succour flying,<br/>my eyes may fix on thee;<br/>and then, thy grace receiving,<br/>let faith my fears dispel,<br/>for whoso dies believing<br/>in thee, dear Lord, dies well.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-O sacred head, sore wounded,
-with grief and pain weighed down,
-how scornfully surrounded
-with thorns, thine only crown!
-How pale art thou with anguish,
-with sore abuse and scorn!
-How does that visage languish
-which once was bright as morn!
-
-2
-
-O Lord of life and glory,
-what bliss till now was thine!
-I read the wondrous story,
-I joy to call thee mine.
-Thy grief and thy compassion
-were all for sinners' gain;
-mine, mine was the transgression,
-but thine the deadly pain.
-
-3
-
-What language shall I borrow
-to praise thee, dearest friend,
-for this thy dying sorrow,
-thy pity without end?
-Lord, make me thine for ever,
-nor let me faithless prove;
-O let me never, never
-abuse such dying love!
-
-4
-
-Be near me, Lord, when dying;
-O show thy cross to me,
-that I, for succour flying,
-my eyes may fix on thee;
-and then, thy grace receiving,
-let faith my fears dispel,
-for whoso dies believing
-in thee, dear Lord, dies well.

@@ -1,143 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF804 My God, my God, why have you forsaken me,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18 v19 v20 v21 v22</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 22:1-11, 21-31
-
 1
-
 My God, my God, why have you forsaken me,
 and are so far from my salvation, from the words of my distress?
-
 2
-
 O my God, I cry in the daytime, but you do not answer;
 and by night also, but I find no rest.
-
 3
-
 Yet you are the Holy One,
 enthroned upon the praises of Israel.
-
 4
-
 Our forebears trusted in you;
 they trusted, and you delivered them.
-
 5
-
 They cried out to you and were delivered;
 they put their trust in you and were not confounded.
-
 6
-
 But as for me, I am a worm and not human,
 scorned by all and despised by the people.
-
 7
-
 All who see me laugh me to scorn;
 they curl their lips and wag their heads, saying,
-
 8
-
 'He trusted in the Lord;let him deliver him;
 let him deliver him, if he delights in him.'
-
 9
-
 But it is you that took me out of the womb
 and laid me safe upon my mother's breast.
-
 10
-
 On you was I cast ever since I was born;
 you are my God even from my mother's womb.
-
 11
-
 Be not far from me, for trouble is near at hand
 and there is none to help.
-
 12
-
 Save me from the lion's mouth, from the horns of wild oxen.
 You have answered me!
-
 13
-
 I will tell of your name to my people;
 in the midst of the congregation will I praise you.
-
 14
-
 Praise the Lord, you that fear him;
 O seed of Jacob, glorify him;stand in awe of him, O seed of Israel.
-
 15
-
 For he has not despised nor abhorred the suffering of the poor;
 neither has he hidden his face from them;
 but when they cried to him he heard them.
-
 16
-
 From you comes my praise in the great congregation;
 I will perform my vows in the presence of those that fear you.
-
 17
-
 The poor shall eat and be satisfied;
 those who seek the Lord shall praise him;their hearts shall live for ever.
-
 18
-
 All the ends of the earth shall remember and turn to the Lord,
 and all the families of the nations shall bow before him.
-
 19
-
 For the kingdom is the Lord's
 and he rules over the nations.
-
 20
-
 How can those who sleep in the earth bow down in worship,
 or those who go down to the dust kneel before him?
-
 21
-
 He has saved my life for himself;my descendants shall serve him;
 this shall be told of the Lord for generations to come.
-
 22
-
 They shall come and make known his salvation, to a people yet unborn,
 declaring that he, the Lord, has done it.

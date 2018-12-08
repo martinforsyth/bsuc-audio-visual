@@ -1,55 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF203 I had a dream that I was standing on a hillside,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author></author>
       <author>y Piercy (b. 1951)</author>
       <author>C. S. de Whalley</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>I had a dream that I was standing on a hillside,<br/>and all the lights of town were shining far below<br/>when up in the air beautiful voices,<br/>sang a new song, let everyone know.<br/>Oh and love shone down<br/>over the hills and over the valleys,<br/>oh and love shone down over the world.
     </verse>
-
+    <verse name="v2"><br/>Somebody spoke to me,<br/>I knew it was an angel.<br/>He said 'There's something that I think you ought to know.'<br/>Then he just smiled, said 'Don't be afraid now.'<br/>Sing a new song, let everyone know.
+    </verse>
+    <verse name="v3"><br/>And then he told me all about the baby Jesus,<br/>how to find him, where exactly I should go.<br/>Then he was joined by millions of others.<br/>Sing a new song, let everyone know.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-I had a dream that I was standing on a hillside,
-and all the lights of town were shining far below
-when up in the air beautiful voices,
-sang a new song, let everyone know.
-Oh and love shone down
-over the hills and over the valleys,
-oh and love shone down over the world.
-
-2
-
-Somebody spoke to me,
-I knew it was an angel.
-He said 'There's something that I think you ought to know.'
-Then he just smiled, said 'Don't be afraid now.'
-Sing a new song, let everyone know.
-
-3
-
-And then he told me all about the baby Jesus,
-how to find him, where exactly I should go.
-Then he was joined by millions of others.
-Sing a new song, let everyone know.

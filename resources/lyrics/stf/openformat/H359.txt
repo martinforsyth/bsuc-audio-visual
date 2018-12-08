@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF359 Lord Christ, we praise your sacrifice,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Alan Gaunt (b. 1935)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Lord Christ, we praise your sacrifice,<br/>your life in love so freely given.<br/>For those who took your life away<br/>you prayed:that they might be forgiven;<br/>and there, in helplessness arrayed,<br/>God's power was perfectly displayed.
     </verse>
-
+    <verse name="v2"><br/>Once helpless in your mother's arms,<br/>dependent on her mercy then;<br/>at last, by choice, in other hands,<br/>you were as helpless once again;<br/>and, at their mercy, crucified,<br/>you claimed your victory and died.
+    </verse>
+    <verse name="v3"><br/>Though helpless and rejected then,<br/>you're now as risen Lord acclaimed;<br/>for ever by your sacrifice<br/>is God's eternal love proclaimed:<br/>the love which, dying, brings to birth<br/>new life and hope for all on earth.
+    </verse>
+    <verse name="v4"><br/>So, living Lord, prepare us now<br/>your willing helplessness to share;<br/>to give ourselves in sacrifice<br/>to overcome the world's despair;<br/>in love to give ourselves away<br/>and claim your victory today.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Lord Christ, we praise your sacrifice,
-your life in love so freely given.
-For those who took your life away
-you prayed:that they might be forgiven;
-and there, in helplessness arrayed,
-God's power was perfectly displayed.
-
-2
-
-Once helpless in your mother's arms,
-dependent on her mercy then;
-at last, by choice, in other hands,
-you were as helpless once again;
-and, at their mercy, crucified,
-you claimed your victory and died.
-
-3
-
-Though helpless and rejected then,
-you're now as risen Lord acclaimed;
-for ever by your sacrifice
-is God's eternal love proclaimed:
-the love which, dying, brings to birth
-new life and hope for all on earth.
-
-4
-
-So, living Lord, prepare us now
-your willing helplessness to share;
-to give ourselves in sacrifice
-to overcome the world's despair;
-in love to give ourselves away
-and claim your victory today.

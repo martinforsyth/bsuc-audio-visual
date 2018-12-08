@@ -1,61 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF541 To the river I am going,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Brian Doerksen</author>
       <author>Michael Hansen</author>
       <author>Brian Thiessen</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>To the river I am going,<br/>bringing sins I cannot bear;<br/>come and cleanse me, come, forgive me;<br/>Lord, I need to meet you there.
     </verse>
-
+    <verse name="v2"><br/>In these waters healing mercy<br/>flows with freedom from despair.<br/>I am going to that river;<br/>Lord, I need to meet you there.<br/>Precious Jesus, I am ready<br/>to surrender every care.<br/>Take my hand now, lead me closer;<br/>Lord, I need to meet you there.<br/>To the river ...<br/>(repeat verses 1 and 2)
+    </verse>
+    <verse name="v3"><br/>Come and join us in the river,<br/>come, find life beyond compare.<br/>He is calling, he is waiting;<br/>Jesus longs to meet you there.<br/>Refrain</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-To the river I am going,
-bringing sins I cannot bear;
-come and cleanse me, come, forgive me;
-Lord, I need to meet you there.
-
-2
-
-In these waters healing mercy
-flows with freedom from despair.
-I am going to that river;
-Lord, I need to meet you there.
-
-Precious Jesus, I am ready
-to surrender every care.
-Take my hand now, lead me closer;
-Lord, I need to meet you there.
-
-To the river ...
-(repeat verses 1 and 2)
-
-3
-
-Come and join us in the river,
-come, find life beyond compare.
-He is calling, he is waiting;
-Jesus longs to meet you there.
-
-Refrain

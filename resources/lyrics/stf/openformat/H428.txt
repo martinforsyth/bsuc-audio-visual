@@ -1,61 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF428 I've come to wash my soul in the living water,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Graham Kendrick (b. 1950)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>I've come to wash my soul in the living water,<br/>wash my heart in your cleansing stream.<br/>Here is mercy and forgiveness;<br/>I shall be clean again,<br/>I shall be clean again.
     </verse>
-
+    <verse name="v2"><br/>I've come to bathe my eyes in your word, Lord Jesus,<br/>cleanse my thoughts, my imaginings.<br/>May these eyes see as your love sees,<br/>light flood my being,<br/>light flood my being.<br/>Oh, wash me whole in your rushing river, my Saviour.<br/>Take me down to die and rise again.<br/>Oh, wash me whole in your rushing river, my Saviour.<br/>Take me down to die and rise again.
+    </verse>
+    <verse name="v3"><br/>For I've been bought with the blood of Jesus,<br/>now my life is not my own.<br/>A temple holy, for you only,<br/>where you are loved and known,<br/>where you are loved and known.<br/>Oh, wash me whole in your rushing river ...</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-I've come to wash my soul in the living water,
-wash my heart in your cleansing stream.
-Here is mercy and forgiveness;
-I shall be clean again,
-I shall be clean again.
-
-2
-
-I've come to bathe my eyes in your word, Lord Jesus,
-cleanse my thoughts, my imaginings.
-May these eyes see as your love sees,
-light flood my being,
-light flood my being.
-
-Oh, wash me whole in your rushing river, my Saviour.
-Take me down to die and rise again.
-Oh, wash me whole in your rushing river, my Saviour.
-Take me down to die and rise again.
-
-3
-
-For I've been bought with the blood of Jesus,
-now my life is not my own.
-A temple holy, for you only,
-where you are loved and known,
-where you are loved and known.
-
-Oh, wash me whole in your rushing river ...

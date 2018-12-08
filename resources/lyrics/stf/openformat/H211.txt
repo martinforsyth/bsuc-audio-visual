@@ -1,57 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF211 Night of peace:</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Daniel Charles Damon (b. 1955)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Night of peace:<br/>hail the holy child<br/>breathing on his own.<br/>Night of peace:<br/>all creation smiled<br/>at God's love made known.
     </verse>
-
+    <verse name="v2"><br/>Night of joy:<br/>kneel at Mary's side,<br/>touch the baby's face.<br/>Night of joy:<br/>feel the father's pride,<br/>bless the first embrace.
+    </verse>
+    <verse name="v3"><br/>Night of love:<br/>hear each waking heart<br/>letting go of fear.<br/>Night of love:<br/>help us play our part<br/>saying, 'Christ is here!'</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Night of peace:
-hail the holy child
-breathing on his own.
-Night of peace:
-all creation smiled
-at God's love made known.
-
-2
-
-Night of joy:
-kneel at Mary's side,
-touch the baby's face.
-Night of joy:
-feel the father's pride,
-bless the first embrace.
-
-3
-
-Night of love:
-hear each waking heart
-letting go of fear.
-Night of love:
-help us play our part
-saying, 'Christ is here!'

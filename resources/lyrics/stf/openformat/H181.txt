@@ -1,70 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF181 Of the Father's love begotten</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Aurelius Clemens Prudentius (348-c. 413)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Of the Father's love begotten<br/>ere the worlds began to be,<br/>he is Alpha and Omega,<br/>he the source, the ending he,<br/>of the things that are, that have been,<br/>and that future years shall see,<br/>evermore and evermore.
     </verse>
-
+    <verse name="v2"><br/>By his word was all created;<br/>he commanded, it was done;<br/>earth and sky and boundless ocean,<br/>universe of three in one;<br/>all that sees the moon's soft radiance,<br/>all that breathes beneath the sun,<br/>evermore and evermore.
+    </verse>
+    <verse name="v3"><br/>This is he whom seers in old time<br/>chanted of with one accord,<br/>whom the voices of the prophets<br/>promised in their faithful word;<br/>now he shines, the long-expected;<br/>let creation praise its Lord,<br/>evermore and evermore.
+    </verse>
+    <verse name="v4"><br/>O you heights of heaven, adore him;<br/>angel hosts, his praises sing;<br/>all dominions, bow before him,<br/>and extol our God and King;<br/>let no tongue on earth be silent,<br/>every voice in concert sing,<br/>evermore and evermore!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Of the Father's love begotten
-ere the worlds began to be,
-he is Alpha and Omega,
-he the source, the ending he,
-of the things that are, that have been,
-and that future years shall see,
-evermore and evermore.
-
-2
-
-By his word was all created;
-he commanded, it was done;
-earth and sky and boundless ocean,
-universe of three in one;
-all that sees the moon's soft radiance,
-all that breathes beneath the sun,
-evermore and evermore.
-
-3
-
-This is he whom seers in old time
-chanted of with one accord,
-whom the voices of the prophets
-promised in their faithful word;
-now he shines, the long-expected;
-let creation praise its Lord,
-evermore and evermore.
-
-4
-
-O you heights of heaven, adore him;
-angel hosts, his praises sing;
-all dominions, bow before him,
-and extol our God and King;
-let no tongue on earth be silent,
-every voice in concert sing,
-evermore and evermore!

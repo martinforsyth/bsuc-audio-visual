@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF742 We trust the mighty love of God</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Alan Gaunt (b. 1935)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We trust the mighty love of God<br/>that wraps us round,<br/>that loves us when we're good or bad;<br/>love so profound<br/>it still gives hope when death has struck<br/>and joy is drowned.
     </verse>
-
+    <verse name="v2"><br/>We trust God's love that once, in Christ<br/>was crucified.<br/>As love's uniquely precious child<br/>was nailed and died,<br/>God, deeply pierced by human grief,<br/>stayed at his side.
+    </verse>
+    <verse name="v3"><br/>In joy or grief, and deeper far<br/>than we can tell,<br/>love finds its way through life and death<br/>and fathoms hell,<br/>assuring faith, through pain and loss,<br/>'All shall be well.'
+    </verse>
+    <verse name="v4"><br/>We trust the future, God to you:<br/>we pray that we<br/>may grasp our full potential here,<br/>and faithfully<br/>go on to find earth's love fulfilled<br/>eternally.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We trust the mighty love of God
-that wraps us round,
-that loves us when we're good or bad;
-love so profound
-it still gives hope when death has struck
-and joy is drowned.
-
-2
-
-We trust God's love that once, in Christ
-was crucified.
-As love's uniquely precious child
-was nailed and died,
-God, deeply pierced by human grief,
-stayed at his side.
-
-3
-
-In joy or grief, and deeper far
-than we can tell,
-love finds its way through life and death
-and fathoms hell,
-assuring faith, through pain and loss,
-'All shall be well.'
-
-4
-
-We trust the future, God to you:
-we pray that we
-may grasp our full potential here,
-and faithfully
-go on to find earth's love fulfilled
-eternally.

@@ -1,57 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF746 For all the saints who showed your love</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949) </author>
       <author>Graham Maule (b. 1958)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>For all the saints who showed your love<br/>in how they lived and where they moved,<br/>for mindful women, caring men,<br/>accept our gratitude again.
     </verse>
-
+    <verse name="v2"><br/>For all the saints who loved your name,<br/>whose faith increased the Saviour's fame,<br/>who sang your songs and shared your word,<br/>accept our gratitude, good Lord.
+    </verse>
+    <verse name="v3"><br/>For all the saints who named your will,<br/>and saw your kingdom coming still<br/>through selfless protest, prayer and praise,<br/>accept the gratitude we raise.
+    </verse>
+    <verse name="v4"><br/>Bless all whose will or name or love<br/>reflects the grace of heaven above.<br/>Though unacclaimed by earthly powers,<br/>your life through theirs has hallowed ours.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-For all the saints who showed your love
-in how they lived and where they moved,
-for mindful women, caring men,
-accept our gratitude again.
-
-2
-
-For all the saints who loved your name,
-whose faith increased the Saviour's fame,
-who sang your songs and shared your word,
-accept our gratitude, good Lord.
-
-3
-
-For all the saints who named your will,
-and saw your kingdom coming still
-through selfless protest, prayer and praise,
-accept the gratitude we raise.
-
-4
-
-Bless all whose will or name or love
-reflects the grace of heaven above.
-Though unacclaimed by earthly powers,
-your life through theirs has hallowed ours.

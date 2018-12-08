@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF675 Because the Saviour prayed that we be one</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Because the Saviour prayed that we be one<br/>and taught his friends to say, 'Your will be done,'<br/>we sense God's call as in God's sight we dare<br/>commit ourselves in answer to Christ's prayer.
     </verse>
-
+    <verse name="v2"><br/>Our narrow loyalties have had their day --<br/>these separate ways, demeaning Christ the Way;<br/>we own the sorry scars that paved the past,<br/>yet gladly seek the road God made to last.
+    </verse>
+    <verse name="v3"><br/>We are our Saviour's body, Christ the head,<br/>first born of God, first risen from the dead.<br/>Dismembered, we debase his holy will;<br/>united, his intention we fulfil.
+    </verse>
+    <verse name="v4"><br/>So guide us, Lord, and take us by the hand,<br/>and show us how to love and understand;<br/>reveal, within the differences we share,<br/>the pattern of your glory, grace and care.
+    </verse>
+    <verse name="v5"><br/>And when our journey here has reached its end<br/>and strangers are the pilgrims you intend,<br/>may we, with gratitude for all you've given,<br/>enjoy you in the harmony of heaven.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Because the Saviour prayed that we be one
-and taught his friends to say, 'Your will be done,'
-we sense God's call as in God's sight we dare
-commit ourselves in answer to Christ's prayer.
-
-2
-
-Our narrow loyalties have had their day --
-these separate ways, demeaning Christ the Way;
-we own the sorry scars that paved the past,
-yet gladly seek the road God made to last.
-
-3
-
-We are our Saviour's body, Christ the head,
-first born of God, first risen from the dead.
-Dismembered, we debase his holy will;
-united, his intention we fulfil.
-
-4
-
-So guide us, Lord, and take us by the hand,
-and show us how to love and understand;
-reveal, within the differences we share,
-the pattern of your glory, grace and care.
-
-5
-
-And when our journey here has reached its end
-and strangers are the pilgrims you intend,
-may we, with gratitude for all you've given,
-enjoy you in the harmony of heaven.

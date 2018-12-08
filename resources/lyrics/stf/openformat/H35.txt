@@ -1,56 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF35 The trumpets sound, the angels sing,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Graham Kendrick (b. 1950)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>The trumpets sound, the angels sing,<br/>the feast is ready to begin;<br/>the gates of heaven are open wide,<br/>and Jesus welcomes you inside.<br/>Sing with thankfulness songs of pure delight,<br/>come and revel in heaven's love and light;<br/>take your place at the table of the King,<br/>the feast is ready to begin,<br/>the feast is ready to begin.
     </verse>
-
+    <verse name="v2"><br/>Tables are laden with good things,<br/>O taste the peace and joy he brings;<br/>he'll fill you up with love divine,<br/>he'll turn your water into wine.
+    </verse>
+    <verse name="v3"><br/>The hungry heart he satisfies,<br/>offers the poor his paradise;<br/>now hear all heaven and earth applaud<br/>the amazing goodness of the Lord.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-The trumpets sound, the angels sing,
-the feast is ready to begin;
-the gates of heaven are open wide,
-and Jesus welcomes you inside.
-Sing with thankfulness songs of pure delight,
-come and revel in heaven's love and light;
-take your place at the table of the King,
-the feast is ready to begin,
-the feast is ready to begin.
-
-2
-
-Tables are laden with good things,
-O taste the peace and joy he brings;
-he'll fill you up with love divine,
-he'll turn your water into wine.
-
-3
-
-The hungry heart he satisfies,
-offers the poor his paradise;
-now hear all heaven and earth applaud
-the amazing goodness of the Lord.

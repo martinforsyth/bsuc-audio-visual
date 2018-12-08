@@ -1,56 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF640 We turn to God when we are sorely pressed;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Dietrich Bonhoeffer (1906-1945)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We turn to God when we are sorely pressed;<br/>we pray for help, and ask for peace and bread;<br/>we seek release from illness, guilt, and death:<br/>all people do, in faith or unbelief.
     </verse>
-
+    <verse name="v2"><br/>We turn to God when he is sorely pressed,<br/>and find him poor, scorned, without roof and bread,<br/>bowed under weight of weakness, sin, and death:<br/>faith stands by God in his dark hour of grief.
+    </verse>
+    <verse name="v3"><br/>God turns to us when we are sorely pressed,<br/>and feeds our souls and bodies with his bread;<br/>for one and all Christ gives himself in death:<br/>through his forgiveness sin will find relief.<br/>Letters and Papers in Prison,1953, SCM Press<br/>translatedCompilers of Church Hymnary,4th edition, 2005</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We turn to God when we are sorely pressed;
-we pray for help, and ask for peace and bread;
-we seek release from illness, guilt, and death:
-all people do, in faith or unbelief.
-
-2
-
-We turn to God when he is sorely pressed,
-and find him poor, scorned, without roof and bread,
-bowed under weight of weakness, sin, and death:
-faith stands by God in his dark hour of grief.
-
-3
-
-God turns to us when we are sorely pressed,
-and feeds our souls and bodies with his bread;
-for one and all Christ gives himself in death:
-through his forgiveness sin will find relief.
-
-
-
-Letters and Papers in Prison,1953, SCM Press
-translatedCompilers of Church Hymnary,4th edition, 2005

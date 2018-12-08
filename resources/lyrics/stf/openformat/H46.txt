@@ -1,68 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF46 Everlasting God,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Vicky Beeching</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Everlasting God,<br/>the years go by but you're unchanging.<br/>In this fragile world,<br/>you are the only firm foundation.<br/>Always loving, always true,<br/>always merciful and good, so good.<br/>Yesterday, today and forever,<br/>you are the same, you never change.<br/>Yesterday, today and forever,<br/>you are faithful and we will trust in you.
     </verse>
-
+    <verse name="v2"><br/>Uncreated One,<br/>you have no end and no beginning.<br/>Earthly powers fade,<br/>but there is no end to your kingdom.<br/>Always loving, always true,<br/>always merciful and good, so good.<br/>Yesterday, today and forever,<br/>you are the same, you never change.<br/>Yesterday, today and forever,<br/>you are faithful and we will trust in you.<br/>Yahweh, God unchanging.<br/>Yahweh, firm foundation.<br/>You are Yahweh, God unchanging.<br/>Yahweh, firm foundation.<br/>Yesterday, today and forever,<br/>you are the same, you never change.<br/>Yesterday, today and forever,<br/>you are faithful and we will trust in you.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Everlasting God,
-the years go by but you're unchanging.
-In this fragile world,
-you are the only firm foundation.
-Always loving, always true,
-always merciful and good, so good.
-
-Yesterday, today and forever,
-you are the same, you never change.
-Yesterday, today and forever,
-you are faithful and we will trust in you.
-
-2
-
-Uncreated One,
-you have no end and no beginning.
-Earthly powers fade,
-but there is no end to your kingdom.
-Always loving, always true,
-always merciful and good, so good.
-
-Yesterday, today and forever,
-you are the same, you never change.
-Yesterday, today and forever,
-you are faithful and we will trust in you.
-
-Yahweh, God unchanging.
-Yahweh, firm foundation.
-You are Yahweh, God unchanging.
-Yahweh, firm foundation.
-
-Yesterday, today and forever,
-you are the same, you never change.
-Yesterday, today and forever,
-you are faithful and we will trust in you.

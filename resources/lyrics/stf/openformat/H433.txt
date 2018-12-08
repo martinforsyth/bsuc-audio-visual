@@ -1,80 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF433 Out of the depths I cry to thee,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Martin Luther (1483-1546)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Out of the depths I cry to thee,<br/>Lord God! O hear my prayer!<br/>Incline a gracious ear to me,<br/>and bid me not despair:<br/>if thou rememberest each misdeed,<br/>if each should have its rightful meed,<br/>Lord, who shall stand before thee?
     </verse>
-
+    <verse name="v2"><br/>'Tis through thy love alone we gain<br/>the pardon of our sin;<br/>the strictest life is but in vain,<br/>our works can nothing win;<br/>that none should boast himself of aught,<br/>but own in fear thy grace hath wrought<br/>what in him seemeth righteous.
+    </verse>
+    <verse name="v3"><br/>Wherefore my hope is in the Lord,<br/>my works I count but dust;<br/>I build not there, but on his word,<br/>and in his goodness trust.<br/>Up to his care myself I yield,<br/>he is my tower, my rock, my shield,<br/>and for his help I tarry.
+    </verse>
+    <verse name="v4"><br/>And though it linger till the night,<br/>and round again till morn,<br/>my heart shall ne'er mistrust thy might,<br/>nor count itself forlorn.<br/>Do thus, O ye of Israel's seed,<br/>ye of the Spirit born indeed,<br/>wait for your God's appearing.
+    </verse>
+    <verse name="v5"><br/>Though great our sins and sore our wounds,<br/>and deep and dark our fall,<br/>his helping mercy hath no bounds,<br/>his love surpasseth all:<br/>our trusty loving Shepherd, he<br/>who shall at last set Israel free<br/>from all their sin and sorrow.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Out of the depths I cry to thee,
-Lord God! O hear my prayer!
-Incline a gracious ear to me,
-and bid me not despair:
-if thou rememberest each misdeed,
-if each should have its rightful meed,
-Lord, who shall stand before thee?
-
-2
-
-'Tis through thy love alone we gain
-the pardon of our sin;
-the strictest life is but in vain,
-our works can nothing win;
-that none should boast himself of aught,
-but own in fear thy grace hath wrought
-what in him seemeth righteous.
-
-3
-
-Wherefore my hope is in the Lord,
-my works I count but dust;
-I build not there, but on his word,
-and in his goodness trust.
-Up to his care myself I yield,
-he is my tower, my rock, my shield,
-and for his help I tarry.
-
-4
-
-And though it linger till the night,
-and round again till morn,
-my heart shall ne'er mistrust thy might,
-nor count itself forlorn.
-Do thus, O ye of Israel's seed,
-ye of the Spirit born indeed,
-wait for your God's appearing.
-
-5
-
-Though great our sins and sore our wounds,
-and deep and dark our fall,
-his helping mercy hath no bounds,
-his love surpasseth all:
-our trusty loving Shepherd, he
-who shall at last set Israel free
-from all their sin and sorrow.

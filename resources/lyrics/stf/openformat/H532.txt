@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF532 Born in a stable.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Marjorie Dobson (b. 1940)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Born in a stable.<br/>Call his name Jesus.<br/>See how his birth<br/>brings hope breaking through.<br/>Living and learning,<br/>serving and giving --<br/>all this for you, child,<br/>all this for you.
     </verse>
-
+    <verse name="v2"><br/>Enemies hate him.<br/>Friends have betrayed him.<br/>There on the cross<br/>despair breaking through.<br/>Yet, after three days,<br/>see, he has risen.<br/>All this for you, child,<br/>all this for you.
+    </verse>
+    <verse name="v3"><br/>You cannot know,<br/>but Jesus is praying<br/>that in your life<br/>God's love will break through.<br/>We will join with him,<br/>love you and bless you.<br/>All this for you, child,<br/>all this for you.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Born in a stable.
-Call his name Jesus.
-See how his birth
-brings hope breaking through.
-Living and learning,
-serving and giving --
-all this for you, child,
-all this for you.
-
-2
-
-Enemies hate him.
-Friends have betrayed him.
-There on the cross
-despair breaking through.
-Yet, after three days,
-see, he has risen.
-All this for you, child,
-all this for you.
-
-3
-
-You cannot know,
-but Jesus is praying
-that in your life
-God's love will break through.
-We will join with him,
-love you and bless you.
-All this for you, child,
-all this for you.

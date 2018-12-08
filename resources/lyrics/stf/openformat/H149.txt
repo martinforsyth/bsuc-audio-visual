@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF149 First of the week and finest day,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>David Mowbray (b. 1938)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>First of the week and finest day,<br/>when God commanded light to shine:<br/>cast darkness and its works away<br/>to celebrate with bread and wine!
     </verse>
-
+    <verse name="v2"><br/>First of the week was Easter morn<br/>when Christ the Lord from death was raised;<br/>new life, fresh hope that day was born<br/>and God in heaven and earth was praised.
+    </verse>
+    <verse name="v3"><br/>First of the week the Spirit came<br/>to fill the Church with grace and power;<br/>the rushing wind and tongues of flame<br/>were heralds of that promised hour.
+    </verse>
+    <verse name="v4"><br/>First of the week we set aside<br/>to meet, to learn, to give, to pray;<br/>to spread Christ's gospel far and wide;<br/>in truth, this is the Lord's own day!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-First of the week and finest day,
-when God commanded light to shine:
-cast darkness and its works away
-to celebrate with bread and wine!
-
-2
-
-First of the week was Easter morn
-when Christ the Lord from death was raised;
-new life, fresh hope that day was born
-and God in heaven and earth was praised.
-
-3
-
-First of the week the Spirit came
-to fill the Church with grace and power;
-the rushing wind and tongues of flame
-were heralds of that promised hour.
-
-4
-
-First of the week we set aside
-to meet, to learn, to give, to pray;
-to spread Christ's gospel far and wide;
-in truth, this is the Lord's own day!

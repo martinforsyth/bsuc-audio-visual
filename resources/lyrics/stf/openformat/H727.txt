@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF727 God in his love for us lent us this planet,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Fred Pratt Green (1903-2000)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God in his love for us lent us this planet,<br/>gave it a purpose in time and in space:<br/>small as a spark from the fire of creation,<br/>cradle of life and the home of our race.
     </verse>
-
+    <verse name="v2"><br/>Thanks be to God for its bounty and beauty,<br/>life that sustains us in body and mind:<br/>plenty for all, if we learn how to share it,<br/>riches undreamed-of to fathom and find.
+    </verse>
+    <verse name="v3"><br/>Long have our human wars ruined its harvest;<br/>long has earth bowed to the terror of force;<br/>long have we wasted what others have needed,<br/>poisoned the fountain of life at its source.
+    </verse>
+    <verse name="v4"><br/>Earth is the Lord's:it is ours to enjoy it,<br/>ours, as God's stewards, to farm and defend.<br/>From its pollution, misuse, and destruction,<br/>good Lord, deliver us, world without end!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God in his love for us lent us this planet,
-gave it a purpose in time and in space:
-small as a spark from the fire of creation,
-cradle of life and the home of our race.
-
-2
-
-Thanks be to God for its bounty and beauty,
-life that sustains us in body and mind:
-plenty for all, if we learn how to share it,
-riches undreamed-of to fathom and find.
-
-3
-
-Long have our human wars ruined its harvest;
-long has earth bowed to the terror of force;
-long have we wasted what others have needed,
-poisoned the fountain of life at its source.
-
-4
-
-Earth is the Lord's:it is ours to enjoy it,
-ours, as God's stewards, to farm and defend.
-From its pollution, misuse, and destruction,
-good Lord, deliver us, world without end!

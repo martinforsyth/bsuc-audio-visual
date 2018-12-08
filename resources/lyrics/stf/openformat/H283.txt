@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF283 The desolate Messiah dies</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Gareth Hill (b. 1956)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>The desolate Messiah dies<br/>stretched out upon the cross:<br/>unwanted by the earth he made,<br/>death's trophy to the world displayed<br/>and, as the final scene is played,<br/>all hope is lost.
     </verse>
-
+    <verse name="v2"><br/>The disregarded Christ hangs high<br/>as nations turn away.<br/>How can a king be weak in power<br/>and leave earth in its crisis hour?<br/>And how will liberation flower<br/>or death give way?
+    </verse>
+    <verse name="v3"><br/>Yet silently, as morning breaks,<br/>the risen Lord is found.<br/>A battle fought beyond the grave<br/>has ended with a shout:'He saves!'<br/>and life walks from a borrowed cave,<br/>now holy ground.
+    </verse>
+    <verse name="v4"><br/>Beneath the shadow of his cross<br/>the Church of Christ must stand,<br/>and hold a holy mystery:<br/>that death means life at Calvary<br/>and grace has won the victory<br/>for all the world.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-The desolate Messiah dies
-stretched out upon the cross:
-unwanted by the earth he made,
-death's trophy to the world displayed
-and, as the final scene is played,
-all hope is lost.
-
-2
-
-The disregarded Christ hangs high
-as nations turn away.
-How can a king be weak in power
-and leave earth in its crisis hour?
-And how will liberation flower
-or death give way?
-
-3
-
-Yet silently, as morning breaks,
-the risen Lord is found.
-A battle fought beyond the grave
-has ended with a shout:'He saves!'
-and life walks from a borrowed cave,
-now holy ground.
-
-4
-
-Beneath the shadow of his cross
-the Church of Christ must stand,
-and hold a holy mystery:
-that death means life at Calvary
-and grace has won the victory
-for all the world.

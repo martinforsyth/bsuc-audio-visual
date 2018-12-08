@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF375 Come, O everlasting Spirit,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Come, O everlasting Spirit,<br/>bring to every thankful mind<br/>all the Saviour's dying merit,<br/>suffering still for humankind.
     </verse>
-
+    <verse name="v2"><br/>True recorder of his passion,<br/>now the living faith impart,<br/>now reveal his great salvation,<br/>preach his gospel to our heart.
+    </verse>
+    <verse name="v3"><br/>Come, O witness of his dying;<br/>come, remembrancer divine,<br/>let us feel your power, applying<br/>Christ to every soul, and mine.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Come, O everlasting Spirit,
-bring to every thankful mind
-all the Saviour's dying merit,
-suffering still for humankind.
-
-2
-
-True recorder of his passion,
-now the living faith impart,
-now reveal his great salvation,
-preach his gospel to our heart.
-
-3
-
-Come, O witness of his dying;
-come, remembrancer divine,
-let us feel your power, applying
-Christ to every soul, and mine.

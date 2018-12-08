@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF679 Come, build the Church -- not heaps of stone</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Brian Wren (b. 1936)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Come, build the Church -- not heaps of stone<br/>in safe, immobile, measured walls,<br/>but friends of Jesus, Spirit-blown,<br/>and fit to travel where he calls.
     </verse>
-
+    <verse name="v2"><br/>Come, occupy with glad dissent<br/>where death and evil fence the ground,<br/>and pitch a Resurrection-Tent<br/>where peace is lived, and love is found.
+    </verse>
+    <verse name="v3"><br/>Exposed upon the open ground<br/>to screams of war in East and West,<br/>our ears will catch a deeper sound:<br/>the weeping of the world's oppressed.
+    </verse>
+    <verse name="v4"><br/>In wearied face, or frightened child,<br/>in all they know, and need to say,<br/>the living Christ shall stand revealed.<br/>Come, let us follow and obey!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Come, build the Church -- not heaps of stone
-in safe, immobile, measured walls,
-but friends of Jesus, Spirit-blown,
-and fit to travel where he calls.
-
-2
-
-Come, occupy with glad dissent
-where death and evil fence the ground,
-and pitch a Resurrection-Tent
-where peace is lived, and love is found.
-
-3
-
-Exposed upon the open ground
-to screams of war in East and West,
-our ears will catch a deeper sound:
-the weeping of the world's oppressed.
-
-4
-
-In wearied face, or frightened child,
-in all they know, and need to say,
-the living Christ shall stand revealed.
-Come, let us follow and obey!

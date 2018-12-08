@@ -1,44 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF414 Shalom chaverim,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Shalom chaverim,<br/>shalom chaverim,<br/>shalom, shalom.<br/>Lehitraot, lehitraot,<br/>shalom, shalom.
     </verse>
-
+    <verse name="v2"><br/>Shalom, my friends,<br/>shalom, my friends,<br/>shalom, shalom.<br/>Until we meet, until we meet,<br/>shalom, shalom.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-Shalom chaverim,
-shalom chaverim,
-shalom, shalom.
-Lehitraot, lehitraot,
-shalom, shalom.
-
-2
-
-Shalom, my friends,
-shalom, my friends,
-shalom, shalom.
-Until we meet, until we meet,
-shalom, shalom.

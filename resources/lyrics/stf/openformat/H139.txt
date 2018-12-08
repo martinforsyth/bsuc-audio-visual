@@ -1,73 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF139 Today I awake</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949) </author>
       <author>Graham Maule (b. 1958)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Today I awake<br/>and God is before me.<br/>At night, as I dreamt,<br/>he summoned the day;<br/>for God never sleeps<br/>but patterns the morning<br/>with slithers of gold<br/>or glory in grey.
     </verse>
-
+    <verse name="v2"><br/>Today I arise<br/>and Christ is beside me.<br/>He walked through the dark<br/>to scatter new light.<br/>Yes, Christ is alive,<br/>and beckons his people<br/>to hope and to heal,<br/>resist, and invite.
+    </verse>
+    <verse name="v3"><br/>Today I affirm<br/>the Spirit within me<br/>at worship and work,<br/>in struggle and rest.<br/>The Spirit inspires<br/>all life which is changing<br/>from fearing to faith,<br/>from broken to blest.
+    </verse>
+    <verse name="v4"><br/>Today I enjoy<br/>the Trinity round me,<br/>above and beneath,<br/>before and behind;<br/>the Maker, the Son,<br/>the Spirit together --<br/>they called me to life<br/>and call me their friend.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Today I awake
-and God is before me.
-At night, as I dreamt,
-he summoned the day;
-for God never sleeps
-but patterns the morning
-with slithers of gold
-or glory in grey.
-
-2
-
-Today I arise
-and Christ is beside me.
-He walked through the dark
-to scatter new light.
-Yes, Christ is alive,
-and beckons his people
-to hope and to heal,
-resist, and invite.
-
-3
-
-Today I affirm
-the Spirit within me
-at worship and work,
-in struggle and rest.
-The Spirit inspires
-all life which is changing
-from fearing to faith,
-from broken to blest.
-
-4
-
-Today I enjoy
-the Trinity round me,
-above and beneath,
-before and behind;
-the Maker, the Son,
-the Spirit together --
-they called me to life
-and call me their friend.

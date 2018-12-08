@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF492 Christ be my leader by night as by day;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Timothy Dudley-Smith (b. 1926)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Christ be my leader by night as by day;<br/>safe through the darkness, for he is the way.<br/>Gladly I follow, my future his care,<br/>darkness is daylight when Jesus is there.
     </verse>
-
+    <verse name="v2"><br/>Christ be my teacher in age as in youth,<br/>drifting or doubting, for he is the truth.<br/>Grant me to trust him;though shifting as sand,<br/>doubt cannot daunt me;in Jesus I stand.
+    </verse>
+    <verse name="v3"><br/>Christ be my Saviour in calm as in strife;<br/>death cannot hold me, for he is the life.<br/>Nor darkness nor doubting nor sin and its stain<br/>can touch my salvation;with Jesus I reign.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Christ be my leader by night as by day;
-safe through the darkness, for he is the way.
-Gladly I follow, my future his care,
-darkness is daylight when Jesus is there.
-
-2
-
-Christ be my teacher in age as in youth,
-drifting or doubting, for he is the truth.
-Grant me to trust him;though shifting as sand,
-doubt cannot daunt me;in Jesus I stand.
-
-3
-
-Christ be my Saviour in calm as in strife;
-death cannot hold me, for he is the life.
-Nor darkness nor doubting nor sin and its stain
-can touch my salvation;with Jesus I reign.

@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF115 Praise ye the Lord! 'Tis good to raise</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Isaac Watts (1674-1748)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Praise ye the Lord! 'Tis good to raise<br/>our hearts and voices in his praise;<br/>his nature and his works invite<br/>to make this duty our delight.
     </verse>
-
+    <verse name="v2"><br/>He formed the stars, those heavenly flames,<br/>he counts their numbers, calls their names;<br/>his wisdom's vast, and knows no bound,<br/>a deep where all our thoughts are drowned.
+    </verse>
+    <verse name="v3"><br/>Sing to the Lord! Exalt him high,<br/>who spreads his clouds along the sky;<br/>there he prepares the fruitful rain,<br/>nor lets the drops descend in vain.
+    </verse>
+    <verse name="v4"><br/>He makes the grass the hills adorn,<br/>and clothes the smiling fields with corn;<br/>the beasts with food his hand supply,<br/>and the young ravens when they cry.
+    </verse>
+    <verse name="v5"><br/>The saints are lovely in his sight,<br/>he views his children with delight;<br/>he sees their hope, he knows their fear,<br/>and looks, and loves his image there.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Praise ye the Lord! 'Tis good to raise
-our hearts and voices in his praise;
-his nature and his works invite
-to make this duty our delight.
-
-2
-
-He formed the stars, those heavenly flames,
-he counts their numbers, calls their names;
-his wisdom's vast, and knows no bound,
-a deep where all our thoughts are drowned.
-
-3
-
-Sing to the Lord! Exalt him high,
-who spreads his clouds along the sky;
-there he prepares the fruitful rain,
-nor lets the drops descend in vain.
-
-4
-
-He makes the grass the hills adorn,
-and clothes the smiling fields with corn;
-the beasts with food his hand supply,
-and the young ravens when they cry.
-
-5
-
-The saints are lovely in his sight,
-he views his children with delight;
-he sees their hope, he knows their fear,
-and looks, and loves his image there.

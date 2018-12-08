@@ -1,62 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF520 Give to me, Lord, a thankful heart</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Thomas Caryl Micklem (1925-2003)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Give to me, Lord, a thankful heart<br/>and a discerning mind;<br/>give, as I play the Christian's part,<br/>the strength to finish what I start<br/>and act on what I find.
     </verse>
-
+    <verse name="v2"><br/>When, in the rush of days, my will<br/>is habit-bound and slow,<br/>help me to keep in vision still<br/>what love and power and peace can fill<br/>a life that trusts in you.
+    </verse>
+    <verse name="v3"><br/>By your divine and urgent claim,<br/>and by your human face,<br/>kindle our sinking hearts to flame,<br/>and as you teach the world your name<br/>let it become your place.
+    </verse>
+    <verse name="v4"><br/>Jesus, with all your Church I long<br/>to see your kingdom come:<br/>show me your way of righting wrong<br/>and turning sorrow into song<br/>until you bring me home.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Give to me, Lord, a thankful heart
-and a discerning mind;
-give, as I play the Christian's part,
-the strength to finish what I start
-and act on what I find.
-
-2
-
-When, in the rush of days, my will
-is habit-bound and slow,
-help me to keep in vision still
-what love and power and peace can fill
-a life that trusts in you.
-
-3
-
-By your divine and urgent claim,
-and by your human face,
-kindle our sinking hearts to flame,
-and as you teach the world your name
-let it become your place.
-
-4
-
-Jesus, with all your Church I long
-to see your kingdom come:
-show me your way of righting wrong
-and turning sorrow into song
-until you bring me home.

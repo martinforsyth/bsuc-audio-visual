@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF193 Born in the night,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Geoffrey Ainger (b. 1925)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Born in the night,<br/>Mary's Child,<br/>a long way from your home;<br/>coming in need,<br/>Mary's Child,<br/>born in a borrowed room.
     </verse>
-
+    <verse name="v2"><br/>Clear shining light,<br/>Mary's Child,<br/>your face lights up our way;<br/>light of the world,<br/>Mary's Child,<br/>dawn on our darkened day.
+    </verse>
+    <verse name="v3"><br/>Truth of our life,<br/>Mary's Child,<br/>you tell us God is good;<br/>prove it is true,<br/>Mary's Child,<br/>go to your cross of wood.
+    </verse>
+    <verse name="v4"><br/>Hope of the world,<br/>Mary's Child,<br/>you're coming soon to reign;<br/>King of the earth,<br/>Mary's Child,<br/>walk in our streets again.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Born in the night,
-Mary's Child,
-a long way from your home;
-coming in need,
-Mary's Child,
-born in a borrowed room.
-
-2
-
-Clear shining light,
-Mary's Child,
-your face lights up our way;
-light of the world,
-Mary's Child,
-dawn on our darkened day.
-
-3
-
-Truth of our life,
-Mary's Child,
-you tell us God is good;
-prove it is true,
-Mary's Child,
-go to your cross of wood.
-
-4
-
-Hope of the world,
-Mary's Child,
-you're coming soon to reign;
-King of the earth,
-Mary's Child,
-walk in our streets again.

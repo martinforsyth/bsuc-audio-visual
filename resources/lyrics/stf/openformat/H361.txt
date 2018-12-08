@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF361 Man of Sorrows! What a name</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Philipp Paul Bliss (1838-1876)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Man of Sorrows! What a name<br/>for the Son of God, who came<br/>ruined sinners to reclaim!<br/>Alleluia! What a Saviour!
     </verse>
-
+    <verse name="v2"><br/>Bearing shame and scoffing rude,<br/>in my place condemned he stood;<br/>sealed my pardon with his blood:<br/>Alleluia! What a Saviour!
+    </verse>
+    <verse name="v3"><br/>Guilty, vile, and helpless we;<br/>spotless Lamb of God was he:<br/>full atonement, can it be?<br/>Alleluia! What a Saviour!
+    </verse>
+    <verse name="v4"><br/>Lifted up was he to die;<br/>'It is finished!' was his cry;<br/>now in heaven exalted high:<br/>Alleluia! What a Saviour!
+    </verse>
+    <verse name="v5"><br/>When he comes, our glorious King,<br/>all his ransomed home to bring,<br/>then anew this song we'll sing:<br/>Alleluia! What a Saviour!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Man of Sorrows! What a name
-for the Son of God, who came
-ruined sinners to reclaim!
-Alleluia! What a Saviour!
-
-2
-
-Bearing shame and scoffing rude,
-in my place condemned he stood;
-sealed my pardon with his blood:
-Alleluia! What a Saviour!
-
-3
-
-Guilty, vile, and helpless we;
-spotless Lamb of God was he:
-full atonement, can it be?
-Alleluia! What a Saviour!
-
-4
-
-Lifted up was he to die;
-'It is finished!' was his cry;
-now in heaven exalted high:
-Alleluia! What a Saviour!
-
-5
-
-When he comes, our glorious King,
-all his ransomed home to bring,
-then anew this song we'll sing:
-Alleluia! What a Saviour!

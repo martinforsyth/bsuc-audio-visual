@@ -1,57 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF643 When, O God, our faith is tested</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Fred Kaan (1929-2009)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>When, O God, our faith is tested<br/>and our hope is undermined,<br/>when our love of living shrivels<br/>and we feel bereft and drained,<br/>then we turn to you and cry<br/>for your answer to our 'why?'
     </verse>
-
+    <verse name="v2"><br/>With emotions taut to breaking,<br/>hearts with hurt and havoc frayed,<br/>reason by remorse diminished,<br/>souls distraught as if betrayed,<br/>God of bleakness and abyss,<br/>why have you forsaken us?
+    </verse>
+    <verse name="v3"><br/>As we question and accuse you<br/>out of depths of being tried,<br/>could it be, God! that in weakness<br/>you yourself are crucified?<br/>Are you with us in our grief?<br/>Help us in our unbelief!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-When, O God, our faith is tested
-and our hope is undermined,
-when our love of living shrivels
-and we feel bereft and drained,
-then we turn to you and cry
-for your answer to our 'why?'
-
-2
-
-With emotions taut to breaking,
-hearts with hurt and havoc frayed,
-reason by remorse diminished,
-souls distraught as if betrayed,
-God of bleakness and abyss,
-why have you forsaken us?
-
-3
-
-As we question and accuse you
-out of depths of being tried,
-could it be, God! that in weakness
-you yourself are crucified?
-Are you with us in our grief?
-Help us in our unbelief!

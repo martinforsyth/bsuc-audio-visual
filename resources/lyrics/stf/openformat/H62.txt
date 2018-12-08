@@ -1,35 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF62 Our God is an awesome God,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
       <author>Rich Mullins</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>Our God is an awesome God,<br/>who reigns from heaven above,<br/>with wisdom, power and love,<br/>our God is an awesome God!</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-Our God is an awesome God,
-who reigns from heaven above,
-with wisdom, power and love,
-our God is an awesome God!

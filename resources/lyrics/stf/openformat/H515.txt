@@ -1,34 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF515 We are a people whose life comes from you,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Jonathan Nowell</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Unless the Lord builds the house
 we labour in vain.
 Unless the Lord lays the plans
@@ -36,27 +20,21 @@ we have no foundations.
 Unless your will is in our hearts
 we uselessly strive.
 Come, Lord Jesus, build this house again.
-
 1
-
 We are a people whose life comes from you,
 we were created with hearts meant to praise you,
 you are beside us in all that we do,
 but so often faith runs out,
 hearts that should be praising, doubt,
 Lord, remind us what we are about.
-
 2
-
 We are a family whose likeness is yours,
 we were created with you as our Father,
 we know you love us despite all our flaws,
 but we make your Kingdom wait,
 with love that tends to hesitate;
 make us brave, and let's fling wide the gates!
-
 3
-
 We need to carry your will in our heart,
 we need your purpose as our aspiration,
 we need your courage, each day a new start,

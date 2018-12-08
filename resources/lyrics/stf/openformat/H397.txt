@@ -1,74 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF397 The Spirit lives to set us free,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Damian Lundy (1944-1996)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>The Spirit lives to set us free,<br/>walk, walk in the light;<br/>he binds us all in unity,<br/>walk, walk in the light.<br/>Walk in the light, walk in the light,<br/>walk in the light, walk in the light of the Lord.
     </verse>
-
+    <verse name="v2"><br/>Jesus promised life to all,<br/>walk, walk in the light;<br/>the dead were wakened by his call,<br/>walk, walk in the light.
+    </verse>
+    <verse name="v3"><br/>He died in pain on Calvary,<br/>walk, walk in the light;<br/>to save the lost like you and me,<br/>walk, walk in the light.
+    </verse>
+    <verse name="v4"><br/>We know his death was not the end,<br/>walk, walk in the light;<br/>he gave his Spirit to be our friend,<br/>walk, walk in the light.
+    </verse>
+    <verse name="v5"><br/>By Jesus' love our wounds are healed,<br/>walk, walk in the light;<br/>the Father's kindness is revealed,<br/>walk, walk in the light.
+    </verse>
+    <verse name="v6"><br/>The Spirit lives in you and me,<br/>walk, walk in the light;<br/>his light will shine for all to see,<br/>walk, walk in the light.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-The Spirit lives to set us free,
-walk, walk in the light;
-he binds us all in unity,
-walk, walk in the light.
-Walk in the light, walk in the light,
-walk in the light, walk in the light of the Lord.
-
-2
-
-Jesus promised life to all,
-walk, walk in the light;
-the dead were wakened by his call,
-walk, walk in the light.
-
-3
-
-He died in pain on Calvary,
-walk, walk in the light;
-to save the lost like you and me,
-walk, walk in the light.
-
-4
-
-We know his death was not the end,
-walk, walk in the light;
-he gave his Spirit to be our friend,
-walk, walk in the light.
-
-5
-
-By Jesus' love our wounds are healed,
-walk, walk in the light;
-the Father's kindness is revealed,
-walk, walk in the light.
-
-6
-
-The Spirit lives in you and me,
-walk, walk in the light;
-his light will shine for all to see,
-walk, walk in the light.

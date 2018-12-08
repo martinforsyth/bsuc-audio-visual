@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF597 O thou who this mysterious bread</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>O thou who this mysterious bread<br/>didst in Emmaus break,<br/>return, herewith our souls to feed,<br/>and to thy followers speak.
     </verse>
-
+    <verse name="v2"><br/>Unseal the volume of thy grace,<br/>apply the gospel word,<br/>open our eyes to see thy face,<br/>our hearts to know the Lord.
+    </verse>
+    <verse name="v3"><br/>Of thee communing still, we mourn<br/>till thou the veil remove;<br/>talk with us, and our hearts shall burn<br/>with flames of fervent love.
+    </verse>
+    <verse name="v4"><br/>Enkindle now the heavenly zeal,<br/>and make thy mercy known,<br/>and give our pardoned souls to feel<br/>that God and love are one.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-O thou who this mysterious bread
-didst in Emmaus break,
-return, herewith our souls to feed,
-and to thy followers speak.
-
-2
-
-Unseal the volume of thy grace,
-apply the gospel word,
-open our eyes to see thy face,
-our hearts to know the Lord.
-
-3
-
-Of thee communing still, we mourn
-till thou the veil remove;
-talk with us, and our hearts shall burn
-with flames of fervent love.
-
-4
-
-Enkindle now the heavenly zeal,
-and make thy mercy known,
-and give our pardoned souls to feel
-that God and love are one.

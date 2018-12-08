@@ -1,44 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF144 Here are my thoughts, Lord, here is my mind.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>David Adam (b. 1936)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Here are my thoughts, Lord, here is my mind.<br/>Here are my deeds, Lord, help me unwind.<br/>Here is my strength, Lord, here is my will.<br/>Here is my life, Lord, help me be still.
     </verse>
-
+    <verse name="v2"><br/>Here is my heart, Lord, here is my hope.<br/>Here is my love, Lord, help me to cope.<br/>Here is my time, Lord, here is my might.<br/>Here I am yours, Lord, bless me tonight.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Here are my thoughts, Lord, here is my mind.
-Here are my deeds, Lord, help me unwind.
-Here is my strength, Lord, here is my will.
-Here is my life, Lord, help me be still.
-
-2
-
-Here is my heart, Lord, here is my hope.
-Here is my love, Lord, help me to cope.
-Here is my time, Lord, here is my might.
-Here I am yours, Lord, bless me tonight.

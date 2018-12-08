@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF681 Community of Christ,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Shirley Erena Murray (b. 1931)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Community of Christ,<br/>who make the Cross your own,<br/>live out your creed and risk your life<br/>for God alone:<br/>the God who wears your face,<br/>to whom all worlds belong,<br/>whose children are of every race<br/>and every song.
     </verse>
-
+    <verse name="v2"><br/>Community of Christ,<br/>look past the Church's door<br/>and see the refugee, the hungry,<br/>and the poor.<br/>Take hands with the oppressed,<br/>the jobless in your street,<br/>take towel and water, that you wash<br/>your neighbour's feet.
+    </verse>
+    <verse name="v3"><br/>Community of Christ,<br/>through whom the word must sound --<br/>cry out for justice and for peace<br/>the whole world round:<br/>disarm the powers that war<br/>and all that can destroy,<br/>turn bombs to bread, and tears of anguish<br/>into joy.
+    </verse>
+    <verse name="v4"><br/>When menace melts away,<br/>so shall God's will be done,<br/>the climate of the world be peace<br/>and Christ its Sun;<br/>our currency be love<br/>and kindliness our law,<br/>our food and faith be shared as one<br/>for evermore.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Community of Christ,
-who make the Cross your own,
-live out your creed and risk your life
-for God alone:
-the God who wears your face,
-to whom all worlds belong,
-whose children are of every race
-and every song.
-
-2
-
-Community of Christ,
-look past the Church's door
-and see the refugee, the hungry,
-and the poor.
-Take hands with the oppressed,
-the jobless in your street,
-take towel and water, that you wash
-your neighbour's feet.
-
-3
-
-Community of Christ,
-through whom the word must sound --
-cry out for justice and for peace
-the whole world round:
-disarm the powers that war
-and all that can destroy,
-turn bombs to bread, and tears of anguish
-into joy.
-
-4
-
-When menace melts away,
-so shall God's will be done,
-the climate of the world be peace
-and Christ its Sun;
-our currency be love
-and kindliness our law,
-our food and faith be shared as one
-for evermore.

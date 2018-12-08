@@ -1,92 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF458 Away with our fears!</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 The Wesleys' Birthday Hymn
-
 1
-
 Away with our fears!
 The glad morning appears
 when an heir of salvation was born!
 From Jehovah I came,
 for his glory I am,
 and to him I with singing return.
-
 2
-
 I sing of your grace,
 from my earliest days
 ever near to allure and defend;
 hitherto you have been
 my preserver from sin,
 and I trust you will save to the end.
-
 3
-
 O the infinite cares,
 and temptations, and snares
 your hand has conducted me through!
 O the blessings bestowed
 by a bountiful God,
 and the mercies eternally new!
-
 4
-
 What a mercy is this,
 what a heaven of bliss,
 how unspeakably happy am I;
 gathered into the fold,
 with your people enrolled,
 with your people to live and to die.
-
 5
-
 All honour and praise
 to the Father of grace,
 to the Spirit, and Son, I return;
 the business pursue
 he has made me to do,
 and rejoice that I ever was born.
-
 6
-
 In a rapture of joy
 my life I employ
 the God of my life to proclaim;
 'tis worth living for, this,
 to administer bliss
 and salvation in Jesus's name.
-
 7
-
 My remnant of days
 I spend in his praise,
 who died the whole world to redeem;

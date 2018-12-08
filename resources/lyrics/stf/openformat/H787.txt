@@ -1,40 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF787 Lamb of God,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>Lamb of God,<br/>you take away the sins of the world,<br/>have mercy on us.<br/>Lamb of God,<br/>you take away the sins of the world,<br/>have mercy on us.<br/>Lamb of God,<br/>you take away the sins of the world,<br/>grant us peace.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-Lamb of God,
-you take away the sins of the world,
-have mercy on us.
-Lamb of God,
-you take away the sins of the world,
-have mercy on us.
-Lamb of God,
-you take away the sins of the world,
-grant us peace.

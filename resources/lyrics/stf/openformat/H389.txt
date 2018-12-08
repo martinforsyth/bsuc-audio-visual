@@ -1,54 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF389 Like the murmur of the dove's song,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Carl P. Daw, Jr (b. 1944)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Like the murmur of the dove's song,<br/>like the challenge of her flight,<br/>like the vigour of the wind's rush,<br/>like the new flame's eager might:<br/>come, Holy Spirit, come.
     </verse>
-
+    <verse name="v2"><br/>To the members of Christ's body,<br/>to the branches of the Vine,<br/>to the Church in faith assembled,<br/>to her midst as gift and sign:<br/>come, Holy Spirit, come.
+    </verse>
+    <verse name="v3"><br/>With the healing of division,<br/>with the ceaseless voice of prayer,<br/>with the power to love and witness,<br/>with the peace beyond compare:<br/>come, Holy Spirit, come.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Like the murmur of the dove's song,
-like the challenge of her flight,
-like the vigour of the wind's rush,
-like the new flame's eager might:
-come, Holy Spirit, come.
-
-2
-
-To the members of Christ's body,
-to the branches of the Vine,
-to the Church in faith assembled,
-to her midst as gift and sign:
-come, Holy Spirit, come.
-
-3
-
-With the healing of division,
-with the ceaseless voice of prayer,
-with the power to love and witness,
-with the peace beyond compare:
-come, Holy Spirit, come.

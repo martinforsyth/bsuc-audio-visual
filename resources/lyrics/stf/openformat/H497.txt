@@ -1,75 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF497 God in my living,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Tim Hughes</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God in my living,<br/>there in my breathing,<br/>God in my waking,<br/>God in my sleeping.<br/>God in my resting,<br/>there in my working,<br/>God in my thinking,<br/>God in my speaking.<br/>Be my everything.<br/>Be my everything.<br/>Be my everything.<br/>Be my everything.
     </verse>
-
+    <verse name="v2"><br/>God in my hoping,<br/>there in my dreaming,<br/>God in my watching,<br/>God in my waiting.<br/>God in my laughing,<br/>there in my weeping,<br/>God in my hurting,<br/>God in my healing.<br/>Be my everything. (4 times)<br/>Christ in me, Christ in me,<br/>Christ in me, the hope of glory.<br/>You are everything.<br/>Christ in me, Christ in me,<br/>Christ in me, the hope of glory.<br/>Be my everything.<br/>Be my everything.<br/>Be my everything.<br/>Be my everything.<br/>Be my everything.<br/>You are everything. (4 times)<br/>Jesus, everything. (4 times)</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God in my living,
-there in my breathing,
-God in my waking,
-God in my sleeping.
-God in my resting,
-there in my working,
-God in my thinking,
-God in my speaking.
-
-Be my everything.
-Be my everything.
-Be my everything.
-Be my everything.
-
-2
-
-God in my hoping,
-there in my dreaming,
-God in my watching,
-God in my waiting.
-God in my laughing,
-there in my weeping,
-God in my hurting,
-God in my healing.
-
-Be my everything. (4 times)
-
-Christ in me, Christ in me,
-Christ in me, the hope of glory.
-You are everything.
-Christ in me, Christ in me,
-Christ in me, the hope of glory.
-Be my everything.
-
-Be my everything.
-Be my everything.
-Be my everything.
-Be my everything.
-
-You are everything. (4 times)
-
-Jesus, everything. (4 times)

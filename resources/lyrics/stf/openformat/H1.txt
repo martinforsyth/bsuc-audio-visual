@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF1 All people that on earth do dwell,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>William Kethe (d. 1594)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>All people that on earth do dwell,<br/>sing to the Lord with cheerful voice:<br/>him serve with mirth, his praise forth tell;<br/>come ye before him and rejoice.
     </verse>
-
+    <verse name="v2"><br/>The Lord, ye know, is God indeed;<br/>without our aid he did us make:<br/>we are his folk, he doth us feed;<br/>and for his sheep he doth us take.
+    </verse>
+    <verse name="v3"><br/>O enter then his gates with praise;<br/>approach with joy his courts unto;<br/>praise, laud, and bless his name always,<br/>for it is seemly so to do.
+    </verse>
+    <verse name="v4"><br/>For why, the Lord our God is good;<br/>his mercy is for ever sure;<br/>his truth at all times firmly stood,<br/>and shall from age to age endure.
+    </verse>
+    <verse name="v5"><br/>To Father, Son and Holy Ghost,<br/>the God whom heaven and earth adore,<br/>from earth and from the angel host<br/>be praise and glory evermore.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-All people that on earth do dwell,
-sing to the Lord with cheerful voice:
-him serve with mirth, his praise forth tell;
-come ye before him and rejoice.
-
-2
-
-The Lord, ye know, is God indeed;
-without our aid he did us make:
-we are his folk, he doth us feed;
-and for his sheep he doth us take.
-
-3
-
-O enter then his gates with praise;
-approach with joy his courts unto;
-praise, laud, and bless his name always,
-for it is seemly so to do.
-
-4
-
-For why, the Lord our God is good;
-his mercy is for ever sure;
-his truth at all times firmly stood,
-and shall from age to age endure.
-
-5
-
-To Father, Son and Holy Ghost,
-the God whom heaven and earth adore,
-from earth and from the angel host
-be praise and glory evermore.

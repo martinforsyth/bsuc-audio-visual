@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF714 The God who sings</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Douglas Galbraith (b. 1940)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>The God who sings<br/>a new world into being shows the way<br/>for many voices, varied gifts to sound<br/>in symphony.
     </verse>
-
+    <verse name="v2"><br/>The God who shouts<br/>in fury when the powerful shame the poor<br/>will break the chains, and those who hide in fear<br/>he will restore.
+    </verse>
+    <verse name="v3"><br/>The God who weeps<br/>when fields lie barren and the missiles fall<br/>throws wide his arms and offers in his love<br/>refuge for all.
+    </verse>
+    <verse name="v4"><br/>The God who laughs<br/>as unexpected overturns routine<br/>releases us to risk in faith, and find<br/>what joy can mean.
+    </verse>
+    <verse name="v5"><br/>The God who calls<br/>in hearts of those who hear his Chosen One<br/>forgives, transforms, empowers, renews us while<br/>we journey on.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-The God who sings
-a new world into being shows the way
-for many voices, varied gifts to sound
-in symphony.
-
-2
-
-The God who shouts
-in fury when the powerful shame the poor
-will break the chains, and those who hide in fear
-he will restore.
-
-3
-
-The God who weeps
-when fields lie barren and the missiles fall
-throws wide his arms and offers in his love
-refuge for all.
-
-4
-
-The God who laughs
-as unexpected overturns routine
-releases us to risk in faith, and find
-what joy can mean.
-
-5
-
-The God who calls
-in hearts of those who hear his Chosen One
-forgives, transforms, empowers, renews us while
-we journey on.

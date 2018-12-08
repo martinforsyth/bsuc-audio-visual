@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF696 For the healing of the nations,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Fred Kaan (1929-2009)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>For the healing of the nations,<br/>Lord, we pray with one accord;<br/>for a just and equal sharing<br/>of the things that earth affords.<br/>To a life of love in action<br/>help us rise and pledge our word.
     </verse>
-
+    <verse name="v2"><br/>Lead us forward into freedom;<br/>from despair your world release,<br/>that, redeemed from war and hatred,<br/>all may come and go in peace.<br/>Show us how through care and goodness<br/>fear will die and hope increase.
+    </verse>
+    <verse name="v3"><br/>All that kills abundant living,<br/>let it from the earth be banned;<br/>pride of status, race, or schooling,<br/>dogmas that obscure your plan.<br/>In our common quest for justice<br/>may we hallow life's brief span.
+    </verse>
+    <verse name="v4"><br/>You, Creator-God, have written<br/>your great name on humankind;<br/>for our growing in your likeness<br/>bring the life of Christ to mind;<br/>that by our response and service<br/>earth its destiny may find.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-For the healing of the nations,
-Lord, we pray with one accord;
-for a just and equal sharing
-of the things that earth affords.
-To a life of love in action
-help us rise and pledge our word.
-
-2
-
-Lead us forward into freedom;
-from despair your world release,
-that, redeemed from war and hatred,
-all may come and go in peace.
-Show us how through care and goodness
-fear will die and hope increase.
-
-3
-
-All that kills abundant living,
-let it from the earth be banned;
-pride of status, race, or schooling,
-dogmas that obscure your plan.
-In our common quest for justice
-may we hallow life's brief span.
-
-4
-
-You, Creator-God, have written
-your great name on humankind;
-for our growing in your likeness
-bring the life of Christ to mind;
-that by our response and service
-earth its destiny may find.

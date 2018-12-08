@@ -1,35 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF33 O Lord we are always in your presence.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
       <author>Philip Jakob</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>O Lord we are always in your presence.<br/>In you we live and move and have our being.<br/>You hold us in the palm of your hand<br/>and you lead us to your glory.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-O Lord we are always in your presence.
-In you we live and move and have our being.
-You hold us in the palm of your hand
-and you lead us to your glory.

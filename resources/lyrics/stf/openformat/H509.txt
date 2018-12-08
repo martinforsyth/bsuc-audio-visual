@@ -1,78 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF509 Safe in the shadow of the Lord</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Timothy Dudley-Smith (b. 1926)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Safe in the shadow of the Lord<br/>beneath his hand and power,<br/>I trust in him,<br/>I trust in him,<br/>my fortress and my tower.
     </verse>
-
+    <verse name="v2"><br/>My hope is set on God alone<br/>though Satan spreads his snare;<br/>I trust in him,<br/>I trust in him,<br/>to keep me in his care.
+    </verse>
+    <verse name="v3"><br/>From fears and phantoms of the night,<br/>from foes about my way,<br/>I trust in him,<br/>I trust in him,<br/>by darkness as by day.
+    </verse>
+    <verse name="v4"><br/>His holy angels keep my feet<br/>secure from every stone;<br/>I trust in him,<br/>I trust in him,<br/>and unafraid go on.
+    </verse>
+    <verse name="v5"><br/>Strong in the everlasting name,<br/>and in my Father's care,<br/>I trust in him,<br/>I trust in him,<br/>who hears and answers prayer.
+    </verse>
+    <verse name="v6"><br/>Safe in the shadow of the Lord,<br/>possessed by love divine,<br/>I trust in him,<br/>I trust in him,<br/>and meet his love with mine.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Safe in the shadow of the Lord
-beneath his hand and power,
-I trust in him,
-I trust in him,
-my fortress and my tower.
-
-2
-
-My hope is set on God alone
-though Satan spreads his snare;
-I trust in him,
-I trust in him,
-to keep me in his care.
-
-3
-
-From fears and phantoms of the night,
-from foes about my way,
-I trust in him,
-I trust in him,
-by darkness as by day.
-
-4
-
-His holy angels keep my feet
-secure from every stone;
-I trust in him,
-I trust in him,
-and unafraid go on.
-
-5
-
-Strong in the everlasting name,
-and in my Father's care,
-I trust in him,
-I trust in him,
-who hears and answers prayer.
-
-6
-
-Safe in the shadow of the Lord,
-possessed by love divine,
-I trust in him,
-I trust in him,
-and meet his love with mine.

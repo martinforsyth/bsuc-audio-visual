@@ -1,62 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF517 Eternal Father, strong to save,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>William Whiting (1825-1878)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Eternal Father, strong to save,<br/>whose arm doth bind the restless wave,<br/>who bidd'st the mighty ocean deep<br/>its own appointed limits keep:<br/>O hear us when we cry to thee<br/>for those in peril on the sea.
     </verse>
-
+    <verse name="v2"><br/>O Saviour, whose almighty word<br/>the winds and waves submissive heard,<br/>who walked upon the foaming deep,<br/>and calm amid its rage didst sleep:
+    </verse>
+    <verse name="v3"><br/>O sacred Spirit, who didst brood<br/>upon the chaos dark and rude,<br/>who made its angry tumult cease,<br/>and gavest light and life and peace:
+    </verse>
+    <verse name="v4"><br/>O Trinity of love and power,<br/>shield all who sail in danger's hour;<br/>from rock and tempest, fire and foe,<br/>protect them wheresoe'er they go:<br/>and ever let there rise to thee<br/>glad hymns of praise from land and sea.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Eternal Father, strong to save,
-whose arm doth bind the restless wave,
-who bidd'st the mighty ocean deep
-its own appointed limits keep:
-O hear us when we cry to thee
-for those in peril on the sea.
-
-2
-
-O Saviour, whose almighty word
-the winds and waves submissive heard,
-who walked upon the foaming deep,
-and calm amid its rage didst sleep:
-
-3
-
-O sacred Spirit, who didst brood
-upon the chaos dark and rude,
-who made its angry tumult cease,
-and gavest light and life and peace:
-
-4
-
-O Trinity of love and power,
-shield all who sail in danger's hour;
-from rock and tempest, fire and foe,
-protect them wheresoe'er they go:
-and ever let there rise to thee
-glad hymns of praise from land and sea.

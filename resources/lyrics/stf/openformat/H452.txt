@@ -1,52 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF452 Show me the way of the cross once again,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Matt Redman (b. 1974)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Show me the way of the cross once again,<br/>denying myself for the love that I've gained.<br/>Everything's you now, everything's changed;<br/>it's time you had my whole life,<br/>you can have it all.<br/>Yes, I resolve to give it all;<br/>some things must die, some things must live,<br/>not 'what can I gain,' but 'what can I give.'<br/>If much is required when much is received,<br/>then you can have my whole life,<br/>Jesus, have it all.
     </verse>
-
+    <verse name="v2"><br/>I've given like a beggar but lived like the rich,<br/>and crafted myself a more comfortable cross.<br/>Yet what I am called to is deeper than this;<br/>it's time you had my whole life,<br/>you can have it all.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Show me the way of the cross once again,
-denying myself for the love that I've gained.
-Everything's you now, everything's changed;
-it's time you had my whole life,
-you can have it all.
-Yes, I resolve to give it all;
-some things must die, some things must live,
-not 'what can I gain,' but 'what can I give.'
-If much is required when much is received,
-then you can have my whole life,
-Jesus, have it all.
-
-2
-
-I've given like a beggar but lived like the rich,
-and crafted myself a more comfortable cross.
-Yet what I am called to is deeper than this;
-it's time you had my whole life,
-you can have it all.

@@ -1,55 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF614 You can be happy, and I can be happy,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Anonymous</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 God loves you, and I love you,
 and that's the way it should be.
 God loves you, and I love you,
 and that's the way it should be.
-
 1
-
 You can be happy, and I can be happy,
 and that's the way it should be.
 You can be happy, and I can be happy,
 and that's the way it should be.
-
 2
-
 You can be very sad, I can be very sad,
 and that's the way it can be.
 You can be very sad, I can be very sad,
 and that's the way it can be.
-
 3
-
 We can love others like sisters and brothers;
 and that's the way it should be.
 We can love others like sisters and brothers;

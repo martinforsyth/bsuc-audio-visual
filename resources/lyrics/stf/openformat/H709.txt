@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF709 Of all the Spirit's gifts to me,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Fred Pratt Green (1903-2000)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Of all the Spirit's gifts to me,<br/>I pray that I may never cease<br/>to take and treasure most these three:<br/>love, joy, and peace.
     </verse>
-
+    <verse name="v2"><br/>The Spirit shows me love's the root<br/>of every gift sent from above,<br/>of every flower, of every fruit,<br/>that God is love.
+    </verse>
+    <verse name="v3"><br/>The Spirit shows if I possess<br/>a love no evil can destroy,<br/>however great is my distress,<br/>then this is joy.
+    </verse>
+    <verse name="v4"><br/>Though what's ahead is mystery,<br/>and life itself is ours on lease,<br/>each day the Spirit says to me:<br/>'Go forth in peace!'
+    </verse>
+    <verse name="v5"><br/>We go in peace -- but made aware<br/>that, in a needy world like this,<br/>our clearest purpose is to share<br/>love, joy, and peace.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Of all the Spirit's gifts to me,
-I pray that I may never cease
-to take and treasure most these three:
-love, joy, and peace.
-
-2
-
-The Spirit shows me love's the root
-of every gift sent from above,
-of every flower, of every fruit,
-that God is love.
-
-3
-
-The Spirit shows if I possess
-a love no evil can destroy,
-however great is my distress,
-then this is joy.
-
-4
-
-Though what's ahead is mystery,
-and life itself is ours on lease,
-each day the Spirit says to me:
-'Go forth in peace!'
-
-5
-
-We go in peace -- but made aware
-that, in a needy world like this,
-our clearest purpose is to share
-love, joy, and peace.

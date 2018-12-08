@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF7 God, who made the stars of heaven,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Ruth Duck (b. 1947)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God, who made the stars of heaven,<br/>God who spread the earth,<br/>breath of every living being,<br/>fount of life and birth,<br/>you have formed a servant people,<br/>led us by your hand.<br/>Light of nations, shine in us;<br/>brighten every land.
     </verse>
-
+    <verse name="v2"><br/>Living Christ, the light of nations,<br/>radiant as the sun,<br/>build us up, a growing body;<br/>knit your Church as one.<br/>May our loving be a witness<br/>all the world may see.<br/>Send your Spirit, bond of peace,<br/>source of unity.
+    </verse>
+    <verse name="v3"><br/>Spirit God, equip your people,<br/>all with gifts to share:<br/>messengers to speak the gospel,<br/>ministers of care.<br/>So may valleys rise to greatness,<br/>mountains be a plain.<br/>Come, surprise us;change our lives;<br/>heal each heart in pain.
+    </verse>
+    <verse name="v4"><br/>So may nations praise your greatness,<br/>do your will on earth,<br/>free the captives from their prisons,<br/>treat the poor with worth.<br/>So may desert, coast and village<br/>sing new songs to you.<br/>Light of nations, fill the world,<br/>making all things new.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God, who made the stars of heaven,
-God who spread the earth,
-breath of every living being,
-fount of life and birth,
-you have formed a servant people,
-led us by your hand.
-Light of nations, shine in us;
-brighten every land.
-
-2
-
-Living Christ, the light of nations,
-radiant as the sun,
-build us up, a growing body;
-knit your Church as one.
-May our loving be a witness
-all the world may see.
-Send your Spirit, bond of peace,
-source of unity.
-
-3
-
-Spirit God, equip your people,
-all with gifts to share:
-messengers to speak the gospel,
-ministers of care.
-So may valleys rise to greatness,
-mountains be a plain.
-Come, surprise us;change our lives;
-heal each heart in pain.
-
-4
-
-So may nations praise your greatness,
-do your will on earth,
-free the captives from their prisons,
-treat the poor with worth.
-So may desert, coast and village
-sing new songs to you.
-Light of nations, fill the world,
-making all things new.

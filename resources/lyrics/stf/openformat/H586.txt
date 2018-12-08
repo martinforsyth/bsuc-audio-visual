@@ -1,58 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF586 Here is bread, here is wine,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Graham Kendrick (b. 1950)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Here is bread, here is wine,<br/>Christ is with us -- he is with us;<br/>break the bread, drink the wine --<br/>Christ is with us here.
     </verse>
-
+    <verse name="v2"><br/>Here is grace, here is peace,<br/>Christ is with us -- he is with us;<br/>know his grace, find his peace --<br/>feast on Jesus here.<br/>In this bread there is healing,<br/>in this cup there's life for ever;<br/>in this moment, by the Spirit<br/>Christ is with us here.
+    </verse>
+    <verse name="v3"><br/>Here we are, joined in one,<br/>Christ is with us -- he is with us;<br/>we'll proclaim, till he comes --<br/>Jesus crucified.<br/>Refrain</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Here is bread, here is wine,
-Christ is with us -- he is with us;
-break the bread, drink the wine --
-Christ is with us here.
-
-2
-
-Here is grace, here is peace,
-Christ is with us -- he is with us;
-know his grace, find his peace --
-feast on Jesus here.
-
-In this bread there is healing,
-in this cup there's life for ever;
-in this moment, by the Spirit
-Christ is with us here.
-
-3
-
-Here we are, joined in one,
-Christ is with us -- he is with us;
-we'll proclaim, till he comes --
-Jesus crucified.
-
-Refrain

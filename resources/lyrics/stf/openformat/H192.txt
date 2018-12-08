@@ -1,48 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF192 Beneath the paper wrappings, there's an open stable door,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Clare Stainsby (b. 1959)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Beneath the paper wrappings, there's an open stable door,<br/>beneath the fir tree trappings, there's a welcome and there's more.<br/>Beyond the tinsel fairy is a presence that's divine,<br/>there's a child to change the future, turning water into wine.<br/>Look inside, look above, look beyond and see the love,<br/>look inside and you will see.<br/>Look inside, look below, look beyond, and you will know,<br/>the one who came to give his life for you and me.
     </verse>
-
+    <verse name="v2"><br/>The miracle of childbirth now reveals God's only Son,<br/>a miracle beginning that continues on and on.<br/>The stable holds the echo of the tomb that's yet to be,<br/>on the manger lies the shadow of the cross he's yet to see.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Beneath the paper wrappings, there's an open stable door,
-beneath the fir tree trappings, there's a welcome and there's more.
-Beyond the tinsel fairy is a presence that's divine,
-there's a child to change the future, turning water into wine.
-Look inside, look above, look beyond and see the love,
-look inside and you will see.
-Look inside, look below, look beyond, and you will know,
-the one who came to give his life for you and me.
-
-2
-
-The miracle of childbirth now reveals God's only Son,
-a miracle beginning that continues on and on.
-The stable holds the echo of the tomb that's yet to be,
-on the manger lies the shadow of the cross he's yet to see.

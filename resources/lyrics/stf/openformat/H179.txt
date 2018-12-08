@@ -1,77 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF179 You will hear the trumpet sound,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 My Lord! what a morning,
 my Lord! what a morning,
 my Lord! what a morning,
 when the stars begin to fall,
 when the stars begin to fall.
-
 1
-
 You will hear the trumpet sound,
 to wake the nations underground,
 looking to my God's right hand
 when the stars begin to fall.
-
 2
-
 You will hear the sinner cry
 to wake the nations underground,
 looking to my God's right hand
 when the stars begin to fall.
-
 3
-
 You will hear the Christian shout,
 to wake the nations underground,
 looking to my God's right hand
 when the stars begin to fall.
-
 4
-
 You will hear the sinner pray,
 to wake the nations underground,
 looking to my God's right hand
 when the stars begin to fall.
-
 5
-
 You will hear the Christian sing,
 to wake the nations underground,
 looking to my God's right hand
 when the stars begin to fall.
-
 6
-
 You will see my Jesus come,
 his chariot wheels roll round,
 looking to my God's right hand,

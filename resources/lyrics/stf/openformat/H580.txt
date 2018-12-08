@@ -1,73 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF580 Come, Lord, be our guest,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949) </author>
       <author>Graham Maule (b. 1958)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Come, Lord, be our guest,<br/>find your way among us;<br/>you whose word and will<br/>sowed the seed which sprung us.<br/>Earth, your former home,<br/>still is where we meet you;<br/>therefore we greet you,<br/>Christ, our God alone.
     </verse>
-
+    <verse name="v2"><br/>Come, Lord, be our guest,<br/>join our conversation;<br/>free our tongues to speak<br/>without reservation.<br/>Where your people meet,<br/>you perfect their pleasure;<br/>therefore we treasure<br/>all you have to share.
+    </verse>
+    <verse name="v3"><br/>Come, Lord, be our guest,<br/>gathered round your table,<br/>we confess our faith<br/>more than fact or fable.<br/>You who made, of old,<br/>all that earth was needing,<br/>blessing and feeding<br/>here will make us new.
+    </verse>
+    <verse name="v4"><br/>Come, Lord, be our host,<br/>bread and wine are waiting.<br/>On your words depend<br/>all our celebrating.<br/>Fill us with your love,<br/>healing and forgiving;<br/>then, in us living,<br/>show our love your way.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Come, Lord, be our guest,
-find your way among us;
-you whose word and will
-sowed the seed which sprung us.
-Earth, your former home,
-still is where we meet you;
-therefore we greet you,
-Christ, our God alone.
-
-2
-
-Come, Lord, be our guest,
-join our conversation;
-free our tongues to speak
-without reservation.
-Where your people meet,
-you perfect their pleasure;
-therefore we treasure
-all you have to share.
-
-3
-
-Come, Lord, be our guest,
-gathered round your table,
-we confess our faith
-more than fact or fable.
-You who made, of old,
-all that earth was needing,
-blessing and feeding
-here will make us new.
-
-4
-
-Come, Lord, be our host,
-bread and wine are waiting.
-On your words depend
-all our celebrating.
-Fill us with your love,
-healing and forgiving;
-then, in us living,
-show our love your way.

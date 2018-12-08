@@ -1,75 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF665 Make us your prophets, Lord,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Alan Gaunt (b. 1935)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Make us your prophets, Lord,<br/>who truly hear your word,<br/>which fires us with your Spirit's inspiration.<br/>In all we say and do<br/>prove that your love is true,<br/>the hope and source of peace for every nation.
     </verse>
-
+    <verse name="v2"><br/>And when we fail to love<br/>or set ourselves above<br/>our neighbours with their different ways of seeing,<br/>bring us with all our pride<br/>where Jesus, crucified,<br/>for love of all committed his whole being.
+    </verse>
+    <verse name="v3"><br/>Give us his love that shares<br/>our neighbours' pain, and dares<br/>to suffer enmity and condemnation.<br/>Whether we live or die<br/>help us to prophesy,<br/>proclaiming peace and reconciliation.
+    </verse>
+    <verse name="v4"><br/>Though we live quietly,<br/>with no authority,<br/>yet feeble faith in us may show your goodness;<br/>and though we may not see<br/>how crucial it may be,<br/>our faltering love may show your loving kindness.
+    </verse>
+    <verse name="v5"><br/>In faith and hope we pray,<br/>use us to serve that day<br/>when bigotry and hatred are defeated,<br/>when perfect peace is won<br/>and lasting justice done,<br/>with love's eternal promises completed.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Make us your prophets, Lord,
-who truly hear your word,
-which fires us with your Spirit's inspiration.
-In all we say and do
-prove that your love is true,
-the hope and source of peace for every nation.
-
-2
-
-And when we fail to love
-or set ourselves above
-our neighbours with their different ways of seeing,
-bring us with all our pride
-where Jesus, crucified,
-for love of all committed his whole being.
-
-3
-
-Give us his love that shares
-our neighbours' pain, and dares
-to suffer enmity and condemnation.
-Whether we live or die
-help us to prophesy,
-proclaiming peace and reconciliation.
-
-4
-
-Though we live quietly,
-with no authority,
-yet feeble faith in us may show your goodness;
-and though we may not see
-how crucial it may be,
-our faltering love may show your loving kindness.
-
-5
-
-In faith and hope we pray,
-use us to serve that day
-when bigotry and hatred are defeated,
-when perfect peace is won
-and lasting justice done,
-with love's eternal promises completed.

@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF387 Into a world of dark,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Ann Phillips (b. 1930) (alt.)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Into a world of dark,<br/>waste and disordered space,<br/>he came, a wind that moved<br/>across the waters' face.
     </verse>
-
+    <verse name="v2"><br/>The Spirit in the wild<br/>breathed, and a world began;<br/>from shapelessness came form,<br/>from nothingness, a plan.
+    </verse>
+    <verse name="v3"><br/>Light in the darkness grew;<br/>land in the water stood;<br/>and space and time became<br/>a beauty that was good.
+    </verse>
+    <verse name="v4"><br/>Into a world of doubt,<br/>through doors we closed, he came,<br/>the Breath of God in power<br/>like wind and roaring flame.
+    </verse>
+    <verse name="v5"><br/>From empty wastes of death,<br/>on love's disordered grief<br/>light in the darkness blazed,<br/>and kindled new belief.
+    </verse>
+    <verse name="v6"><br/>Still, with creative power,<br/>God's Spirit comes to give<br/>a pattern of new life --<br/>our world begins to live.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Into a world of dark,
-waste and disordered space,
-he came, a wind that moved
-across the waters' face.
-
-2
-
-The Spirit in the wild
-breathed, and a world began;
-from shapelessness came form,
-from nothingness, a plan.
-
-3
-
-Light in the darkness grew;
-land in the water stood;
-and space and time became
-a beauty that was good.
-
-4
-
-Into a world of doubt,
-through doors we closed, he came,
-the Breath of God in power
-like wind and roaring flame.
-
-5
-
-From empty wastes of death,
-on love's disordered grief
-light in the darkness blazed,
-and kindled new belief.
-
-6
-
-Still, with creative power,
-God's Spirit comes to give
-a pattern of new life --
-our world begins to live.

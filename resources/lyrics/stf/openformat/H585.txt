@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF585 God, whose love is all around us,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Fred Kaan (1929-2009)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God, whose love is all around us,<br/>who in Jesus sought and found us,<br/>who to freedom new unbound us,<br/>keep our hearts with joy aflame.
     </verse>
-
+    <verse name="v2"><br/>For the sacramental breaking,<br/>for the honour of partaking,<br/>for your life, our lives re-making,<br/>young and old, we praise your name.
+    </verse>
+    <verse name="v3"><br/>From the service of this table<br/>lead us to a life more stable;<br/>for our witness make us able;<br/>blessing on our work we claim.
+    </verse>
+    <verse name="v4"><br/>Through our calling closely knitted,<br/>daily to your praise committed,<br/>for a life of service fitted,<br/>let us now your love proclaim.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God, whose love is all around us,
-who in Jesus sought and found us,
-who to freedom new unbound us,
-keep our hearts with joy aflame.
-
-2
-
-For the sacramental breaking,
-for the honour of partaking,
-for your life, our lives re-making,
-young and old, we praise your name.
-
-3
-
-From the service of this table
-lead us to a life more stable;
-for our witness make us able;
-blessing on our work we claim.
-
-4
-
-Through our calling closely knitted,
-daily to your praise committed,
-for a life of service fitted,
-let us now your love proclaim.

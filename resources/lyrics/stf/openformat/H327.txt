@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF327 Jesus is King</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Wendy Churchill</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Jesus is King<br/>and I will extol him,<br/>give him the glory,<br/>and honour his name;<br/>he reigns on high,<br/>enthroned in the heavens --<br/>Word of the Father,<br/>exalted for us.
     </verse>
-
+    <verse name="v2"><br/>We have a hope<br/>that is steadfast and certain,<br/>gone through the curtain<br/>and touching the throne;<br/>we have a priest<br/>who is there interceding,<br/>pouring his grace<br/>on our lives day by day.
+    </verse>
+    <verse name="v3"><br/>We come to him,<br/>our Priest and Apostle,<br/>clothed in his glory<br/>and bearing his name,<br/>laying our lives<br/>with gladness before him --<br/>filled with his Spirit<br/>we worship the King:
+    </verse>
+    <verse name="v4"><br/>'O Holy One,<br/>our hearts do adore you;<br/>thrilled with your goodness<br/>we give you our praise!'<br/>Angels in light<br/>with worship surround him,<br/>Jesus, our Saviour,<br/>for ever the same.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Jesus is King
-and I will extol him,
-give him the glory,
-and honour his name;
-he reigns on high,
-enthroned in the heavens --
-Word of the Father,
-exalted for us.
-
-2
-
-We have a hope
-that is steadfast and certain,
-gone through the curtain
-and touching the throne;
-we have a priest
-who is there interceding,
-pouring his grace
-on our lives day by day.
-
-3
-
-We come to him,
-our Priest and Apostle,
-clothed in his glory
-and bearing his name,
-laying our lives
-with gladness before him --
-filled with his Spirit
-we worship the King:
-
-4
-
-'O Holy One,
-our hearts do adore you;
-thrilled with your goodness
-we give you our praise!'
-Angels in light
-with worship surround him,
-Jesus, our Saviour,
-for ever the same.

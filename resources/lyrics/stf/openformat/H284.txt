@@ -1,64 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF284 There is a green hill far away,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Cecil Frances </author>
       <author>er (1818-1895)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>There is a green hill far away,<br/>outside a city wall,<br/>where the dear Lord was crucified,<br/>who died to save us all.
     </verse>
-
+    <verse name="v2"><br/>We may not know, we cannot tell,<br/>what pains he had to bear,<br/>but we believe it was for us<br/>he hung and suffered there.
+    </verse>
+    <verse name="v3"><br/>He died that we might be forgiven.<br/>He died to make us good,<br/>that we might go at last to heaven,<br/>saved by his precious blood.
+    </verse>
+    <verse name="v4"><br/>There was no other good enough<br/>to pay the price of sin;<br/>he only could unlock the gate<br/>of heaven, and let us in.
+    </verse>
+    <verse name="v5"><br/>O dearly, dearly has he loved,<br/>and we must love him too,<br/>and trust in his redeeming blood,<br/>and try his works to do.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-There is a green hill far away,
-outside a city wall,
-where the dear Lord was crucified,
-who died to save us all.
-
-2
-
-We may not know, we cannot tell,
-what pains he had to bear,
-but we believe it was for us
-he hung and suffered there.
-
-3
-
-He died that we might be forgiven.
-He died to make us good,
-that we might go at last to heaven,
-saved by his precious blood.
-
-4
-
-There was no other good enough
-to pay the price of sin;
-he only could unlock the gate
-of heaven, and let us in.
-
-5
-
-O dearly, dearly has he loved,
-and we must love him too,
-and trust in his redeeming blood,
-and try his works to do.

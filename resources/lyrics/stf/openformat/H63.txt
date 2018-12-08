@@ -1,48 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF63 Over all the earth, you reign on high,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Brenton Brown</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Over all the earth, you reign on high,<br/>every mountain stream, every sunset sky.<br/>But my one request, Lord, my only aim<br/>is that you'd reign in me again.<br/>Lord, reign in me, reign in your power<br/>over all my dreams, in my darkest hour.<br/>You are the Lord of all I am,<br/>so won't you reign in me again?
     </verse>
-
+    <verse name="v2"><br/>Over every thought, over every word,<br/>may my life reflect the beauty of my Lord;<br/>'cause you mean more to me than any earthly thing,<br/>so won't you reign in me again?</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Over all the earth, you reign on high,
-every mountain stream, every sunset sky.
-But my one request, Lord, my only aim
-is that you'd reign in me again.
-Lord, reign in me, reign in your power
-over all my dreams, in my darkest hour.
-You are the Lord of all I am,
-so won't you reign in me again?
-
-2
-
-Over every thought, over every word,
-may my life reflect the beauty of my Lord;
-'cause you mean more to me than any earthly thing,
-so won't you reign in me again?

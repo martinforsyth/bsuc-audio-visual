@@ -1,66 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF591 Let all mortal flesh keep silence,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Let all mortal flesh keep silence,<br/>and with fear and trembling stand;<br/>ponder nothing earthly-minded,<br/>for with blessing in his hand<br/>Christ our God to earth descendeth,<br/>our full homage to demand.
     </verse>
-
+    <verse name="v2"><br/>King of kings, yet born of Mary,<br/>as of old on earth he stood,<br/>Lord of lords, in human vesture --<br/>in the body and the blood --<br/>he will give to all the faithful<br/>his own self for heavenly food.
+    </verse>
+    <verse name="v3"><br/>Rank on rank the host of heaven<br/>spreads its vanguard on the way,<br/>as the Light of light descendeth<br/>from the realms of endless day,<br/>that the powers of hell may vanish<br/>as the darkness clears away.
+    </verse>
+    <verse name="v4"><br/>At his feet the six-winged seraph;<br/>cherubim with sleepless eye<br/>veil their faces to the Presence,<br/>as with ceaseless voice they cry --<br/>alleluia, alleluia,<br/>alleluia, Lord most high.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Let all mortal flesh keep silence,
-and with fear and trembling stand;
-ponder nothing earthly-minded,
-for with blessing in his hand
-Christ our God to earth descendeth,
-our full homage to demand.
-
-2
-
-King of kings, yet born of Mary,
-as of old on earth he stood,
-Lord of lords, in human vesture --
-in the body and the blood --
-he will give to all the faithful
-his own self for heavenly food.
-
-3
-
-Rank on rank the host of heaven
-spreads its vanguard on the way,
-as the Light of light descendeth
-from the realms of endless day,
-that the powers of hell may vanish
-as the darkness clears away.
-
-4
-
-At his feet the six-winged seraph;
-cherubim with sleepless eye
-veil their faces to the Presence,
-as with ceaseless voice they cry --
-alleluia, alleluia,
-alleluia, Lord most high.

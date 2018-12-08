@@ -1,73 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF296 Christ has risen while earth slumbers,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949) </author>
       <author>Graham Maule (b. 1958)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Christ has risen while earth slumbers,<br/>Christ has risen where hope died,<br/>as he said and as he promised,<br/>as we doubted and denied.<br/>Let the moon embrace the blessing;<br/>let the sun sustain the cheer;<br/>let the world confirm the rumour.<br/>Christ is risen, God is here!
     </verse>
-
+    <verse name="v2"><br/>Christ has risen for the people<br/>whom he loved and died to save;<br/>Christ has risen for the women<br/>bringing flowers to grace his grave.<br/>Christ has risen for disciples<br/>huddled in an upstairs room.<br/>He whose word inspired creation<br/>is not silenced by the tomb.
+    </verse>
+    <verse name="v3"><br/>Christ has risen to companion<br/>former friends who fear the night,<br/>sensing loss and limitation<br/>where their faith had once burned bright.<br/>They bemoan what is no longer,<br/>they expect no hopeful sign<br/>till Christ ends their conversation,<br/>breaking bread and sharing wine.
+    </verse>
+    <verse name="v4"><br/>Christ has risen and forever<br/>lives to challenge and to change<br/>all whose lives are messed or mangled,<br/>all who find religion strange.<br/>Christ is risen. Christ is present,<br/>making us what he has been --<br/>evidence of transformation<br/>in which God is known and seen.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Christ has risen while earth slumbers,
-Christ has risen where hope died,
-as he said and as he promised,
-as we doubted and denied.
-Let the moon embrace the blessing;
-let the sun sustain the cheer;
-let the world confirm the rumour.
-Christ is risen, God is here!
-
-2
-
-Christ has risen for the people
-whom he loved and died to save;
-Christ has risen for the women
-bringing flowers to grace his grave.
-Christ has risen for disciples
-huddled in an upstairs room.
-He whose word inspired creation
-is not silenced by the tomb.
-
-3
-
-Christ has risen to companion
-former friends who fear the night,
-sensing loss and limitation
-where their faith had once burned bright.
-They bemoan what is no longer,
-they expect no hopeful sign
-till Christ ends their conversation,
-breaking bread and sharing wine.
-
-4
-
-Christ has risen and forever
-lives to challenge and to change
-all whose lives are messed or mangled,
-all who find religion strange.
-Christ is risen. Christ is present,
-making us what he has been --
-evidence of transformation
-in which God is known and seen.

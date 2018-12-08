@@ -1,58 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF60 My soul proclaims your mighty deeds.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Owen Alstott (b. 1947)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 My soul rejoices in God my Saviour.
 My spirit finds its joy in God, the living God.
-
 1
-
 My soul proclaims your mighty deeds.
 My spirit sings the greatness of your name.
-
 2
-
 Your mercy flows throughout the land
 and every generation knows your love.
-
 3
-
 You cast the mighty from their thrones
 and raise the poor and lowly to new life.
-
 4
-
 You fill the hungry with good things.
 With empty hands you send the rich away.
-
 5
-
 Just as you promised Abraham,
 you come to free your people, Israel.

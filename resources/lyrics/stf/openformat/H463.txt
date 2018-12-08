@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF463 Deep in the shadows of the past,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Brian Wren (b. 1936)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Deep in the shadows of the past,<br/>far out from settled lands,<br/>some nomads travelled with their God<br/>across the desert sands.<br/>The dawning hope of humankind<br/>by them was sensed and shown:<br/>a promise calling them ahead,<br/>a future yet unknown.
     </verse>
-
+    <verse name="v2"><br/>While others bowed to changeless gods,<br/>they met a mystery,<br/>invisible, without a name:<br/>'I AM WHAT I WILL BE';<br/>and by their tents, around their fires,<br/>in story, song and law,<br/>they praised, remembered, handed on<br/>a past that promised more.
+    </verse>
+    <verse name="v3"><br/>From Exodus to Pentecost<br/>the promise changed and grew,<br/>while some, remembering the past,<br/>recorded what they knew,<br/>or with their letters and laments,<br/>their prophecy and praise,<br/>recovered, kindled and expressed<br/>new hope for changing days.
+    </verse>
+    <verse name="v4"><br/>For all the writings that survived,<br/>for leaders, long ago,<br/>who sifted, copied, and preserved<br/>the Bible that we know,<br/>give thanks, and find its story yet<br/>our promise, strength and call,<br/>the model of emerging faith,<br/>alive with hope for all.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Deep in the shadows of the past,
-far out from settled lands,
-some nomads travelled with their God
-across the desert sands.
-The dawning hope of humankind
-by them was sensed and shown:
-a promise calling them ahead,
-a future yet unknown.
-
-2
-
-While others bowed to changeless gods,
-they met a mystery,
-invisible, without a name:
-'I AM WHAT I WILL BE';
-and by their tents, around their fires,
-in story, song and law,
-they praised, remembered, handed on
-a past that promised more.
-
-3
-
-From Exodus to Pentecost
-the promise changed and grew,
-while some, remembering the past,
-recorded what they knew,
-or with their letters and laments,
-their prophecy and praise,
-recovered, kindled and expressed
-new hope for changing days.
-
-4
-
-For all the writings that survived,
-for leaders, long ago,
-who sifted, copied, and preserved
-the Bible that we know,
-give thanks, and find its story yet
-our promise, strength and call,
-the model of emerging faith,
-alive with hope for all.

@@ -1,48 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF411 May the God of hope go with us every day,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Ann Mitchell</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>May the God of hope go with us every day,<br/>filling all our lives with love and joy and peace.<br/>May the God of justice speed us on our way,<br/>bringing light and hope to every land and race.<br/>Praying, let us work for peace;<br/>singing, share our joy with all;<br/>working for a world that's new,<br/>faithful when we hear Christ's call.
     </verse>
-
+    <verse name="v2"><br/>God will be our Shepherd as we go our way<br/>and will not forsake us when we go astray.<br/>Even though the load of life is hard to bear,<br/>we must not forget that God is always there.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-May the God of hope go with us every day,
-filling all our lives with love and joy and peace.
-May the God of justice speed us on our way,
-bringing light and hope to every land and race.
-Praying, let us work for peace;
-singing, share our joy with all;
-working for a world that's new,
-faithful when we hear Christ's call.
-
-2
-
-God will be our Shepherd as we go our way
-and will not forsake us when we go astray.
-Even though the load of life is hard to bear,
-we must not forget that God is always there.

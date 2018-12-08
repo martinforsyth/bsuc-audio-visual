@@ -1,50 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF371 Breathe on me, Spirit of Jesus.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Tina Pownall</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Breathe on me, Spirit of Jesus.<br/>Breathe on me, Holy Spirit of God.
     </verse>
-
+    <verse name="v2"><br/>Fill me again, Spirit of Jesus.<br/>Fill me again, Holy Spirit of God.
+    </verse>
+    <verse name="v3"><br/>Change my heart, Spirit of Jesus.<br/>Change my heart, Holy Spirit of God.
+    </verse>
+    <verse name="v4"><br/>Bring peace to the world, Spirit of Jesus.<br/>Bring peace to the world, Holy Spirit of God.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Breathe on me, Spirit of Jesus.
-Breathe on me, Holy Spirit of God.
-
-2
-
-Fill me again, Spirit of Jesus.
-Fill me again, Holy Spirit of God.
-
-3
-
-Change my heart, Spirit of Jesus.
-Change my heart, Holy Spirit of God.
-
-4
-
-Bring peace to the world, Spirit of Jesus.
-Bring peace to the world, Holy Spirit of God.

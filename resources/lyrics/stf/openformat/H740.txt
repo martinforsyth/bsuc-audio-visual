@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF740 We cannot care for you the way we wanted,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>We cannot care for you the way we wanted,<br/>or cradle you or listen for your cry;<br/>but, separated as we are by silence,<br/>love will not die.
     </verse>
-
+    <verse name="v2"><br/>We cannot watch you growing into childhood,<br/>nor find a new uniqueness every day;<br/>but special as you would have been among us<br/>you still will stay.
+    </verse>
+    <verse name="v3"><br/>We cannot know the pain or the potential<br/>which passing years would summon or reveal;<br/>but for that true fulfilment Jesus promised<br/>we hope and feel.
+    </verse>
+    <verse name="v4"><br/>So through the mess of anger, grief, and tiredness,<br/>through tensions which are not yet reconciled,<br/>we give to God the worship of our sorrow<br/>and our dear child.
+    </verse>
+    <verse name="v5"><br/>Lord, in your arms, which cradle all creation,<br/>we rest and place our baby beyond death,<br/>believing that he now, alive in heaven,  - or "she"<br/>breathes with your breath.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-We cannot care for you the way we wanted,
-or cradle you or listen for your cry;
-but, separated as we are by silence,
-love will not die.
-
-2
-
-We cannot watch you growing into childhood,
-nor find a new uniqueness every day;
-but special as you would have been among us
-you still will stay.
-
-3
-
-We cannot know the pain or the potential
-which passing years would summon or reveal;
-but for that true fulfilment Jesus promised
-we hope and feel.
-
-4
-
-So through the mess of anger, grief, and tiredness,
-through tensions which are not yet reconciled,
-we give to God the worship of our sorrow
-and our dear child.
-
-5
-
-Lord, in your arms, which cradle all creation,
-we rest and place our baby beyond death,
-believing that he now, alive in heaven,  - or "she"
-breathes with your breath.

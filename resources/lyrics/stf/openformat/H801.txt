@@ -1,79 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF801 O Lord, our Sovereign,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 8
-
 1
-
 O Lord, our Sovereign,
 how majestic is your name in all the earth!
 You have set your glory above the heavens.
-
 2
-
 Out of the mouths of babes and infants
 you have founded a bulwark because of your foes,
 to silence the enemy and the avenger.
-
 3
-
 When I look at your heavens, the work of your fingers,
 the moon and the stars that you have established;
-
 4
-
 what are human beings that you are mindful of them,
 mortals that you care for them?
-
 5
-
 Yet you have made them a little lower than God,
 and crowned them with glory and honour.
-
 6
-
 You have given them dominion over the works of your hands;
 you have put all things under their feet,
-
 7
-
 all sheep and oxen,
 and also the beasts of the field,
-
 8
-
 the birds of the air, and the fish of the sea,
 whatever passes along the paths of the seas.
-
 9
-
 O Lord, our Sovereign,
 how majestic is your name in all the earth!

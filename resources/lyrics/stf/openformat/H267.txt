@@ -1,72 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF267 Jesus in the olive grove,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
       <author>Fred Pratt Green (1903-2000)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Jesus in the olive grove,<br/>waiting for a traitor's kiss,<br/>rises free from bitterness.
     </verse>
-
+    <verse name="v2"><br/>As he wakes his comrades up,<br/>torches flicker in the glen;<br/>shadows turn to marching men.
+    </verse>
+    <verse name="v3"><br/>In that dawn of blows and lies<br/>Church and State conspire to kill,<br/>hang three rebels on a hill.
+    </verse>
+    <verse name="v4"><br/>Innocent and guilty drown<br/>in a flood of blood and sweat.<br/>How much darker can it get?
+    </verse>
+    <verse name="v5"><br/>How much darker must it be<br/>for a God to see and care<br/>that we perish in despair?
+    </verse>
+    <verse name="v6"><br/>It is God himself who dies!<br/>God in man shall set us free:<br/>God as Man -- and only he.
+    </verse>
+    <verse name="v7"><br/>Let him claim us as his own;<br/>we will serve as best we can<br/>such a God and such a Man!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Jesus in the olive grove,
-waiting for a traitor's kiss,
-rises free from bitterness.
-
-2
-
-As he wakes his comrades up,
-torches flicker in the glen;
-shadows turn to marching men.
-
-3
-
-In that dawn of blows and lies
-Church and State conspire to kill,
-hang three rebels on a hill.
-
-4
-
-Innocent and guilty drown
-in a flood of blood and sweat.
-How much darker can it get?
-
-5
-
-How much darker must it be
-for a God to see and care
-that we perish in despair?
-
-6
-
-It is God himself who dies!
-God in man shall set us free:
-God as Man -- and only he.
-
-7
-
-Let him claim us as his own;
-we will serve as best we can
-such a God and such a Man!

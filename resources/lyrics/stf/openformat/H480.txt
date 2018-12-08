@@ -1,65 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF480 The Lord's my Shepherd, I'll not want;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>The Lord's my Shepherd, I'll not want;<br/>he makes me down to lie<br/>in pastures green;he leadeth me<br/>the quiet waters by.
     </verse>
-
+    <verse name="v2"><br/>My soul he doth restore again,<br/>and me to walk doth make<br/>within the paths of righteousness,<br/>e'en for his own name's sake.
+    </verse>
+    <verse name="v3"><br/>Yea, though I walk through death's dark vale,<br/>yet will I fear no ill;<br/>for thou art with me, and thy rod<br/>and staff me comfort still.
+    </verse>
+    <verse name="v4"><br/>My table thou hast furnished<br/>in presence of my foes;<br/>my head thou dost with oil anoint,<br/>and my cup overflows.
+    </verse>
+    <verse name="v5"><br/>Goodness and mercy all my life<br/>shall surely follow me,<br/>and in God's house for evermore<br/>my dwelling-place shall be.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-The Lord's my Shepherd, I'll not want;
-he makes me down to lie
-in pastures green;he leadeth me
-the quiet waters by.
-
-2
-
-My soul he doth restore again,
-and me to walk doth make
-within the paths of righteousness,
-e'en for his own name's sake.
-
-3
-
-Yea, though I walk through death's dark vale,
-yet will I fear no ill;
-for thou art with me, and thy rod
-and staff me comfort still.
-
-4
-
-My table thou hast furnished
-in presence of my foes;
-my head thou dost with oil anoint,
-and my cup overflows.
-
-5
-
-Goodness and mercy all my life
-shall surely follow me,
-and in God's house for evermore
-my dwelling-place shall be.

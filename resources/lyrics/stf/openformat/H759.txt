@@ -1,36 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF759 Come O Lord, give us your Spirit;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>Come O Lord, give us your Spirit;<br/>come O Lord into our lives.<br/>Come O Lord, open our hearts to receive your word.<br/>Alleluia! Alleluia! Alleluia!<br/>Come, Spirit, come.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-Come O Lord, give us your Spirit;
-come O Lord into our lives.
-Come O Lord, open our hearts to receive your word.
-Alleluia! Alleluia! Alleluia!
-Come, Spirit, come.

@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF666 Master, speak! Thy servant heareth,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Frances Ridley Havergal (1836-1879)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Master, speak! Thy servant heareth,<br/>waiting for thy gracious word,<br/>longing for thy voice that cheereth;<br/>Master, let it now be heard.<br/>I am listening, Lord, for thee;<br/>what hast thou to say to me?
     </verse>
-
+    <verse name="v2"><br/>Speak to me by name, O Master,<br/>let me know it is to me;<br/>speak, that I may follow faster,<br/>with a step more firm and free,<br/>where the Shepherd leads the flock<br/>in the shadow of the rock.
+    </verse>
+    <verse name="v3"><br/>Master, speak! Though least and lowest,<br/>let me not unheard depart;<br/>Master, speak! For O thou knowest<br/>all the yearning of my heart,<br/>knowest all its truest need;<br/>speak, and make me blest indeed.
+    </verse>
+    <verse name="v4"><br/>Master, speak:and make me ready,<br/>when thy voice is truly heard,<br/>with obedience glad and steady<br/>still to follow every word.<br/>I am listening, Lord, for thee;<br/>Master, speak! O speak to me!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Master, speak! Thy servant heareth,
-waiting for thy gracious word,
-longing for thy voice that cheereth;
-Master, let it now be heard.
-I am listening, Lord, for thee;
-what hast thou to say to me?
-
-2
-
-Speak to me by name, O Master,
-let me know it is to me;
-speak, that I may follow faster,
-with a step more firm and free,
-where the Shepherd leads the flock
-in the shadow of the rock.
-
-3
-
-Master, speak! Though least and lowest,
-let me not unheard depart;
-Master, speak! For O thou knowest
-all the yearning of my heart,
-knowest all its truest need;
-speak, and make me blest indeed.
-
-4
-
-Master, speak:and make me ready,
-when thy voice is truly heard,
-with obedience glad and steady
-still to follow every word.
-I am listening, Lord, for thee;
-Master, speak! O speak to me!

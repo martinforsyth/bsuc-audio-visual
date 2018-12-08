@@ -1,60 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF682 God of grace and God of glory,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Harry Emerson Fosdick (1878-1969)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God of grace and God of glory,<br/>on your people pour your power;<br/>crown your ancient Church's story;<br/>bring her bud to glorious flower.<br/>Grant us wisdom,<br/>grant us courage,<br/>for the facing of this hour.
     </verse>
-
+    <verse name="v2"><br/>Heal your children's warring madness;<br/>bend our pride to your control;<br/>shame our wanton, selfish gladness,<br/>rich in things and poor in soul.<br/>Grant us wisdom,<br/>grant us courage,<br/>lest we miss your kingdom's goal.
+    </verse>
+    <verse name="v3"><br/>Lo, the hosts of evil round us<br/>scorn your Christ, assail his ways!<br/>Fears and doubts too long have bound us;<br/>free our hearts to work and praise.<br/>Grant us wisdom,<br/>grant us courage,<br/>for the living of these days.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God of grace and God of glory,
-on your people pour your power;
-crown your ancient Church's story;
-bring her bud to glorious flower.
-Grant us wisdom,
-grant us courage,
-for the facing of this hour.
-
-2
-
-Heal your children's warring madness;
-bend our pride to your control;
-shame our wanton, selfish gladness,
-rich in things and poor in soul.
-Grant us wisdom,
-grant us courage,
-lest we miss your kingdom's goal.
-
-3
-
-Lo, the hosts of evil round us
-scorn your Christ, assail his ways!
-Fears and doubts too long have bound us;
-free our hearts to work and praise.
-Grant us wisdom,
-grant us courage,
-for the living of these days.

@@ -1,66 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF699 God of justice, Saviour to all,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Tim Hughes</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God of justice, Saviour to all,<br/>came to rescue the weak and the poor;<br/>chose to serve and not be served.<br/>Jesus, you have called us.<br/>Freely we've received, now freely we will give.<br/>We must go,<br/>live to feed the hungry,<br/>stand beside the broken,<br/>we must go.<br/>Stepping forward,<br/>keep us from just singing,<br/>move us into action,<br/>we must go.
     </verse>
-
+    <verse name="v2"><br/>To act justly every day,<br/>loving mercy in every way,<br/>walking humbly before you, God.<br/>You have shown us what you require.<br/>Freely we've received, now freely we will give.<br/>Refrain (sung twice)<br/>Fill us up and send us out,<br/>fill us up and send us out,<br/>fill us up and send us out, Lord.<br/>Fill us up and send us out,<br/>fill us up and send us out,<br/>fill us up and send us out, Lord.<br/>Refrain</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God of justice, Saviour to all,
-came to rescue the weak and the poor;
-chose to serve and not be served.
-Jesus, you have called us.
-Freely we've received, now freely we will give.
-
-We must go,
-live to feed the hungry,
-stand beside the broken,
-we must go.
-Stepping forward,
-keep us from just singing,
-move us into action,
-we must go.
-
-2
-
-To act justly every day,
-loving mercy in every way,
-walking humbly before you, God.
-You have shown us what you require.
-Freely we've received, now freely we will give.
-
-Refrain (sung twice)
-
-Fill us up and send us out,
-fill us up and send us out,
-fill us up and send us out, Lord.
-Fill us up and send us out,
-fill us up and send us out,
-fill us up and send us out, Lord.
-
-Refrain

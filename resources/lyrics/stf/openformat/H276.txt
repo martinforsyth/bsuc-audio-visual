@@ -1,62 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF276 Follow the path on which our Captain trod,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Michael Robert Newbolt (1874-1956) </author>
       <author>George William Kitchin (1827-1912)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Lift high the Cross, the love of Christ proclaim
 till all the world adore his sacred name.
-
 1
-
 Follow the path on which our Captain trod,
 our King victorious, Christ the Son of God:
-
 2
-
 Each new-born soldier of the Crucified
 bears on their brow the seal of him who died:
-
 3
-
 Led on their way by this triumphant sign,
 the hosts of God in conquering ranks combine:
-
 4
-
 From farthest regions let them homage bring,
 and on his cross adore their Saviour King:
-
 5
-
 O Lord, once lifted on the glorious tree,
 as thou hast promised, draw the world to thee:
-
 6
-
 Set up thy throne, that earth's despair may cease
 beneath the shadow of its healing peace:

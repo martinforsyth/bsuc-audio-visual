@@ -1,84 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF14 Sing to him in whom creation</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Michael Hewlett (1916-2000)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Sing to him in whom creation<br/>found its shape and origin;<br/>Spirit, moving on the waters<br/>troubled by the God within;<br/>source of breath to all things breathing,<br/>life in whom all lives begin.
     </verse>
-
+    <verse name="v2"><br/>Sing to God, the close companion<br/>of our inmost thoughts and ways;<br/>who, in showing us his wonders,<br/>is himself the power to gaze,<br/>and his will, to those who listen,<br/>by a still small voice conveys.
+    </verse>
+    <verse name="v3"><br/>Holy people, priests and prophets<br/>caught his accents, spoke his word;<br/>his the truth behind the wisdoms<br/>which as yet know not our Lord;<br/>he the love of God eternal,<br/>which in Christ was seen and heard.
+    </verse>
+    <verse name="v4"><br/>Tell of how the ascended Jesus<br/>armed a people for his own;<br/>how a hundred men and women<br/>turned the known world upside down,<br/>to its dark and farthest corners<br/>by the wind of Whitsun blown.
+    </verse>
+    <verse name="v5"><br/>Pray we, then, O Lord the Spirit,<br/>on our lives descend in might;<br/>let your flame break out within us,<br/>fire our hearts and clear our sight,<br/>till, white-hot in your possession,<br/>we, too, set the world alight.
+    </verse>
+    <verse name="v6"><br/>Praise, O praise the Holy Spirit,<br/>praise the Father, praise the Word,<br/>source, and truth, and inspiration,<br/>Trinity in deep accord;<br/>through your voice which speaks within us<br/>we your creatures own you Lord.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Sing to him in whom creation
-found its shape and origin;
-Spirit, moving on the waters
-troubled by the God within;
-source of breath to all things breathing,
-life in whom all lives begin.
-
-2
-
-Sing to God, the close companion
-of our inmost thoughts and ways;
-who, in showing us his wonders,
-is himself the power to gaze,
-and his will, to those who listen,
-by a still small voice conveys.
-
-3
-
-Holy people, priests and prophets
-caught his accents, spoke his word;
-his the truth behind the wisdoms
-which as yet know not our Lord;
-he the love of God eternal,
-which in Christ was seen and heard.
-
-4
-
-Tell of how the ascended Jesus
-armed a people for his own;
-how a hundred men and women
-turned the known world upside down,
-to its dark and farthest corners
-by the wind of Whitsun blown.
-
-5
-
-Pray we, then, O Lord the Spirit,
-on our lives descend in might;
-let your flame break out within us,
-fire our hearts and clear our sight,
-till, white-hot in your possession,
-we, too, set the world alight.
-
-6
-
-Praise, O praise the Holy Spirit,
-praise the Father, praise the Word,
-source, and truth, and inspiration,
-Trinity in deep accord;
-through your voice which speaks within us
-we your creatures own you Lord.

@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF683 Great is our redeeming Lord</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Great is our redeeming Lord<br/>in power, and truth, and grace;<br/>him, by highest heaven adored,<br/>his Church on earth shall praise.<br/>In the city of our God,<br/>in his holy mount below,<br/>publish, spread his name abroad,<br/>and all his greatness show.
     </verse>
-
+    <verse name="v2"><br/>For your loving-kindness, Lord,<br/>we in your temple stay;<br/>here your faithful love record,<br/>your saving power display.<br/>With your name your praise is known,<br/>glorious your perfections shine;<br/>earth's remotest bounds shall own<br/>your works are all divine.
+    </verse>
+    <verse name="v3"><br/>See the gospel Church secure,<br/>and founded on a rock;<br/>all her promises are sure;<br/>her bulwarks who can shock?<br/>Count her every precious shrine;<br/>tell, to after-ages tell:<br/>fortified by power divine,<br/>the Church can never fail.
+    </verse>
+    <verse name="v4"><br/>Zion's God is all our own,<br/>who on his love rely;<br/>we his pardoning love have known,<br/>and live to Christ, and die.<br/>To the new Jerusalem<br/>he our faithful guide shall be:<br/>him we claim, and rest in him,<br/>through all eternity.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Great is our redeeming Lord
-in power, and truth, and grace;
-him, by highest heaven adored,
-his Church on earth shall praise.
-In the city of our God,
-in his holy mount below,
-publish, spread his name abroad,
-and all his greatness show.
-
-2
-
-For your loving-kindness, Lord,
-we in your temple stay;
-here your faithful love record,
-your saving power display.
-With your name your praise is known,
-glorious your perfections shine;
-earth's remotest bounds shall own
-your works are all divine.
-
-3
-
-See the gospel Church secure,
-and founded on a rock;
-all her promises are sure;
-her bulwarks who can shock?
-Count her every precious shrine;
-tell, to after-ages tell:
-fortified by power divine,
-the Church can never fail.
-
-4
-
-Zion's God is all our own,
-who on his love rely;
-we his pardoning love have known,
-and live to Christ, and die.
-To the new Jerusalem
-he our faithful guide shall be:
-him we claim, and rest in him,
-through all eternity.

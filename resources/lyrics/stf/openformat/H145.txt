@@ -1,75 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF145 Night has fallen,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 cantor:
 1
-
 Night has fallen,
 all:
 night has fallen,
 gracious Spirit, guard us sleeping.
-
 (cantorand allas in verse 1.)
 2
-
 Darkness now has come,
 darkness now has come,
 gracious Spirit, guard us sleeping.
-
 3
-
 We are with you, God,
 we are with you, God,
 gracious Spirit, guard us sleeping.
-
 4
-
 You have kept us, God,
 you have kept us, God,
 gracious Spirit, guard us sleeping.
-
 5
-
 See your children, God,
 see your children, God,
 gracious Spirit, guard us sleeping.
-
 6
-
 Keep us in your love,
 keep us in your love,
 gracious Spirit, guard us sleeping.
-
 7
-
 Now we go to rest,
 now we go to rest,
 gracious Spirit, guard us sleeping.

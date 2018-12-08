@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF408 How small a spark has lit a living fire!</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Shirley Erena Murray (b. 1931)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>How small a spark has lit a living fire!<br/>How small a flame has warmed a bitter world!<br/>How great a heart was moved to hope, to dare<br/>and bring the faith out in the open air!
     </verse>
-
+    <verse name="v2"><br/>No boundary sign will stand against this faith,<br/>no wall restrain this preaching of the Word:<br/>the Good News travels on, it rides the road<br/>and draws to unity the realm of God.
+    </verse>
+    <verse name="v3"><br/>The single note becomes a psalm of praise,<br/>the single voice grows to a swelling choir<br/>and born in song, new stories now are sung<br/>of freedom, chains unbound and loosened tongue.
+    </verse>
+    <verse name="v4"><br/>Thank God for all who listened and believed,<br/>who still are by the Spirit set on fire --<br/>our hearts be warmed again, for Christ will wait<br/>on beach, in upper room, or Aldersgate.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-How small a spark has lit a living fire!
-How small a flame has warmed a bitter world!
-How great a heart was moved to hope, to dare
-and bring the faith out in the open air!
-
-2
-
-No boundary sign will stand against this faith,
-no wall restrain this preaching of the Word:
-the Good News travels on, it rides the road
-and draws to unity the realm of God.
-
-3
-
-The single note becomes a psalm of praise,
-the single voice grows to a swelling choir
-and born in song, new stories now are sung
-of freedom, chains unbound and loosened tongue.
-
-4
-
-Thank God for all who listened and believed,
-who still are by the Spirit set on fire --
-our hearts be warmed again, for Christ will wait
-on beach, in upper room, or Aldersgate.

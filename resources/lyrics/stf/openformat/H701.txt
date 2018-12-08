@@ -1,65 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF701 Heaven shall not wait</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949) </author>
       <author>Graham Maule (b. 1958)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Heaven shall not wait<br/>for the poor to lose their patience,<br/>the scorned to smile, the despised to find a friend:<br/>Jesus is Lord;<br/>he has championed the unwanted;<br/>in him injustice confronts its timely end.
     </verse>
-
+    <verse name="v2"><br/>Heaven shall not wait<br/>for the rich to share their fortunes,<br/>the proud to fall, the elite to tend the least:<br/>Jesus is Lord;<br/>he has shown the master's privilege --<br/>to kneel and wash servants' feet before they feast.
+    </verse>
+    <verse name="v3"><br/>Heaven shall not wait<br/>for the dawn of great ideas,<br/>thoughts of compassion divorced from cries of pain:<br/>Jesus is Lord;<br/>he has married word and action;<br/>his cross and company make his purpose plain.
+    </verse>
+    <verse name="v4"><br/>Heaven shall not wait<br/>for triumphant Hallelujahs,<br/>when earth has passed and we reach another shore:<br/>Jesus is Lord<br/>in our present imperfection;<br/>his power and love are for now, and then for evermore.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Heaven shall not wait
-for the poor to lose their patience,
-the scorned to smile, the despised to find a friend:
-Jesus is Lord;
-he has championed the unwanted;
-in him injustice confronts its timely end.
-
-2
-
-Heaven shall not wait
-for the rich to share their fortunes,
-the proud to fall, the elite to tend the least:
-Jesus is Lord;
-he has shown the master's privilege --
-to kneel and wash servants' feet before they feast.
-
-3
-
-Heaven shall not wait
-for the dawn of great ideas,
-thoughts of compassion divorced from cries of pain:
-Jesus is Lord;
-he has married word and action;
-his cross and company make his purpose plain.
-
-4
-
-Heaven shall not wait
-for triumphant Hallelujahs,
-when earth has passed and we reach another shore:
-Jesus is Lord
-in our present imperfection;
-his power and love are for now, and then for evermore.

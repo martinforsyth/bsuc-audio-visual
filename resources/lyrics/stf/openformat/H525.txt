@@ -1,53 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF525 'Look around you, can you see?</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Jodi Page Clark (b. 1941)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>'Look around you, can you see?<br/>Times are troubled, people grieve.<br/>See the violence, feel the hardness;<br/>all my people, weep with me.'<br/>Kyrie eleison, Christe eleison,<br/>Kyrie eleison.
     </verse>
-
+    <verse name="v2"><br/>'Walk among them, I'll go with you.<br/>Reach out to them with my hands.<br/>Suffer with me, and together<br/>we will serve them, help them stand.'
+    </verse>
+    <verse name="v3"><br/>Forgive us, Father;hear our prayer.<br/>We would walk with you anywhere,<br/>through your suffering, with forgiveness,<br/>take your life into the world.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-'Look around you, can you see?
-Times are troubled, people grieve.
-See the violence, feel the hardness;
-all my people, weep with me.'
-Kyrie eleison, Christe eleison,
-Kyrie eleison.
-
-2
-
-'Walk among them, I'll go with you.
-Reach out to them with my hands.
-Suffer with me, and together
-we will serve them, help them stand.'
-
-3
-
-Forgive us, Father;hear our prayer.
-We would walk with you anywhere,
-through your suffering, with forgiveness,
-take your life into the world.

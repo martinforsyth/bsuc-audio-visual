@@ -1,78 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF562 O God, what offering shall I give</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Joachim Lange (1670-1744)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>O God, what offering shall I give<br/>to you, the Lord of earth and skies?<br/>My spirit, soul, and flesh receive,<br/>a holy, living sacrifice:<br/>small as it is, 'tis all my store;<br/>more would you have, if I had more.
     </verse>
-
+    <verse name="v2"><br/>Now, O my God, you have my soul,<br/>no longer mine, but yours I am;<br/>O guard your own, possess it whole,<br/>cheer it with hope, with love inflame;<br/>you have my spirit, there display<br/>your glory to the perfect day.
+    </verse>
+    <verse name="v3"><br/>You have my flesh, your hallowed shrine,<br/>devoted solely to your will;<br/>here let your light for ever shine,<br/>this house still let your presence fill;<br/>O source of life, live, dwell, and move<br/>in me, till all my life be love!
+    </verse>
+    <verse name="v4"><br/>Send down your likeness from above,<br/>and let this my adorning be;<br/>clothe me with wisdom, patience, love,<br/>with lowliness and purity,<br/>than gold and pearls more precious far,<br/>and brighter than the morning star.
+    </verse>
+    <verse name="v5"><br/>Lord, arm me with your Spirit's might,<br/>since I am called by your great name;<br/>in you let all my thoughts unite,<br/>of all my works be you the aim:<br/>your love attend me all my days,<br/>and my sole business be your praise.<br/>O Jesu, suesses Lichtby</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-O God, what offering shall I give
-to you, the Lord of earth and skies?
-My spirit, soul, and flesh receive,
-a holy, living sacrifice:
-small as it is, 'tis all my store;
-more would you have, if I had more.
-
-2
-
-Now, O my God, you have my soul,
-no longer mine, but yours I am;
-O guard your own, possess it whole,
-cheer it with hope, with love inflame;
-you have my spirit, there display
-your glory to the perfect day.
-
-3
-
-You have my flesh, your hallowed shrine,
-devoted solely to your will;
-here let your light for ever shine,
-this house still let your presence fill;
-O source of life, live, dwell, and move
-in me, till all my life be love!
-
-4
-
-Send down your likeness from above,
-and let this my adorning be;
-clothe me with wisdom, patience, love,
-with lowliness and purity,
-than gold and pearls more precious far,
-and brighter than the morning star.
-
-5
-
-Lord, arm me with your Spirit's might,
-since I am called by your great name;
-in you let all my thoughts unite,
-of all my works be you the aim:
-your love attend me all my days,
-and my sole business be your praise.
-
-
-O Jesu, suesses Lichtby

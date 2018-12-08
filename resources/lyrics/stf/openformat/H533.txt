@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF533 Covenant child,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Mary Rose Jensen</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Covenant child,<br/>water comes as a sign<br/>of the washing and cleansing<br/>renewing your mind.<br/>Covenant child,<br/>you are claimed as God's own.<br/>You are one of his people,<br/>his Church is your home.
     </verse>
-
+    <verse name="v2"><br/>Covenant child,<br/>you are here by God's grace,<br/>by the work of our Saviour,<br/>who died in your place.<br/>Covenant child,<br/>you are living in Christ.<br/>Buried with him in suffering,<br/>with him you will rise.
+    </verse>
+    <verse name="v3"><br/>Covenant child,<br/>we are praying for you.<br/>May you stay close to Jesus<br/>in all that you do.<br/>Covenant child,<br/>grow strong in the faith.<br/>Seek after God's kingdom<br/>and walk in his way.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Covenant child,
-water comes as a sign
-of the washing and cleansing
-renewing your mind.
-Covenant child,
-you are claimed as God's own.
-You are one of his people,
-his Church is your home.
-
-2
-
-Covenant child,
-you are here by God's grace,
-by the work of our Saviour,
-who died in your place.
-Covenant child,
-you are living in Christ.
-Buried with him in suffering,
-with him you will rise.
-
-3
-
-Covenant child,
-we are praying for you.
-May you stay close to Jesus
-in all that you do.
-Covenant child,
-grow strong in the faith.
-Seek after God's kingdom
-and walk in his way.

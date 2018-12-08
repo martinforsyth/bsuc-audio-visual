@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF142 Glory to thee, my God, this night</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Thomas Ken (1637-1711)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Glory to thee, my God, this night<br/>for all the blessings of the light;<br/>keep me, O keep me, King of kings,<br/>beneath thine own almighty wings.
     </verse>
-
+    <verse name="v2"><br/>Forgive me, Lord, for thy dear Son,<br/>the ill that I this day have done,<br/>that with the world, myself, and thee,<br/>I, ere I sleep, at peace may be.
+    </verse>
+    <verse name="v3"><br/>Teach me to live, that I may dread<br/>the grave as little as my bed;<br/>teach me to die, that so I may<br/>rise glorious at the judgement day.
+    </verse>
+    <verse name="v4"><br/>O may my soul on thee repose,<br/>and may sweet sleep mine eyelids close --<br/>sleep that shall me more vigorous make<br/>to serve my God when I awake.
+    </verse>
+    <verse name="v5"><br/>When in the night I sleepless lie,<br/>my mind with heavenly thoughts supply;<br/>let no ill dreams disturb my rest,<br/>no powers of darkness me molest.
+    </verse>
+    <verse name="v6"><br/>Praise God, from whom all blessings flow;<br/>praise him, all creatures here below;<br/>praise him above, ye heavenly host;<br/>praise Father, Son, and Holy Ghost.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Glory to thee, my God, this night
-for all the blessings of the light;
-keep me, O keep me, King of kings,
-beneath thine own almighty wings.
-
-2
-
-Forgive me, Lord, for thy dear Son,
-the ill that I this day have done,
-that with the world, myself, and thee,
-I, ere I sleep, at peace may be.
-
-3
-
-Teach me to live, that I may dread
-the grave as little as my bed;
-teach me to die, that so I may
-rise glorious at the judgement day.
-
-4
-
-O may my soul on thee repose,
-and may sweet sleep mine eyelids close --
-sleep that shall me more vigorous make
-to serve my God when I awake.
-
-5
-
-When in the night I sleepless lie,
-my mind with heavenly thoughts supply;
-let no ill dreams disturb my rest,
-no powers of darkness me molest.
-
-6
-
-Praise God, from whom all blessings flow;
-praise him, all creatures here below;
-praise him above, ye heavenly host;
-praise Father, Son, and Holy Ghost.

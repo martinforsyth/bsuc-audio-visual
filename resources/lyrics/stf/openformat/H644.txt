@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF644 When our confidence is shaken</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Fred Pratt Green (1903-2000)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>When our confidence is shaken<br/>in beliefs we thought secure;<br/>when the spirit in its sickness<br/>seeks but cannot find a cure:<br/>God is active in the tensions<br/>of a faith not yet mature.
     </verse>
-
+    <verse name="v2"><br/>Solar systems, void of meaning,<br/>freeze the spirit into stone;<br/>always our researches lead us<br/>to the ultimate Unknown:<br/>faith must die, or come full circle<br/>to its source in God alone.
+    </verse>
+    <verse name="v3"><br/>In the discipline of praying,<br/>when it's hardest to believe;<br/>in the drudgery of caring,<br/>when it's not enough to grieve;<br/>faith, maturing, learns acceptance<br/>of the insights we receive.
+    </verse>
+    <verse name="v4"><br/>God is love;and he redeems us<br/>in the Christ we crucify:<br/>this is God's eternal answer<br/>to the world's eternal why;<br/>may we in this faith maturing<br/>be content to live and die!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-When our confidence is shaken
-in beliefs we thought secure;
-when the spirit in its sickness
-seeks but cannot find a cure:
-God is active in the tensions
-of a faith not yet mature.
-
-2
-
-Solar systems, void of meaning,
-freeze the spirit into stone;
-always our researches lead us
-to the ultimate Unknown:
-faith must die, or come full circle
-to its source in God alone.
-
-3
-
-In the discipline of praying,
-when it's hardest to believe;
-in the drudgery of caring,
-when it's not enough to grieve;
-faith, maturing, learns acceptance
-of the insights we receive.
-
-4
-
-God is love;and he redeems us
-in the Christ we crucify:
-this is God's eternal answer
-to the world's eternal why;
-may we in this faith maturing
-be content to live and die!

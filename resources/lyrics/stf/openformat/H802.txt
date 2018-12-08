@@ -1,84 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF802 Preserve me, O God, for in you have I taken refuge;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 16
-
 1
-
 Preserve me, O God, for in you have I taken refuge;
 I have said to the Lord, 'You are my Lord, all my good depends on you.'
-
 2
-
 All my delight is upon the godly that are in the land,
 upon those who are noble in heart.
-
 3
-
 Though the idols are legion that many run after,
 their drink offerings of blood I will not offer,
 neither make mention of their names upon my lips.
-
 4
-
 The Lord himself is my portion and my cup;
 in your hands alone is my fortune.
-
 5
-
 My share has fallen in a fair land;
 indeed, I have a goodly heritage.
-
 6
-
 I will bless the Lord who has given me counsel,
 and in the night watches he instructs my heart.
-
 7
-
 I have set the Lord always before me;
 he is at my right hand;I shall not fall.
-
 8
-
 Wherefore my heart is glad and my spirit rejoices;
 my flesh also shall rest secure.
-
 9
-
 For you will not abandon my soul to death,
 nor suffer your faithful one to see the pit.
-
 10
-
 You will show me the path of life;
 in your presence is the fullness of joy
 and in your right hand are pleasures for evermore.

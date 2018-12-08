@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF703 In an age of twisted values</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Martin Leckebusch (b. 1962)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>In an age of twisted values<br/>we have lost the truth we need;<br/>in sophisticated language<br/>we have justified our greed;<br/>by our struggle for possessions<br/>we have robbed the poor and weak --<br/>hear our cry and heal our nations:<br/>your forgiveness, Lord, we seek.
     </verse>
-
+    <verse name="v2"><br/>We have built discrimination<br/>on our prejudice and fear;<br/>hatred swiftly turns to cruelty<br/>if we hold resentments dear.<br/>For communities divided<br/>by the walls of class and race<br/>hear our cry and heal our nations:<br/>show us, Lord, your love and grace.
+    </verse>
+    <verse name="v3"><br/>When our families are broken;<br/>when our homes are full of strife;<br/>when our children are bewildered,<br/>when they lose their way in life;<br/>when we fail to give the aged<br/>all the care we know we should --<br/>hear our cry and heal our nations<br/>with your tender fatherhood.
+    </verse>
+    <verse name="v4"><br/>We who hear your word so often<br/>choose so rarely to obey;<br/>turn us from our wilful blindness,<br/>give us truth to light our way.<br/>In the power of your Spirit<br/>come to cleanse us, make us new:<br/>hear our cry and heal our nations<br/>till our nations honour you.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-In an age of twisted values
-we have lost the truth we need;
-in sophisticated language
-we have justified our greed;
-by our struggle for possessions
-we have robbed the poor and weak --
-hear our cry and heal our nations:
-your forgiveness, Lord, we seek.
-
-2
-
-We have built discrimination
-on our prejudice and fear;
-hatred swiftly turns to cruelty
-if we hold resentments dear.
-For communities divided
-by the walls of class and race
-hear our cry and heal our nations:
-show us, Lord, your love and grace.
-
-3
-
-When our families are broken;
-when our homes are full of strife;
-when our children are bewildered,
-when they lose their way in life;
-when we fail to give the aged
-all the care we know we should --
-hear our cry and heal our nations
-with your tender fatherhood.
-
-4
-
-We who hear your word so often
-choose so rarely to obey;
-turn us from our wilful blindness,
-give us truth to light our way.
-In the power of your Spirit
-come to cleanse us, make us new:
-hear our cry and heal our nations
-till our nations honour you.

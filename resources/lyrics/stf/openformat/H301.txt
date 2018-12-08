@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF301 Hail, thou once despised Jesus,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John Bakewell (1721-1819)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Hail, thou once despised Jesus,<br/>hail, thou Galilean King!<br/>Thou didst suffer to release us,<br/>thou didst free salvation bring.<br/>Hail, thou agonizing Saviour,<br/>bearer of our sin and shame;<br/>by thy merits we find favour;<br/>life is given through thy name!
     </verse>
-
+    <verse name="v2"><br/>Paschal Lamb by God appointed,<br/>all our sins on thee were laid;<br/>by almighty love anointed,<br/>thou hast full atonement made:<br/>all thy people are forgiven<br/>through the virtue of thy blood;<br/>opened is the gate of heaven;<br/>we are reconciled to God.
+    </verse>
+    <verse name="v3"><br/>Jesus, hail! Enthroned in glory,<br/>there for ever to abide;<br/>all the heavenly host adore thee,<br/>seated at thy Father's side:<br/>there for sinners thou art pleading,<br/>there thou dost our place prepare,<br/>ever for us interceding,<br/>till in glory we appear.
+    </verse>
+    <verse name="v4"><br/>Worship, honour, power, and blessing,<br/>thou art worthy to receive;<br/>loudest praises without ceasing,<br/>meet it is for us to give.<br/>Help, ye bright angelic spirits,<br/>bring your sweetest, noblest lays;<br/>help to sing our Saviour's merits,<br/>help to chant Immanuel's praise!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Hail, thou once despised Jesus,
-hail, thou Galilean King!
-Thou didst suffer to release us,
-thou didst free salvation bring.
-Hail, thou agonizing Saviour,
-bearer of our sin and shame;
-by thy merits we find favour;
-life is given through thy name!
-
-2
-
-Paschal Lamb by God appointed,
-all our sins on thee were laid;
-by almighty love anointed,
-thou hast full atonement made:
-all thy people are forgiven
-through the virtue of thy blood;
-opened is the gate of heaven;
-we are reconciled to God.
-
-3
-
-Jesus, hail! Enthroned in glory,
-there for ever to abide;
-all the heavenly host adore thee,
-seated at thy Father's side:
-there for sinners thou art pleading,
-there thou dost our place prepare,
-ever for us interceding,
-till in glory we appear.
-
-4
-
-Worship, honour, power, and blessing,
-thou art worthy to receive;
-loudest praises without ceasing,
-meet it is for us to give.
-Help, ye bright angelic spirits,
-bring your sweetest, noblest lays;
-help to sing our Saviour's merits,
-help to chant Immanuel's praise!

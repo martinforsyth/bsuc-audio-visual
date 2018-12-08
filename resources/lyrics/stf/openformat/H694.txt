@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF694 By the Babylonian rivers</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Ewald Joseph Bash (1924-1994)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>By the Babylonian rivers<br/>we sat down in grief and wept;<br/>hung our harps upon a willow,<br/>mourned for Zion while we slept.
     </verse>
-
+    <verse name="v2"><br/>There our captors, in derision,<br/>did require of us a song;<br/>so we sat with staring vision<br/>and the days were hard and long.
+    </verse>
+    <verse name="v3"><br/>Could we ever sing the Lord's song<br/>in a strange and bitter land?<br/>Can our voices veil the sorrow?<br/>Lord God, hear your lonely band.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-By the Babylonian rivers
-we sat down in grief and wept;
-hung our harps upon a willow,
-mourned for Zion while we slept.
-
-2
-
-There our captors, in derision,
-did require of us a song;
-so we sat with staring vision
-and the days were hard and long.
-
-3
-
-Could we ever sing the Lord's song
-in a strange and bitter land?
-Can our voices veil the sorrow?
-Lord God, hear your lonely band.

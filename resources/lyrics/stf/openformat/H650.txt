@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF650 Heal us, Immanuel! Hear our prayer;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>William Cowper (1731-1800)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Heal us, Immanuel! Hear our prayer;<br/>we wait to feel your touch;<br/>deep-wounded souls to you repair,<br/>and, Saviour, we are such.
     </verse>
-
+    <verse name="v2"><br/>Our faith is feeble, we confess;<br/>we faintly trust your word;<br/>but will you pity us the less?<br/>Be that far from you, Lord!
+    </verse>
+    <verse name="v3"><br/>Remember him who once applied<br/>with trembling for relief:<br/>'Lord, I believe!' with tears he cried,<br/>'O help my unbelief!'
+    </verse>
+    <verse name="v4"><br/>She, too, who touched you in the press,<br/>and healing virtue stole,<br/>was answered:'Daughter, go in peace,<br/>your faith has made you whole.'
+    </verse>
+    <verse name="v5"><br/>Concealed amid the gathering throng,<br/>she would have shunned your view;<br/>and if her faith was firm and strong,<br/>had strong misgivings too.
+    </verse>
+    <verse name="v6"><br/>Like her, with hopes and fears we come<br/>to touch you, if we may;<br/>O send us not despairing home,<br/>send none unhealed away!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Heal us, Immanuel! Hear our prayer;
-we wait to feel your touch;
-deep-wounded souls to you repair,
-and, Saviour, we are such.
-
-2
-
-Our faith is feeble, we confess;
-we faintly trust your word;
-but will you pity us the less?
-Be that far from you, Lord!
-
-3
-
-Remember him who once applied
-with trembling for relief:
-'Lord, I believe!' with tears he cried,
-'O help my unbelief!'
-
-4
-
-She, too, who touched you in the press,
-and healing virtue stole,
-was answered:'Daughter, go in peace,
-your faith has made you whole.'
-
-5
-
-Concealed amid the gathering throng,
-she would have shunned your view;
-and if her faith was firm and strong,
-had strong misgivings too.
-
-6
-
-Like her, with hopes and fears we come
-to touch you, if we may;
-O send us not despairing home,
-send none unhealed away!

@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF282 Stay here where nails are driven</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Alan Gaunt (b. 1935)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Stay here where nails are driven<br/>hard through Love's tender hands;<br/>for where Love's side is riven,<br/>faith, pierced by grief, still stands.
     </verse>
-
+    <verse name="v2"><br/>This is where faith discovers<br/>the length to which Love goes;<br/>this is where grief uncovers<br/>the deepest truth Love knows:
+    </verse>
+    <verse name="v3"><br/>The joy of faith, though dying,<br/>springs up for ever new;<br/>its song breaks out from crying,<br/>and sorrow keeps it true.
+    </verse>
+    <verse name="v4"><br/>So wait, where pain and grieving<br/>engulf complacency,<br/>in earth's despair believing<br/>the truth of Calvary.
+    </verse>
+    <verse name="v5"><br/>Then see, through desolation,<br/>how grief and joy are tuned<br/>to rise in exultation<br/>because of Love's deep wound.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Stay here where nails are driven
-hard through Love's tender hands;
-for where Love's side is riven,
-faith, pierced by grief, still stands.
-
-2
-
-This is where faith discovers
-the length to which Love goes;
-this is where grief uncovers
-the deepest truth Love knows:
-
-3
-
-The joy of faith, though dying,
-springs up for ever new;
-its song breaks out from crying,
-and sorrow keeps it true.
-
-4
-
-So wait, where pain and grieving
-engulf complacency,
-in earth's despair believing
-the truth of Calvary.
-
-5
-
-Then see, through desolation,
-how grief and joy are tuned
-to rise in exultation
-because of Love's deep wound.

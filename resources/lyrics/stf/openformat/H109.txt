@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF109 In the darkness of the still night,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Margaret Rizza (b. 1929)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>In the darkness of the still night,<br/>in the dawning of the daylight,<br/>in the mystery of creation,<br/>Creator God, you are there.<br/>In the breath of every being,<br/>in the birthing and the growing,<br/>in the earth and all its fullness,<br/>Creator God, you are there.
     </verse>
-
+    <verse name="v2"><br/>In the homeless and the hungry,<br/>in the broken and the lonely,<br/>in the grieving of your people,<br/>Creator God, you are there.<br/>In the tears and in the heartache,<br/>in the love through which we serve you,<br/>in the anguish of the dying,<br/>Creator God, you are there.
+    </verse>
+    <verse name="v3"><br/>In our hearts and in our thinking,<br/>in the longing and the dreaming,<br/>in the yearning of our heartbeat,<br/>Creator God, you are there.<br/>In the love for one another,<br/>in the sharing of our being,<br/>in receiving and forgiving,<br/>Creator God, you are there.
+    </verse>
+    <verse name="v4"><br/>In our joys, our hopes, our healing,<br/>in awakening to revealing,<br/>in your call and our responding,<br/>Creator God, you are there.<br/>In our prayer and in our service,<br/>in our praise and in our worship,<br/>in your love that is eternal,<br/>Creator God, you are there.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-In the darkness of the still night,
-in the dawning of the daylight,
-in the mystery of creation,
-Creator God, you are there.
-In the breath of every being,
-in the birthing and the growing,
-in the earth and all its fullness,
-Creator God, you are there.
-
-2
-
-In the homeless and the hungry,
-in the broken and the lonely,
-in the grieving of your people,
-Creator God, you are there.
-In the tears and in the heartache,
-in the love through which we serve you,
-in the anguish of the dying,
-Creator God, you are there.
-
-3
-
-In our hearts and in our thinking,
-in the longing and the dreaming,
-in the yearning of our heartbeat,
-Creator God, you are there.
-In the love for one another,
-in the sharing of our being,
-in receiving and forgiving,
-Creator God, you are there.
-
-4
-
-In our joys, our hopes, our healing,
-in awakening to revealing,
-in your call and our responding,
-Creator God, you are there.
-In our prayer and in our service,
-in our praise and in our worship,
-in your love that is eternal,
-Creator God, you are there.

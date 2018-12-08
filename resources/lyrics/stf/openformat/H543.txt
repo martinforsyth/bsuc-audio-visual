@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF543 Wonder of wonders,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Brian Wren (b. 1936)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Wonder of wonders,<br/>life is beginning,<br/>fragile as blossom,<br/>strong as the earth.<br/>Shaped in a person,<br/>love has new meaning.<br/>Parents and people<br/>sing at the birth.
     </verse>
-
+    <verse name="v2"><br/>Now with rejoicing<br/>make celebration:<br/>joy full of promise,<br/>laughter through tears.<br/>Naming and blessing,<br/>bring dedication,<br/>humble in purpose<br/>over the years.
+    </verse>
+    <verse name="v3"><br/>Wisdom of ages,<br/>new every morning,<br/>Mother and Father,<br/>Partner and Friend,<br/>freeing, forgiving,<br/>lift all our loving<br/>into your presence,<br/>joy without end.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Wonder of wonders,
-life is beginning,
-fragile as blossom,
-strong as the earth.
-Shaped in a person,
-love has new meaning.
-Parents and people
-sing at the birth.
-
-2
-
-Now with rejoicing
-make celebration:
-joy full of promise,
-laughter through tears.
-Naming and blessing,
-bring dedication,
-humble in purpose
-over the years.
-
-3
-
-Wisdom of ages,
-new every morning,
-Mother and Father,
-Partner and Friend,
-freeing, forgiving,
-lift all our loving
-into your presence,
-joy without end.

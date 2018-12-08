@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF687 One human family God has made,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Rosemary Wakelin (b. 1932)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>One human family God has made,<br/>and all for each to care.<br/>One world, to be the home of all,<br/>with all its wealth to share.<br/>One Christ, to manifest on earth<br/>love's ultimate design.<br/>One Church to know the mystery<br/>of broken bread and wine.
     </verse>
-
+    <verse name="v2"><br/>One race, one world -- yet torn apart,<br/>we spurn the way of love.<br/>But still ahead, the Christ leads on<br/>and calls his Church to move<br/>from love of power to power of love,<br/>to give the word to all --<br/>to trust the love that conquered death,<br/>outside the city wall.
+    </verse>
+    <verse name="v3"><br/>And are we brave enough to join<br/>with that great company --<br/>the cost not less than all we have<br/>and are or hope to be --<br/>the bitter cup of human sin<br/>to drink with him who died,<br/>and take his love outside the wall<br/>to all the crucified?
+    </verse>
+    <verse name="v4"><br/>Claim him who claims us for his own,<br/>to share his pain and grief,<br/>to bear the scars that stamp us his --<br/>the hallmark of belief.<br/>As partners of the living Christ,<br/>who risk the path he trod,<br/>with wondering love we find we share<br/>the timeless joy of God.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-One human family God has made,
-and all for each to care.
-One world, to be the home of all,
-with all its wealth to share.
-One Christ, to manifest on earth
-love's ultimate design.
-One Church to know the mystery
-of broken bread and wine.
-
-2
-
-One race, one world -- yet torn apart,
-we spurn the way of love.
-But still ahead, the Christ leads on
-and calls his Church to move
-from love of power to power of love,
-to give the word to all --
-to trust the love that conquered death,
-outside the city wall.
-
-3
-
-And are we brave enough to join
-with that great company --
-the cost not less than all we have
-and are or hope to be --
-the bitter cup of human sin
-to drink with him who died,
-and take his love outside the wall
-to all the crucified?
-
-4
-
-Claim him who claims us for his own,
-to share his pain and grief,
-to bear the scars that stamp us his --
-the hallmark of belief.
-As partners of the living Christ,
-who risk the path he trod,
-with wondering love we find we share
-the timeless joy of God.

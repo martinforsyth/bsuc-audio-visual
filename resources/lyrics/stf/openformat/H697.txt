@@ -1,51 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF697 Oh freedom, Oh freedom, Oh freedom.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Oh freedom, Oh freedom, Oh freedom.<br/>Freedom is coming, Oh yes I know.<br/>Oh yes I know! Oh yes I know! Oh yes I know!<br/>Freedom is coming, Oh yes I know!
     </verse>
-
+    <verse name="v2"><br/>Oh justice, Oh justice, Oh justice.<br/>Justice is coming, Oh yes I know.<br/>Oh yes I know! Oh yes I know! Oh yes I know!<br/>Justice is coming, Oh yes I know!
+    </verse>
+    <verse name="v3"><br/>Oh Jesus, Oh Jesus, Oh Jesus.<br/>Jesus is coming, Oh yes I know.<br/>Oh yes I know! Oh yes I know! Oh yes I know!<br/>Jesus is coming, Oh yes I know!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Oh freedom, Oh freedom, Oh freedom.
-Freedom is coming, Oh yes I know.
-Oh yes I know! Oh yes I know! Oh yes I know!
-Freedom is coming, Oh yes I know!
-
-2
-
-Oh justice, Oh justice, Oh justice.
-Justice is coming, Oh yes I know.
-Oh yes I know! Oh yes I know! Oh yes I know!
-Justice is coming, Oh yes I know!
-
-3
-
-Oh Jesus, Oh Jesus, Oh Jesus.
-Jesus is coming, Oh yes I know.
-Oh yes I know! Oh yes I know! Oh yes I know!
-Jesus is coming, Oh yes I know!

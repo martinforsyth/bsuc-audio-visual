@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF721 What shall we pray for those who died,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>What shall we pray for those who died,<br/>those on whose death our lives relied?<br/>Silenced by war but not denied,<br/>God give them peace.
     </verse>
-
+    <verse name="v2"><br/>What shall we pray for those who mourn<br/>friendships and love, their fruit unborn?<br/>Though years have passed, hearts still are torn;<br/>God give them peace.
+    </verse>
+    <verse name="v3"><br/>What shall we pray for those who live<br/>tied to the past they can't forgive,<br/>haunted by terrors they relive?<br/>God give them peace.
+    </verse>
+    <verse name="v4"><br/>What shall we pray for those who know<br/>nothing of war, and cannot show<br/>grief or regret for friend or foe?<br/>God give them peace.
+    </verse>
+    <verse name="v5"><br/>What shall we pray for those who fear<br/>war, in some guise, may reappear<br/>looking attractive and sincere?<br/>God give them peace.
+    </verse>
+    <verse name="v6"><br/>God give us peace, and, more than this,<br/>show us the path where justice is;<br/>and let us never be remiss<br/>working for peace that lasts.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-What shall we pray for those who died,
-those on whose death our lives relied?
-Silenced by war but not denied,
-God give them peace.
-
-2
-
-What shall we pray for those who mourn
-friendships and love, their fruit unborn?
-Though years have passed, hearts still are torn;
-God give them peace.
-
-3
-
-What shall we pray for those who live
-tied to the past they can't forgive,
-haunted by terrors they relive?
-God give them peace.
-
-4
-
-What shall we pray for those who know
-nothing of war, and cannot show
-grief or regret for friend or foe?
-God give them peace.
-
-5
-
-What shall we pray for those who fear
-war, in some guise, may reappear
-looking attractive and sincere?
-God give them peace.
-
-6
-
-God give us peace, and, more than this,
-show us the path where justice is;
-and let us never be remiss
-working for peace that lasts.

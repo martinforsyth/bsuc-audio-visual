@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF146 Now that evening falls,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Now that evening falls,<br/>gently fades the light;<br/>moon replaces sun<br/>and day takes leave of night.
     </verse>
-
+    <verse name="v2"><br/>Gratitude we raise<br/>for the day that's done<br/>and for what, tomorrow,<br/>waits to be begun.
+    </verse>
+    <verse name="v3"><br/>Gladly we commit<br/>to God's gracious care<br/>those we love and long for,<br/>those whose lives we share.
+    </verse>
+    <verse name="v4"><br/>Glory be to God,<br/>glory to God's Son,<br/>glory to the Spirit<br/>ever three in one.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Now that evening falls,
-gently fades the light;
-moon replaces sun
-and day takes leave of night.
-
-2
-
-Gratitude we raise
-for the day that's done
-and for what, tomorrow,
-waits to be begun.
-
-3
-
-Gladly we commit
-to God's gracious care
-those we love and long for,
-those whose lives we share.
-
-4
-
-Glory be to God,
-glory to God's Son,
-glory to the Spirit
-ever three in one.

@@ -1,51 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF223 A special star, a special star</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Lynda Masson (b. 1951)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>A special star, a special star<br/>it led the way to Jesus.<br/>A special star, a special star<br/>shone over where he lay.
     </verse>
-
+    <verse name="v2"><br/>A special star, a special star<br/>it led wise men to Jesus.<br/>A special star, a special star<br/>led them to worship him.
+    </verse>
+    <verse name="v3"><br/>A special star, a special star<br/>shone over baby Jesus.<br/>A special star, a special star<br/>leads us to worship him.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-A special star, a special star
-it led the way to Jesus.
-A special star, a special star
-shone over where he lay.
-
-2
-
-A special star, a special star
-it led wise men to Jesus.
-A special star, a special star
-led them to worship him.
-
-3
-
-A special star, a special star
-shone over baby Jesus.
-A special star, a special star
-leads us to worship him.

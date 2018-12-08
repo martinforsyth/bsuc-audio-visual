@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF556 Just as I am, without one plea</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Charlotte Elliott (1789-1871)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Just as I am, without one plea<br/>but that you died to set me free,<br/>and at your bidding, 'Come to me!'<br/>O Lamb of God, I come!
     </verse>
-
+    <verse name="v2"><br/>Just as I am, though tossed about<br/>with many a conflict, many a doubt,<br/>fightings within and fears without,<br/>O Lamb of God, I come!
+    </verse>
+    <verse name="v3"><br/>Just as I am, you will receive,<br/>will welcome, pardon, cleanse, relieve:<br/>because your promise I believe,<br/>O Lamb of God, I come!
+    </verse>
+    <verse name="v4"><br/>Just as I am -- your love unknown<br/>has broken every barrier down --<br/>now to be yours, yes, yours alone,<br/>O Lamb of God, I come!
+    </verse>
+    <verse name="v5"><br/>Just as I am, of that free love<br/>the breadth, length, depth and height to prove,<br/>here for a time and then above,<br/>O Lamb of God, I come!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Just as I am, without one plea
-but that you died to set me free,
-and at your bidding, 'Come to me!'
-O Lamb of God, I come!
-
-2
-
-Just as I am, though tossed about
-with many a conflict, many a doubt,
-fightings within and fears without,
-O Lamb of God, I come!
-
-3
-
-Just as I am, you will receive,
-will welcome, pardon, cleanse, relieve:
-because your promise I believe,
-O Lamb of God, I come!
-
-4
-
-Just as I am -- your love unknown
-has broken every barrier down --
-now to be yours, yes, yours alone,
-O Lamb of God, I come!
-
-5
-
-Just as I am, of that free love
-the breadth, length, depth and height to prove,
-here for a time and then above,
-O Lamb of God, I come!

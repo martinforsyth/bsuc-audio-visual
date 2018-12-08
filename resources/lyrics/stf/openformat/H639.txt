@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF639 Through the love of God our Saviour</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Mary Peters (1813-1856)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Through the love of God our Saviour<br/>all will be well.<br/>Free and changeless is his favour;<br/>all, all is well.<br/>Precious is the blood that healed us,<br/>perfect is the grace that sealed us,<br/>strong the hand stretched forth to shield us;<br/>all must be well.
     </verse>
-
+    <verse name="v2"><br/>Though we pass through tribulation,<br/>all will be well.<br/>Christ has purchased full salvation,<br/>all, all is well.<br/>Happy still in God confiding,<br/>fruitful, if in Christ abiding,<br/>holy, through the Spirit's guiding;<br/>all must be well.
+    </verse>
+    <verse name="v3"><br/>We expect a bright tomorrow;<br/>all will be well.<br/>Faith can sing through days of sorrow<br/>all, all is well.<br/>On our Father's love relying,<br/>Jesus every need supplying,<br/>then in living or in dying,<br/>all must be well.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Through the love of God our Saviour
-all will be well.
-Free and changeless is his favour;
-all, all is well.
-Precious is the blood that healed us,
-perfect is the grace that sealed us,
-strong the hand stretched forth to shield us;
-all must be well.
-
-2
-
-Though we pass through tribulation,
-all will be well.
-Christ has purchased full salvation,
-all, all is well.
-Happy still in God confiding,
-fruitful, if in Christ abiding,
-holy, through the Spirit's guiding;
-all must be well.
-
-3
-
-We expect a bright tomorrow;
-all will be well.
-Faith can sing through days of sorrow
-all, all is well.
-On our Father's love relying,
-Jesus every need supplying,
-then in living or in dying,
-all must be well.

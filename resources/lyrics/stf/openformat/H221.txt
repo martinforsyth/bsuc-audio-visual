@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF221 While shepherds watched their flocks by night,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Nahum Tate (1652-1715)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>While shepherds watched their flocks by night,<br/>all seated on the ground,<br/>the angel of the Lord came down,<br/>and glory shone around.
     </verse>
-
+    <verse name="v2"><br/>'Fear not,' said he (for mighty dread<br/>had seized their troubled mind),<br/>'glad tidings of great joy I bring<br/>to you and humankind.
+    </verse>
+    <verse name="v3"><br/>'To you in David's town this day<br/>is born of David's line<br/>a Saviour, who is Christ the Lord;<br/>and this shall be the sign:
+    </verse>
+    <verse name="v4"><br/>'The heavenly babe you there shall find<br/>to human view displayed,<br/>all meanly wrapped in swaddling bands,<br/>and in a manger laid.'
+    </verse>
+    <verse name="v5"><br/>Thus spake the seraph;and forthwith<br/>appeared a shining throng<br/>of angels praising God, and thus<br/>addressed their joyful song:
+    </verse>
+    <verse name="v6"><br/>'All glory be to God on high,<br/>and to the world be peace;<br/>goodwill henceforth from heaven to earth<br/>begin and never cease.'</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-While shepherds watched their flocks by night,
-all seated on the ground,
-the angel of the Lord came down,
-and glory shone around.
-
-2
-
-'Fear not,' said he (for mighty dread
-had seized their troubled mind),
-'glad tidings of great joy I bring
-to you and humankind.
-
-3
-
-'To you in David's town this day
-is born of David's line
-a Saviour, who is Christ the Lord;
-and this shall be the sign:
-
-4
-
-'The heavenly babe you there shall find
-to human view displayed,
-all meanly wrapped in swaddling bands,
-and in a manger laid.'
-
-5
-
-Thus spake the seraph;and forthwith
-appeared a shining throng
-of angels praising God, and thus
-addressed their joyful song:
-
-6
-
-'All glory be to God on high,
-and to the world be peace;
-goodwill henceforth from heaven to earth
-begin and never cease.'

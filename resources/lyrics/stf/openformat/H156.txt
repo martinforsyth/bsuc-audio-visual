@@ -1,77 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF156 From the breaking of the dawn</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Keith Getty (b. 1974) </author>
       <author>Stuart Townend (b. 1963)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>From the breaking of the dawn<br/>to the setting of the sun,<br/>I will stand on every promise of your word.<br/>Words of power, strong to save,<br/>that will never pass away;<br/>I will stand on every promise of your word.<br/>For your covenant is sure,<br/>and on this I am secure:<br/>I can stand on every promise of your word.
     </verse>
-
+    <verse name="v2"><br/>When I stumble and I sin,<br/>condemnation pressing in,<br/>I will stand on every promise of your word.<br/>You are faithful to forgive,<br/>that in freedom I might live,<br/>so I stand on every promise of your word.<br/>Guilt to innocence restored;<br/>you remember sins no more.<br/>So I'll stand on every promise of your word.
+    </verse>
+    <verse name="v3"><br/>When I'm faced with anguished choice<br/>I will listen for your voice,<br/>and I'll stand on every promise of your word.<br/>Through this dark and troubled land,<br/>you will guide me with your hand<br/>as I stand on every promise of your word.<br/>And you've promised to complete<br/>every work begun in me,<br/>so I'll stand on every promise of your word.
+    </verse>
+    <verse name="v4"><br/>Hope that lifts me from despair;<br/>love that casts out every fear<br/>as I stand on every promise of your word.<br/>Not forsaken, not alone,<br/>for the Comforter has come,<br/>and I stand on every promise of your word.<br/>Grace sufficient, grace for me,<br/>grace for all who will believe.<br/>We will stand on every promise of your word.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-From the breaking of the dawn
-to the setting of the sun,
-I will stand on every promise of your word.
-Words of power, strong to save,
-that will never pass away;
-I will stand on every promise of your word.
-For your covenant is sure,
-and on this I am secure:
-I can stand on every promise of your word.
-
-2
-
-When I stumble and I sin,
-condemnation pressing in,
-I will stand on every promise of your word.
-You are faithful to forgive,
-that in freedom I might live,
-so I stand on every promise of your word.
-Guilt to innocence restored;
-you remember sins no more.
-So I'll stand on every promise of your word.
-
-3
-
-When I'm faced with anguished choice
-I will listen for your voice,
-and I'll stand on every promise of your word.
-Through this dark and troubled land,
-you will guide me with your hand
-as I stand on every promise of your word.
-And you've promised to complete
-every work begun in me,
-so I'll stand on every promise of your word.
-
-4
-
-Hope that lifts me from despair;
-love that casts out every fear
-as I stand on every promise of your word.
-Not forsaken, not alone,
-for the Comforter has come,
-and I stand on every promise of your word.
-Grace sufficient, grace for me,
-grace for all who will believe.
-We will stand on every promise of your word.

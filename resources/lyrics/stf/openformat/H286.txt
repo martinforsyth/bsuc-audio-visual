@@ -1,64 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF286 What kind of love is this</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Bryn Haworth</author>
       <author>Sally Haworth</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>What kind of love is this<br/>that gave itself for me?<br/>I am the guilty one,<br/>yet I go free.<br/>What kind of love is this,<br/>a love I've never known;<br/>I didn't even know his name --<br/>what kind of love is this?
     </verse>
-
+    <verse name="v2"><br/>What kind of man is this,<br/>that died in agony?<br/>He who had done no wrong<br/>was crucified for me.<br/>What kind of man is this,<br/>who laid aside his throne<br/>that I may know the love of God --<br/>what kind of man is this?
+    </verse>
+    <verse name="v3"><br/>By grace I have been saved;<br/>it is the gift of God.<br/>He destined me to be his own<br/>such is his love.<br/>No eye has ever seen,<br/>no ear has ever heard,<br/>nor has the human heart conceived<br/>what kind of love is this?</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-What kind of love is this
-that gave itself for me?
-I am the guilty one,
-yet I go free.
-What kind of love is this,
-a love I've never known;
-I didn't even know his name --
-what kind of love is this?
-
-2
-
-What kind of man is this,
-that died in agony?
-He who had done no wrong
-was crucified for me.
-What kind of man is this,
-who laid aside his throne
-that I may know the love of God --
-what kind of man is this?
-
-3
-
-By grace I have been saved;
-it is the gift of God.
-He destined me to be his own
-such is his love.
-No eye has ever seen,
-no ear has ever heard,
-nor has the human heart conceived
-what kind of love is this?

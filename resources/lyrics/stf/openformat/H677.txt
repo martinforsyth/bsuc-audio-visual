@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF677 Christ is made the sure foundation,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John Mason Neale (1811-1866) (alt.)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Christ is made the sure foundation,<br/>Christ the head and corner-stone,<br/>chosen of the Lord, and precious,<br/>binding all the Church in one,<br/>holy Zion's help for ever,<br/>and her confidence alone.
     </verse>
-
+    <verse name="v2"><br/>To this temple, where we call thee,<br/>come, O Lord of Hosts, today;<br/>with thy constant loving-kindness<br/>hear thy servants as they pray;<br/>and thy fullest benediction<br/>shed within its walls alway.
+    </verse>
+    <verse name="v3"><br/>Here vouchsafe to all thy servants<br/>what they ask of thee to gain,<br/>what they gain from thee for ever<br/>with the blessed to retain,<br/>and hereafter in thy glory<br/>evermore with thee to reign.
+    </verse>
+    <verse name="v4"><br/>Praise and honour to the Father,<br/>praise and honour to the Son,<br/>praise and honour to the Spirit,<br/>ever Three, and ever One,<br/>consubstantial, co-eternal,<br/>while unending ages run.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Christ is made the sure foundation,
-Christ the head and corner-stone,
-chosen of the Lord, and precious,
-binding all the Church in one,
-holy Zion's help for ever,
-and her confidence alone.
-
-2
-
-To this temple, where we call thee,
-come, O Lord of Hosts, today;
-with thy constant loving-kindness
-hear thy servants as they pray;
-and thy fullest benediction
-shed within its walls alway.
-
-3
-
-Here vouchsafe to all thy servants
-what they ask of thee to gain,
-what they gain from thee for ever
-with the blessed to retain,
-and hereafter in thy glory
-evermore with thee to reign.
-
-4
-
-Praise and honour to the Father,
-praise and honour to the Son,
-praise and honour to the Spirit,
-ever Three, and ever One,
-consubstantial, co-eternal,
-while unending ages run.

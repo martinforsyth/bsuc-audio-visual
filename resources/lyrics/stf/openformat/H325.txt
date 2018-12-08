@@ -1,73 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF325 Jesus Christ -- Perfect Love,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Geraldine Latty (b. 1963) </author>
       <author>busbee</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Jesus Christ -- Perfect Love,<br/>Holy One that knows no fault,<br/>screen my thoughts, make me clean,<br/>know the motives of my heart.<br/>When I see my selfish choice,<br/>when I glimpse your holiness,<br/>then I realise again<br/>Perfect Love has come to cleanse.
     </verse>
-
+    <verse name="v2"><br/>Jesus Christ -- Lord for all,<br/>plant in me the kingdom seed.<br/>Search me, Lord, when I'm found<br/>looking only to my needs.<br/>When I see the way you lived,<br/>how you dignified the poor,<br/>then I realise again<br/>how I need to know you more.
+    </verse>
+    <verse name="v3"><br/>Jesus Christ -- Lamb of God,<br/>Love resolved to take our place.<br/>Who can write or describe<br/>all of your self-giving grace?<br/>When I look at the brutal cross,<br/>innocence and beauty slain,<br/>that's when I realise once more<br/>you fully understand our pain.
+    </verse>
+    <verse name="v4"><br/>Jesus Christ -- King of heaven,<br/>qualified to wear the crown.<br/>In your face, radiant grace<br/>draws us closer to your throne.<br/>When we see your generous heart,<br/>when we touch the world you love,<br/>that's when we realise again;<br/>Perfect Love is Perfect Hope.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Jesus Christ -- Perfect Love,
-Holy One that knows no fault,
-screen my thoughts, make me clean,
-know the motives of my heart.
-When I see my selfish choice,
-when I glimpse your holiness,
-then I realise again
-Perfect Love has come to cleanse.
-
-2
-
-Jesus Christ -- Lord for all,
-plant in me the kingdom seed.
-Search me, Lord, when I'm found
-looking only to my needs.
-When I see the way you lived,
-how you dignified the poor,
-then I realise again
-how I need to know you more.
-
-3
-
-Jesus Christ -- Lamb of God,
-Love resolved to take our place.
-Who can write or describe
-all of your self-giving grace?
-When I look at the brutal cross,
-innocence and beauty slain,
-that's when I realise once more
-you fully understand our pain.
-
-4
-
-Jesus Christ -- King of heaven,
-qualified to wear the crown.
-In your face, radiant grace
-draws us closer to your throne.
-When we see your generous heart,
-when we touch the world you love,
-that's when we realise again;
-Perfect Love is Perfect Hope.

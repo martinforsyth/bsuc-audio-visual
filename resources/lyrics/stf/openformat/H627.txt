@@ -1,71 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF627 Everyone needs compassion,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Reuben Morgan</author>
       <author>Ben Fielding</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Everyone needs compassion,<br/>love that's never failing;<br/>let mercy fall on me.<br/>Everyone needs forgiveness,<br/>the kindness of a Saviour;<br/>the Hope of nations.<br/>Saviour,<br/>he can move the mountains,<br/>my God is mighty to save,<br/>he is mighty to save.<br/>Forever,<br/>Author of salvation,<br/>he rose and conquered the grave,<br/>Jesus conquered the grave.
     </verse>
-
+    <verse name="v2"><br/>So take me as you find me,<br/>all my fears and failures;<br/>fill my life again.<br/>I give my life to follow<br/>everything I believe in;<br/>now I surrender.<br/>Saviour ...<br/>Shine your light<br/>and let the whole world see,<br/>we're singing for the glory<br/>of the risen King, Jesus.<br/>Shine your light<br/>and let the whole world see<br/>we're singing for the glory<br/>of the risen King.<br/>Saviour ...</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Everyone needs compassion,
-love that's never failing;
-let mercy fall on me.
-Everyone needs forgiveness,
-the kindness of a Saviour;
-the Hope of nations.
-
-Saviour,
-he can move the mountains,
-my God is mighty to save,
-he is mighty to save.
-Forever,
-Author of salvation,
-he rose and conquered the grave,
-Jesus conquered the grave.
-
-2
-
-So take me as you find me,
-all my fears and failures;
-fill my life again.
-I give my life to follow
-everything I believe in;
-now I surrender.
-
-Saviour ...
-
-Shine your light
-and let the whole world see,
-we're singing for the glory
-of the risen King, Jesus.
-Shine your light
-and let the whole world see
-we're singing for the glory
-of the risen King.
-
-Saviour ...

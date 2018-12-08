@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF528 Pray, without ceasing, pray,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Pray, without ceasing, pray,<br/>your captain gives the word;<br/>his summons cheerfully obey,<br/>and call upon the Lord:<br/>to God your every want<br/>in instant prayer display;<br/>pray always;pray, and never faint;<br/>pray, without ceasing, pray!
     </verse>
-
+    <verse name="v2"><br/>In fellowship, alone,<br/>to God with faith draw near,<br/>approach his courts, besiege his throne<br/>with all the powers of prayer:<br/>go to his temple, go,<br/>nor from his altar move;<br/>let every house his worship know,<br/>and every heart his love.
+    </verse>
+    <verse name="v3"><br/>Pour out your souls to God,<br/>and bow them with your knees,<br/>and spread your hearts and hands abroad,<br/>and pray for Zion's peace;<br/>your guides and kindred bear<br/>for ever on your mind;<br/>extend the arms of mighty prayer,<br/>and grasp all humankind.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Pray, without ceasing, pray,
-your captain gives the word;
-his summons cheerfully obey,
-and call upon the Lord:
-to God your every want
-in instant prayer display;
-pray always;pray, and never faint;
-pray, without ceasing, pray!
-
-2
-
-In fellowship, alone,
-to God with faith draw near,
-approach his courts, besiege his throne
-with all the powers of prayer:
-go to his temple, go,
-nor from his altar move;
-let every house his worship know,
-and every heart his love.
-
-3
-
-Pour out your souls to God,
-and bow them with your knees,
-and spread your hearts and hands abroad,
-and pray for Zion's peace;
-your guides and kindred bear
-for ever on your mind;
-extend the arms of mighty prayer,
-and grasp all humankind.

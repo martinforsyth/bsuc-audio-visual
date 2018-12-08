@@ -1,38 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF648 God to enfold you,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>God to enfold you,<br/>Christ to uphold you,<br/>Spirit to keep you in heaven's sight;<br/>so may God grace you,<br/>heal and embrace you,<br/>lead you through darkness<br/>into the light.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-God to enfold you,
-Christ to uphold you,
-Spirit to keep you in heaven's sight;
-so may God grace you,
-heal and embrace you,
-lead you through darkness
-into the light.

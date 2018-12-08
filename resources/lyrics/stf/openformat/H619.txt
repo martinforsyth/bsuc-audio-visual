@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF619 Thanks for friends who keep on loving,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Gary Hopkins (b. 1984)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Thanks for friends who keep on loving,<br/>finding ways to help us grow,<br/>celebrating our achievements,<br/>sharing in our pain and woe.<br/>God is glimpsed where love is faithful:<br/>mirrored here in time and space.<br/>Thanks to God for friends who love us:<br/>Christ revealed in every face.
     </verse>
-
+    <verse name="v2"><br/>Other people help to shape us<br/>when they take the time to share<br/>words of wisdom, honest actions<br/>through our journey in God's care.<br/>In our faithful, honest learning<br/>we discover things unknown.<br/>Thanks to God for friends who teach us:<br/>seeking talent yet ungrown.
+    </verse>
+    <verse name="v3"><br/>When we find our friendships challenged<br/>through mistakes and different views,<br/>we discover deeper living<br/>as the love of God renews.<br/>For in Christ we see forgiveness;<br/>know a strength still to embrace.<br/>Thanks to God for friends who keep us:<br/>making real the gift of grace.
+    </verse>
+    <verse name="v4"><br/>Praise to God for this great gifting<br/>of relationship and friend:<br/>imaging divine relating;<br/>found in heaven with no end.<br/>Bless us Maker, Word and Spirit<br/>as companions on the way.<br/>Thanks to God for friends who help us<br/>to fulfil our lives each day.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Thanks for friends who keep on loving,
-finding ways to help us grow,
-celebrating our achievements,
-sharing in our pain and woe.
-God is glimpsed where love is faithful:
-mirrored here in time and space.
-Thanks to God for friends who love us:
-Christ revealed in every face.
-
-2
-
-Other people help to shape us
-when they take the time to share
-words of wisdom, honest actions
-through our journey in God's care.
-In our faithful, honest learning
-we discover things unknown.
-Thanks to God for friends who teach us:
-seeking talent yet ungrown.
-
-3
-
-When we find our friendships challenged
-through mistakes and different views,
-we discover deeper living
-as the love of God renews.
-For in Christ we see forgiveness;
-know a strength still to embrace.
-Thanks to God for friends who keep us:
-making real the gift of grace.
-
-4
-
-Praise to God for this great gifting
-of relationship and friend:
-imaging divine relating;
-found in heaven with no end.
-Bless us Maker, Word and Spirit
-as companions on the way.
-Thanks to God for friends who help us
-to fulfil our lives each day.

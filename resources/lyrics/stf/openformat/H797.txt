@@ -1,66 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF797 Christ Jesus was in the form of God,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 A SONG OF CHRIST'S GLORY
-
 1
-
 Christ Jesus was in the form of God,
 but he did not cling to equality with God.
-
 2
-
 He emptied himself, taking the form of a servant,
 and was born in our human likeness.
-
 3
-
 Being found in human form he humbled himself,
 and became obedient unto death, even death on a cross.
-
 4
-
 Therefore God has highly exalted him,
 and bestowed on him the name above every name,
-
 5
-
 That at the name of Jesus, every knee should bow,
 in heaven and on earth and under the earth;
-
 6
-
 And every tongue confess that Jesus Christ is Lord,
 to the glory of God the Father.
-
 Glory to the Father and to the Son
 and to the Holy Spirit;
 as it was in the beginning is now

@@ -1,66 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF437 When the music fades,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Matt Redman (b. 1974)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>When the music fades,<br/>all is stripped away<br/>and I simply come;<br/>longing just to bring<br/>something that's of worth,<br/>that will bless your heart.<br/>I'll bring you more than a song,<br/>for a song in itself<br/>is not what you have required.<br/>You search much deeper within<br/>through the way things appear,<br/>you're looking into my heart.<br/>I'm coming back to the heart of worship,<br/>and it's all about you,<br/>all about you, Jesus.<br/>I'm sorry, Lord, for the thing I've made it,<br/>when it's all about you,<br/>all about you, Jesus.
     </verse>
-
+    <verse name="v2"><br/>King of endless worth,<br/>no-one could express<br/>how much you deserve.<br/>Though I'm weak and poor,<br/>all I have is yours,<br/>every single breath.<br/>I'll bring you more than a song,<br/>for a song in itself<br/>is not what you have required.<br/>You search much deeper within<br/>through the way things appear,<br/>you're looking into my heart.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-When the music fades,
-all is stripped away
-and I simply come;
-longing just to bring
-something that's of worth,
-that will bless your heart.
-I'll bring you more than a song,
-for a song in itself
-is not what you have required.
-You search much deeper within
-through the way things appear,
-you're looking into my heart.
-I'm coming back to the heart of worship,
-and it's all about you,
-all about you, Jesus.
-I'm sorry, Lord, for the thing I've made it,
-when it's all about you,
-all about you, Jesus.
-
-2
-
-King of endless worth,
-no-one could express
-how much you deserve.
-Though I'm weak and poor,
-all I have is yours,
-every single breath.
-I'll bring you more than a song,
-for a song in itself
-is not what you have required.
-You search much deeper within
-through the way things appear,
-you're looking into my heart.

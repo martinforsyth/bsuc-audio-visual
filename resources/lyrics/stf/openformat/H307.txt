@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF307 On the day of resurrection</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Michael Peterson</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>On the day of resurrection<br/>to Emmaus we return;<br/>while confused, amazed, and frightened,<br/>Jesus comes to us, unknown.
     </verse>
-
+    <verse name="v2"><br/>Then the stranger asks a question,<br/>'What is this which troubles you?'<br/>Meets us in our pain and suffering;<br/>Jesus walks with us, unknown.
+    </verse>
+    <verse name="v3"><br/>In our trouble, words come from him;<br/>burning fire within our hearts<br/>tells to us the scripture's meaning.<br/>Jesus speaks to us, unknown.
+    </verse>
+    <verse name="v4"><br/>Then we near our destination.<br/>Then we ask the stranger in,<br/>and he yields unto our urging;<br/>Jesus stays with us, unknown.
+    </verse>
+    <verse name="v5"><br/>Day of sorrow is forgotten<br/>when the guest becomes the host.<br/>Taking bread and blessing, breaking,<br/>Jesus is himself made known.
+    </verse>
+    <verse name="v6"><br/>Opened eyes, renewed convictions,<br/>journey back to scenes of pain;<br/>telling all that Christ is risen.<br/>Jesus is through us made known.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-On the day of resurrection
-to Emmaus we return;
-while confused, amazed, and frightened,
-Jesus comes to us, unknown.
-
-2
-
-Then the stranger asks a question,
-'What is this which troubles you?'
-Meets us in our pain and suffering;
-Jesus walks with us, unknown.
-
-3
-
-In our trouble, words come from him;
-burning fire within our hearts
-tells to us the scripture's meaning.
-Jesus speaks to us, unknown.
-
-4
-
-Then we near our destination.
-Then we ask the stranger in,
-and he yields unto our urging;
-Jesus stays with us, unknown.
-
-5
-
-Day of sorrow is forgotten
-when the guest becomes the host.
-Taking bread and blessing, breaking,
-Jesus is himself made known.
-
-6
-
-Opened eyes, renewed convictions,
-journey back to scenes of pain;
-telling all that Christ is risen.
-Jesus is through us made known.

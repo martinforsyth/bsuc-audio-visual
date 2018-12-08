@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF119 God of Eve and God of Mary,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Fred Kaan (1929-2009)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God of Eve and God of Mary,<br/>God of love and mother-earth,<br/>thank you for the ones who with us<br/>shared their life and gave us birth.
     </verse>
-
+    <verse name="v2"><br/>As you came to earth in Jesus,<br/>so you come to us today;<br/>you are present in the caring<br/>that prepares us for life's way.
+    </verse>
+    <verse name="v3"><br/>Thank you that the Church, our Mother,<br/>gives us bread and fills our cup,<br/>and the comfort of the Spirit<br/>warms our hearts and lifts us up.
+    </verse>
+    <verse name="v4"><br/>Thank you for belonging, shelter,<br/>bonds of friendship, ties of blood,<br/>and for those who have no children,<br/>yet are parents under God.
+    </verse>
+    <verse name="v5"><br/>God of Eve and God of Mary,<br/>Christ our brother, human Son,<br/>Spirit, caring like a Mother,<br/>take our love and make us one!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God of Eve and God of Mary,
-God of love and mother-earth,
-thank you for the ones who with us
-shared their life and gave us birth.
-
-2
-
-As you came to earth in Jesus,
-so you come to us today;
-you are present in the caring
-that prepares us for life's way.
-
-3
-
-Thank you that the Church, our Mother,
-gives us bread and fills our cup,
-and the comfort of the Spirit
-warms our hearts and lifts us up.
-
-4
-
-Thank you for belonging, shelter,
-bonds of friendship, ties of blood,
-and for those who have no children,
-yet are parents under God.
-
-5
-
-God of Eve and God of Mary,
-Christ our brother, human Son,
-Spirit, caring like a Mother,
-take our love and make us one!

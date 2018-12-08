@@ -1,102 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF803 The heavens are telling the glory of God</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 19
-
 1
-
 The heavens are telling the glory of God
 and the firmament proclaims his handiwork.
-
 2
-
 One day pours out its song to another
 and one night unfolds knowledge to another.
-
 3
-
 They have neither speech nor language
 and their voices are not heard,
-
 4
-
 Yet their sound has gone out into all lands
 and their words to the ends of the world.
-
 5
-
 In them has he set a tabernacle for the sun,
 that comes forth as a bridegroom out of his chamber and rejoices as a champion to run his course.
-
 6
-
 It goes forth from the end of the heavens and runs to the very end again,
 and there is nothing hidden from its heat.
-
 7
-
 The law of the Lord is perfect, reviving the soul;
 the testimony of the Lord is sure and gives wisdom to the simple.
-
 8
-
 The statutes of the Lord are right and rejoice the heart;
 the commandment of the Lord is pure and gives light to the eyes.
-
 9
-
 The fear of the Lord is clean and endures for ever;
 the judgements of the Lord are true and righteous altogether.
-
 10
-
 More to be desired are they than gold, more than much fine gold,
 sweeter also than honey, dripping from the honeycomb.
-
 11
-
 By them also is your servant taught
 and in keeping them there is great reward.
-
 12
-
 Who can tell how often they offend?
 O cleanse me from my secret faults!
-
 13
-
 Keep your servant also from presumptuous sins lest they get dominion over me;
 so shall I be undefiled, and innocent of great offence.
-
 14
-
 Let the words of my mouth and the meditation of my heart be acceptable in your sight,
 O Lord, my strength and my redeemer.

@@ -1,93 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF358 Let earth and heaven agree,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Let earth and heaven agree,<br/>angels and people sing,<br/>to celebrate with me<br/>our Saviour and our King;<br/>to adore the all-atoning Lamb,<br/>and bless the sound of Jesu's name.
     </verse>
-
+    <verse name="v2"><br/>Jesus, transporting sound!<br/>The joy of earth and heaven;<br/>no other help is found,<br/>no other name is given,<br/>by which we can salvation have;<br/>but Jesus came the world to save.
+    </verse>
+    <verse name="v3"><br/>Jesus, harmonious name!<br/>It charms the hosts above;<br/>they evermore proclaim<br/>and wonder at his love;<br/>'tis all their happiness to gaze,<br/>'tis heaven to see our Jesu's face.
+    </verse>
+    <verse name="v4"><br/>His name the sinner hears,<br/>and is from sin set free;<br/>'tis music in his ears,<br/>'tis life and victory;<br/>new songs do now his lips employ,<br/>and dances his glad heart for joy.
+    </verse>
+    <verse name="v5"><br/>Stung by the scorpion sin,<br/>my poor expiring soul<br/>the healing sound drinks in,<br/>and is at once made whole:<br/>see there my Lord upon the tree!<br/>I hear, I feel, he died for me.
+    </verse>
+    <verse name="v6"><br/>O unexampled love,<br/>O all-redeeming grace!<br/>How swiftly did you move<br/>to save a fallen race!<br/>What shall I do to make it known<br/>what you for all the world have done?
+    </verse>
+    <verse name="v7"><br/>O for a trumpet voice<br/>on all the world to call,<br/>to bid their hearts rejoice<br/>in him who died for all!<br/>For all my Lord was crucified,<br/>for all, for all my Saviour died.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Let earth and heaven agree,
-angels and people sing,
-to celebrate with me
-our Saviour and our King;
-to adore the all-atoning Lamb,
-and bless the sound of Jesu's name.
-
-2
-
-Jesus, transporting sound!
-The joy of earth and heaven;
-no other help is found,
-no other name is given,
-by which we can salvation have;
-but Jesus came the world to save.
-
-3
-
-Jesus, harmonious name!
-It charms the hosts above;
-they evermore proclaim
-and wonder at his love;
-'tis all their happiness to gaze,
-'tis heaven to see our Jesu's face.
-
-4
-
-His name the sinner hears,
-and is from sin set free;
-'tis music in his ears,
-'tis life and victory;
-new songs do now his lips employ,
-and dances his glad heart for joy.
-
-5
-
-Stung by the scorpion sin,
-my poor expiring soul
-the healing sound drinks in,
-and is at once made whole:
-see there my Lord upon the tree!
-I hear, I feel, he died for me.
-
-6
-
-O unexampled love,
-O all-redeeming grace!
-How swiftly did you move
-to save a fallen race!
-What shall I do to make it known
-what you for all the world have done?
-
-7
-
-O for a trumpet voice
-on all the world to call,
-to bid their hearts rejoice
-in him who died for all!
-For all my Lord was crucified,
-for all, for all my Saviour died.

@@ -1,56 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF570 As we gather, Father, seal us</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Graham Kendrick (b. 1950)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>As we gather, Father, seal us<br/>in the love that knows no fear.<br/>Draw us, heal us, reconcile us,<br/>may there be a place of refuge here.<br/>Who share one living bread,<br/>one Father's love,<br/>one Saviour's grace,<br/>one Spirit's breath;<br/>one holy communion.
     </verse>
-
+    <verse name="v2"><br/>No more outcasts, no more strangers,<br/>all dividing walls are down.<br/>Here is love that redefines us,<br/>dignifies the least and lowest one.
+    </verse>
+    <verse name="v3"><br/>Source of joy, belonging, friendship,<br/>form your family likeness here.<br/>Father, Son and Holy Spirit,<br/>that the world may know our God is near.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-As we gather, Father, seal us
-in the love that knows no fear.
-Draw us, heal us, reconcile us,
-may there be a place of refuge here.
-Who share one living bread,
-one Father's love,
-one Saviour's grace,
-one Spirit's breath;
-one holy communion.
-
-2
-
-No more outcasts, no more strangers,
-all dividing walls are down.
-Here is love that redefines us,
-dignifies the least and lowest one.
-
-3
-
-Source of joy, belonging, friendship,
-form your family likeness here.
-Father, Son and Holy Spirit,
-that the world may know our God is near.

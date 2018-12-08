@@ -1,58 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF632 I've had questions without answers,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Tim Hughes</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>I've had questions without answers,<br/>I've known sorrow, I have known pain.<br/>But there's one thing that I'll cling to:<br/>you are faithful, Jesus, you're true.<br/>When hope is lost, I'll call you Saviour.<br/>When pain surrounds, I'll call you healer.<br/>When silence falls,<br/>you'll be the song within my heart.
     </verse>
-
+    <verse name="v2"><br/>In the lone hour of my sorrow,<br/>through the darkest night of my soul,<br/>you surround me and sustain me;<br/>my defender forever more.<br/>When hope is lost ...<br/>I will praise you, I will praise you;<br/>when the tears fall, still I will sing to you.<br/>I will praise you, Jesus, praise you,<br/>through the suffering still I will sing.<br/>When hope is lost ...</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-I've had questions without answers,
-I've known sorrow, I have known pain.
-But there's one thing that I'll cling to:
-you are faithful, Jesus, you're true.
-
-When hope is lost, I'll call you Saviour.
-When pain surrounds, I'll call you healer.
-When silence falls,
-you'll be the song within my heart.
-
-2
-
-In the lone hour of my sorrow,
-through the darkest night of my soul,
-you surround me and sustain me;
-my defender forever more.
-
-When hope is lost ...
-
-I will praise you, I will praise you;
-when the tears fall, still I will sing to you.
-I will praise you, Jesus, praise you,
-through the suffering still I will sing.
-
-When hope is lost ...

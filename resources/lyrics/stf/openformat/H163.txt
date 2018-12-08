@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF163 When listening prophets dare to speak,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Daniel Charles Damon (b. 1955)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>When listening prophets dare to speak,<br/>love thunders like an ocean wave,<br/>old wineskins burst, stone columns quake,<br/>and dry bones rise up from the grave.
     </verse>
-
+    <verse name="v2"><br/>When prophets feel their strength is gone,<br/>as Churches add to people's pain,<br/>a prophet's question lingers on,<br/>'Can dry bones ever live again?'
+    </verse>
+    <verse name="v3"><br/>True prophets challenge us to change,<br/>to wake and wonder, risk and grow,<br/>and when the way ahead seems strange,<br/>to name the fear and let it go.
+    </verse>
+    <verse name="v4"><br/>God bids us rise to speak and move<br/>like prophets on a lighted stage,<br/>unmasking fear, revealing love,<br/>and making peace from age to age.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-When listening prophets dare to speak,
-love thunders like an ocean wave,
-old wineskins burst, stone columns quake,
-and dry bones rise up from the grave.
-
-2
-
-When prophets feel their strength is gone,
-as Churches add to people's pain,
-a prophet's question lingers on,
-'Can dry bones ever live again?'
-
-3
-
-True prophets challenge us to change,
-to wake and wonder, risk and grow,
-and when the way ahead seems strange,
-to name the fear and let it go.
-
-4
-
-God bids us rise to speak and move
-like prophets on a lighted stage,
-unmasking fear, revealing love,
-and making peace from age to age.

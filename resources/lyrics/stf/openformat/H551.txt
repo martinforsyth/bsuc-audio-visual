@@ -1,39 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF551 Giving it all to you,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
       <author>Geraldine Latty (b. 1963)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>Giving it all to you,<br/>giving it all to you,<br/>no more hidden agenda,<br/>giving it all to you.<br/>Laying my burdens down,<br/>bowing in full surrender,<br/>kneeling before your cross,<br/>giving it all to you.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-Giving it all to you,
-giving it all to you,
-no more hidden agenda,
-giving it all to you.
-Laying my burdens down,
-bowing in full surrender,
-kneeling before your cross,
-giving it all to you.

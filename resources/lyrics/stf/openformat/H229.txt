@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF229 Mary and Joseph</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Andrew Pratt (b. 1948)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Mary and Joseph<br/>came to the Temple,<br/>brought the boy Jesus,<br/>offered him there.<br/>People were waiting<br/>wanting to greet him,<br/>long had they sought him,<br/>solace for care.
     </verse>
-
+    <verse name="v2"><br/>Anna had prayed there,<br/>widowed, long waiting;<br/>worshipping God by<br/>day and by night.<br/>Now she is praising,<br/>filled with elation;<br/>here is God's promise,<br/>Christ is her light.
+    </verse>
+    <verse name="v3"><br/>Simeon sings now<br/>God offers blessing,<br/>brilliantly gilding<br/>dawn of his day;<br/>light in the darkness,<br/>never extinguished,<br/>light of all nations,<br/>light up our way.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Mary and Joseph
-came to the Temple,
-brought the boy Jesus,
-offered him there.
-People were waiting
-wanting to greet him,
-long had they sought him,
-solace for care.
-
-2
-
-Anna had prayed there,
-widowed, long waiting;
-worshipping God by
-day and by night.
-Now she is praising,
-filled with elation;
-here is God's promise,
-Christ is her light.
-
-3
-
-Simeon sings now
-God offers blessing,
-brilliantly gilding
-dawn of his day;
-light in the darkness,
-never extinguished,
-light of all nations,
-light up our way.

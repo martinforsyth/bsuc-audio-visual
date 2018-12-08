@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF84 Praise the Lord, his glories show,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Henry Francis Lyte (1793-1847)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Praise the Lord, his glories show,<br/>Alleluia!<br/>saints within his courts below,<br/>Alleluia!<br/>angels round his throne above,<br/>Alleluia!<br/>all that see and share his love.<br/>Alleluia!
     </verse>
-
+    <verse name="v2"><br/>Earth to heaven, and heaven to earth<br/>Alleluia!<br/>tell his wonders, sing his worth;<br/>Alleluia!<br/>age to age and shore to shore,<br/>Alleluia!<br/>praise him, praise him evermore!<br/>Alleluia!
+    </verse>
+    <verse name="v3"><br/>Praise the Lord, his mercies trace;<br/>Alleluia!<br/>praise his providence and grace,<br/>Alleluia!<br/>all that he for us has done,<br/>Alleluia!<br/>all he sends us through his Son.<br/>Alleluia!
+    </verse>
+    <verse name="v4"><br/>Strings and voices, hands and hearts,<br/>Alleluia!<br/>in the concert play your parts;<br/>Alleluia!<br/>all that breathe, your Lord adore,<br/>Alleluia!<br/>praise him, praise him evermore!<br/>Alleluia!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Praise the Lord, his glories show,
-Alleluia!
-saints within his courts below,
-Alleluia!
-angels round his throne above,
-Alleluia!
-all that see and share his love.
-Alleluia!
-
-2
-
-Earth to heaven, and heaven to earth
-Alleluia!
-tell his wonders, sing his worth;
-Alleluia!
-age to age and shore to shore,
-Alleluia!
-praise him, praise him evermore!
-Alleluia!
-
-3
-
-Praise the Lord, his mercies trace;
-Alleluia!
-praise his providence and grace,
-Alleluia!
-all that he for us has done,
-Alleluia!
-all he sends us through his Son.
-Alleluia!
-
-4
-
-Strings and voices, hands and hearts,
-Alleluia!
-in the concert play your parts;
-Alleluia!
-all that breathe, your Lord adore,
-Alleluia!
-praise him, praise him evermore!
-Alleluia!

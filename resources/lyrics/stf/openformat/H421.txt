@@ -1,91 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF421 Empty, broken, here I stand,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Nick Haigh</author>
       <author>Anita Haigh</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Empty, broken, here I stand,<br/>Kyrie eleison.<br/>Touch me with your healing hand,<br/>Kyrie eleison.<br/>Take my arrogance and pride,<br/>Kyrie eleison.<br/>Wash me in your mercy's tide,<br/>Kyrie eleison.<br/>Kyrie eleison, Christe eleison, Kyrie eleison.
     </verse>
-
+    <verse name="v2"><br/>When my faith has all but gone,<br/>Kyrie eleison,<br/>give me strength to carry on,<br/>Kyrie eleison.<br/>When my dreams have turned to dust,<br/>Kyrie eleison,<br/>in you, O Lord, I put my trust,<br/>Kyrie eleison.<br/>Kyrie eleison, Christe eleison, Kyrie eleison.
+    </verse>
+    <verse name="v3"><br/>When my heart is cold as ice,<br/>Kyrie eleison,<br/>your love speaks of sacrifice,<br/>Kyrie eleison,<br/>love that sets the captives free,<br/>Kyrie eleison.<br/>O pour compassion down on me,<br/>Kyrie eleison.<br/>Kyrie eleison, Christe eleison, Kyrie eleison.
+    </verse>
+    <verse name="v4"><br/>You're the voice that calms my fears,<br/>Kyrie eleison,<br/>you're the laughter, dries my tears,<br/>Kyrie eleison,<br/>you're my music, my refrain,<br/>Kyrie eleison,<br/>help me sing your song again,<br/>Kyrie eleison.<br/>Kyrie eleison, Christe eleison, Kyrie eleison.
+    </verse>
+    <verse name="v5"><br/>Humble heart of holiness,<br/>Kyrie eleison,<br/>kiss me with your tenderness,<br/>Kyrie eleison.<br/>Jesus, faithful friend and true,<br/>Kyrie eleison,<br/>all I am I give to you.<br/>Kyrie eleison.<br/>Kyrie eleison, Christe eleison, Kyrie eleison.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Empty, broken, here I stand,
-Kyrie eleison.
-Touch me with your healing hand,
-Kyrie eleison.
-Take my arrogance and pride,
-Kyrie eleison.
-Wash me in your mercy's tide,
-Kyrie eleison.
-Kyrie eleison, Christe eleison, Kyrie eleison.
-
-2
-
-When my faith has all but gone,
-Kyrie eleison,
-give me strength to carry on,
-Kyrie eleison.
-When my dreams have turned to dust,
-Kyrie eleison,
-in you, O Lord, I put my trust,
-Kyrie eleison.
-Kyrie eleison, Christe eleison, Kyrie eleison.
-
-3
-
-When my heart is cold as ice,
-Kyrie eleison,
-your love speaks of sacrifice,
-Kyrie eleison,
-love that sets the captives free,
-Kyrie eleison.
-O pour compassion down on me,
-Kyrie eleison.
-Kyrie eleison, Christe eleison, Kyrie eleison.
-
-4
-
-You're the voice that calms my fears,
-Kyrie eleison,
-you're the laughter, dries my tears,
-Kyrie eleison,
-you're my music, my refrain,
-Kyrie eleison,
-help me sing your song again,
-Kyrie eleison.
-Kyrie eleison, Christe eleison, Kyrie eleison.
-
-5
-
-Humble heart of holiness,
-Kyrie eleison,
-kiss me with your tenderness,
-Kyrie eleison.
-Jesus, faithful friend and true,
-Kyrie eleison,
-all I am I give to you.
-Kyrie eleison.
-Kyrie eleison, Christe eleison, Kyrie eleison.

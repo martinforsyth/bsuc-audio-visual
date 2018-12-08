@@ -1,43 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF505 Lord, you are my mercy,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Scott Wesley Brown</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 More like you, Jesus, more like you,
 fill my heart with your desire
 to make me more like you.
 More like you, Jesus, more like you,
 touch my lips with holy fire
 and make me more like you.
-
 1
-
 Lord, you are my mercy,
 Lord, you are my grace,
 all my deepest sins have
@@ -46,9 +28,7 @@ Draw me in your presence,
 lead me in your ways,
 I long to bring you glory
 in righteousness and praise.
-
 2
-
 Lord, you are compassion,
 and never-ending love,
 for you have redeemed me

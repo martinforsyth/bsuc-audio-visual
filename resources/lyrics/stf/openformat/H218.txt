@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF218 Unto us a boy is born!</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Percy Dearmer (1867-1936)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Unto us a boy is born!<br/>King of all creation,<br/>came he to a world forlorn,<br/>the Lord of every nation.
     </verse>
-
+    <verse name="v2"><br/>Cradled in a stall was he<br/>with sleepy cows and asses;<br/>but the very beasts could see<br/>that he all folk surpasses.
+    </verse>
+    <verse name="v3"><br/>Herod then with fear was filled:<br/>'A prince,' he said, 'in Jewry!'<br/>All the little boys he killed<br/>at Bethlem in his fury.
+    </verse>
+    <verse name="v4"><br/>Now may Mary's son, who came<br/>so long ago to love us,<br/>lead us all with hearts aflame<br/>unto the joys above us.
+    </verse>
+    <verse name="v5"><br/>Omega and Alpha he!<br/>Let the organ thunder,<br/>while the choir with peals of glee<br/>now rends the air asunder.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Unto us a boy is born!
-King of all creation,
-came he to a world forlorn,
-the Lord of every nation.
-
-2
-
-Cradled in a stall was he
-with sleepy cows and asses;
-but the very beasts could see
-that he all folk surpasses.
-
-3
-
-Herod then with fear was filled:
-'A prince,' he said, 'in Jewry!'
-All the little boys he killed
-at Bethlem in his fury.
-
-4
-
-Now may Mary's son, who came
-so long ago to love us,
-lead us all with hearts aflame
-unto the joys above us.
-
-5
-
-Omega and Alpha he!
-Let the organ thunder,
-while the choir with peals of glee
-now rends the air asunder.

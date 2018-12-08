@@ -1,247 +1,144 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF825 O give thanks to the Lord, for he is gracious,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18 v19 v20 v21 v22 v23 v24 v25 v26 v27 v28 v29 v30 v31 v32 v33 v34 v35 v36 v37 v38 v39 v40 v41 v42 v43</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 107
-
 1
-
 O give thanks to the Lord, for he is gracious,
 for his steadfast love endures for ever.
-
 2
-
 Let the redeemed of the Lord say this,
 those he redeemed from the hand of the enemy,
-
 3
-
 And gathered out of the lands from the east and from the west,
 from the north and from the south.
-
 4
-
 Some went astray in desert wastes
 and found no path to a city to dwell in.
-
 5
-
 Hungry and thirsty,
 their soul was fainting within them.
-
 6
-
 So they cried to the Lord in their trouble
 and he delivered them from their distress.
-
 7
-
 He set their feet on the right way
 till they came to a city to dwell in.
-
 8
-
 Let them give thanks to the Lord for his goodness
 and the wonders he does for his children.
-
 9
-
 For he satisfies the longing soul
 and fills the hungry soul with good.
-
 10
-
 Some sat in darkness and in the shadow of death,
 bound fast in misery and iron,
-
 11
-
 For they had rebelled against the words of God
 and despised the counsel of the Most High.
-
 12
-
 So he bowed down their heart with heaviness;
 they stumbled and there was none to help them.
-
 13
-
 Then they cried to the Lord in their trouble,
 and he delivered them from their distress.
-
 14
-
 He brought them out of darkness and out of the shadow of death,
 and broke their bonds asunder.
-
 15
-
 Let them give thanks to the Lord for his goodness
 and the wonders he does for his children.
-
 16
-
 For he has broken the doors of bronze
 and breaks the bars of iron in pieces.
-
 17
-
 Some were foolish and took a rebellious way,
 and were plagued because of their wrongdoing.
-
 18
-
 Their soul abhorred all manner of food
 and drew near to the gates of death.
-
 19
-
 Then they cried to the Lord in their trouble,
 and he delivered them from their distress.
-
 20
-
 He sent forth his word and healed them,
 and saved them from destruction.
-
 21
-
 Let them give thanks to the Lord for his goodness
 and the wonders he does for his children.
-
 22
-
 Let them offer him sacrifices of thanksgiving
 and tell of his acts with shouts of joy.
-
 23
-
 Those who go down to the sea in ships
 and ply their trade in great waters,
-
 24
-
 These have seen the works of the Lord
 and his wonders in the deep.
-
 25
-
 For at his word the stormy wind arose
 and lifted up the waves of the sea.
-
 26
-
 They were carried up to the heavens and down again to the deep;
 their soul melted away in their peril.
-
 27
-
 They reeled and staggered like a drunkard
 and were at their wits' end.
-
 28
-
 Then they cried to the Lord in their trouble,
 and he brought them out of their distress.
-
 29
-
 He made the storm be still
 and the waves of the sea were calmed.
-
 30
-
 Then were they glad because they were at rest,
 and he brought them to the haven they desired.
-
 31
-
 Let them give thanks to the Lord for his goodness
 and the wonders he does for his children.
-
 32
-
 Let them exalt him in the congregation of the people
 and praise him in the council of the elders.
-
 33
-
 The Lord turns rivers into wilderness
 and water springs into thirsty ground;
-
 34
-
 A fruitful land he makes a salty waste,
 because of the wickedness of those who dwell there.
-
 35
-
 He makes the wilderness a pool of water
 and water springs out of a thirsty land.
-
 36
-
 There he settles the hungry
 and they build a city to dwell in.
-
 37
-
 They sow fields and plant vineyards
 and bring in a fruitful harvest.
-
 38
-
 He blesses them, so that they multiply greatly;
 he does not let their herds of cattle decrease.
-
 39
-
 He pours contempt on princes
 and makes them wander in trackless wastes.
-
 40
-
 They are diminished and brought low,
 through stress of misfortune and sorrow,
-
 41
-
 But he raises the poor from their misery
 and multiplies their families like flocks of sheep.
-
 42
-
 The upright will see this and rejoice,
 but all wickedness will shut its mouth.
-
 43
-
 Whoever is wise will ponder these things
 and consider the loving-kindness of the Lord.

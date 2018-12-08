@@ -1,72 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF438 Your ceaseless, unexhausted love,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Your ceaseless, unexhausted love,<br/>unmerited and free,<br/>delights our evil to remove,<br/>and help our misery.
     </verse>
-
+    <verse name="v2"><br/>You wait and you are gracious still<br/>and will with sinners bear,<br/>that, saved, we may your goodness feel,<br/>and all your grace declare.
+    </verse>
+    <verse name="v3"><br/>Your goodness and your truth to me,<br/>to every soul, abound,<br/>a vast, unfathomable sea,<br/>where all our thoughts are drowned.
+    </verse>
+    <verse name="v4"><br/>Its streams the whole creation reach,<br/>so plenteous is the store,<br/>enough for all, enough for each,<br/>enough for evermore.
+    </verse>
+    <verse name="v5"><br/>Faithful, O Lord, your mercies are,<br/>a rock that cannot move;<br/>a thousand promises declare<br/>your constancy of love.
+    </verse>
+    <verse name="v6"><br/>Throughout the universe it reigns,<br/>unalterably sure;<br/>and while the truth of God remains<br/>the goodness must endure.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Your ceaseless, unexhausted love,
-unmerited and free,
-delights our evil to remove,
-and help our misery.
-
-2
-
-You wait and you are gracious still
-and will with sinners bear,
-that, saved, we may your goodness feel,
-and all your grace declare.
-
-3
-
-Your goodness and your truth to me,
-to every soul, abound,
-a vast, unfathomable sea,
-where all our thoughts are drowned.
-
-4
-
-Its streams the whole creation reach,
-so plenteous is the store,
-enough for all, enough for each,
-enough for evermore.
-
-5
-
-Faithful, O Lord, your mercies are,
-a rock that cannot move;
-a thousand promises declare
-your constancy of love.
-
-6
-
-Throughout the universe it reigns,
-unalterably sure;
-and while the truth of God remains
-the goodness must endure.

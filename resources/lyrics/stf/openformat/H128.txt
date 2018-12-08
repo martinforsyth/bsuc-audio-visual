@@ -1,63 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF128 The harvest is here:</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Dominic Grant (b. 1970)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>The harvest is here:<br/>earth's bounty we bring!<br/>And as we draw near,<br/>God's mercies we sing.<br/>From greenhouse and garden,<br/>allotment and store:<br/>these love-gifts we offer<br/>and praises outpour.
     </verse>
-
+    <verse name="v2"><br/>A harvest we bear --<br/>our talents and time.<br/>A calling to share:<br/>such is God's design.<br/>As people of Jesus<br/>we honour his name;<br/>through our love for neighbour<br/>his love we proclaim.
+    </verse>
+    <verse name="v3"><br/>God's harvest shall come,<br/>when all is fulfilled:<br/>death's forces succumb,<br/>and violence be stilled.<br/>Then all that has breath<br/>in Creation restored<br/>shall bow down in worship:<br/>one Harvest, one Lord!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-The harvest is here:
-earth's bounty we bring!
-And as we draw near,
-God's mercies we sing.
-From greenhouse and garden,
-allotment and store:
-these love-gifts we offer
-and praises outpour.
-
-2
-
-A harvest we bear --
-our talents and time.
-A calling to share:
-such is God's design.
-As people of Jesus
-we honour his name;
-through our love for neighbour
-his love we proclaim.
-
-3
-
-God's harvest shall come,
-when all is fulfilled:
-death's forces succumb,
-and violence be stilled.
-Then all that has breath
-in Creation restored
-shall bow down in worship:
-one Harvest, one Lord!

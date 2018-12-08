@@ -1,34 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF68 You are beautifully different,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Geraldine Latty (b. 1963)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Worship God with the morning sunrise,
 lift your voice in the evening rain.
 Bring your thanks and praise,
@@ -37,22 +21,17 @@ Clap your hands to the God who loves us.
 Sing your song to the one who saves.
 Trust his promises,
 know that we are his always!
-
 1
-
 You are beautifully different,
 you are gracious in your thoughts.
 You're the friend who's proven faithful,
 you are love laid down for us.
 Refrain
-
 2
-
 We are caught up in your beauty,
 we are always in your thoughts.
 Even in our disappointments,
 we are known and we are loved.
-
 We have come to give you praise,
 we have come to bless your name.
 We will always be amazed
@@ -61,5 +40,4 @@ We have come to give you praise,
 we have come to bless your name.
 We will always be amazed
 at how you love.
-
 Refrain

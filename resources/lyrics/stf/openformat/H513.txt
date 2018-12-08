@@ -1,64 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF513 Take this moment, sign, and space;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949) </author>
       <author>Graham Maule (b. 1958)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Take this moment, sign, and space;<br/>take my friends around;<br/>here among us make the place<br/>where your love is found.
     </verse>
-
+    <verse name="v2"><br/>Take the time to call my name,<br/>take the time to mend<br/>who I am and what I've been,<br/>all I've failed to tend.
+    </verse>
+    <verse name="v3"><br/>Take the tiredness of my days,<br/>take my past regret,<br/>letting your forgiveness touch<br/>all I can't forget.
+    </verse>
+    <verse name="v4"><br/>Take the little child in me,<br/>scared of growing old;<br/>help me here to find my worth<br/>made in Christ's own mould.
+    </verse>
+    <verse name="v5"><br/>Take my talents, take my skills,<br/>take what's yet to be;<br/>let my life be yours, and yet,<br/>let it still be me.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Take this moment, sign, and space;
-take my friends around;
-here among us make the place
-where your love is found.
-
-2
-
-Take the time to call my name,
-take the time to mend
-who I am and what I've been,
-all I've failed to tend.
-
-3
-
-Take the tiredness of my days,
-take my past regret,
-letting your forgiveness touch
-all I can't forget.
-
-4
-
-Take the little child in me,
-scared of growing old;
-help me here to find my worth
-made in Christ's own mould.
-
-5
-
-Take my talents, take my skills,
-take what's yet to be;
-let my life be yours, and yet,
-let it still be me.

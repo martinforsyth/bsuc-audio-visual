@@ -1,62 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF281 See the Lamb of God, (See the Lamb of God)</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Edwin Brown</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>See the Lamb of God, (See the Lamb of God)<br/>see the Lamb of God, (see the Lamb of God)<br/>nailed to a cross,<br/>suffering loss,<br/>come see the Lamb of God.
     </verse>
-
+    <verse name="v2"><br/>Hear the Lamb of God, (Hear the Lamb of God)<br/>hear the Lamb of God (hear the Lamb of God)<br/>calling your name,<br/>taking your shame,<br/>come hear the Lamb of God.
+    </verse>
+    <verse name="v3"><br/>Love the Lamb of God, (Love the Lamb of God)<br/>love the Lamb of God. (love the Lamb of God)<br/>Give him your heart,<br/>he'll never depart,<br/>come love the Lamb of God.
+    </verse>
+    <verse name="v4"><br/>See the Lamb of God, (See the Lamb of God)<br/>see the Lamb of God, (see the Lamb of God)<br/>nailed to a cross,<br/>suffering loss,<br/>come see the Lamb of God.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-See the Lamb of God, (See the Lamb of God)
-see the Lamb of God, (see the Lamb of God)
-nailed to a cross,
-suffering loss,
-come see the Lamb of God.
-
-2
-
-Hear the Lamb of God, (Hear the Lamb of God)
-hear the Lamb of God (hear the Lamb of God)
-calling your name,
-taking your shame,
-come hear the Lamb of God.
-
-3
-
-Love the Lamb of God, (Love the Lamb of God)
-love the Lamb of God. (love the Lamb of God)
-Give him your heart,
-he'll never depart,
-come love the Lamb of God.
-
-4
-
-See the Lamb of God, (See the Lamb of God)
-see the Lamb of God, (see the Lamb of God)
-nailed to a cross,
-suffering loss,
-come see the Lamb of God.

@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF557 Let him to whom we now belong</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Let him to whom we now belong<br/>his sovereign right assert,<br/>and take up every thankful song<br/>and every loving heart.
     </verse>
-
+    <verse name="v2"><br/>He justly claims us for his own,<br/>who bought us with a price;<br/>the Christian lives to Christ alone,<br/>to Christ alone he dies.
+    </verse>
+    <verse name="v3"><br/>Jesus, thine own at last receive,<br/>fulfil our hearts' desire,<br/>and let us to thy glory live,<br/>and in thy cause expire.
+    </verse>
+    <verse name="v4"><br/>Our souls and bodies we resign;<br/>with joy we render thee<br/>our all, no longer ours, but thine<br/>to all eternity.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Let him to whom we now belong
-his sovereign right assert,
-and take up every thankful song
-and every loving heart.
-
-2
-
-He justly claims us for his own,
-who bought us with a price;
-the Christian lives to Christ alone,
-to Christ alone he dies.
-
-3
-
-Jesus, thine own at last receive,
-fulfil our hearts' desire,
-and let us to thy glory live,
-and in thy cause expire.
-
-4
-
-Our souls and bodies we resign;
-with joy we render thee
-our all, no longer ours, but thine
-to all eternity.

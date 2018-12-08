@@ -1,56 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF688 One is the body and one is the Head,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>One is the body and one is the Head,<br/>one is the Spirit by whom we are led;<br/>one God and Father, one faith and one call for all.
     </verse>
-
+    <verse name="v2"><br/>Christ who ascended to heaven above<br/>is the same Jesus whose nature is love,<br/>who once descended to bring to this earth new birth.
+    </verse>
+    <verse name="v3"><br/>Gifts have been given well suited to each;<br/>some to be prophets, to pastor, or preach,<br/>some, through the Gospel, to challenge, convert, and teach.
+    </verse>
+    <verse name="v4"><br/>Called to his service are women and men,<br/>so that his body might ever again<br/>witness through worship,<br/>through deed and through word<br/>to Christ our Lord.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-One is the body and one is the Head,
-one is the Spirit by whom we are led;
-one God and Father, one faith and one call for all.
-
-2
-
-Christ who ascended to heaven above
-is the same Jesus whose nature is love,
-who once descended to bring to this earth new birth.
-
-3
-
-Gifts have been given well suited to each;
-some to be prophets, to pastor, or preach,
-some, through the Gospel, to challenge, convert, and teach.
-
-4
-
-Called to his service are women and men,
-so that his body might ever again
-witness through worship,
-through deed and through word
-to Christ our Lord.

@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF13 Sing of a God in majestic divinity,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Thomas Herbert O'Driscoll (b. 1928)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Sing of a God in majestic divinity,<br/>seeding the heavens with numberless stars,<br/>forming our dust and our dreams of infinity,<br/>God of our lives and the judge of our wars.
     </verse>
-
+    <verse name="v2"><br/>Sing of a Child who was cradled so tenderly,<br/>sing of a boyhood by Galilee's lake;<br/>sing of a cross and a Saviour who wondrously<br/>suffered and died for humanity's sake.
+    </verse>
+    <verse name="v3"><br/>Sing of a Spirit who daily addressing us,<br/>lives in our sciences, nature, and arts;<br/>moving through all of creation and blessing us,<br/>guiding our minds and engaging our hearts.
+    </verse>
+    <verse name="v4"><br/>Sing of this God who in glory and mystery<br/>chooses to lie in humanity's womb,<br/>enters the prison and pain of our history,<br/>rises triumphant and opens the tomb.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Sing of a God in majestic divinity,
-seeding the heavens with numberless stars,
-forming our dust and our dreams of infinity,
-God of our lives and the judge of our wars.
-
-2
-
-Sing of a Child who was cradled so tenderly,
-sing of a boyhood by Galilee's lake;
-sing of a cross and a Saviour who wondrously
-suffered and died for humanity's sake.
-
-3
-
-Sing of a Spirit who daily addressing us,
-lives in our sciences, nature, and arts;
-moving through all of creation and blessing us,
-guiding our minds and engaging our hearts.
-
-4
-
-Sing of this God who in glory and mystery
-chooses to lie in humanity's womb,
-enters the prison and pain of our history,
-rises triumphant and opens the tomb.

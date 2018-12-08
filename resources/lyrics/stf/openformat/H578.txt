@@ -1,59 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF578 Lord, I know I am not worthy to receive you.</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Jo Boyce</author>
       <author>Mike Stanley</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Bread of Life, Truth Eternal,
 broken now to set us free,
 the risen Christ, his saving power,
 is here in bread and wine for me.
-
 1
-
 Lord, I know I am not worthy to receive you.
 You speak the words and I am healed.
 Here at your table, love's mystery,
 one bread, one cup, one family.
 Refrain
-
 2
-
 Lord, by your cross
 you reconciled us to the Father,
 we have only to believe.
 Your sacrifice, our victory
 now by your blood we are redeemed.
 Refrain
-
 3
-
 Lord, you gave your people
 manna in the desert;
 still you fulfil our every need.

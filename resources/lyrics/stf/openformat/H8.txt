@@ -1,74 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF8 God with us:Creator, Father,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Alan Gaunt (b. 1935)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>God with us:Creator, Father,<br/>bringing everything to birth;<br/>Mother of the whole creation,<br/>fire of stars and life of earth:<br/>down the countless years composing,<br/>from the earth's evolving night,<br/>love's response to love, and forming<br/>mind and soul to seek your light.
     </verse>
-
+    <verse name="v2"><br/>God with us:Redeemer, Brother,<br/>Friend for ever at our side,<br/>here, in flesh, you walked among us,<br/>taking up your cross, you died.<br/>Crucified, despised, rejected,<br/>Perfect Love, who shared our shame,<br/>streaming from the cross, your judgement,<br/>full of mercy, clears our name.
+    </verse>
+    <verse name="v3"><br/>God with us:Unwearied Spirit,<br/>from the birth of time and space,<br/>surging through unconscious being,<br/>joyful, Life-Creating Grace:<br/>through the centuries you find us;<br/>you, as God, inspire our prayer;<br/>Life and Power at work within us,<br/>Love for ever, everywhere!
+    </verse>
+    <verse name="v4"><br/>God, Transcendent, far beyond us,<br/>closest Friend, unfailing Guide:<br/>through the ages, wronged, affronted,<br/>in your poor, still crucified!<br/>God with us:convict, forgive us;<br/>by your holy love destroy<br/>all that hinders peace and justice:<br/>fill this aching world with joy!</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-God with us:Creator, Father,
-bringing everything to birth;
-Mother of the whole creation,
-fire of stars and life of earth:
-down the countless years composing,
-from the earth's evolving night,
-love's response to love, and forming
-mind and soul to seek your light.
-
-2
-
-God with us:Redeemer, Brother,
-Friend for ever at our side,
-here, in flesh, you walked among us,
-taking up your cross, you died.
-Crucified, despised, rejected,
-Perfect Love, who shared our shame,
-streaming from the cross, your judgement,
-full of mercy, clears our name.
-
-3
-
-God with us:Unwearied Spirit,
-from the birth of time and space,
-surging through unconscious being,
-joyful, Life-Creating Grace:
-through the centuries you find us;
-you, as God, inspire our prayer;
-Life and Power at work within us,
-Love for ever, everywhere!
-
-4
-
-God, Transcendent, far beyond us,
-closest Friend, unfailing Guide:
-through the ages, wronged, affronted,
-in your poor, still crucified!
-God with us:convict, forgive us;
-by your holy love destroy
-all that hinders peace and justice:
-fill this aching world with joy!

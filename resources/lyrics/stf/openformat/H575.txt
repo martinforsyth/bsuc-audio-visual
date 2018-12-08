@@ -1,64 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF575 Before I take the body of my Lord,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949) </author>
       <author>Graham Maule (b. 1958)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Before I take the body of my Lord,<br/>before I share his life in bread and wine,<br/>I recognise the sorry things within:<br/>these I lay down.
     </verse>
-
+    <verse name="v2"><br/>The words of hope I often failed to give,<br/>the prayers of kindness buried by my pride,<br/>the signs of care I argued out of sight:<br/>these I lay down.
+    </verse>
+    <verse name="v3"><br/>The narrowness of vision and of mind,<br/>the need for other folk to serve my will,<br/>and every word and silence meant to hurt:<br/>these I lay down.
+    </verse>
+    <verse name="v4"><br/>Of those around in whom I meet my Lord,<br/>I ask their pardon and I grant them mine,<br/>that every contradiction of Christ's peace<br/>might be laid down.
+    </verse>
+    <verse name="v5"><br/>Lord Jesus Christ, companion at this feast,<br/>I empty now my heart and stretch my hands,<br/>and ask to meet you here in bread and wine<br/>which you lay down.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Before I take the body of my Lord,
-before I share his life in bread and wine,
-I recognise the sorry things within:
-these I lay down.
-
-2
-
-The words of hope I often failed to give,
-the prayers of kindness buried by my pride,
-the signs of care I argued out of sight:
-these I lay down.
-
-3
-
-The narrowness of vision and of mind,
-the need for other folk to serve my will,
-and every word and silence meant to hurt:
-these I lay down.
-
-4
-
-Of those around in whom I meet my Lord,
-I ask their pardon and I grant them mine,
-that every contradiction of Christ's peace
-might be laid down.
-
-5
-
-Lord Jesus Christ, companion at this feast,
-I empty now my heart and stretch my hands,
-and ask to meet you here in bread and wine
-which you lay down.

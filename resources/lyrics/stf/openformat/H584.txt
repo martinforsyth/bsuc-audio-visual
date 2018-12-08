@@ -1,69 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF584 Food to pilgrims given,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3</verseOrder>
     <authors>
       <author>Geon-yong Lee (b. 1947)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Food to pilgrims given,<br/>strength upon the way;<br/>bread come down from heaven --<br/>Christ is ours today!<br/>Feed us now, O Lord,<br/>with this holy food --<br/>let your kingdom come, O Lord,<br/>let your kingdom come;<br/>let your kingdom come, O Lord,<br/>let your kingdom come.
     </verse>
-
+    <verse name="v2"><br/>Streams of grace are flowing --<br/>life from death for me;<br/>truth and goodness growing<br/>for eternity.<br/>Cleanse my soul, O Lord,<br/>with your precious blood --<br/>let your will be done, O Lord,<br/>let your will be done;<br/>let your will be done, O Lord,<br/>let your will be done.
+    </verse>
+    <verse name="v3"><br/>I receive your blessing --<br/>Jesus, king divine;<br/>all your love confessing<br/>in this bread and wine.<br/>Send me out, O Lord,<br/>holy, pure and good,<br/>till the world is won, O Lord,<br/>till the world is won;<br/>till the world is won, O Lord,<br/>till the world is won.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Food to pilgrims given,
-strength upon the way;
-bread come down from heaven --
-Christ is ours today!
-Feed us now, O Lord,
-with this holy food --
-let your kingdom come, O Lord,
-let your kingdom come;
-let your kingdom come, O Lord,
-let your kingdom come.
-
-2
-
-Streams of grace are flowing --
-life from death for me;
-truth and goodness growing
-for eternity.
-Cleanse my soul, O Lord,
-with your precious blood --
-let your will be done, O Lord,
-let your will be done;
-let your will be done, O Lord,
-let your will be done.
-
-3
-
-I receive your blessing --
-Jesus, king divine;
-all your love confessing
-in this bread and wine.
-Send me out, O Lord,
-holy, pure and good,
-till the world is won, O Lord,
-till the world is won;
-till the world is won, O Lord,
-till the world is won.

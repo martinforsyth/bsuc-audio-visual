@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF558 Lord, you have come to the seashore,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Cesareo Gabarain (1936-1991)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Lord, you have come to the seashore,<br/>neither searching for the rich nor the wise,<br/>desiring only that I should follow.<br/>O Lord, with your eyes set upon me,<br/>gently smiling, you have spoken my name.<br/>All I longed for I have found by the water,<br/>at your side I will seek other shores.
     </verse>
-
+    <verse name="v2"><br/>Lord, see my goods, my possessions;<br/>in my boat you find no power, no wealth.<br/>Will you accept, then, my nets and labour?
+    </verse>
+    <verse name="v3"><br/>Lord, take my hands, and direct them.<br/>Help me spend myself in seeking the lost,<br/>returning love for the love you gave me.
+    </verse>
+    <verse name="v4"><br/>Lord, as I drift on the waters,<br/>be the resting-place of my restless heart,<br/>my life's companion, my friend and refuge.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Lord, you have come to the seashore,
-neither searching for the rich nor the wise,
-desiring only that I should follow.
-O Lord, with your eyes set upon me,
-gently smiling, you have spoken my name.
-All I longed for I have found by the water,
-at your side I will seek other shores.
-
-2
-
-Lord, see my goods, my possessions;
-in my boat you find no power, no wealth.
-Will you accept, then, my nets and labour?
-
-3
-
-Lord, take my hands, and direct them.
-Help me spend myself in seeking the lost,
-returning love for the love you gave me.
-
-4
-
-Lord, as I drift on the waters,
-be the resting-place of my restless heart,
-my life's companion, my friend and refuge.

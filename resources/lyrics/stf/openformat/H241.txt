@@ -1,73 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF241 When we were in the darkest night,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Matt Redman (b. 1974)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>When we were in the darkest night,<br/>and wondered if our eyes would ever see the light,<br/>you were there, Lord.<br/>When we were in the stormy gale,<br/>and wondered if we'd ever live in peace again,<br/>you were there, Lord.<br/>You were there in the struggle,<br/>you were there in the fight,<br/>you were there all the time.<br/>We praise you, the God of our yesterdays.<br/>We praise you, the God who is here today.<br/>We praise you, our God, as tomorrow comes.
     </verse>
-
+    <verse name="v2"><br/>So, whatever lies ahead,<br/>whatever roads our grateful hearts will come to tread,<br/>you'll be there, Lord.<br/>We will fix our eyes on you,<br/>and know that there is grace enough to see us through.<br/>You'll be there, Lord.<br/>You'll be there in the struggle.<br/>You'll be there in the fight.<br/>You'll be there all the time.<br/>We praise you, the God of our yesterdays.<br/>We praise you, the God who is here today.<br/>We praise you, our God, as tomorrow comes.<br/>We thank you -- for grace in our yesterdays.<br/>We thank you -- for peace in our hearts today.<br/>We thank you -- our joy as tomorrow comes.<br/>We will trust you God.<br/>You're always closer than we know,<br/>always more involved and in control.<br/>We will trust our lives to you --<br/>the One who was and is and is to come.<br/>We praise you, the God of our yesterdays ...</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-When we were in the darkest night,
-and wondered if our eyes would ever see the light,
-you were there, Lord.
-When we were in the stormy gale,
-and wondered if we'd ever live in peace again,
-you were there, Lord.
-You were there in the struggle,
-you were there in the fight,
-you were there all the time.
-
-We praise you, the God of our yesterdays.
-We praise you, the God who is here today.
-We praise you, our God, as tomorrow comes.
-
-2
-
-So, whatever lies ahead,
-whatever roads our grateful hearts will come to tread,
-you'll be there, Lord.
-We will fix our eyes on you,
-and know that there is grace enough to see us through.
-You'll be there, Lord.
-You'll be there in the struggle.
-You'll be there in the fight.
-You'll be there all the time.
-
-We praise you, the God of our yesterdays.
-We praise you, the God who is here today.
-We praise you, our God, as tomorrow comes.
-We thank you -- for grace in our yesterdays.
-We thank you -- for peace in our hearts today.
-We thank you -- our joy as tomorrow comes.
-We will trust you God.
-
-You're always closer than we know,
-always more involved and in control.
-We will trust our lives to you --
-the One who was and is and is to come.
-
-We praise you, the God of our yesterdays ...

@@ -1,58 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF737 Into the hands that blessed the children,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Shirley Erena Murray (b. 1931)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Into the hands that blessed the children,<br/>into the hands that broke the bread,<br/>into the hands that healed the grieving,<br/>into the hands where wounds have bled,
     </verse>
-
+    <verse name="v2"><br/>into these hands we place our loved one,<br/>trusting in what we do not know<br/>but that your love will never leave us;<br/>safe in this hope, we let her go.  - or "him"
+    </verse>
+    <verse name="v3"><br/>Known and unknown, her dearest treasures,  - or "his"<br/>known and unknown, her faults and fears,  - or "his"<br/>yet from herbirth, your Holy Presence  - or "his"<br/>knowing herheart, through all the years.  - or "his"
+    </verse>
+    <verse name="v4"><br/>Body and soul, herlife was given;  - or "his"<br/>now from our world, this life is gone,<br/>dust into dust, this human body,<br/>spirit to Spirit living on.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Into the hands that blessed the children,
-into the hands that broke the bread,
-into the hands that healed the grieving,
-into the hands where wounds have bled,
-
-2
-
-into these hands we place our loved one,
-trusting in what we do not know
-but that your love will never leave us;
-safe in this hope, we let her go.  - or "him"
-
-3
-
-Known and unknown, her dearest treasures,  - or "his"
-known and unknown, her faults and fears,  - or "his"
-yet from herbirth, your Holy Presence  - or "his"
-knowing herheart, through all the years.  - or "his"
-
-4
-
-Body and soul, herlife was given;  - or "his"
-now from our world, this life is gone,
-dust into dust, this human body,
-spirit to Spirit living on.

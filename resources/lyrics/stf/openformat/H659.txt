@@ -1,65 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF659 As dawn awakes another day,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
       <author>Clare Stainsby (b. 1959)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>As dawn awakes another day,<br/>the working sphere rolls into view,<br/>and all attention centres on<br/>the many tasks we have to do.
     </verse>
-
+    <verse name="v2"><br/>Distracted by demands of time,<br/>and squeezed by pressures, deadlines, needs,<br/>there's scarcely any space or thought<br/>for you from whom all life proceeds.
+    </verse>
+    <verse name="v3"><br/>You challenge some to leave their nets<br/>and follow unfamiliar ways,<br/>but most are called to live their faith<br/>in humdrum tasks of working days.
+    </verse>
+    <verse name="v4"><br/>Affirm us, Lord, as we employ<br/>our hands and minds in every place,<br/>let worship flow through busyness,<br/>responding to your love and grace.
+    </verse>
+    <verse name="v5"><br/>Your patience is our endless hope,<br/>your Spirit present to inspire,<br/>the freedom to explore your truth,<br/>your loving service our desire.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-As dawn awakes another day,
-the working sphere rolls into view,
-and all attention centres on
-the many tasks we have to do.
-
-2
-
-Distracted by demands of time,
-and squeezed by pressures, deadlines, needs,
-there's scarcely any space or thought
-for you from whom all life proceeds.
-
-3
-
-You challenge some to leave their nets
-and follow unfamiliar ways,
-but most are called to live their faith
-in humdrum tasks of working days.
-
-4
-
-Affirm us, Lord, as we employ
-our hands and minds in every place,
-let worship flow through busyness,
-responding to your love and grace.
-
-5
-
-Your patience is our endless hope,
-your Spirit present to inspire,
-the freedom to explore your truth,
-your loving service our desire.

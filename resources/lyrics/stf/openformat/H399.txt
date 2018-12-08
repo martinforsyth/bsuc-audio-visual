@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF399 When deep despair casts out all light</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Michaela Youngson</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>When deep despair casts out all light<br/>and hope is wearing thin;<br/>come Spirit, dance with gentle grace,<br/>shine through the dullness we embrace<br/>and make the colours sing;<br/>and make the colours sing.
     </verse>
-
+    <verse name="v2"><br/>When greed dictates that children die<br/>and poverty holds sway;<br/>come Spirit, burn as living flame,<br/>prompt us to act to end this shame;<br/>cast apathy away;<br/>cast apathy away.
+    </verse>
+    <verse name="v3"><br/>When colour, lifestyle, creed or name<br/>cause groundless hate and fear;<br/>come Spirit, weave a web of peace,<br/>that prejudice and violence cease;<br/>reveal God's purpose here;<br/>reveal God's purpose here.
+    </verse>
+    <verse name="v4"><br/>When guilt and fear tear us apart<br/>and faith's a bitter thing;<br/>come Spirit, dance with gentle grace,<br/>shine through the dullness we embrace<br/>and make God's colours sing;<br/>and make God's colours sing.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-When deep despair casts out all light
-and hope is wearing thin;
-come Spirit, dance with gentle grace,
-shine through the dullness we embrace
-and make the colours sing;
-and make the colours sing.
-
-2
-
-When greed dictates that children die
-and poverty holds sway;
-come Spirit, burn as living flame,
-prompt us to act to end this shame;
-cast apathy away;
-cast apathy away.
-
-3
-
-When colour, lifestyle, creed or name
-cause groundless hate and fear;
-come Spirit, weave a web of peace,
-that prejudice and violence cease;
-reveal God's purpose here;
-reveal God's purpose here.
-
-4
-
-When guilt and fear tear us apart
-and faith's a bitter thing;
-come Spirit, dance with gentle grace,
-shine through the dullness we embrace
-and make God's colours sing;
-and make God's colours sing.

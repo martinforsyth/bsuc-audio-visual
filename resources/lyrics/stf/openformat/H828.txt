@@ -1,118 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF828 I love the Lord, for he has heard the voice of my supplication;</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17</verseOrder>
     <authors>
-
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
     </verse>
-
   </lyrics>
-
 </song>
-
-
-
-
 Psalm 116
-
 1
-
 I love the Lord, for he has heard the voice of my supplication;
 because he inclined his ear to me on the day I called to him.
-
 2
-
 The snares of death encompassed me;the pains of hell took hold of me;
 by grief and sorrow was I held.
-
 3
-
 Then I called upon the name of the Lord:
 'O Lord, I beg you, deliver my soul.'
-
 4
-
 Gracious is the Lord and righteous;
 our God is full of compassion.
-
 5
-
 The Lord watches over the simple;
 I was brought very low and he saved me.
-
 6
-
 Turn again to your rest, O my soul;
 for the Lord has been gracious to you.
-
 7
-
 For you have delivered my soul from death;
 my eyes from tears and my feet from falling.
-
 8
-
 I will walk before the Lord
 in the land of the living.
-
 9
-
 I believed that I should perish for I was sorely troubled;
 and I said in my alarm, 'Everyone is a liar.'
-
 10
-
 How shall I repay the Lord
 for all the benefits he has given to me?
-
 11
-
 I will lift up the cup of salvation
 and call upon the name of the Lord.
-
 12
-
 I will fulfil my vows to the Lord
 in the presence of all his people.
-
 13
-
 Precious in the sight of the Lord
 is the death of his faithful servants.
-
 14
-
 O Lord, I am your servant,
 your servant, the child of your handmaid;
 you have freed me from my bonds.
-
 15
-
 I will offer to you a sacrifice of thanksgiving
 and call upon the name of the Lord.
-
 16
-
 I will fulfil my vows to the Lord
 in the presence of all his people,
-
 17
-
 In the courts of the house of the Lord,
 in the midst of you, O Jerusalem. Alleluia.

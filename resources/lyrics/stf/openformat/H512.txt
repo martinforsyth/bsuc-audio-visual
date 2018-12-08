@@ -1,66 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF512 Stupendous height of heavenly love,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Stupendous height of heavenly love,<br/>of pitying tenderness divine;<br/>it brought the Saviour from above,<br/>it caused the springing day to shine;<br/>the Sun of Righteousness to appear,<br/>and gild our gloomy hemisphere.
     </verse>
-
+    <verse name="v2"><br/>God did in Christ himself reveal,<br/>to chase our darkness by his light,<br/>our sin and ignorance dispel,<br/>direct our wandering feet aright;<br/>and bring our souls, with pardon blest,<br/>to realms of everlasting rest.
+    </verse>
+    <verse name="v3"><br/>Come then, O Lord, your light impart,<br/>the faith that bids our terrors cease;<br/>into your love direct my heart,<br/>into your way of perfect peace;<br/>and cheer my soul, of death afraid,<br/>and guide me through the dreadful shade.
+    </verse>
+    <verse name="v4"><br/>Answer your mercy's whole design,<br/>my God incarnated for me;<br/>my spirit make your radiant shrine,<br/>my light and full salvation be;<br/>and through the darkened vale unknown<br/>conduct me to your dazzling throne.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Stupendous height of heavenly love,
-of pitying tenderness divine;
-it brought the Saviour from above,
-it caused the springing day to shine;
-the Sun of Righteousness to appear,
-and gild our gloomy hemisphere.
-
-2
-
-God did in Christ himself reveal,
-to chase our darkness by his light,
-our sin and ignorance dispel,
-direct our wandering feet aright;
-and bring our souls, with pardon blest,
-to realms of everlasting rest.
-
-3
-
-Come then, O Lord, your light impart,
-the faith that bids our terrors cease;
-into your love direct my heart,
-into your way of perfect peace;
-and cheer my soul, of death afraid,
-and guide me through the dreadful shade.
-
-4
-
-Answer your mercy's whole design,
-my God incarnated for me;
-my spirit make your radiant shrine,
-my light and full salvation be;
-and through the darkened vale unknown
-conduct me to your dazzling throne.

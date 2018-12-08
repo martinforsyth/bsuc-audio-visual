@@ -1,48 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF329 Jesus, the First and Last,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2</verseOrder>
     <authors>
       <author>Charles Wesley (1707-1788)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Jesus, the First and Last,<br/>on you my soul is cast:<br/>you did your work begin<br/>by blotting out my sin;<br/>you will the root remove,<br/>and perfect me in love.
     </verse>
-
+    <verse name="v2"><br/>Yet when the work is done,<br/>the work is but begun:<br/>partaker of your grace,<br/>I long to see your face;<br/>the first I prove below,<br/>the last I die to know.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Jesus, the First and Last,
-on you my soul is cast:
-you did your work begin
-by blotting out my sin;
-you will the root remove,
-and perfect me in love.
-
-2
-
-Yet when the work is done,
-the work is but begun:
-partaker of your grace,
-I long to see your face;
-the first I prove below,
-the last I die to know.

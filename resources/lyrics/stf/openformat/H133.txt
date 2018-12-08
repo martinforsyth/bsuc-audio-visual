@@ -1,70 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF133 To be a soldier,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>John L. Bell (b. 1949) </author>
       <author>Graham Maule (b. 1958)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>To be a soldier,<br/>to fight for peace till war shall end --<br/>this is the conflict<br/>Christ calls you to attend:<br/>to forfeit safety for danger<br/>and then, even stranger,<br/>turn enemy to friend.
     </verse>
-
+    <verse name="v2"><br/>To be a soldier<br/>confront more than the human foe;<br/>a greater struggle<br/>the cosmic Christ shall show:<br/>sin must be stripped<br/>from high places;<br/>what scars souls and faces<br/>he bids you overthrow.
+    </verse>
+    <verse name="v3"><br/>To be a soldier<br/>means more than wishing war would cease:<br/>it calls for courage<br/>to bring the poor release,<br/>to enter politics praying<br/>and break rank obeying<br/>the power and Prince of peace.
+    </verse>
+    <verse name="v4"><br/>Think not to weary<br/>or lay your great commission down;<br/>nor crave approval,<br/>nor fear the critic's frown.<br/>Prevail through tears, love with laughter,<br/>risk all and hereafter<br/>receive from Christ your crown.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-To be a soldier,
-to fight for peace till war shall end --
-this is the conflict
-Christ calls you to attend:
-to forfeit safety for danger
-and then, even stranger,
-turn enemy to friend.
-
-2
-
-To be a soldier
-confront more than the human foe;
-a greater struggle
-the cosmic Christ shall show:
-sin must be stripped
-from high places;
-what scars souls and faces
-he bids you overthrow.
-
-3
-
-To be a soldier
-means more than wishing war would cease:
-it calls for courage
-to bring the poor release,
-to enter politics praying
-and break rank obeying
-the power and Prince of peace.
-
-4
-
-Think not to weary
-or lay your great commission down;
-nor crave approval,
-nor fear the critic's frown.
-Prevail through tears, love with laughter,
-risk all and hereafter
-receive from Christ your crown.

@@ -1,71 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF111 Lord of the boundless curves of space</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
     <authors>
       <author>Albert Frederick Bayly (1901-1984) </author>
       <author>Brian Wren (b. 1936)</author>
     </authors>
-
   </properties>
-
-
   <lyrics>
-
+    <verse name="v1"><br/>Lord of the boundless curves of space<br/>and time's deep mystery,<br/>to your creative might we trace<br/>all nature's energy.
     </verse>
-
+    <verse name="v2"><br/>Your mind conceived the galaxy,<br/>each atom's secret planned,<br/>and every age of history<br/>your purpose, Lord, has spanned.
+    </verse>
+    <verse name="v3"><br/>Your Spirit gave the living cell<br/>its hidden, vital force:<br/>the instincts which all life impel<br/>derive from you, their source.
+    </verse>
+    <verse name="v4"><br/>You gave a growing consciousness,<br/>first sown when time began,<br/>with all our longing to progress,<br/>discover, shape and plan.
+    </verse>
+    <verse name="v5"><br/>In Christ the living power of grace<br/>to liberate and lead<br/>lights up the future of our race<br/>with mercy's crowning deed.
+    </verse>
+    <verse name="v6"><br/>Lead us, whom love has made and sought,<br/>to find, when planets fall,<br/>that Omega of life and thought<br/>where Christ is all in all.</verse>
   </lyrics>
-
 </song>
 
-
-
-
-1
-
-Lord of the boundless curves of space
-and time's deep mystery,
-to your creative might we trace
-all nature's energy.
-
-2
-
-Your mind conceived the galaxy,
-each atom's secret planned,
-and every age of history
-your purpose, Lord, has spanned.
-
-3
-
-Your Spirit gave the living cell
-its hidden, vital force:
-the instincts which all life impel
-derive from you, their source.
-
-4
-
-You gave a growing consciousness,
-first sown when time began,
-with all our longing to progress,
-discover, shape and plan.
-
-5
-
-In Christ the living power of grace
-to liberate and lead
-lights up the future of our race
-with mercy's crowning deed.
-
-6
-
-Lead us, whom love has made and sought,
-to find, when planets fall,
-that Omega of life and thought
-where Christ is all in all.

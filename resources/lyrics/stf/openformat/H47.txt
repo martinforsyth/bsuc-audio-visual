@@ -1,35 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="xxx">
-
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
   <properties>
-
     <titles>
-      <title>xxxTITLE</title>
+      <title>SF47 Faithful God, faithful God,</title>
     </titles>
-
-    <verseOrder>xxxVERSEORDER</verseOrder>
-
+    <verseOrder> v1</verseOrder>
     <authors>
       <author>Christopher Alan Bowater (b. 1947)</author>
-
-
     </authors>
-
   </properties>
-
-
   <lyrics>
-
-    </verse>
-
+    <verse name="v1"><br/>Faithful God, faithful God,<br/>all sufficient One, I worship you.<br/>Shalom my peace, my strong Deliverer,<br/>I lift you up, faithful God.</verse>
   </lyrics>
-
 </song>
 
-
-1
-
-Faithful God, faithful God,
-all sufficient One, I worship you.
-Shalom my peace, my strong Deliverer,
-I lift you up, faithful God.
