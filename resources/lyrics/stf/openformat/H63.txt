@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Brenton Brown</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -46,6 +46,3 @@ Over every thought, over every word,
 may my life reflect the beauty of my Lord;
 'cause you mean more to me than any earthly thing,
 so won't you reign in me again?
-
-
-Brenton Brown

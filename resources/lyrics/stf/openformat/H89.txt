@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Brenton Brown</author>
+      <author>Ken Riley</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -45,6 +46,3 @@ You do not faint, you won't grow weary.
 You're the defender of the weak,
 you comfort those in need;
 you lift us up on wings like eagles.
-
-
-Brenton Brown and Ken Riley

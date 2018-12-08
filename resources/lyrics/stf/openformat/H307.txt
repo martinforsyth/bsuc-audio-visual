@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Michael Peterson</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -70,6 +70,3 @@ Opened eyes, renewed convictions,
 journey back to scenes of pain;
 telling all that Christ is risen.
 Jesus is through us made known.
-
-
-Michael Peterson

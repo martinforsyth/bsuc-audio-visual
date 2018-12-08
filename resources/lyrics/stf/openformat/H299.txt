@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Mark Johnson</author>
+      <author>Helen Johnson</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -63,6 +64,3 @@ join the laughter and the fun!
 
 (Refrain)
 Hoy!
-
-
-Mark Johnson and Helen Johnson

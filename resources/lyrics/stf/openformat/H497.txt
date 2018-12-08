@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Tim Hughes</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -73,6 +73,3 @@ Be my everything.
 You are everything. (4 times)
 
 Jesus, everything. (4 times)
-
-
-Tim Hughes

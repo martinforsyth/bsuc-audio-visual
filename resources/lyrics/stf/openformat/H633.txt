@@ -11,13 +11,13 @@
 
     <authors>
       <author>Aaron Keyes </author>
-			<author>Stuart Townend (b. 1963)</author>
+      <author>Stuart Townend (b. 1963)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

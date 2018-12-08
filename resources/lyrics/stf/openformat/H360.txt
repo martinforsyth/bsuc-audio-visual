@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Taize Community</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -35,6 +35,3 @@ Let not my doubts and my darkness speak to me.
 Lord Jesus Christ,
 your light shines within us.
 Let my heart always welcome your love.
-
-
-Taize Community

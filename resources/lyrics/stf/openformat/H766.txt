@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>William Loperano</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -81,6 +81,3 @@ All:   Le lo le lo lay lo.
 Le lo le lo lay lo.
 Le lo le lo lay lo
 lo le lo le lo lay.
-
-
-William Loperano

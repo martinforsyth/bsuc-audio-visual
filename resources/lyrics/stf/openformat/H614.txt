@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Anonymous</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -54,6 +54,3 @@ We can love others like sisters and brothers;
 and that's the way it should be.
 We can love others like sisters and brothers;
 and that's the way it should be.
-
-
-Anonymous

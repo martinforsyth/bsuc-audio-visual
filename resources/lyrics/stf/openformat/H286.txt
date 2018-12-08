@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Bryn Haworth</author>
+      <author>Sally Haworth</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -61,6 +62,3 @@ No eye has ever seen,
 no ear has ever heard,
 nor has the human heart conceived
 what kind of love is this?
-
-
-Bryn Haworth and Sally Haworth

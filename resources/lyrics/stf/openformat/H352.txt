@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Gerrit Gustafson</author>
+      <author>Steve Israel</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -61,6 +62,3 @@ Only one God over the nations,
 only one Lord of all.
 In no other name is there salvation,
 Jesus is Lord of all.
-
-
-Gerrit Gustafson and Steve Israel

@@ -11,13 +11,13 @@
 
     <authors>
       <author>Noel Richards (b. 1955) </author>
-			<author>Tricia Richards (b. 1960)</author>
+      <author>Tricia Richards (b. 1960)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Mary Rose Jensen</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -61,6 +61,3 @@ Covenant child,
 grow strong in the faith.
 Seek after God's kingdom
 and walk in his way.
-
-
-Mary Rose Jensen

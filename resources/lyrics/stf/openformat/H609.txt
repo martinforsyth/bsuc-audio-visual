@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Joel Payne</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -66,6 +66,3 @@ When we care for children in the home,
 Lord, we will worship;
 when our audience is you alone,
 Lord, we will worship.
-
-
-Joel Payne

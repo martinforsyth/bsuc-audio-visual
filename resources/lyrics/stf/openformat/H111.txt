@@ -11,13 +11,13 @@
 
     <authors>
       <author>Albert Frederick Bayly (1901-1984) </author>
-			<author>Brian Wren (b. 1936)</author>
+      <author>Brian Wren (b. 1936)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

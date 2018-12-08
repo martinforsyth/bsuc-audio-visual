@@ -11,13 +11,13 @@
 
     <authors>
       <author>Roberto Escamilla (b. 1931) </author>
-			<author>John L. Bell (b. 1949)</author>
+      <author>John L. Bell (b. 1949)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Clinton Utterbach</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -51,6 +51,3 @@ Glory to the name of the Lord ...
 3
 
 Holy is the name of the Lord ...
-
-
-Clinton Utterbach

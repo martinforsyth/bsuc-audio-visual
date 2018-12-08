@@ -10,14 +10,13 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-      <author>Joachim </author>
-			<author>er (1650-1680)</author>
+      <author>Joachim Neander (1650-1680)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

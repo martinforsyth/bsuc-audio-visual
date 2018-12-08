@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Mick Dalton</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -49,6 +49,3 @@ You know all my thoughts and ways,
 show me more of yours.
 All I am is all I have,
 in this gift of life.
-
-
-Mick Dalton

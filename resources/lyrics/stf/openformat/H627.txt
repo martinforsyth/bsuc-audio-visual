@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Reuben Morgan</author>
+      <author>Ben Fielding</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -68,6 +69,3 @@ we're singing for the glory
 of the risen King.
 
 Saviour ...
-
-
-Reuben Morgan and Ben Fielding

@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Jo Hemming</author>
+      <author>Nigel Hemming</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -47,6 +48,3 @@ Our God is a great big God,
 our God is a great big God,
 our God is a great big God,
 and he holds us in his hands.
-
-
-Jo Hemming and Nigel Hemming

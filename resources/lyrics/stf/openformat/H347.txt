@@ -11,13 +11,13 @@
 
     <authors>
       <author>Matthew Bridges (1800-1894) </author>
-			<author>Godfrey Thring (1823-1903)</author>
+      <author>Godfrey Thring (1823-1903)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

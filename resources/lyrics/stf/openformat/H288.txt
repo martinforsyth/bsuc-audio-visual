@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Mark Johnson</author>
+      <author>Helen Johnson</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -39,6 +40,3 @@ giving life so freely?
 
 When I think about the cross,
 help me to believe it.
-
-
-Mark Johnson and Helen Johnson

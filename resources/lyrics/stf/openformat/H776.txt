@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Taize Community</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -41,6 +41,3 @@ el Senyor, el meu cant.
 Ell m'ha estat la salvacio.
 En ell confio, i no tinc por.
 En ell confio, i no tinc por.
-
-
-Taize Community

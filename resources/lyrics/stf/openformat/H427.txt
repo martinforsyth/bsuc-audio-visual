@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Rob Hayward</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -37,6 +37,3 @@ There's no guilt or fear as I draw near
 to the Saviour and Creator of the world.
 There is joy and peace
 as I release my worship to you, O Lord.
-
-
-Rob Hayward

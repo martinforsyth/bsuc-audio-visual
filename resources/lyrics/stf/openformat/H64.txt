@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Brenton Brown</author>
+      <author>Paul Baloche</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -55,6 +56,3 @@ you make all things new.
 Hosanna, hosanna ...
 
 Hosanna, hosanna, hosanna, hosanna.
-
-
-Brenton Brown and Paul Baloche

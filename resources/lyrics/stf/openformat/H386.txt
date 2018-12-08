@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Vicky Beeching</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -58,6 +58,3 @@ Revival fire, fall down like the rain.
 Revival fire, set my soul ablaze.
 
 Breathe on me O breath of God ...
-
-
-Vicky Beeching

@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>S. T. Kimbrough, Jr.</author>
+      <author>Jorge Lockward</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -54,6 +55,3 @@ In Christ we're united, all barriers fall;
 there's no favoured gender, one family for all:
 oppressed, rich, and needy, the weak and the strong;
 one family, one people, to God all belong.
-
-
-S. T. Kimbrough, Jr. and  Jorge Lockward

@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Taize Community</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -57,6 +57,3 @@ Anyone who eats this bread will live for ever.
 5
 
 If we believe and eat this bread, we will have eternal life.
-
-
-Taize Community

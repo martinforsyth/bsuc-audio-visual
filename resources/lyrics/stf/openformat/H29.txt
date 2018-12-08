@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Sam Hargreaves</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -41,6 +41,3 @@ help us draw near.
 
 Alleluia, alleluia, help us draw near.
 Alleluia, alleluia, help us draw near.
-
-
-Sam Hargreaves

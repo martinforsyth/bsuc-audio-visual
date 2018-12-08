@@ -11,13 +11,13 @@
 
     <authors>
       <author>Stuart Townend (b. 1963) </author>
-			<author>Keith Getty (b. 1974)</author>
+      <author>Keith Getty (b. 1974)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

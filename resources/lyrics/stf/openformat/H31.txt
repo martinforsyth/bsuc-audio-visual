@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Jonathan Nowell</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -40,6 +40,3 @@ send us your Spirit today!
 
 May the glory of the Lord fill his temple,
 and may we meet him face to face.
-
-
-Jonathan Nowell

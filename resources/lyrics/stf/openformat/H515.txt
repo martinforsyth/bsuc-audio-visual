@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Jonathan Nowell</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -63,6 +63,3 @@ we need your courage, each day a new start,
 help us see your people's needs,
 breathe into our words and deeds,
 plant in us your grain of mustard seed.
-
-
-Jonathan Nowell

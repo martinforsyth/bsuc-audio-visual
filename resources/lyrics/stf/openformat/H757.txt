@@ -11,13 +11,13 @@
 
     <authors>
       <author>Fintan O'Carroll (1922-1981) </author>
-			<author>Christopher Walker (b. 1947)</author>
+      <author>Christopher Walker (b. 1947)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

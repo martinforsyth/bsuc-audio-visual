@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Johnny Markin</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -59,6 +59,3 @@ Ageless God of Hope,
 stay for ever near
 to the wounded broken heart;
 scatter every fear.
-
-
-Johnny Markin

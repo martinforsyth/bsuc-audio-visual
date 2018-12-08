@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Jo Boyce</author>
+      <author>Mike Stanley</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -59,6 +60,3 @@ still you fulfil our every need.
 Lord, when we hunger, Lord, when we thirst,
 we come to you and we receive:
 Refrain
-
-
-Jo Boyce and Mike Stanley

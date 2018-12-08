@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-      <author>John L. Bell (b. 1949) and Graham Maule (b. 1958)</author>
+      <author>John L. Bell (b. 1949)</author>
+      <author>Graham Maule (b. 1958)</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

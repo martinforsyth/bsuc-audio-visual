@@ -11,13 +11,14 @@
 
     <authors>
       <author></author>
-			<author>y Piercy (b. 1951) and C. S. de Whalley</author>
+      <author>y Piercy (b. 1951)</author>
+      <author>C. S. de Whalley</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Jonathan Nowell</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -72,6 +72,3 @@ we crave your restless, loving Spirit
 to mend our lives, and slowly start
 to bring us near the longed-for wholeness
 of the Father's heart.
-
-
-Jonathan Nowell

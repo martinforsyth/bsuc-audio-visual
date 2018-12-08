@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Kate Simmonds</author>
+      <author>Miles Simmonds</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -60,6 +61,3 @@ O Lord, such joy
 to know that you delight in us.
 
 Refrain
-
-
-Kate Simmonds and Miles Simmonds

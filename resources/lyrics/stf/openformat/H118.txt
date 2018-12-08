@@ -23,7 +23,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

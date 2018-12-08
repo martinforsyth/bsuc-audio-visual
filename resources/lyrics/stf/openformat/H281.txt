@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Edwin Brown</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -60,6 +60,3 @@ see the Lamb of God, (see the Lamb of God)
 nailed to a cross,
 suffering loss,
 come see the Lamb of God.
-
-
-Edwin Brown

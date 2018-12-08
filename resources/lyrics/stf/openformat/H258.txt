@@ -10,14 +10,15 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-  		<author>Danny Daniels and Randy Rigby</author>
+      <author>Danny Daniels</author>
+      <author>Randy Rigby</author>
 
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

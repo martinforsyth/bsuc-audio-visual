@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Patrick Eugene Prescod</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -76,6 +76,3 @@ planting seeds of freedom, hope and love;
 in these many-peopled lands,
 let his children all join hands,
 and be one with the right hand of God.
-
-
-Patrick Eugene Prescod

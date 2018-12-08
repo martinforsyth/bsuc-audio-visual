@@ -11,13 +11,13 @@
 
     <authors>
       <author>Isaac Watts (1674-1748) </author>
-			<author>Norman Wallwork (b. 1946)</author>
+      <author>Norman Wallwork (b. 1946)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

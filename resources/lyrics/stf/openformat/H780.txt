@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Taize Community</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -33,6 +33,3 @@ Stay with me,
 remain here with me,
 watch and pray,
 watch and pray.
-
-
-Taize Community

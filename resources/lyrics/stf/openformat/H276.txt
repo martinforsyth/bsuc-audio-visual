@@ -11,13 +11,13 @@
 
     <authors>
       <author>Michael Robert Newbolt (1874-1956) </author>
-			<author>George William Kitchin (1827-1912)</author>
+      <author>George William Kitchin (1827-1912)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

@@ -11,13 +11,13 @@
 
     <authors>
       <author>Matt Redman (b. 1974) </author>
-			<author>Martin J. Smith</author>
+      <author>Martin J. Smith</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Taize Community</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -33,6 +33,3 @@ Jesus, remember me
 when you come into your kingdom.
 Jesus, remember me
 when you come into your kingdom.
-
-
-Taize Community

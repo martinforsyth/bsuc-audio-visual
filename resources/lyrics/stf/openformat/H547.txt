@@ -11,13 +11,13 @@
 
     <authors>
       <author>Ian Worsfold (b. 1974) </author>
-			<author>Paul Wood (b. 1967)</author>
+      <author>Paul Wood (b. 1967)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

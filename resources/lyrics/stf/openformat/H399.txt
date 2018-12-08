@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Michaela Youngson</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -64,6 +64,3 @@ come Spirit, dance with gentle grace,
 shine through the dullness we embrace
 and make God's colours sing;
 and make God's colours sing.
-
-
-Michaela Youngson

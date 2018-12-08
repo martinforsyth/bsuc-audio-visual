@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Vicky Beeching</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -66,6 +66,3 @@ Yesterday, today and forever,
 you are the same, you never change.
 Yesterday, today and forever,
 you are faithful and we will trust in you.
-
-
-Vicky Beeching

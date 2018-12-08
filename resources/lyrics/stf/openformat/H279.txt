@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Vicky Beeching</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -71,6 +71,3 @@ for sin and death have been destroyed,
 sin and death have been destroyed.
 
 May I never lose the wonder ...
-
-
-Vicky Beeching

@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Simei Monteiro</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -36,6 +36,3 @@ listen to our intercession.
 
 Ouve Senhor, eu estou clamando,
 tem piedade de mim e me responde.
-
-
-Simei Monteiro

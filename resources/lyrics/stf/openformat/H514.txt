@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>George Mulrain</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -57,6 +57,3 @@ and tease me if I am depressed;
 but I am confident that
 God will rescue me,
 yes, God's always done this in times past.
-
-
-George Mulrain

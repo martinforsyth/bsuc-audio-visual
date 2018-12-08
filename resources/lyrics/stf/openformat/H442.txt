@@ -11,13 +11,13 @@
 
     <authors>
       <author>Keith Getty (b. 1974) </author>
-			<author>Kristyn Getty (b. 1980)</author>
+      <author>Kristyn Getty (b. 1980)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

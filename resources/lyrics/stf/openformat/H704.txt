@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Delores Dufner</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -77,6 +77,3 @@ In labour all creation groans,
 God's justice to increase.
 When right in place of might prevails,
 then Christ will be our peace.
-
-
-Delores Dufner

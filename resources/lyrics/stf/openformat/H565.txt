@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Gerrit Gustafson</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -49,6 +49,3 @@ Thanks to your grace we are cleansed
 by the blood of the Lamb.
 
 Only by grace can we enter ...
-
-
-Gerrit Gustafson

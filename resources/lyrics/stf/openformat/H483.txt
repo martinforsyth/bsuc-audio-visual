@@ -10,14 +10,14 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-      <author></author>
-			<author>ers Nyberg (b. 1955) and Andrew Maries (b. 1949)</author>
+      <author>Anders Nyberg (b. 1955</author>
+      <author>Andrew Maries (b. 1949)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

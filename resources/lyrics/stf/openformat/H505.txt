@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Scott Wesley Brown</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -57,6 +57,3 @@ Create in me a clean heart,
 a spirit that is new,
 the joy of my salvation
 is only found in you.
-
-
-Scott Wesley Brown

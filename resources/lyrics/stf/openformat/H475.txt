@@ -11,13 +11,13 @@
 
     <authors>
       <author>Philip Doddridge (1702-1751) </author>
-			<author>John Logan (1748-1788)</author>
+      <author>John Logan (1748-1788)</author>
     </authors>
 
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 

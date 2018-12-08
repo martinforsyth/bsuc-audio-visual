@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -42,6 +42,3 @@ all   Come, almighty Spirit, come,
 cantor   almighty Spirit, come.
 all   Come, come, come.
 cantor   O Spirit, come.
-
-
-Anonymous

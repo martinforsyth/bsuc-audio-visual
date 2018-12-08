@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Tina Pownall</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -48,6 +48,3 @@ Change my heart, Holy Spirit of God.
 
 Bring peace to the world, Spirit of Jesus.
 Bring peace to the world, Holy Spirit of God.
-
-
-Tina Pownall

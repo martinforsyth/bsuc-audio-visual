@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Tim Hughes</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -64,6 +64,3 @@ fill us up and send us out,
 fill us up and send us out, Lord.
 
 Refrain
-
-
-Tim Hughes

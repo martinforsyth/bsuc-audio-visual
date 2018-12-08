@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Nick Haigh</author>
+      <author>Anita Haigh</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -61,6 +62,3 @@ My self be open to your world
 and in it see your face,
 that I be open to you, Lord,
 held fast in your embrace.
-
-
-Nick Haigh and Anita Haigh

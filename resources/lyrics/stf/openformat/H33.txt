@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Philip Jakob</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -33,6 +33,3 @@ O Lord we are always in your presence.
 In you we live and move and have our being.
 You hold us in the palm of your hand
 and you lead us to your glory.
-
-
-Philip Jakob

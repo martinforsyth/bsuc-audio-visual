@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Ann Mitchell</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -46,6 +46,3 @@ God will be our Shepherd as we go our way
 and will not forsake us when we go astray.
 Even though the load of life is hard to bear,
 we must not forget that God is always there.
-
-
-Ann Mitchell

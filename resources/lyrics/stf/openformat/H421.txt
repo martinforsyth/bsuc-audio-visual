@@ -10,7 +10,8 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Nick Haigh</author>
+      <author>Anita Haigh</author>
 
 
     </authors>
@@ -18,7 +19,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -88,6 +89,3 @@ Kyrie eleison,
 all I am I give to you.
 Kyrie eleison.
 Kyrie eleison, Christe eleison, Kyrie eleison.
-
-
-Nick Haigh and Anita Haigh

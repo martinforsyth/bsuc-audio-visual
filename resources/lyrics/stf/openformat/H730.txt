@@ -10,7 +10,7 @@
     <verseOrder>xxxVERSEORDER</verseOrder>
 
     <authors>
-
+      <author>Mwenze Kabemba</author>
 
 
     </authors>
@@ -18,7 +18,7 @@
   </properties>
 
 
-	<lyrics>
+  <lyrics>
 
     </verse>
 
@@ -43,21 +43,21 @@ We know this, we know this, we know God's kingdom it will come.
 
 cantor: As long as we hope, there is a future for creation,
 all:   a future for the universe.
-cantor:	As long as we hope, there is a future for creation,
+cantor: As long as we hope, there is a future for creation,
 all:   a future for the universe.
 
 3
 
 cantor: As long as we pray, there is a future for creation,
 all:   a future for the universe.
-cantor:	As long as we pray, there is a future for creation,
+cantor: As long as we pray, there is a future for creation,
 all:   a future for the universe.
 
 4
 
 cantor: As long as we act, there is a future for creation,
 all:   a future for the universe.
-cantor:	As long as we act, there is a future for creation,
+cantor: As long as we act, there is a future for creation,
 all:   a future for the universe.
 
 Original Lingala:
@@ -85,6 +85,3 @@ all:   Malembe tokotambola.
 
 cantor: Na nzela na lola tokobondela masiya,
 all:   Malembe tokotambola.
-
-
-Mwenze Kabemba
