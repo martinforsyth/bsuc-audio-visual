@@ -9,11 +9,14 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Hail, gladdening Light, of his pure glory poured<br/>who is the immortal Father, heavenly, blest,<br/>holiest of holies, Jesus Christ our Lord!
+    <verse name="v1">
+      <lines><br/>Hail, gladdening Light, of his pure glory poured<br/>who is the immortal Father, heavenly, blest,<br/>holiest of holies, Jesus Christ our Lord!</lines>
     </verse>
-    <verse name="v2"><br/>Now we are come to the sun's hour of rest;<br/>the lights of evening round us shine;<br/>we hymn the Father, Son, and Holy Spirit divine.
+    <verse name="v2">
+      <lines><br/>Now we are come to the sun's hour of rest;<br/>the lights of evening round us shine;<br/>we hymn the Father, Son, and Holy Spirit divine.</lines>
     </verse>
-    <verse name="v3"><br/>Worthiest art thou at all times to be sung<br/>with undefiled tongue,<br/>Son of our God, giver of life, alone;<br/>therefore in all the world thy glories, Lord, they own.</verse>
+    <verse name="v3">
+      <lines><br/>Worthiest art thou at all times to be sung<br/>with undefiled tongue,<br/>Son of our God, giver of life, alone;<br/>therefore in all the world thy glories, Lord, they own.</lines>
+    </verse>
   </lyrics>
 </song>
-

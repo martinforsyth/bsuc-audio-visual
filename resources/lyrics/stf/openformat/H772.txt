@@ -9,7 +9,8 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>May the road rise up to meet you;<br/>may the wind be always at your back.<br/>May the sun shine warm upon your face;<br/>may the rain fall soft upon your fields.<br/>And until we meet again, may God hold you.<br/>Until we meet again, may God hold you.<br/>Until we meet again, may God hold you<br/>in the hollow of his hand.</verse>
+    <verse name="v1">
+      <lines><br/>May the road rise up to meet you;<br/>may the wind be always at your back.<br/>May the sun shine warm upon your face;<br/>may the rain fall soft upon your fields.<br/>And until we meet again, may God hold you.<br/>Until we meet again, may God hold you.<br/>Until we meet again, may God hold you<br/>in the hollow of his hand.</lines>
+    </verse>
   </lyrics>
 </song>
-

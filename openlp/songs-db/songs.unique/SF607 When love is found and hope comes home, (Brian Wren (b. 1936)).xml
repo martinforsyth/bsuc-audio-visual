@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:29">
+  <properties>
+    <titles>
+      <title>SF607 When love is found and hope comes home,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Brian Wren (b. 1936)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When love is found and hope comes home,<br/>sing and be glad that two are one.<br/>When love explodes and fills the sky<br/>praise God and share our Maker's joy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When love has flowered in trust and care,<br/>build both each day that love may dare<br/>to reach beyond home's warmth and light,<br/>to serve and strive for truth and right.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When love is tried, as loved-ones change,<br/>hold still to hope though all seems strange,<br/>till each returns and love grows wise<br/>through listening ears and opened eyes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When love is torn and trust betrayed,<br/>pray strength to love till torments fade,<br/>till lovers keep no score of wrong<br/>but hear through pain love's Easter song.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Praise God for love, praise God for life,<br/>in age or youth, in calm or strife,<br/>lift up your hearts! Let love be fed<br/>through death and life in broken bread.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
+  <properties>
+    <titles>
+      <title>SF383 Holy Spirit, gift bestower,</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Holy Spirit, gift bestower,<br/>breathe into our hearts today.<br/>Flowing water, dove that hovers,<br/>Holy Spirit, guide our way.<br/>Love inspirer, joy releaser,<br/>Spirit, take our fears away.<br/>Reconciler, peace restorer,<br/>move among us while we pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Holy Spirit, Christ proclaimer,<br/>wisdom bringer, light our way.<br/>Fire that dances, wind that whispers,<br/>Holy Spirit, come today.<br/>Ease disturber, comfort bearer,<br/>move among us while we pray.<br/>Truth revealer, faith confirmer,<br/>rest within our hearts today.</lines>
+    </verse>
+  </lyrics>
+</song>

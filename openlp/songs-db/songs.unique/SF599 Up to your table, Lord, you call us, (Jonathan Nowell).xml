@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:28">
+  <properties>
+    <titles>
+      <title>SF599 Up to your table, Lord, you call us,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Jonathan Nowell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Up to your table, Lord, you call us,<br/>as songs are sung, and prayers are said;<br/>so here we wait, your broken Body,<br/>longing to be fed.<br/>I wonder if this seems familiar,<br/>a group of friends to share your bread,<br/>with flick'ring faith, and no clear insight<br/>where they might be led.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>You know our faults, you know our burdens,<br/>our stubborn hearts, our need of grace,<br/>but even so, at God's own banquet<br/>still we find a place.<br/>We share the bread, the wine that frees us,<br/>this love that breaks the chains of death,<br/>no richer feast in all creation,<br/>bought with Christ's own breath.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Out to the garden, Lord, you lead us,<br/>instructions clear, to watch and pray;<br/>will you return to find us sleeping,<br/>will we fall away?<br/>We see with resurrection hindsight,<br/>yet still we fear, and doubt your plan,<br/>like other friends who, in that moment,<br/>panicked, broke, and ran.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We share this meal as you commanded,<br/>and find your words of life are true,<br/>imperfect friends, and poor disciples<br/>healed and held by you;<br/>we crave your restless, loving Spirit<br/>to mend our lives, and slowly start<br/>to bring us near the longed-for wholeness<br/>of the Father's heart.</lines>
+    </verse>
+  </lyrics>
+</song>

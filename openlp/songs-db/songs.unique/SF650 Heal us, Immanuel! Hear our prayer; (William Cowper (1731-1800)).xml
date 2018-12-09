@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:34">
+  <properties>
+    <titles>
+      <title>SF650 Heal us, Immanuel! Hear our prayer;</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>William Cowper (1731-1800)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Heal us, Immanuel! Hear our prayer;<br/>we wait to feel your touch;<br/>deep-wounded souls to you repair,<br/>and, Saviour, we are such.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our faith is feeble, we confess;<br/>we faintly trust your word;<br/>but will you pity us the less?<br/>Be that far from you, Lord!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Remember him who once applied<br/>with trembling for relief:<br/>'Lord, I believe!' with tears he cried,<br/>'O help my unbelief!'</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>She, too, who touched you in the press,<br/>and healing virtue stole,<br/>was answered:'Daughter, go in peace,<br/>your faith has made you whole.'</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Concealed amid the gathering throng,<br/>she would have shunned your view;<br/>and if her faith was firm and strong,<br/>had strong misgivings too.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Like her, with hopes and fears we come<br/>to touch you, if we may;<br/>O send us not despairing home,<br/>send none unhealed away!</lines>
+    </verse>
+  </lyrics>
+</song>

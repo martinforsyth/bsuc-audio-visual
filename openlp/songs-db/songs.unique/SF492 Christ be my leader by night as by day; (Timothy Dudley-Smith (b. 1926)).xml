@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:17">
+  <properties>
+    <titles>
+      <title>SF492 Christ be my leader by night as by day;</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Timothy Dudley-Smith (b. 1926)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ be my leader by night as by day;<br/>safe through the darkness, for he is the way.<br/>Gladly I follow, my future his care,<br/>darkness is daylight when Jesus is there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ be my teacher in age as in youth,<br/>drifting or doubting, for he is the truth.<br/>Grant me to trust him;though shifting as sand,<br/>doubt cannot daunt me;in Jesus I stand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Christ be my Saviour in calm as in strife;<br/>death cannot hold me, for he is the life.<br/>Nor darkness nor doubting nor sin and its stain<br/>can touch my salvation;with Jesus I reign.</lines>
+    </verse>
+  </lyrics>
+</song>

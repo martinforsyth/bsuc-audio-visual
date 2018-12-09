@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:13">
+  <properties>
+    <titles>
+      <title>SF300 Hail the day that sees him rise, Alleluia!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hail the day that sees him rise, Alleluia!<br/>ravished from our wistful eyes! Alleluia!<br/>Christ, awhile to mortals given, Alleluia!<br/>reascends his native heaven:Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There the glorious triumph waits:Alleluia!<br/>lift your heads, eternal gates;Alleluia!<br/>wide unfold the radiant scene;Alleluia!<br/>take the King of Glory in! Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Him though highest heaven receives, Alleluia!<br/>still he loves the earth he leaves;Alleluia!<br/>though returning to his throne, Alleluia!<br/>still he calls the world his own:Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>See! He lifts his hands above;Alleluia!<br/>see! He shows the prints of love;Alleluia!<br/>hark! His gracious lips bestow Alleluia!<br/>blessings on his Church below:Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Master, parted from our sight, Alleluia!<br/>high above the azure height, Alleluia!<br/>grant our hearts to you may rise, Alleluia!<br/>following you beyond the skies:Alleluia!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Cast ourselves before your throne, Alleluia!<br/>here our heaven of heavens to own, Alleluia!<br/>there we shall with you remain, Alleluia!<br/>partners of your endless reign:Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:49">
+  <properties>
+    <titles>
+      <title>SF119 God of Eve and God of Mary,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Fred Kaan (1929-2009)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of Eve and God of Mary,<br/>God of love and mother-earth,<br/>thank you for the ones who with us<br/>shared their life and gave us birth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>As you came to earth in Jesus,<br/>so you come to us today;<br/>you are present in the caring<br/>that prepares us for life's way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thank you that the Church, our Mother,<br/>gives us bread and fills our cup,<br/>and the comfort of the Spirit<br/>warms our hearts and lifts us up.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thank you for belonging, shelter,<br/>bonds of friendship, ties of blood,<br/>and for those who have no children,<br/>yet are parents under God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>God of Eve and God of Mary,<br/>Christ our brother, human Son,<br/>Spirit, caring like a Mother,<br/>take our love and make us one!</lines>
+    </verse>
+  </lyrics>
+</song>

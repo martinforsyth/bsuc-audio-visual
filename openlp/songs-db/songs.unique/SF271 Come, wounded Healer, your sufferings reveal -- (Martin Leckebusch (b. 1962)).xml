@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:02">
+  <properties>
+    <titles>
+      <title>SF271 Come, wounded Healer, your sufferings reveal --</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Martin Leckebusch (b. 1962)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, wounded Healer, your sufferings reveal --<br/>the scars you accepted, our anguish to heal.<br/>Your wounds bring such comfort in body and soul<br/>to all who bear torment and yearn to be whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come, hated Lover, and gather us near,<br/>your welcome, your teaching, your challenge to hear:<br/>where scorn and abuse cause rejection and pain,<br/>your loving acceptance makes hope live again!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come, broken Victor, condemned to a cross --<br/>how great are the treasures we gain from your loss!<br/>Your willing agreement to share in our strife<br/>transforms our despair into fullness of life.</lines>
+    </verse>
+  </lyrics>
+</song>

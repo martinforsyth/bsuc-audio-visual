@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:22">
+  <properties>
+    <titles>
+      <title>SF539 On this Baptism day, God we thank you</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Paul Wood (b. 1967)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>On this Baptism day, God we thank you<br/>for the water, new life and call.<br/>For this child given life by your Spirit<br/>the potential offered to us all.<br/>Praise the Father! Praise the Spirit!<br/>Praise the Son on this Baptismal Day!<br/>For the gift of life is precious;<br/>so, we worship God today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We baptize in response to our maker,<br/>who has promised to be our guide.<br/>We rejoice for new life God has given<br/>and his pledge to travel by our side.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord we praise you for Jesus our Saviour,<br/>for your love that he showed on earth,<br/>how he offers us life by his Spirit<br/>showing us the way to our new birth.</lines>
+    </verse>
+  </lyrics>
+</song>

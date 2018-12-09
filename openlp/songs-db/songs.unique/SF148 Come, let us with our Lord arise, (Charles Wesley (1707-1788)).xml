@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:51">
+  <properties>
+    <titles>
+      <title>SF148 Come, let us with our Lord arise,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, let us with our Lord arise,<br/>our Lord, who made both earth and skies:<br/>who died to save the world he made,<br/>and rose triumphant from the dead;<br/>he rose, the Prince of life and peace,<br/>and stamped the day for ever his.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>This is the day the Lord has made,<br/>that all may see his love displayed,<br/>may feel his resurrection's power,<br/>and rise again, to fall no more,<br/>in perfect righteousness renewed,<br/>and filled with all the life of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Then let us render him his own,<br/>with solemn prayer approach his throne,<br/>with meekness hear the gospel word,<br/>with thanks his dying love record,<br/>our joyful hearts and voices raise,<br/>and fill his courts with songs of praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Honour and praise to Jesus pay<br/>throughout his consecrated day;<br/>be all in Jesus' praise employed,<br/>nor leave a single moment void;<br/>with utmost care the time improve,<br/>and only breathe his praise and love.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:48">
+  <properties>
+    <titles>
+      <title>SF117 Sing praise to God who reigns above,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Johann Jakob Schuetz (1640-1690)</author>
+      <author>Frances Elizabeth Cox (1812-1897)</author>
+      <author>Honor Mary Thwaites (1914-1993)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing praise to God who reigns above,<br/>the God of all creation,<br/>the God of power, the God of love,<br/>the God of our salvation;<br/>with healing balm my soul he fills,<br/>and every faithless murmur stills:<br/>to God all praise and glory!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>What God's almighty power has made<br/>that will he ever cherish,<br/>and will, unfailing, soon and late,<br/>with loving-kindness nourish;<br/>and where he rules in kingly might<br/>there all is just and all is right:<br/>to God all praise and glory!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The Lord is never far away,<br/>but, through all grief distressing,<br/>an ever-present help and stay,<br/>our peace, and joy, and blessing;<br/>as with a mother's tender hand,<br/>he leads his own, his chosen band:<br/>to God all praise and glory!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O you who name Christ's holy name,<br/>give God all praise and glory:<br/>O you who own his power, proclaim<br/>aloud the wondrous story.<br/>Cast each false idol from its throne:<br/>the Lord is God, and he alone:<br/>to God all praise and glory!</lines>
+    </verse>
+  </lyrics>
+</song>

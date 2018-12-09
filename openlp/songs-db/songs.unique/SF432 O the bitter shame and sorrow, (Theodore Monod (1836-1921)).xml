@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:12">
+  <properties>
+    <titles>
+      <title>SF432 O the bitter shame and sorrow,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Theodore Monod (1836-1921)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O the bitter shame and sorrow,<br/>that a time could ever be<br/>when I let the Saviour's pity<br/>plead in vain, and proudly answered:<br/>none of you and all of me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Yet you found me;there I saw you<br/>dying and in agony,<br/>heard you pray, 'Forgive them, Father,'<br/>and my wistful heart said faintly:<br/>some of you and some of me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Day by day your tender mercy,<br/>healing, helping, full and free,<br/>firm and strong, with endless patience<br/>brought me lower, while I whispered:<br/>more of you and less of me!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Higher than the highest heaven,<br/>deeper than the deepest sea,<br/>Lord, your love at last has conquered;<br/>grant me now my spirit's longing:<br/>all of you and none of me!</lines>
+    </verse>
+  </lyrics>
+</song>

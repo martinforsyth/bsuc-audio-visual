@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:16">
+  <properties>
+    <titles>
+      <title>SF334 Praise to the Holiest in the height,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>John Henry Newman (1801-1890)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise to the Holiest in the height,<br/>and in the depth be praise;<br/>in all his words most wonderful,<br/>most sure in all his ways.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O loving wisdom of our God!<br/>when all was sin and shame,<br/>a second Adam to the fight<br/>and to the rescue came.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O wisest love! that flesh and blood,<br/>which did in Adam fail,<br/>should strive afresh against the foe,<br/>should strive and should prevail;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And that a higher gift than grace<br/>should flesh and blood refine,<br/>God's presence and his very self,<br/>and essence all-divine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O generous love! that he, who came<br/>as man to smite the foe,<br/>the double agony for us<br/>as man should undergo;</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>And in the garden secretly,<br/>and on the cross on high,<br/>should teach his followers, and inspire<br/>to suffer and to die.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Praise to the Holiest in the height,<br/>and in the depth be praise;<br/>in all his words most wonderful,<br/>most sure in all his ways.</lines>
+    </verse>
+  </lyrics>
+</song>

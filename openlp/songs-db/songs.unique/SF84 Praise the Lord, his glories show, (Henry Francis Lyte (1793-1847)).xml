@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:16:40">
+  <properties>
+    <titles>
+      <title>SF84 Praise the Lord, his glories show,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Henry Francis Lyte (1793-1847)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise the Lord, his glories show,<br/>Alleluia!<br/>saints within his courts below,<br/>Alleluia!<br/>angels round his throne above,<br/>Alleluia!<br/>all that see and share his love.<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Earth to heaven, and heaven to earth<br/>Alleluia!<br/>tell his wonders, sing his worth;<br/>Alleluia!<br/>age to age and shore to shore,<br/>Alleluia!<br/>praise him, praise him evermore!<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Praise the Lord, his mercies trace;<br/>Alleluia!<br/>praise his providence and grace,<br/>Alleluia!<br/>all that he for us has done,<br/>Alleluia!<br/>all he sends us through his Son.<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Strings and voices, hands and hearts,<br/>Alleluia!<br/>in the concert play your parts;<br/>Alleluia!<br/>all that breathe, your Lord adore,<br/>Alleluia!<br/>praise him, praise him evermore!<br/>Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

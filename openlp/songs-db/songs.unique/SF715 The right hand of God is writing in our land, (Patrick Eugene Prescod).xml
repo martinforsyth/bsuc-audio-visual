@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:42">
+  <properties>
+    <titles>
+      <title>SF715 The right hand of God is writing in our land,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Patrick Eugene Prescod</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The right hand of God is writing in our land,<br/>writing with power and with love;<br/>our conflicts and our fears,<br/>our triumphs and our tears,<br/>are recorded by the right hand of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The right hand of God is pointing in our land,<br/>pointing the way we must go;<br/>so clouded is the way,<br/>so easily we stray,<br/>but we're guided by the right hand of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The right hand of God is striking in our land,<br/>striking out at envy, hate and greed;<br/>our selfishness and lust,<br/>our pride and deeds unjust,<br/>are destroyed by the right hand of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The right hand of God is lifting in our land,<br/>lifting the fallen one by one;<br/>each one is known by name,<br/>and lifted now from shame,<br/>by the lifting of the right hand of God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The right hand of God is healing in our land,<br/>healing broken bodies, minds and souls;<br/>so wondrous is its touch,<br/>with love that means so much,<br/>when we're healed by the right hand of God.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>The right hand of God is planting in our land,<br/>planting seeds of freedom, hope and love;<br/>in these many-peopled lands,<br/>let his children all join hands,<br/>and be one with the right hand of God.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -9,13 +9,17 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Come, Holy Ghost, our souls inspire,<br/>and lighten with celestial fire;<br/>thou the anointing Spirit art,<br/>who dost thy sevenfold gifts impart.
+    <verse name="v1">
+      <lines><br/>Come, Holy Ghost, our souls inspire,<br/>and lighten with celestial fire;<br/>thou the anointing Spirit art,<br/>who dost thy sevenfold gifts impart.</lines>
     </verse>
-    <verse name="v2"><br/>Thy blessed unction from above<br/>is comfort, life, and fire of love;<br/>enable with perpetual light<br/>the dullness of our blinded sight.
+    <verse name="v2">
+      <lines><br/>Thy blessed unction from above<br/>is comfort, life, and fire of love;<br/>enable with perpetual light<br/>the dullness of our blinded sight.</lines>
     </verse>
-    <verse name="v3"><br/>Anoint and cheer our soiled face<br/>with the abundance of thy grace;<br/>keep far our foes, give peace at home;<br/>where thou art guide no ill can come.
+    <verse name="v3">
+      <lines><br/>Anoint and cheer our soiled face<br/>with the abundance of thy grace;<br/>keep far our foes, give peace at home;<br/>where thou art guide no ill can come.</lines>
     </verse>
-    <verse name="v4"><br/>Teach us to know the Father, Son,<br/>and thee, of both, to be but One;<br/>that through the ages all along<br/>this may be our endless song:<br/>'Praise to thy eternal merit,<br/>Father, Son, and Holy Spirit. Amen.'</verse>
+    <verse name="v4">
+      <lines><br/>Teach us to know the Father, Son,<br/>and thee, of both, to be but One;<br/>that through the ages all along<br/>this may be our endless song:<br/>'Praise to thy eternal merit,<br/>Father, Son, and Holy Spirit. Amen.'</lines>
+    </verse>
   </lyrics>
 </song>
-

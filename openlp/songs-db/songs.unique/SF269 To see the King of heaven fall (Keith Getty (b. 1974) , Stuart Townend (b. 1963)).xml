@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:02">
+  <properties>
+    <titles>
+      <title>SF269 To see the King of heaven fall</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Keith Getty (b. 1974) </author>
+      <author>Stuart Townend (b. 1963)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>To see the King of heaven fall<br/>in anguish to his knees,<br/>the Light and Hope of all the world<br/>now overwhelmed with grief.<br/>What nameless horrors must he see,<br/>to cry out in the garden:<br/>'Oh, take this cup away from me --<br/>yet not my will but yours,<br/>yet not my will but yours.'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>To know each friend will fall away,<br/>and heaven's voice be still,<br/>for hell to have its vengeful day<br/>upon Golgotha's hill.<br/>No words describe the Saviour's plight --<br/>to be by God forsaken<br/>till wrath and love are satisfied<br/>and every sin is paid<br/>and every sin is paid.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>What took him to this wretched place,<br/>what kept him on this road?<br/>His love for Adam's cursed race,<br/>for every broken soul.<br/>No sin too slight to overlook,<br/>no crime too great to carry,<br/>all mingled in this poisoned cup --<br/>and yet he drank it all,<br/>the Saviour drank it all,<br/>the Saviour drank it all.</lines>
+    </verse>
+  </lyrics>
+</song>

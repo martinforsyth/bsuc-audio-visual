@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:00">
+  <properties>
+    <titles>
+      <title>SF257 Would you walk by on the other side,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Pamela M. Verrall (1915-1996)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Would you walk by on the other side,<br/>when someone called for aid?<br/>Would you walk by on the other side,<br/>and would you be afraid?<br/>Cross over the road, my friend,<br/>ask the Lord his strength to lend,<br/>his compassion has no end,<br/>cross over the road.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Would you walk by on the other side,<br/>when you saw a loved one stray?<br/>Would you walk by on the other side,<br/>or would you watch and pray?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Would you walk by on the other side,<br/>when starving children cried?<br/>Would you walk by on the other side,<br/>and would you not provide?</lines>
+    </verse>
+  </lyrics>
+</song>

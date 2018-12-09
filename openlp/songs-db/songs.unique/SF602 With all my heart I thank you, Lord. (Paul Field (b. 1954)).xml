@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:28">
+  <properties>
+    <titles>
+      <title>SF602 With all my heart I thank you, Lord.</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Paul Field (b. 1954)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>With all my heart I thank you, Lord.<br/>With all my heart I thank you, Lord,<br/>for this wine, and bread we break,<br/>for this sacrament we take,<br/>for the forgiveness that you make,<br/>I thank you, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>With all my soul I thank you, Lord.<br/>With all my soul I thank you, Lord,<br/>for this victory that you've won,<br/>for this taste of things to come,<br/>for this love that makes us one,<br/>I thank you, Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>With all my voice I thank you, Lord.<br/>With all my voice I thank you, Lord,<br/>for the sacrifice of pain,<br/>for the Spirit and the flame,<br/>for the power of your name,<br/>I thank you, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

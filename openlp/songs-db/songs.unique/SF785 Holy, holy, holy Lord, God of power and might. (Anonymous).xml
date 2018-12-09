@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:51">
+  <properties>
+    <titles>
+      <title>SF785 Holy, holy, holy Lord, God of power and might.</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Holy, holy, holy Lord, God of power and might.<br/>Heaven and earth are full of your glory.<br/>Hosanna in the highest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Blessed is he,<br/>O blessed is he who comes in the name of the Lord.<br/>Hosanna in the highest,<br/>hosanna in the highest.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -9,7 +9,8 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Lamb of God,<br/>you take away the sins of the world,<br/>have mercy on us.<br/>Lamb of God,<br/>you take away the sins of the world,<br/>have mercy on us.<br/>Lamb of God,<br/>you take away the sins of the world,<br/>grant us peace.</verse>
+    <verse name="v1">
+      <lines><br/>Lamb of God,<br/>you take away the sins of the world,<br/>have mercy on us.<br/>Lamb of God,<br/>you take away the sins of the world,<br/>have mercy on us.<br/>Lamb of God,<br/>you take away the sins of the world,<br/>grant us peace.</lines>
+    </verse>
   </lyrics>
 </song>
-

@@ -9,11 +9,14 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Holy, holy, holy Lord,<br/>God of power and might,<br/>heaven and earth are full,<br/>are full of your glory.
+    <verse name="v1">
+      <lines><br/>Holy, holy, holy Lord,<br/>God of power and might,<br/>heaven and earth are full,<br/>are full of your glory.</lines>
     </verse>
-    <verse name="v2"><br/>Holy, holy, holy Lord,<br/>God of power and might,<br/>heaven and earth are full,<br/>are full of your glory.
+    <verse name="v2">
+      <lines><br/>Holy, holy, holy Lord,<br/>God of power and might,<br/>heaven and earth are full,<br/>are full of your glory.</lines>
     </verse>
-    <verse name="v3"><br/>Blessed is the one who comes<br/>in the name of the Lord!<br/>Hosanna in the highest!<br/>Hosanna in the highest!<br/>Hosanna in the highest!<br/>Hosanna in the highest!</verse>
+    <verse name="v3">
+      <lines><br/>Blessed is the one who comes<br/>in the name of the Lord!<br/>Hosanna in the highest!<br/>Hosanna in the highest!<br/>Hosanna in the highest!<br/>Hosanna in the highest!</lines>
+    </verse>
   </lyrics>
 </song>
-

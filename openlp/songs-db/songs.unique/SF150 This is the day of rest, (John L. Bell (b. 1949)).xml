@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:52">
+  <properties>
+    <titles>
+      <title>SF150 This is the day of rest,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>This is the day of rest,<br/>to use as God intended:<br/>time to renew our faith<br/>and let our lives be mended;<br/>time to fulfil our song<br/>and time to rediscover<br/>those to whom we belong,<br/>and God who is our lover.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Here is the feast of life<br/>to which we are invited;<br/>here Jesus offers food<br/>through which we are united:<br/>food for a company<br/>redeemed by blood and water,<br/>food through which God declares,<br/>'You are my son, my daughter.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>This is the time of change<br/>delivered by God's Spirit<br/>moving to life and health<br/>those claiming little merit;<br/>change which God's love demands<br/>to prove that faith is living,<br/>change which must overflow<br/>in justice and forgiving.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Glory to God on high,<br/>to Christ and to the Spirit.<br/>Glory to God on earth,<br/>whose image we inherit.<br/>Glory to God alone,<br/>our sacrament and story,<br/>in whom we live and move<br/>till lifted into glory.</lines>
+    </verse>
+  </lyrics>
+</song>

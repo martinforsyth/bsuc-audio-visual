@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T18:47:20">
+  <properties>
+    <titles>
+      <title>SF14 Sing to him in whom creation</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Michael Hewlett (1916-2000)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing to him in whom creation<br/>found its shape and origin;<br/>Spirit, moving on the waters<br/>troubled by the God within;<br/>source of breath to all things breathing,<br/>life in whom all lives begin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Sing to God, the close companion<br/>of our inmost thoughts and ways;<br/>who, in showing us his wonders,<br/>is himself the power to gaze,<br/>and his will, to those who listen,<br/>by a still small voice conveys.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Holy people, priests and prophets<br/>caught his accents, spoke his word;<br/>his the truth behind the wisdoms<br/>which as yet know not our Lord;<br/>he the love of God eternal,<br/>which in Christ was seen and heard.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Tell of how the ascended Jesus<br/>armed a people for his own;<br/>how a hundred men and women<br/>turned the known world upside down,<br/>to its dark and farthest corners<br/>by the wind of Whitsun blown.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Pray we, then, O Lord the Spirit,<br/>on our lives descend in might;<br/>let your flame break out within us,<br/>fire our hearts and clear our sight,<br/>till, white-hot in your possession,<br/>we, too, set the world alight.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Praise, O praise the Holy Spirit,<br/>praise the Father, praise the Word,<br/>source, and truth, and inspiration,<br/>Trinity in deep accord;<br/>through your voice which speaks within us<br/>we your creatures own you Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

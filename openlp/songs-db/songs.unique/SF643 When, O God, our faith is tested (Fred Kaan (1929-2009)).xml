@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:33">
+  <properties>
+    <titles>
+      <title>SF643 When, O God, our faith is tested</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Fred Kaan (1929-2009)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When, O God, our faith is tested<br/>and our hope is undermined,<br/>when our love of living shrivels<br/>and we feel bereft and drained,<br/>then we turn to you and cry<br/>for your answer to our 'why?'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>With emotions taut to breaking,<br/>hearts with hurt and havoc frayed,<br/>reason by remorse diminished,<br/>souls distraught as if betrayed,<br/>God of bleakness and abyss,<br/>why have you forsaken us?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>As we question and accuse you<br/>out of depths of being tried,<br/>could it be, God! that in weakness<br/>you yourself are crucified?<br/>Are you with us in our grief?<br/>Help us in our unbelief!</lines>
+    </verse>
+  </lyrics>
+</song>

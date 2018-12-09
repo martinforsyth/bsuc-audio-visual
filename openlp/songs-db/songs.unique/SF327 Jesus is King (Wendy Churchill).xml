@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:16">
+  <properties>
+    <titles>
+      <title>SF327 Jesus is King</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Wendy Churchill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus is King<br/>and I will extol him,<br/>give him the glory,<br/>and honour his name;<br/>he reigns on high,<br/>enthroned in the heavens --<br/>Word of the Father,<br/>exalted for us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We have a hope<br/>that is steadfast and certain,<br/>gone through the curtain<br/>and touching the throne;<br/>we have a priest<br/>who is there interceding,<br/>pouring his grace<br/>on our lives day by day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We come to him,<br/>our Priest and Apostle,<br/>clothed in his glory<br/>and bearing his name,<br/>laying our lives<br/>with gladness before him --<br/>filled with his Spirit<br/>we worship the King:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>'O Holy One,<br/>our hearts do adore you;<br/>thrilled with your goodness<br/>we give you our praise!'<br/>Angels in light<br/>with worship surround him,<br/>Jesus, our Saviour,<br/>for ever the same.</lines>
+    </verse>
+  </lyrics>
+</song>

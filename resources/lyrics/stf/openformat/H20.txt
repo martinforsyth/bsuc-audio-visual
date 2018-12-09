@@ -10,11 +10,11 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Be still,<br/>for the presence of the Lord,<br/>the Holy One, is here;<br/>come bow before him now<br/>with reverence and fear:<br/>in him no sin is found --<br/>we stand on holy ground.<br/>Be still,<br/>for the presence of the Lord,<br/>the Holy One, is here.
+    <verse name="v1"><br/>Be still,<br/>for the presence of the Lord,<br/>the Holy One, is here;<br/>come bow before him now<br/>with reverence and fear:<br/>in him no sin is found<br/>we stand on holy ground.<br/>Be still,<br/>for the presence of the Lord,<br/>the Holy One, is here.
     </verse>
-    <verse name="v2"><br/>Be still,<br/>for the glory of the Lord<br/>is shining all around;<br/>he burns with holy fire,<br/>with splendour he is crowned:<br/>how awesome is the sight --<br/>our radiant King of light!<br/>Be still,<br/>for the glory of the Lord<br/>is shining all around.
+    <verse name="v2"><br/>Be still,<br/>for the glory of the Lord<br/>is shining all around;<br/>he burns with holy fire,<br/>with splendour he is crowned:<br/>how awesome is the sight<br/>our radiant King of light!<br/>Be still,<br/>for the glory of the Lord<br/>is shining all around.
     </verse>
-    <verse name="v3"><br/>Be still,<br/>for the power of the Lord<br/>is moving in this place;<br/>he comes to cleanse and heal,<br/>to minister his grace:<br/>no work too hard for him --<br/>in faith receive from him.<br/>Be still,<br/>for the power of the Lord<br/>is moving in this place.</verse>
+    <verse name="v3"><br/>Be still,<br/>for the power of the Lord<br/>is moving in this place;<br/>he comes to cleanse and heal,<br/>to minister his grace:<br/>no work too hard for him<br/>in faith receive from him.<br/>Be still,<br/>for the power of the Lord<br/>is moving in this place.</verse>
   </lyrics>
 </song>
 

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:32">
+  <properties>
+    <titles>
+      <title>SF633 My soul finds rest in God alone,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Aaron Keyes </author>
+      <author>Stuart Townend (b. 1963)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My soul finds rest in God alone,<br/>my rock and my salvation;<br/>a fortress strong against my foes,<br/>and I will not be shaken.<br/>Though lips may bless and hearts may curse,<br/>and lies like arrows pierce me,<br/>I'll fix my heart on righteousness,<br/>I'll look to him who hears me.<br/>O praise him, hallelujah,<br/>my delight and my reward;<br/>everlasting, never failing,<br/>my Redeemer, my God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My soul finds rest in God alone<br/>amid the world's temptations;<br/>when evil seeks to take a hold<br/>I'll cling to my salvation.<br/>Though riches come and riches go,<br/>don't set your heart upon them;<br/>the fields of hope in which I sow<br/>are harvested in heaven.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I'll set my gaze on God alone<br/>and trust in him completely;<br/>with every day pour out my soul<br/>and he will prove his mercy.<br/>Though life is but a fleeting breath,<br/>a sigh too brief to measure,<br/>my King has crushed the curse of death<br/>and I am his forever.</lines>
+    </verse>
+  </lyrics>
+</song>

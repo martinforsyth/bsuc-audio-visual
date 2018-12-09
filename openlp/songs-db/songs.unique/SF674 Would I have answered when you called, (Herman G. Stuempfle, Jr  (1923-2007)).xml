@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:37">
+  <properties>
+    <titles>
+      <title>SF674 Would I have answered when you called,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Herman G. Stuempfle, Jr  (1923-2007)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Would I have answered when you called,<br/>'Come follow, follow me!'?<br/>Would I at once have left behind<br/>both work and family?<br/>Or would the old, familiar round<br/>have held me by its claim<br/>and kept the spark within my heart<br/>from bursting into flame?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Would I have followed where you led<br/>through ancient Galilee,<br/>on roads unknown, by ways untried,<br/>beyond security?<br/>Or would I soon have hurried back<br/>where home and comfort drew,<br/>where truth you taught would not disturb<br/>the ordered world I knew?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Would I have matched my step with yours<br/>when crowds cried, 'Crucify!',<br/>when on a rocky hill I saw a cross<br/>against the sky?<br/>Or would I too have slipped away<br/>and left you there alone,<br/>a dying king with crown of thorns<br/>upon a terrible throne?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O Christ, I cannot search my heart<br/>through all its tangled ways,<br/>nor can I with a certain mind<br/>my steadfastness appraise.<br/>I only pray that when you call,<br/>'Come follow, follow me!',<br/>you'll give me strength beyond my own<br/>to follow faithfully.</lines>
+    </verse>
+  </lyrics>
+</song>

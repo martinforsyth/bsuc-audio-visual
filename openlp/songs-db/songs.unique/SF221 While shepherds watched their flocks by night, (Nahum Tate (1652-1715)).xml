@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:58">
+  <properties>
+    <titles>
+      <title>SF221 While shepherds watched their flocks by night,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Nahum Tate (1652-1715)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>While shepherds watched their flocks by night,<br/>all seated on the ground,<br/>the angel of the Lord came down,<br/>and glory shone around.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Fear not,' said he (for mighty dread<br/>had seized their troubled mind),<br/>'glad tidings of great joy I bring<br/>to you and humankind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'To you in David's town this day<br/>is born of David's line<br/>a Saviour, who is Christ the Lord;<br/>and this shall be the sign:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>'The heavenly babe you there shall find<br/>to human view displayed,<br/>all meanly wrapped in swaddling bands,<br/>and in a manger laid.'</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thus spake the seraph;and forthwith<br/>appeared a shining throng<br/>of angels praising God, and thus<br/>addressed their joyful song:</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>'All glory be to God on high,<br/>and to the world be peace;<br/>goodwill henceforth from heaven to earth<br/>begin and never cease.'</lines>
+    </verse>
+  </lyrics>
+</song>

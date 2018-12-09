@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:47">
+  <properties>
+    <titles>
+      <title>SF97 When all your mercies, O my God,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Joseph Addison (1672-1719)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When all your mercies, O my God,<br/>my rising soul surveys,<br/>transported with the view, I'm lost<br/>in wonder, love, and praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Unnumbered comforts on my soul<br/>your tender care bestowed,<br/>before my infant heart conceived<br/>from whom those comforts flowed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Ten thousand thousand precious gifts<br/>my daily thanks employ,<br/>nor is the least a cheerful heart<br/>that tastes those gifts with joy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Through every period of my life<br/>your goodness I'll pursue,<br/>and after death, in distant worlds,<br/>the glorious theme renew.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Through all eternity to you<br/>a joyful song I'll raise;<br/>for O eternity's too short<br/>to utter all your praise!</lines>
+    </verse>
+  </lyrics>
+</song>

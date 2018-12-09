@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:59">
+  <properties>
+    <titles>
+      <title>SF246 He came to earth in poverty,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Martin Leckebusch (b. 1962)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He came to earth in poverty,<br/>a child uniquely holy,<br/>forsaking heaven's majesty<br/>to live among the lowly:<br/>Emmanuel means God has come,<br/>a child of human birth --<br/>and here with us he made his home,<br/>the Son of God on earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A servant toiling with his hands,<br/>his sovereignty concealing,<br/>our daily lives he understands<br/>with perfect fellow-feeling:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In meek obedience stooping down<br/>to taste humiliation,<br/>he freely took a thorny crown<br/>for reconciliation:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Emmanuel! Our God is near,<br/>our every sorrow sharing:<br/>he knows our feelings -- he is here,<br/>our human frailty bearing:</lines>
+    </verse>
+  </lyrics>
+</song>

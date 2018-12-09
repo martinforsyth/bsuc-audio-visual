@@ -9,13 +9,17 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>We sing of your glory,<br/>we praise you again,<br/>for you are eternal. Amen. Amen.
+    <verse name="v1">
+      <lines><br/>We sing of your glory,<br/>we praise you again,<br/>for you are eternal. Amen. Amen.</lines>
     </verse>
-    <verse name="v2"><br/>We sing of your power<br/>and honour again,<br/>for you are eternal. Amen. Amen.
+    <verse name="v2">
+      <lines><br/>We sing of your power<br/>and honour again,<br/>for you are eternal. Amen. Amen.</lines>
     </verse>
-    <verse name="v3"><br/>We sing of surrender<br/>to you, God, again.<br/>Your power is eternal. Amen. Amen.
+    <verse name="v3">
+      <lines><br/>We sing of surrender<br/>to you, God, again.<br/>Your power is eternal. Amen. Amen.</lines>
     </verse>
-    <verse name="v4"><br/>'Glory in the highest,<br/>on earth,' sing again.<br/>Glory, alleluia. Amen. Amen.</verse>
+    <verse name="v4">
+      <lines><br/>'Glory in the highest,<br/>on earth,' sing again.<br/>Glory, alleluia. Amen. Amen.</lines>
+    </verse>
   </lyrics>
 </song>
-

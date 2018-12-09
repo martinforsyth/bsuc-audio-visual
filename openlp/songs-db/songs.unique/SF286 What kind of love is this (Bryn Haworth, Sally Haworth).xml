@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:11">
+  <properties>
+    <titles>
+      <title>SF286 What kind of love is this</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Bryn Haworth</author>
+      <author>Sally Haworth</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>What kind of love is this<br/>that gave itself for me?<br/>I am the guilty one,<br/>yet I go free.<br/>What kind of love is this,<br/>a love I've never known;<br/>I didn't even know his name --<br/>what kind of love is this?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>What kind of man is this,<br/>that died in agony?<br/>He who had done no wrong<br/>was crucified for me.<br/>What kind of man is this,<br/>who laid aside his throne<br/>that I may know the love of God --<br/>what kind of man is this?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>By grace I have been saved;<br/>it is the gift of God.<br/>He destined me to be his own<br/>such is his love.<br/>No eye has ever seen,<br/>no ear has ever heard,<br/>nor has the human heart conceived<br/>what kind of love is this?</lines>
+    </verse>
+  </lyrics>
+</song>

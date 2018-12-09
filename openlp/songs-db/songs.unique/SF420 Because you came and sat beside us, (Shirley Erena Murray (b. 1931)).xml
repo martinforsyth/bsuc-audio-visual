@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:11">
+  <properties>
+    <titles>
+      <title>SF420 Because you came and sat beside us,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Shirley Erena Murray (b. 1931)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Because you came and sat beside us,<br/>because you came and heard us speak,<br/>and we ignored you and we refused you,<br/>we ask forgiveness, Lord Jesus Christ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Because you laughed and loved the child-like,<br/>because you lived from day to day,<br/>and we love status and steady money,<br/>we ask forgiveness, Lord Jesus Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Because our peace was your agenda,<br/>because you wept to see us war,<br/>and we love power, and winning battles,<br/>we ask forgiveness, Lord Jesus Christ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Because your Cross compels an answer,<br/>because your love absorbs our sin,<br/>and we are wounded because we wound you,<br/>we ask forgiveness, Lord Jesus Christ.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Because you came on Easter morning,<br/>because you come at Pentecost,<br/>and in the Spirit, we are forgiven,<br/>we live to praise you, Lord Jesus Christ!</lines>
+    </verse>
+  </lyrics>
+</song>

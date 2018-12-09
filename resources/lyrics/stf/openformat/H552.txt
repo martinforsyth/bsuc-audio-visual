@@ -9,7 +9,8 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Here am I, Lord,<br/>I've come to do your will;<br/>here am I, Lord,<br/>in your presence I am still.</verse>
+    <verse name="v1">
+      <lines><br/>Here am I, Lord,<br/>I've come to do your will;<br/>here am I, Lord,<br/>in your presence I am still.</lines>
+    </verse>
   </lyrics>
 </song>
-

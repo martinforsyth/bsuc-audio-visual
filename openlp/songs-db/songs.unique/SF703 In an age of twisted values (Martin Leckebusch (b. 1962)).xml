@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:41">
+  <properties>
+    <titles>
+      <title>SF703 In an age of twisted values</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Martin Leckebusch (b. 1962)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In an age of twisted values<br/>we have lost the truth we need;<br/>in sophisticated language<br/>we have justified our greed;<br/>by our struggle for possessions<br/>we have robbed the poor and weak --<br/>hear our cry and heal our nations:<br/>your forgiveness, Lord, we seek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We have built discrimination<br/>on our prejudice and fear;<br/>hatred swiftly turns to cruelty<br/>if we hold resentments dear.<br/>For communities divided<br/>by the walls of class and race<br/>hear our cry and heal our nations:<br/>show us, Lord, your love and grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When our families are broken;<br/>when our homes are full of strife;<br/>when our children are bewildered,<br/>when they lose their way in life;<br/>when we fail to give the aged<br/>all the care we know we should --<br/>hear our cry and heal our nations<br/>with your tender fatherhood.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We who hear your word so often<br/>choose so rarely to obey;<br/>turn us from our wilful blindness,<br/>give us truth to light our way.<br/>In the power of your Spirit<br/>come to cleanse us, make us new:<br/>hear our cry and heal our nations<br/>till our nations honour you.</lines>
+    </verse>
+  </lyrics>
+</song>

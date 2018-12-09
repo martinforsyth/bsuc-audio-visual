@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:43">
+  <properties>
+    <titles>
+      <title>SF723 Who can sound the depths of sorrow</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Graham Kendrick (b. 1950)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Who can sound the depths of sorrow<br/>in the Father heart of God,<br/>for the children we've rejected,<br/>for the lives so deeply scarred?<br/>And each light that we've extinguished<br/>has brought darkness to our land:<br/>upon our nation, upon our nation,<br/>have mercy, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We have scorned the truth you gave us,<br/>we have bowed to other lords.<br/>We have sacrificed the children<br/>on the altars of our gods.<br/>O let truth again shine on us,<br/>let your holy fear descend:<br/>upon our nation, upon our nation,<br/>have mercy, Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Who can stand before your anger?<br/>Who can face your piercing eyes?<br/>For you love the weak and helpless,<br/>and you hear the victims' cries.<br/>Yes, you are a God of justice,<br/>and your judgement surely comes:<br/>upon our nation, upon our nation,<br/>have mercy, Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Who will stand against the violence?<br/>Who will comfort those who mourn?<br/>In an age of cruel rejection,<br/>who will build for love a home?<br/>Come and shake us into action,<br/>come and melt our hearts of stone:<br/>upon your people, upon your people,<br/>have mercy, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

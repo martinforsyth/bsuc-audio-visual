@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:32">
+  <properties>
+    <titles>
+      <title>SF634 Fight the good fight with all your might;</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John Samuel Bewley Monsell (1811-1875)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Fight the good fight with all your might;<br/>Christ is your strength, and Christ your right;<br/>lay hold on life, and it shall be<br/>your joy and crown eternally.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Run the straight race through God's good grace,<br/>lift up your eyes, and seek his face;<br/>life with its way before you lies;<br/>Christ is the path, and Christ the prize.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Cast care aside;upon your guide<br/>lean, and his mercy will provide;<br/>lean, and the trusting soul shall prove<br/>Christ is its life, and Christ its love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Faint not nor fear, his arm is near;<br/>he changes not, and you are dear;<br/>only believe, and prove it true<br/>that Christ is all in all to you.</lines>
+    </verse>
+  </lyrics>
+</song>

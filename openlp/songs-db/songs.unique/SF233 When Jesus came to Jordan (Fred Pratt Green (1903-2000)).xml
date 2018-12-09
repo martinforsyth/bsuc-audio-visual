@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:58">
+  <properties>
+    <titles>
+      <title>SF233 When Jesus came to Jordan</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Fred Pratt Green (1903-2000)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When Jesus came to Jordan<br/>to be baptised by John,<br/>he did not come for pardon,<br/>but as his Father's Son.<br/>He came to share repentance<br/>with all who mourn their sins,<br/>to speak the vital sentence<br/>with which good news begins.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He came to share temptation,<br/>our utmost woe and loss,<br/>for us and our salvation<br/>to die upon the cross.<br/>So when the Dove descended<br/>on him, the Son of Man,<br/>the hidden years had ended,<br/>the age of grace began.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come, Holy Spirit, aid us<br/>to keep the vows we make;<br/>this very day invade us,<br/>and every bondage break.<br/>Come, give our lives direction,<br/>the gift we covet most:<br/>to share the resurrection<br/>that leads to Pentecost.</lines>
+    </verse>
+  </lyrics>
+</song>

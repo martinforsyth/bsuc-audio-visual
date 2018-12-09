@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:25">
+  <properties>
+    <titles>
+      <title>SF560 My eyes be open to your presence,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Nick Haigh</author>
+      <author>Anita Haigh</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My eyes be open to your presence,<br/>my ears to hear your call.<br/>My heart be open to your love<br/>and in your arms to fall.<br/>My mind be open to your word,<br/>my soul to heaven's cure,<br/>that I be open to you, Lord,<br/>this day and evermore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My life be open to your leading,<br/>my hands to do your will.<br/>My lips be open in your praise<br/>and for your truth to tell.<br/>My home be open in your name<br/>for weary ones and poor,<br/>that I be open to you, Lord,<br/>this day and evermore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>My door be open to the other<br/>wherever we may meet.<br/>My arms be open to the one<br/>in whom I am complete.<br/>My self be open to your world<br/>and in it see your face,<br/>that I be open to you, Lord,<br/>held fast in your embrace.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:03">
+  <properties>
+    <titles>
+      <title>SF278 O Love divine, what have you done!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Love divine, what have you done!<br/>The immortal God has died for me!<br/>The Father's co-eternal Son<br/>bore all my sins upon the tree;<br/>the immortal God for me has died!<br/>My Lord, my Love is crucified.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O look on him, as you pass by;<br/>the wounded Prince of Life and peace!<br/>Come, sinners, see your Maker die,<br/>and say, was ever grief like his?<br/>Come, feel with me his blood applied:<br/>my Lord, my Love is crucified:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Is crucified for me and you<br/>to bring us rebels back to God:<br/>believe, believe the record true,<br/>we all are saved by Jesu's blood!<br/>Pardon for all flows from his side:<br/>my Lord, my Love is crucified.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then let us stand beneath the cross,<br/>and feel his love a healing stream,<br/>all things for him account but loss,<br/>and give up all our hearts to him;<br/>of nothing think or speak beside:<br/>my Lord, my Love is crucified.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:12">
+  <properties>
+    <titles>
+      <title>SF290 Who would ever have believed it?</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949) </author>
+      <author>Graham Maule (b. 1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Who would ever have believed it?<br/>Who could ever have conceived it?<br/>Who dared trace God's hand behind it<br/>when a servant came among us?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Like a sapling in dry soil,<br/>he was rooted in our presence;<br/>lacking beauty, grace and splendour,<br/>no one felt attracted to him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We despised him, we disowned him,<br/>though he clearly hurt and suffered:<br/>we, believing he was worthless,<br/>never turned our eyes towards him.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Yet it was the pain and torment<br/>we deserved which he accepted,<br/>while we reckoned his afflictions<br/>must have come by heaven's instruction.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Though our sins let him be wounded,<br/>though our cruelty left him beaten,<br/>yet, through how and why he suffered,<br/>God revealed our hope of healing.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>We, like sheep despite our wisdom,<br/>all had wandered from God's purpose;<br/>and our due in pain and anger<br/>God let fall on one among us.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Who would ever have believed it?<br/>Who could ever have conceived it?<br/>Who dared trace God's hand behind it<br/>when a servant came among us?</lines>
+    </verse>
+  </lyrics>
+</song>

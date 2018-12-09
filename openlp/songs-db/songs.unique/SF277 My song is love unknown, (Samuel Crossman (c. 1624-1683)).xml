@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:02">
+  <properties>
+    <titles>
+      <title>SF277 My song is love unknown,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Samuel Crossman (c. 1624-1683)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My song is love unknown,<br/>my Saviour's love to me,<br/>love to the loveless shown,<br/>that they might lovely be.<br/>O who am I,<br/>that for my sake<br/>my Lord should take<br/>frail flesh and die?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He came from his blest throne,<br/>salvation to bestow;<br/>but they made strange, and none<br/>the longed-for Christ would know.<br/>But O my Friend,<br/>my Friend indeed,<br/>who at my need<br/>his life did spend!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Sometimes they strew his way,<br/>and his sweet praises sing;<br/>resounding all the day<br/>hosannas to their King.<br/>Then 'Crucify!'<br/>is all their breath,<br/>and for his death<br/>they thirst and cry.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Why, what has my Lord done?<br/>What makes this rage and spite?<br/>He made the lame to run,<br/>he gave the blind their sight.<br/>Sweet injuries!<br/>Yet they at these<br/>themselves displease,<br/>and 'gainst him rise.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>They rise, and needs will have<br/>my dear Lord made away;<br/>a murderer they save,<br/>the Prince of Life they slay.<br/>Yet cheerful he<br/>to suffering goes,<br/>that he his foes<br/>from thence might free.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>In life no house, no home,<br/>my Lord on earth might have;<br/>in death, no friendly tomb<br/>but what a stranger gave.<br/>What may I say?<br/>Heaven was his home;<br/>but mine the tomb<br/>wherein he lay.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Here might I stay and sing,<br/>no story so divine:<br/>never was love, dear King,<br/>never was grief like thine!<br/>This is my Friend,<br/>in whose sweet praise<br/>I all my days<br/>could gladly spend.</lines>
+    </verse>
+  </lyrics>
+</song>

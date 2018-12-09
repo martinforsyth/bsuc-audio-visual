@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:13">
+  <properties>
+    <titles>
+      <title>SF437 When the music fades,</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Matt Redman (b. 1974)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When the music fades,<br/>all is stripped away<br/>and I simply come;<br/>longing just to bring<br/>something that's of worth,<br/>that will bless your heart.<br/>I'll bring you more than a song,<br/>for a song in itself<br/>is not what you have required.<br/>You search much deeper within<br/>through the way things appear,<br/>you're looking into my heart.<br/>I'm coming back to the heart of worship,<br/>and it's all about you,<br/>all about you, Jesus.<br/>I'm sorry, Lord, for the thing I've made it,<br/>when it's all about you,<br/>all about you, Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>King of endless worth,<br/>no-one could express<br/>how much you deserve.<br/>Though I'm weak and poor,<br/>all I have is yours,<br/>every single breath.<br/>I'll bring you more than a song,<br/>for a song in itself<br/>is not what you have required.<br/>You search much deeper within<br/>through the way things appear,<br/>you're looking into my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

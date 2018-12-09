@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:16:39">
+  <properties>
+    <titles>
+      <title>SF74 For the music of creation,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Shirley Erena Murray (b. 1931)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>For the music of creation,<br/>for the song your Spirit sings,<br/>for your sound's divine expression,<br/>burst of joy in living things:<br/>God, our God, the world's composer,<br/>hear us, echoes of your voice --<br/>music is your art, your glory,<br/>let the human heart rejoice!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Psalms and symphonies exalt you,<br/>drum and trumpet, string and reed,<br/>simple melodies acclaim you,<br/>tunes that rise from deepest need,<br/>hymns of longing and belonging,<br/>carols from a cheerful throat,<br/>lilt of lullaby and love song<br/>catching heaven in a note.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All the voices of the ages<br/>in transcendent chorus meet,<br/>worship lifting up the senses,<br/>hands that praise, and dancing feet;<br/>over discord and division<br/>music speaks your joy and peace,<br/>harmony of earth and heaven,<br/>song of God that cannot cease!</lines>
+    </verse>
+  </lyrics>
+</song>

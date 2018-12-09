@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:45">
+  <properties>
+    <titles>
+      <title>SF736 In heavenly love abiding,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Anna Laetitia Waring (1823-1910)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In heavenly love abiding,<br/>no change my heart shall fear;<br/>and safe is such confiding,<br/>for nothing changes here:<br/>the storm may roar without me,<br/>my heart may low be laid;<br/>but God is round about me,<br/>and can I be dismayed?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Wherever he may guide me,<br/>no want shall turn me back;<br/>my Shepherd is beside me,<br/>and nothing can I lack:<br/>his wisdom ever waketh,<br/>his sight is never dim;<br/>he knows the way he taketh,<br/>and I will walk with him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Green pastures are before me,<br/>which yet I have not seen;<br/>bright skies will soon be o'er me,<br/>where darkest clouds have been;<br/>my hope I cannot measure,<br/>my path to life is free;<br/>my Saviour has my treasure,<br/>and he will walk with me.</lines>
+    </verse>
+  </lyrics>
+</song>

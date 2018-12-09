@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:10">
+  <properties>
+    <titles>
+      <title>SF417 We come from the mountains, the valleys and plains,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>S. T. Kimbrough, Jr.</author>
+      <author>Jorge Lockward</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We come from the mountains, the valleys and plains,<br/>the cities and farmlands awaiting the rains.<br/>Our cultures are many, our tongues even more;<br/>our colours the rainbow from God's artful store.<br/>In mission together we all join our hands,<br/>in mission together throughout many lands.<br/>With our hearts united our voices we raise<br/>to God our Creator in glorious praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Though different in culture and modes of our dress,<br/>though strange seem our language we boldly confess<br/>that we are united:one people, one voice.<br/>We're God's own creation by God's sacred choice.<br/>Refrain</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In Christ we're united, all barriers fall;<br/>there's no favoured gender, one family for all:<br/>oppressed, rich, and needy, the weak and the strong;<br/>one family, one people, to God all belong.</lines>
+    </verse>
+  </lyrics>
+</song>

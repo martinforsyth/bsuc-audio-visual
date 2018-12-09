@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:21">
+  <properties>
+    <titles>
+      <title>SF525 'Look around you, can you see?</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Jodi Page Clark (b. 1941)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>'Look around you, can you see?<br/>Times are troubled, people grieve.<br/>See the violence, feel the hardness;<br/>all my people, weep with me.'<br/>Kyrie eleison, Christe eleison,<br/>Kyrie eleison.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Walk among them, I'll go with you.<br/>Reach out to them with my hands.<br/>Suffer with me, and together<br/>we will serve them, help them stand.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Forgive us, Father;hear our prayer.<br/>We would walk with you anywhere,<br/>through your suffering, with forgiveness,<br/>take your life into the world.</lines>
+    </verse>
+  </lyrics>
+</song>

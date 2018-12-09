@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:50">
+  <properties>
+    <titles>
+      <title>SF773 Praise the Lover of Creation,</title>
+    </titles>
+    <verseOrder> v1</verseOrder>
+    <authors>
+      <author>Brian Wren (b. 1936)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Praise the Lover of Creation,<br/>praise the Spirit, Friend of Friends,<br/>praise the true Beloved, our Saviour,<br/>praise the God who makes and mends,<br/>strong, surrendered, many-splendoured,<br/>Three whose Oneness never ends.</lines>
+    </verse>
+  </lyrics>
+</song>

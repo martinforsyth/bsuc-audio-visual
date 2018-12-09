@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:18">
+  <properties>
+    <titles>
+      <title>SF361 Man of Sorrows! What a name</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Philipp Paul Bliss (1838-1876)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Man of Sorrows! What a name<br/>for the Son of God, who came<br/>ruined sinners to reclaim!<br/>Alleluia! What a Saviour!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Bearing shame and scoffing rude,<br/>in my place condemned he stood;<br/>sealed my pardon with his blood:<br/>Alleluia! What a Saviour!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Guilty, vile, and helpless we;<br/>spotless Lamb of God was he:<br/>full atonement, can it be?<br/>Alleluia! What a Saviour!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lifted up was he to die;<br/>'It is finished!' was his cry;<br/>now in heaven exalted high:<br/>Alleluia! What a Saviour!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>When he comes, our glorious King,<br/>all his ransomed home to bring,<br/>then anew this song we'll sing:<br/>Alleluia! What a Saviour!</lines>
+    </verse>
+  </lyrics>
+</song>

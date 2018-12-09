@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:37">
+  <properties>
+    <titles>
+      <title>SF671 What shall we offer our good Lord,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>August Gottlieb Spangenberg (1704-1792)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>What shall we offer our good Lord,<br/>poor nothings, for his boundless grace?<br/>Fain would we his great name record<br/>and worthily set forth his praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Great object of our growing love,<br/>to whom our more than all we owe,<br/>open the fountain from above,<br/>and let it our full souls o'erflow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Open a door which earth and hell<br/>may strive to shut, but strive in vain;<br/>let thy word richly in us dwell,<br/>and let our gracious fruit remain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O multiply the sower's seed!<br/>And fruit we every hour shall bear,<br/>throughout the world thy gospel spread,<br/>thy everlasting truth declare.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>So shall our lives thy power proclaim,<br/>thy grace for every sinner free;<br/>till all the world shall learn thy name,<br/>shall all stretch out their hands to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

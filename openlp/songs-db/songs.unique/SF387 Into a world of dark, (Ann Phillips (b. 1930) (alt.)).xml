@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:08">
+  <properties>
+    <titles>
+      <title>SF387 Into a world of dark,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Ann Phillips (b. 1930) (alt.)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Into a world of dark,<br/>waste and disordered space,<br/>he came, a wind that moved<br/>across the waters' face.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The Spirit in the wild<br/>breathed, and a world began;<br/>from shapelessness came form,<br/>from nothingness, a plan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Light in the darkness grew;<br/>land in the water stood;<br/>and space and time became<br/>a beauty that was good.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Into a world of doubt,<br/>through doors we closed, he came,<br/>the Breath of God in power<br/>like wind and roaring flame.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>From empty wastes of death,<br/>on love's disordered grief<br/>light in the darkness blazed,<br/>and kindled new belief.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Still, with creative power,<br/>God's Spirit comes to give<br/>a pattern of new life --<br/>our world begins to live.</lines>
+    </verse>
+  </lyrics>
+</song>

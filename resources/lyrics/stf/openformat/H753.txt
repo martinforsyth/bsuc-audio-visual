@@ -9,7 +9,8 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Glory to God, glory to God,<br/>glory in the highest!<br/>Glory to God, glory to God,<br/>glory in the highest!<br/>To God be glory for ever!<br/>To God be glory for ever!<br/>Alleluia! Amen.<br/>Alleluia! Amen.<br/>Alleluia! Amen.<br/>Alleluia! Amen.</verse>
+    <verse name="v1">
+      <lines><br/>Glory to God, glory to God,<br/>glory in the highest!<br/>Glory to God, glory to God,<br/>glory in the highest!<br/>To God be glory for ever!<br/>To God be glory for ever!<br/>Alleluia! Amen.<br/>Alleluia! Amen.<br/>Alleluia! Amen.<br/>Alleluia! Amen.</lines>
+    </verse>
   </lyrics>
 </song>
-

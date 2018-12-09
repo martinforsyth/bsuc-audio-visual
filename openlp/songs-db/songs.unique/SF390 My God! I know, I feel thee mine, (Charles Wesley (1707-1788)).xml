@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:08">
+  <properties>
+    <titles>
+      <title>SF390 My God! I know, I feel thee mine,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My God! I know, I feel thee mine,<br/>and will not quit my claim,<br/>till all I have is lost in thine<br/>and all renewed I am.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I hold thee with a trembling hand,<br/>but will not let thee go,<br/>till steadfastly by faith I stand<br/>and all thy goodness know.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When shall I see the welcome hour<br/>that plants my God in me --<br/>spirit of health, and life, and power,<br/>and perfect liberty?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus, thine all-victorious love<br/>shed in my heart abroad;<br/>then shall my feet no longer rove,<br/>rooted and fixed in God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O that in me the sacred fire<br/>might now begin to glow,<br/>burn up the dross of base desire,<br/>and make the mountains flow!</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O that it now from heaven might fall,<br/>and all my sins consume!<br/>Come, Holy Ghost, for thee I call,<br/>spirit of burning, come!</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Refining fire, go through my heart,<br/>illuminate my soul;<br/>scatter thy life through every part,<br/>and sanctify the whole.</lines>
+    </verse>
+  </lyrics>
+</song>

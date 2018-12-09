@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:10">
+  <properties>
+    <titles>
+      <title>SF412 See how great a flame aspires,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>See how great a flame aspires,<br/>kindled by a spark of grace!<br/>Jesu's love the nations fires,<br/>sets the kingdoms on a blaze.<br/>To bring fire on earth he came;<br/>kindled in some hearts it is:<br/>O that all might catch the flame,<br/>all partake the glorious bliss!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When he first the work begun,<br/>small and feeble was his day:<br/>now the word does swiftly run,<br/>now it wins its widening way;<br/>more and more it spreads and grows<br/>ever mighty to prevail;<br/>sin's strongholds it now o'erthrows,<br/>shakes the trembling gates of hell.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Heirs of God, your Saviour praise!<br/>He the door has opened wide;<br/>he has given the word of grace,<br/>Jesu's word is glorified;<br/>Jesus, mighty to redeem,<br/>he alone the work has wrought;<br/>worthy is the work of him,<br/>him who spoke a world from nought.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Saw you not the cloud arise,<br/>little as a human hand?<br/>Now it spreads along the skies,<br/>hangs o'er all the thirsty land:<br/>lo, the promise of a shower<br/>drops already from above;<br/>but the Lord will shortly pour<br/>all the Spirit of his love!</lines>
+    </verse>
+  </lyrics>
+</song>

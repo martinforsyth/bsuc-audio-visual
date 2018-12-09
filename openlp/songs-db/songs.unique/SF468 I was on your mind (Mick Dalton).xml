@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:15">
+  <properties>
+    <titles>
+      <title>SF468 I was on your mind</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Mick Dalton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I was on your mind<br/>long before you formed the earth.<br/>By your grace you gave me life;<br/>I was on your mind.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Take me by the hand,<br/>lead me down your paths of truth.<br/>Mark my ways with peace and love;<br/>I am on your mind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>You know all my thoughts and ways,<br/>show me more of yours.<br/>All I am is all I have,<br/>in this gift of life.</lines>
+    </verse>
+  </lyrics>
+</song>

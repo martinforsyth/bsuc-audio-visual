@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
+  <properties>
+    <titles>
+      <title>SF779 Holy, holy, holy.</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Holy, holy, holy.<br/>With joy my heart adores you!<br/>My heart cries out to worship you:<br/>holy are you, Lord!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Santo, santo, santo.<br/>!Mi corazon te adora!<br/>!Mi corazon te sabe decir:<br/>!santo eres Senor!</lines>
+    </verse>
+  </lyrics>
+</song>

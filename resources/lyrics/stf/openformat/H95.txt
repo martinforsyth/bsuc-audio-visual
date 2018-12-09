@@ -9,13 +9,17 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>We praise you, O God;acclaim you as Lord.<br/>All of creation resounds to the voice of the heavenly host<br/>united in song,<br/>praising your majesty, praising your glory.<br/>Alleluia, alleluia.<br/>Holy is God, holy and strong.<br/>Alleluia, alleluia.<br/>Holy Immortal One.
+    <verse name="v1">
+      <lines><br/>We praise you, O God;acclaim you as Lord.<br/>All of creation resounds to the voice of the heavenly host<br/>united in song,<br/>praising your majesty, praising your glory.<br/>Alleluia, alleluia.<br/>Holy is God, holy and strong.<br/>Alleluia, alleluia.<br/>Holy Immortal One.</lines>
     </verse>
-    <verse name="v2"><br/>Apostles and prophets, the martyrs for Christ,<br/>sing of your goodness while bathed in the beams of your infinite love,<br/>your splendour and light,
+    <verse name="v2">
+      <lines><br/>Apostles and prophets, the martyrs for Christ,<br/>sing of your goodness while bathed in the beams of your infinite love,<br/>your splendour and light,</lines>
     </verse>
-    <verse name="v3"><br/>Lord Jesus the Christ, your death brings us life.<br/>Come with your judgment and grant us a place in the Kingdom of God,<br/>at one with your saints,
+    <verse name="v3">
+      <lines><br/>Lord Jesus the Christ, your death brings us life.<br/>Come with your judgment and grant us a place in the Kingdom of God,<br/>at one with your saints,</lines>
     </verse>
-    <verse name="v4"><br/>Lord, grant us salvation, protect us from harm.<br/>Free us from evil and bless us with mercy as daily in you<br/>we trust and we hope,</verse>
+    <verse name="v4">
+      <lines><br/>Lord, grant us salvation, protect us from harm.<br/>Free us from evil and bless us with mercy as daily in you<br/>we trust and we hope,</lines>
+    </verse>
   </lyrics>
 </song>
-

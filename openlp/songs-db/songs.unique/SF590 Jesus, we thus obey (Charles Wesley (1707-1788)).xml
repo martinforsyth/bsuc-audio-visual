@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:27">
+  <properties>
+    <titles>
+      <title>SF590 Jesus, we thus obey</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, we thus obey<br/>your last and kindest word;<br/>here, in your own appointed way,<br/>we come to meet you, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our hearts we open wide<br/>to make the Saviour room;<br/>and lo! the Lamb, the Crucified,<br/>the sinners' friend, is come!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>His presence makes the feast;<br/>and now our spirits feel<br/>the glory not to be expressed,<br/>the joy unspeakable.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>With pure celestial bliss<br/>he does our spirits cheer;<br/>his house of banqueting is this,<br/>and he has brought us here.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Whate'er the Almighty can<br/>to pardoned sinners give,<br/>the fullness of our God made man<br/>we here in Christ receive.</lines>
+    </verse>
+  </lyrics>
+</song>

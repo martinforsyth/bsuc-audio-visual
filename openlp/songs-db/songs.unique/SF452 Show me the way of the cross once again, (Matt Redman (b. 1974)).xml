@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:14">
+  <properties>
+    <titles>
+      <title>SF452 Show me the way of the cross once again,</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Matt Redman (b. 1974)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Show me the way of the cross once again,<br/>denying myself for the love that I've gained.<br/>Everything's you now, everything's changed;<br/>it's time you had my whole life,<br/>you can have it all.<br/>Yes, I resolve to give it all;<br/>some things must die, some things must live,<br/>not 'what can I gain,' but 'what can I give.'<br/>If much is required when much is received,<br/>then you can have my whole life,<br/>Jesus, have it all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I've given like a beggar but lived like the rich,<br/>and crafted myself a more comfortable cross.<br/>Yet what I am called to is deeper than this;<br/>it's time you had my whole life,<br/>you can have it all.</lines>
+    </verse>
+  </lyrics>
+</song>

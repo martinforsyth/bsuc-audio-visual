@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:48">
+  <properties>
+    <titles>
+      <title>SF114 Oh the life of the world is a joy and a treasure,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Kathy Galloway (b. 1952)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Oh the life of the world is a joy and a treasure,<br/>unfolding in beauty the green-growing tree,<br/>the changing of seasons in mountain and valley,<br/>the stars and the bright restless sea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Oh the life of the world is a fountain of goodness<br/>overflowing in labour and passion and pain,<br/>in the sound of the city and the silence of wisdom,<br/>in the birth of a child once again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Oh the life of the world is the source of our healing.<br/>It rises in laughter and wells up in song;<br/>it springs from the care of the poor and the broken<br/>and refreshes where justice is strong.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>So give thanks for the life and give love to the maker,<br/>and rejoice in the gift of the bright risen Son,<br/>and walk in the peace and the power of the Spirit<br/>till the days of our living are done.</lines>
+    </verse>
+  </lyrics>
+</song>

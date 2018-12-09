@@ -9,7 +9,8 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>May the love of the Lord rest upon your soul.<br/>May his love dwell in you throughout every day.<br/>May his countenance shine upon you and be gracious to you.<br/>May his Spirit be upon you as you leave this place.</verse>
+    <verse name="v1">
+      <lines><br/>May the love of the Lord rest upon your soul.<br/>May his love dwell in you throughout every day.<br/>May his countenance shine upon you and be gracious to you.<br/>May his Spirit be upon you as you leave this place.</lines>
+    </verse>
   </lyrics>
 </song>
-

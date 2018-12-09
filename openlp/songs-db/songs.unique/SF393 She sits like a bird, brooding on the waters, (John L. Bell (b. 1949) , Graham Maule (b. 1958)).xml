@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:09">
+  <properties>
+    <titles>
+      <title>SF393 She sits like a bird, brooding on the waters,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949) </author>
+      <author>Graham Maule (b. 1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>She sits like a bird, brooding on the waters,<br/>hovering on the chaos of the world's first day;<br/>she sighs and she sings, mothering creation,<br/>waiting to give birth to all the Word will say.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>She wings over earth, resting where she wishes,<br/>lighting close at hand or soaring through the skies;<br/>she nests in the womb, welcoming each wonder,<br/>nourishing potential hidden to our eyes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>She dances in fire, startling her spectators,<br/>waking tongues of ecstasy where dumbness reigned;<br/>she weans and inspires all whose hearts are open,<br/>nor can she be captured, silenced, or restrained.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For she is the Spirit, one with God in essence,<br/>gifted by the Saviour in eternal love;<br/>and she is the key opening the scriptures,<br/>enemy of apathy and heavenly dove.</lines>
+    </verse>
+  </lyrics>
+</song>

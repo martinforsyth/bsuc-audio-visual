@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:15">
+  <properties>
+    <titles>
+      <title>SF323 I will sing the wondrous story</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Francis Harold Rowley (1854-1952)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I will sing the wondrous story<br/>of the Christ who died for me,<br/>how he left the realms of glory<br/>for the cross on Calvary:<br/>Yes, I'll sing the wondrous story<br/>of the Christ who died for me,<br/>sing it with his saints in glory,<br/>gathered by the crystal sea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I was lost;but Jesus found me,<br/>found the sheep that went astray,<br/>raised me up, and gently led me<br/>back into the narrow way:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Faint was I, and fears possessed me,<br/>bruised was I from many a fall;<br/>hope was gone, and shame distressed me;<br/>but his love has pardoned all:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Days of darkness still come o'er me;<br/>sorrow's paths I often tread;<br/>but the Saviour still is with me,<br/>by his hand I'm safely led:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>He will keep me till the river<br/>rolls its waters at my feet;<br/>then he'll bear me safely over,<br/>where the loved ones I shall meet:</lines>
+    </verse>
+  </lyrics>
+</song>

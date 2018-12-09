@@ -9,9 +9,11 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Holy, holy, holy Lord, God of power and might.<br/>Heaven and earth are full of your glory.<br/>Hosanna in the highest.
+    <verse name="v1">
+      <lines><br/>Holy, holy, holy Lord, God of power and might.<br/>Heaven and earth are full of your glory.<br/>Hosanna in the highest.</lines>
     </verse>
-    <verse name="v2"><br/>Blessed is he,<br/>O blessed is he who comes in the name of the Lord.<br/>Hosanna in the highest,<br/>hosanna in the highest.</verse>
+    <verse name="v2">
+      <lines><br/>Blessed is he,<br/>O blessed is he who comes in the name of the Lord.<br/>Hosanna in the highest,<br/>hosanna in the highest.</lines>
+    </verse>
   </lyrics>
 </song>
-

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:49">
+  <properties>
+    <titles>
+      <title>SF120 We gladly celebrate and praise,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Alan Gaunt (b. 1935)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We gladly celebrate and praise,<br/>the gift so great and good,<br/>through which God's kindness is made known:<br/>the gift of motherhood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We sing of Mary's mother-love:<br/>for she, of all on earth,<br/>received the privilege to bear<br/>and bring God's Son to birth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We pray that God's own mother-love<br/>will hold in gentleness,<br/>all children who have never known<br/>a mother's tenderness.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For mothers, who with broken hearts,<br/>are faced with grief and loss,<br/>we pray the Son of God will give<br/>deep comfort from his cross.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>We trust the mother-love of God,<br/>who bears, in Mary's boy,<br/>our pain and sorrow, to secure<br/>our everlasting joy.</lines>
+    </verse>
+  </lyrics>
+</song>

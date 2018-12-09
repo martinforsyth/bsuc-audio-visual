@@ -9,9 +9,11 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>all   Wa wa wa Emimimo,<br/>cantor   Emioloye.<br/>all   Wa wa wa Alagbara,<br/>cantor   Alagbarameta.<br/>all   Wao, wao, wao.<br/>cantor   Emimimo.
+    <verse name="v1">
+      <lines><br/>all   Wa wa wa Emimimo,<br/>cantor   Emioloye.<br/>all   Wa wa wa Alagbara,<br/>cantor   Alagbarameta.<br/>all   Wao, wao, wao.<br/>cantor   Emimimo.</lines>
     </verse>
-    <verse name="v2"><br/>all   Come, O Holy Spirit, come,<br/>cantor   Holy Spirit come.<br/>all   Come, almighty Spirit, come,<br/>cantor   almighty Spirit, come.<br/>all   Come, come, come.<br/>cantor   O Spirit, come.</verse>
+    <verse name="v2">
+      <lines><br/>all   Come, O Holy Spirit, come,<br/>cantor   Holy Spirit come.<br/>all   Come, almighty Spirit, come,<br/>cantor   almighty Spirit, come.<br/>all   Come, come, come.<br/>cantor   O Spirit, come.</lines>
+    </verse>
   </lyrics>
 </song>
-

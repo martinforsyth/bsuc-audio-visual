@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:16:39">
+  <properties>
+    <titles>
+      <title>SF71 Even as the world began,</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Matt Redman (b. 1974) </author>
+      <author>Martin J. Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Even as the world began,<br/>the stars they sang<br/>and all the angels shouted for joy, shouted for joy.<br/>And looking back through history,<br/>your people they have always had<br/>a song they must sing, a song they must sing.<br/>We are the people of God;<br/>we'll sing your song here on the earth.<br/>All over the world, your song will resound.<br/>All over the world, your praises ring out.<br/>We're living to see your name and renown<br/>all over the world.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Young and old, near and far,<br/>there's a place for every heart to join in your song,<br/>join in your song.<br/>Every nation, tribe and tongue<br/>come together, join as one,<br/>give glory to God, give glory to God.<br/>We are the people of God;<br/>we'll sing your song here on the earth.<br/>Refrain<br/>Great is your name<br/>and great will be your song.<br/>Great is your name<br/>and great will be your song.<br/>We lift up our hands and pray,<br/>we lift up our hands and pray,<br/>for holy is your name.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T18:42:38">
+  <properties>
+    <titles>
+      <title>SF9 Hail! Holy, holy, holy Lord!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hail! Holy, holy, holy Lord!<br/>whom One in Three we know;<br/>by all thy heavenly host adored,<br/>by all thy Church below.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>One undivided Trinity<br/>with triumph we proclaim;<br/>thy universe is full of thee,<br/>and speaks thy glorious name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Thee, holy Father, we confess,<br/>thee, holy Son, adore,<br/>thee, Spir't of truth and holiness,<br/>we worship evermore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Three Persons equally divine<br/>we magnify and love;<br/>and both the choirs ere long shall join<br/>to sing thy praise above:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Hail! Holy, holy, holy Lord,<br/>our heavenly song shall be,<br/>supreme, essential One, adored<br/>in co-eternal Three.</lines>
+    </verse>
+  </lyrics>
+</song>

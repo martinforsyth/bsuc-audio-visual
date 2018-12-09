@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:11">
+  <properties>
+    <titles>
+      <title>SF423 'Forgive our sins as we forgive,'</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Rosamond Eleanor Herklots (1905-1987)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>'Forgive our sins as we forgive,'<br/>you taught us, Lord, to pray,<br/>but you alone can grant us grace<br/>to live the words we say.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>How can your pardon reach and bless<br/>the unforgiving heart<br/>that broods on wrongs, and will not let<br/>old bitterness depart?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In blazing light your cross reveals<br/>the truth we dimly knew,<br/>how small the debts are owed to us,<br/>how great our debt to you!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord, cleanse the depths within our souls,<br/>and bid resentment cease;<br/>then, reconciled by God to all,<br/>our lives will spread your peace.</lines>
+    </verse>
+  </lyrics>
+</song>

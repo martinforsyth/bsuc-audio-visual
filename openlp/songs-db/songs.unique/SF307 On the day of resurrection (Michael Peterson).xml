@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:13">
+  <properties>
+    <titles>
+      <title>SF307 On the day of resurrection</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Michael Peterson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>On the day of resurrection<br/>to Emmaus we return;<br/>while confused, amazed, and frightened,<br/>Jesus comes to us, unknown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Then the stranger asks a question,<br/>'What is this which troubles you?'<br/>Meets us in our pain and suffering;<br/>Jesus walks with us, unknown.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In our trouble, words come from him;<br/>burning fire within our hearts<br/>tells to us the scripture's meaning.<br/>Jesus speaks to us, unknown.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then we near our destination.<br/>Then we ask the stranger in,<br/>and he yields unto our urging;<br/>Jesus stays with us, unknown.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Day of sorrow is forgotten<br/>when the guest becomes the host.<br/>Taking bread and blessing, breaking,<br/>Jesus is himself made known.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Opened eyes, renewed convictions,<br/>journey back to scenes of pain;<br/>telling all that Christ is risen.<br/>Jesus is through us made known.</lines>
+    </verse>
+  </lyrics>
+</song>

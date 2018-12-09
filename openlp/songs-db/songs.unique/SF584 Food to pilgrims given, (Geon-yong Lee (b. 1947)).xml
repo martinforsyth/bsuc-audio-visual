@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:26">
+  <properties>
+    <titles>
+      <title>SF584 Food to pilgrims given,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Geon-yong Lee (b. 1947)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Food to pilgrims given,<br/>strength upon the way;<br/>bread come down from heaven --<br/>Christ is ours today!<br/>Feed us now, O Lord,<br/>with this holy food --<br/>let your kingdom come, O Lord,<br/>let your kingdom come;<br/>let your kingdom come, O Lord,<br/>let your kingdom come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Streams of grace are flowing --<br/>life from death for me;<br/>truth and goodness growing<br/>for eternity.<br/>Cleanse my soul, O Lord,<br/>with your precious blood --<br/>let your will be done, O Lord,<br/>let your will be done;<br/>let your will be done, O Lord,<br/>let your will be done.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I receive your blessing --<br/>Jesus, king divine;<br/>all your love confessing<br/>in this bread and wine.<br/>Send me out, O Lord,<br/>holy, pure and good,<br/>till the world is won, O Lord,<br/>till the world is won;<br/>till the world is won, O Lord,<br/>till the world is won.</lines>
+    </verse>
+  </lyrics>
+</song>

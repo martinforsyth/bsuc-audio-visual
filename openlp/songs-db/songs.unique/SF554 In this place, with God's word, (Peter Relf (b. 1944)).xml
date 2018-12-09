@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:24">
+  <properties>
+    <titles>
+      <title>SF554 In this place, with God's word,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Peter Relf (b. 1944)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In this place, with God's word,<br/>what we've hoped is now made true.<br/>Prophets' dreams we have heard;<br/>now they're real, O Christ, in you!<br/>Immanuel, you are here --<br/>God with us, with each one!<br/>Amazing love! Now it's clear<br/>God's welcome year is begun!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>At this time, here and now,<br/>longing hearts no longer wait.<br/>Christ himself shows us how<br/>love divine melts fear and hate.<br/>Refrain</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In my life, in my heart,<br/>Christ comes with the Spirit's fire!<br/>This is God's brand new start,<br/>giving me my heart's desire!<br/>Refrain<br/>In this place, at this time,<br/>in my life, Immanuel.</lines>
+    </verse>
+  </lyrics>
+</song>

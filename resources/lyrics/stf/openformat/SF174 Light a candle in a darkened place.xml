@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
+  <properties>
+    <titles>
+      <title>SF174 Light a candle in a darkened place,</title>
+    </titles>
+    <comments>
+      <comment>The verses may be sung progressively through Advent until verse 6 on Christmas Day. Verses 1 and 2 should be used on the First Sunday of Advent.</comment>
+    </comments>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Clare Stainsby (b. 1959)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Light a candle in a darkened place,<br/>in its flame see hope on every face,<br/>Christ our Saviour will be born,<br/>heralding a brand new dawn,<br/>so let it burn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In the darkness, see the coming light,<br/>Word of God speaks through the darkest night,<br/>keep a watch, the time is near,<br/>time for hope and not for fear,<br/>so let it burn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Stepping through each page of history,<br/>prophets contemplate this mystery,<br/>celebrate the coming King,<br/>words of joy and hope they bring,<br/>so let it burn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In the desert now the waiting's done,<br/>make things ready for your King, says John,<br/>see, his glory is revealed,<br/>and the hope for all is sealed,<br/>so let it burn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Mary found true favour with the Lord,<br/>yet she trembled at his strange reward,<br/>knew this was the special One,<br/>hope for many through God's Son,<br/>so let it burn.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Do not fear, today I bring good cheer,<br/>Jesus Christ, the Saviour now is here,<br/>God has lit his flame of love,<br/>through his Son from Heaven above.<br/>So let it burn.</lines>
+    </verse>
+  </lyrics>
+</song>

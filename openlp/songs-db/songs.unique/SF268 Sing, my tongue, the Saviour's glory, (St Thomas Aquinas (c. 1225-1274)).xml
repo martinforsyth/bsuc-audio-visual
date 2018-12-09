@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:01">
+  <properties>
+    <titles>
+      <title>SF268 Sing, my tongue, the Saviour's glory,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>St Thomas Aquinas (c. 1225-1274)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Sing, my tongue, the Saviour's glory,<br/>of his cross the mystery sing;<br/>lift on high the wondrous trophy,<br/>tell the triumph of the King:<br/>he, the world's Redeemer, conquers<br/>death, through death now vanquishing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>On the night of that last supper<br/>seated with his chosen band,<br/>he, the paschal victim eating,<br/>first fulfils the law's command,<br/>then as food to his disciples<br/>gives himself with his own hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Word made flesh! His word life-giving,<br/>gives his flesh our meat to be,<br/>bids us drink his blood, believing,<br/>through his death, we life shall see:<br/>blessed they who thus receiving<br/>are from death and sin set free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Low in adoration bending,<br/>now our hearts our God revere;<br/>faith her aid to sight is lending,<br/>though unseen the Lord is near;<br/>ancient types and shadows ending,<br/>Christ our paschal Lamb is here.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Praise for ever, thanks and blessing,<br/>thine, O gracious Father, be;<br/>praise be thine, O Christ, who bringest<br/>life and immortality;<br/>praise be thine, thou quickening Spirit,<br/>praise through all eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

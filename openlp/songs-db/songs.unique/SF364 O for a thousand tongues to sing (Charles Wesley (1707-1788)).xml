@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:19">
+  <properties>
+    <titles>
+      <title>SF364 O for a thousand tongues to sing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O for a thousand tongues to sing<br/>my great Redeemer's praise,<br/>the glories of my God and King,<br/>the triumphs of his grace!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My gracious Master and my God,<br/>assist me to proclaim,<br/>to spread through all the earth abroad<br/>the honours of your name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus -- the name that charms our fears,<br/>that bids our sorrows cease;<br/>'tis music in the sinner's ears,<br/>'tis life, and health, and peace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>He breaks the power of cancelled sin,<br/>he sets the prisoner free;<br/>his blood can make the foulest clean,<br/>his blood availed for me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>He speaks;and, listening to his voice,<br/>new life the dead receive;<br/>the mournful, broken hearts rejoice;<br/>the humble poor believe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>See all your sins on Jesus laid:<br/>the Lamb of God was slain;<br/>his soul was once an offering made<br/>that all may heaven gain.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>In Christ, our Head, you then shall know,<br/>shall feel, your sins forgiven,<br/>anticipate your heaven below,<br/>and own that love is heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

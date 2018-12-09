@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:49">
+  <properties>
+    <titles>
+      <title>SF764 We believe in God the Father,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Timothy Dudley-Smith (b. 1926)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We believe in God the Father,<br/>God Almighty, by whose plan<br/>earth and heaven sprang to being,<br/>all created things began.<br/>We believe in Christ the Saviour,<br/>Son of God in human frame,<br/>virgin-born, the child of Mary<br/>upon whom the Spirit came.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ, who on the cross forsaken,<br/>like a lamb to slaughter led,<br/>suffered under Pontius Pilate,<br/>he descended to the dead.<br/>We believe in Jesus risen,<br/>heaven's King to rule and reign,<br/>to the Father's side ascended<br/>till as judge he comes again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We believe in God the Spirit;<br/>in one Church, below, above:<br/>saints of God in one communion,<br/>one in holiness and love.<br/>So by faith, our sins forgiven,<br/>Christ our Saviour, Lord and friend,<br/>we shall rise with him in glory<br/>to the life that knows no end.</lines>
+    </verse>
+  </lyrics>
+</song>

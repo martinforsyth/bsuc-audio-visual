@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:57">
+  <properties>
+    <titles>
+      <title>SF213 O little town of Bethlehem,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Phillips Brooks (1835-1893)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O little town of Bethlehem,<br/>how still we see thee lie!<br/>Above thy deep and dreamless sleep<br/>the silent stars go by.<br/>Yet in thy dark streets shineth<br/>the everlasting light;<br/>the hopes and fears of all the years<br/>are met in thee tonight.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O morning stars, together<br/>proclaim the holy birth,<br/>and praises sing to God the King,<br/>and peace to all the earth!<br/>For Christ is born of Mary;<br/>and, gathered all above,<br/>while mortals sleep, the angels keep<br/>their watch of wondering love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>How silently, how silently,<br/>the wondrous gift is given!<br/>So God imparts to human hearts<br/>the blessings of his heaven.<br/>No ear may hear his coming;<br/>but in this world of sin,<br/>where meek souls will receive him still<br/>the dear Christ enters in.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O holy Child of Bethlehem,<br/>descend to us, we pray;<br/>cast out our sin, and enter in;<br/>be born in us today!<br/>We hear the Christmas angels<br/>the great glad tidings tell;<br/>O come to us, abide with us,<br/>our Lord Immanuel!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:44">
+  <properties>
+    <titles>
+      <title>SF724 As if you were not there,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949) </author>
+      <author>Graham Maule (b. 1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>As if you were not there,<br/>the skies ignite and thunder,<br/>rivers tear their banks asunder,<br/>thieves and nature storm and plunder:<br/>all beware<br/>as if you were not there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>As if you were not there,<br/>famine and flood together<br/>usher death, disease and terror;<br/>stricken mothers wonder whether<br/>God heeds prayer,<br/>as if you were not there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>As if you were not there,<br/>we televise the dying,<br/>watch the helpless victims crying,<br/>salve our consciences by sighing,<br/>'Life's unfair!'<br/>as if you were not there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>As if you were not there,<br/>your Son, when faith defied him,<br/>faced a crowd which crucified him,<br/>leaving friends who had denied him<br/>in despair,<br/>as if you were not there.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Because he rose again<br/>and showed God's love is vaster<br/>than the ultimate disaster,<br/>we entreat you now to master<br/>strife and pain,<br/>because he rose again.</lines>
+    </verse>
+  </lyrics>
+</song>

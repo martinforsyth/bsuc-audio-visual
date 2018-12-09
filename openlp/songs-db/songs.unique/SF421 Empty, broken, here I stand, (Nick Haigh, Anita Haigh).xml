@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:11">
+  <properties>
+    <titles>
+      <title>SF421 Empty, broken, here I stand,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Nick Haigh</author>
+      <author>Anita Haigh</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Empty, broken, here I stand,<br/>Kyrie eleison.<br/>Touch me with your healing hand,<br/>Kyrie eleison.<br/>Take my arrogance and pride,<br/>Kyrie eleison.<br/>Wash me in your mercy's tide,<br/>Kyrie eleison.<br/>Kyrie eleison, Christe eleison, Kyrie eleison.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When my faith has all but gone,<br/>Kyrie eleison,<br/>give me strength to carry on,<br/>Kyrie eleison.<br/>When my dreams have turned to dust,<br/>Kyrie eleison,<br/>in you, O Lord, I put my trust,<br/>Kyrie eleison.<br/>Kyrie eleison, Christe eleison, Kyrie eleison.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When my heart is cold as ice,<br/>Kyrie eleison,<br/>your love speaks of sacrifice,<br/>Kyrie eleison,<br/>love that sets the captives free,<br/>Kyrie eleison.<br/>O pour compassion down on me,<br/>Kyrie eleison.<br/>Kyrie eleison, Christe eleison, Kyrie eleison.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>You're the voice that calms my fears,<br/>Kyrie eleison,<br/>you're the laughter, dries my tears,<br/>Kyrie eleison,<br/>you're my music, my refrain,<br/>Kyrie eleison,<br/>help me sing your song again,<br/>Kyrie eleison.<br/>Kyrie eleison, Christe eleison, Kyrie eleison.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Humble heart of holiness,<br/>Kyrie eleison,<br/>kiss me with your tenderness,<br/>Kyrie eleison.<br/>Jesus, faithful friend and true,<br/>Kyrie eleison,<br/>all I am I give to you.<br/>Kyrie eleison.<br/>Kyrie eleison, Christe eleison, Kyrie eleison.</lines>
+    </verse>
+  </lyrics>
+</song>

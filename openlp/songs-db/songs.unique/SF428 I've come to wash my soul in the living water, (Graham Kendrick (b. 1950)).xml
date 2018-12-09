@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:12">
+  <properties>
+    <titles>
+      <title>SF428 I've come to wash my soul in the living water,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Graham Kendrick (b. 1950)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I've come to wash my soul in the living water,<br/>wash my heart in your cleansing stream.<br/>Here is mercy and forgiveness;<br/>I shall be clean again,<br/>I shall be clean again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I've come to bathe my eyes in your word, Lord Jesus,<br/>cleanse my thoughts, my imaginings.<br/>May these eyes see as your love sees,<br/>light flood my being,<br/>light flood my being.<br/>Oh, wash me whole in your rushing river, my Saviour.<br/>Take me down to die and rise again.<br/>Oh, wash me whole in your rushing river, my Saviour.<br/>Take me down to die and rise again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>For I've been bought with the blood of Jesus,<br/>now my life is not my own.<br/>A temple holy, for you only,<br/>where you are loved and known,<br/>where you are loved and known.<br/>Oh, wash me whole in your rushing river ...</lines>
+    </verse>
+  </lyrics>
+</song>

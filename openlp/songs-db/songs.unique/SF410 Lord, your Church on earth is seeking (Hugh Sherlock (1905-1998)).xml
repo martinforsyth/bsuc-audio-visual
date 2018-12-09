@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:09">
+  <properties>
+    <titles>
+      <title>SF410 Lord, your Church on earth is seeking</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Hugh Sherlock (1905-1998)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord, your Church on earth is seeking<br/>your renewal from above;<br/>teach us all the art of speaking<br/>with the accent of your love.<br/>We would heed your great commission:<br/>sending us to every place --<br/>preach, baptise, fulfil my mission,<br/>serve with love and share my grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Freedom give to those in bondage,<br/>lift the burdens caused by sin.<br/>Give new hope, new strength and courage,<br/>grant release from fears within:<br/>light for darkness;joy for sorrow;<br/>love for hatred;peace for strife.<br/>These and countless blessings follow<br/>as the Spirit gives new life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In the streets of every city<br/>where the bruised and lonely dwell,<br/>let us show the Saviour's pity,<br/>let us of his mercy tell.<br/>In all lands and with all races<br/>let us serve, and seek to bring<br/>all the world to render praises,<br/>Christ, to you, Redeemer, King.</lines>
+    </verse>
+  </lyrics>
+</song>

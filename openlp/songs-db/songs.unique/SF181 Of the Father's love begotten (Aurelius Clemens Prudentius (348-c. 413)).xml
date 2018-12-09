@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:54">
+  <properties>
+    <titles>
+      <title>SF181 Of the Father's love begotten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Aurelius Clemens Prudentius (348-c. 413)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Of the Father's love begotten<br/>ere the worlds began to be,<br/>he is Alpha and Omega,<br/>he the source, the ending he,<br/>of the things that are, that have been,<br/>and that future years shall see,<br/>evermore and evermore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>By his word was all created;<br/>he commanded, it was done;<br/>earth and sky and boundless ocean,<br/>universe of three in one;<br/>all that sees the moon's soft radiance,<br/>all that breathes beneath the sun,<br/>evermore and evermore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>This is he whom seers in old time<br/>chanted of with one accord,<br/>whom the voices of the prophets<br/>promised in their faithful word;<br/>now he shines, the long-expected;<br/>let creation praise its Lord,<br/>evermore and evermore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O you heights of heaven, adore him;<br/>angel hosts, his praises sing;<br/>all dominions, bow before him,<br/>and extol our God and King;<br/>let no tongue on earth be silent,<br/>every voice in concert sing,<br/>evermore and evermore!</lines>
+    </verse>
+  </lyrics>
+</song>

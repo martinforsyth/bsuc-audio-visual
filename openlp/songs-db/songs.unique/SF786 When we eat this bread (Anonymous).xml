@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:51">
+  <properties>
+    <titles>
+      <title>SF786 When we eat this bread</title>
+    </titles>
+    <verseOrder> v1</verseOrder>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When we eat this bread<br/>and drink this cup<br/>we proclaim your death, Lord Jesus,<br/>until you come in glory,<br/>until you come in glory.</lines>
+    </verse>
+  </lyrics>
+</song>

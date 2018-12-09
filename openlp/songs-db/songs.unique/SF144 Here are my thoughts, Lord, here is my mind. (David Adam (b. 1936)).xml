@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:51">
+  <properties>
+    <titles>
+      <title>SF144 Here are my thoughts, Lord, here is my mind.</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>David Adam (b. 1936)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Here are my thoughts, Lord, here is my mind.<br/>Here are my deeds, Lord, help me unwind.<br/>Here is my strength, Lord, here is my will.<br/>Here is my life, Lord, help me be still.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Here is my heart, Lord, here is my hope.<br/>Here is my love, Lord, help me to cope.<br/>Here is my time, Lord, here is my might.<br/>Here I am yours, Lord, bless me tonight.</lines>
+    </verse>
+  </lyrics>
+</song>

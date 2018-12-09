@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:20">
+  <properties>
+    <titles>
+      <title>SF513 Take this moment, sign, and space;</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949) </author>
+      <author>Graham Maule (b. 1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Take this moment, sign, and space;<br/>take my friends around;<br/>here among us make the place<br/>where your love is found.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Take the time to call my name,<br/>take the time to mend<br/>who I am and what I've been,<br/>all I've failed to tend.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Take the tiredness of my days,<br/>take my past regret,<br/>letting your forgiveness touch<br/>all I can't forget.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Take the little child in me,<br/>scared of growing old;<br/>help me here to find my worth<br/>made in Christ's own mould.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Take my talents, take my skills,<br/>take what's yet to be;<br/>let my life be yours, and yet,<br/>let it still be me.</lines>
+    </verse>
+  </lyrics>
+</song>

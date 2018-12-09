@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:16">
+  <properties>
+    <titles>
+      <title>SF485 When we are living, we are in the Lord,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Roberto Escamilla (b. 1931) </author>
+      <author>John L. Bell (b. 1949)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When we are living, we are in the Lord,<br/>and when we're dying, we are in the Lord;<br/>for in our living and in our dying<br/>we belong to God, we belong to God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Each day allows us to decide for good,<br/>loving and serving as we know we should;<br/>in thankful giving, in hopeful living,<br/>we belong to God, we belong to God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Sometimes we sorrow, other times, embrace,<br/>sometimes we question everything we face;<br/>yet in our yearning is deeper learning:<br/>we belong to God, we belong to God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Till earth is over may we always know<br/>love never fails us:God has made it so.<br/>Hard times will prove us, never remove us;<br/>we belong to God, we belong to God.<br/>Pues si vivimos, para El vivimos,<br/>y si morimos, para El morimos;<br/>sea que vivamos a que moramos<br/>somos del Senor, somos del Senor.</lines>
+    </verse>
+  </lyrics>
+</song>

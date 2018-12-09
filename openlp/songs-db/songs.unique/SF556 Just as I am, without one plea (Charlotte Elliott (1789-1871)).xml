@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:24">
+  <properties>
+    <titles>
+      <title>SF556 Just as I am, without one plea</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Charlotte Elliott (1789-1871)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Just as I am, without one plea<br/>but that you died to set me free,<br/>and at your bidding, 'Come to me!'<br/>O Lamb of God, I come!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Just as I am, though tossed about<br/>with many a conflict, many a doubt,<br/>fightings within and fears without,<br/>O Lamb of God, I come!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Just as I am, you will receive,<br/>will welcome, pardon, cleanse, relieve:<br/>because your promise I believe,<br/>O Lamb of God, I come!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Just as I am -- your love unknown<br/>has broken every barrier down --<br/>now to be yours, yes, yours alone,<br/>O Lamb of God, I come!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Just as I am, of that free love<br/>the breadth, length, depth and height to prove,<br/>here for a time and then above,<br/>O Lamb of God, I come!</lines>
+    </verse>
+  </lyrics>
+</song>

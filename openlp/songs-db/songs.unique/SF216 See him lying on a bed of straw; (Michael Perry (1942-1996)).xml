@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:57">
+  <properties>
+    <titles>
+      <title>SF216 See him lying on a bed of straw;</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Michael Perry (1942-1996)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>See him lying on a bed of straw;<br/>draughty stable with an open door,<br/>Mary cradling the babe she bore;<br/>the Prince of Glory is his name:<br/>O now carry me to Bethlehem<br/>to see the Lord of love again;<br/>just as poor as was the stable then,<br/>the Prince of Glory when he came.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Star of silver, sweep across the skies,<br/>show where Jesus in the manger lies;<br/>shepherds, swiftly from your stupor rise<br/>to see the Saviour of the world:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Angels, sing again the song you sang,<br/>sing the story of God's gracious plan;<br/>sing that Bethl'em's little baby can<br/>be the Saviour of us all:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Mine are riches from your poverty,<br/>from your innocence, eternity;<br/>mine, forgiveness by your death for me;<br/>child of sorrow for my joy:</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:15">
+  <properties>
+    <titles>
+      <title>SF472 May the Sending One sing in you,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Brian Wren (b. 1936)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>May the Sending One sing in you,<br/>may the Seeking One walk with you,<br/>may the Greeting One stand by you,<br/>in your gladness and in your grieving.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>May the Gifted One relieve you,<br/>may the Given One retrieve you,<br/>may the Giving One receive you,<br/>in your falling and your restoring.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>May the Binding One unite you,<br/>may the One Beloved invite you,<br/>may the Loving One delight you,<br/>Three-in-One, joy in life unending.</lines>
+    </verse>
+  </lyrics>
+</song>

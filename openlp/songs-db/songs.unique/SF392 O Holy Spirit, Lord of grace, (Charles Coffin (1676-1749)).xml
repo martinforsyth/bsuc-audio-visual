@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:08">
+  <properties>
+    <titles>
+      <title>SF392 O Holy Spirit, Lord of grace,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Charles Coffin (1676-1749)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O Holy Spirit, Lord of grace,<br/>eternal fount of love,<br/>inflame, we pray, our inmost hearts<br/>with fire from heaven above.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>As you unite in holy bond<br/>the Father and the Son,<br/>so fill us all with mutual love,<br/>and make our hearts as one.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All glory to the Father be,<br/>the Spirit and the Son,<br/>all glory to the One in Three,<br/>while endless ages run.</lines>
+    </verse>
+  </lyrics>
+</song>

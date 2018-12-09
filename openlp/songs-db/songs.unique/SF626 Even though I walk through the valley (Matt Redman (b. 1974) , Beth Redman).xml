@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:31">
+  <properties>
+    <titles>
+      <title>SF626 Even though I walk through the valley</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Matt Redman (b. 1974) </author>
+      <author>Beth Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Even though I walk through the valley<br/>of the shadow of death,<br/>your perfect love is casting out fear.<br/>And even when I'm caught in the middle<br/>of the storm of this life,<br/>I won't turn back;I know you are near.<br/>And I will fear no evil,<br/>for my God is with me.<br/>And if my God is with me,<br/>whom then shall I fear?<br/>Whom then shall I fear?<br/>Oh no, you never let go,<br/>through the calm and through the storm.<br/>Oh no, you never let go,<br/>in every high and every low.<br/>Oh no, you never let go,<br/>Lord, you never let go of me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And I can see a light that is coming<br/>for the heart that holds on,<br/>a glorious light beyond all compare.<br/>And there will be an end to these troubles,<br/>but until that day comes,<br/>we'll live to know you here on the earth.<br/>And I will fear no evil ...<br/>Oh no, you never let go ...<br/>Yes, I can see a light that is coming<br/>for the heart that holds on,<br/>and there will be an end to these troubles,<br/>but until that day comes,<br/>still I will praise you, still I will praise you.<br/>Yes, I can see a light that is coming<br/>for the heart that holds on,<br/>and there will be an end to these troubles,<br/>but until that day comes,<br/>still I will praise you, still I will praise you.<br/>Oh no, you never let go ...</lines>
+    </verse>
+  </lyrics>
+</song>

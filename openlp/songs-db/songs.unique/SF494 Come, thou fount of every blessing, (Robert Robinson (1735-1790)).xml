@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:18">
+  <properties>
+    <titles>
+      <title>SF494 Come, thou fount of every blessing,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Robert Robinson (1735-1790)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, thou fount of every blessing,<br/>tune my heart to sing thy grace;<br/>streams of mercy never ceasing<br/>call for songs of loudest praise.<br/>Teach me some melodious measure<br/>sung by flaming tongues above;<br/>O the vast, the boundless treasure<br/>of my Lord's unchanging love!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Here I find my greatest treasure:<br/>'Hither by thy help I've come,'<br/>and I hope, by thy good pleasure,<br/>safely to arrive at home.<br/>Jesus sought me when a stranger,<br/>wandering from the fold of God;<br/>he, to rescue me from danger,<br/>interposed his precious blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>O to grace how great a debtor<br/>daily I'm constrained to be!<br/>Let that grace, Lord, like a fetter,<br/>bind my wandering heart to thee.<br/>Prone to wander, Lord, I feel it,<br/>prone to leave the God I love;<br/>take my heart, O take and seal it,<br/>seal it from thy courts above!</lines>
+    </verse>
+  </lyrics>
+</song>

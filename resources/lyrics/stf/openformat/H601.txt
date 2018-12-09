@@ -9,7 +9,8 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>We do not presume to come to this table<br/>trusting in our own righteousness.<br/>Only by your grace and your love are we able,<br/>only in your mercy we rest.<br/>For you are the same Lord,<br/>merciful and mighty,<br/>and to worship you we come.<br/>The blood and the body of Jesus your Son<br/>may cleanse us all,<br/>so we may live in him for evermore.</verse>
+    <verse name="v1">
+      <lines><br/>We do not presume to come to this table<br/>trusting in our own righteousness.<br/>Only by your grace and your love are we able,<br/>only in your mercy we rest.<br/>For you are the same Lord,<br/>merciful and mighty,<br/>and to worship you we come.<br/>The blood and the body of Jesus your Son<br/>may cleanse us all,<br/>so we may live in him for evermore.</lines>
+    </verse>
   </lyrics>
 </song>
-

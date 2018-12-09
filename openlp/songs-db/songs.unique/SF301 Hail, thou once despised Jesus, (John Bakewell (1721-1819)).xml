@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:13">
+  <properties>
+    <titles>
+      <title>SF301 Hail, thou once despised Jesus,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John Bakewell (1721-1819)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hail, thou once despised Jesus,<br/>hail, thou Galilean King!<br/>Thou didst suffer to release us,<br/>thou didst free salvation bring.<br/>Hail, thou agonizing Saviour,<br/>bearer of our sin and shame;<br/>by thy merits we find favour;<br/>life is given through thy name!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Paschal Lamb by God appointed,<br/>all our sins on thee were laid;<br/>by almighty love anointed,<br/>thou hast full atonement made:<br/>all thy people are forgiven<br/>through the virtue of thy blood;<br/>opened is the gate of heaven;<br/>we are reconciled to God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus, hail! Enthroned in glory,<br/>there for ever to abide;<br/>all the heavenly host adore thee,<br/>seated at thy Father's side:<br/>there for sinners thou art pleading,<br/>there thou dost our place prepare,<br/>ever for us interceding,<br/>till in glory we appear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Worship, honour, power, and blessing,<br/>thou art worthy to receive;<br/>loudest praises without ceasing,<br/>meet it is for us to give.<br/>Help, ye bright angelic spirits,<br/>bring your sweetest, noblest lays;<br/>help to sing our Saviour's merits,<br/>help to chant Immanuel's praise!</lines>
+    </verse>
+  </lyrics>
+</song>

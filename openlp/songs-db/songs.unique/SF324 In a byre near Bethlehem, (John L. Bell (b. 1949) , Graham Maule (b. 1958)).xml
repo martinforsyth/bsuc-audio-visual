@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:15">
+  <properties>
+    <titles>
+      <title>SF324 In a byre near Bethlehem,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949) </author>
+      <author>Graham Maule (b. 1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In a byre near Bethlehem,<br/>passed by many a wandering stranger<br/>the most precious Word of Life<br/>was heard gurgling in a manger,<br/>for the good of us all.<br/>  And he's here when we call him,<br/>  bringing health, love and laughter,<br/>  to life now and ever after,<br/>  for the good of us all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>By the Galilean Lake<br/>where the people flocked for teaching,<br/>the most precious Word of Life<br/>fed their mouths as well as preaching,<br/>for the good of us all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Quiet was Gethsemane,<br/>camouflaging priest and soldier;<br/>the most precious Word of Life<br/>took the world's weight on his shoulder,<br/>for the good of us all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>On the hill of Calvary --<br/>place to end all hope of living --<br/>the most precious Word of Life<br/>breathed his last and died, forgiving,<br/>for the good of us all.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>In a garden, just at dawn,<br/>near the grave of human violence,<br/>the most precious Word of Life<br/>cleared his throat and ended silence,<br/>for the good of us all.</lines>
+    </verse>
+  </lyrics>
+</song>

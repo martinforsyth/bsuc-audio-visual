@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:12">
+  <properties>
+    <titles>
+      <title>SF291 'Why has God forsaken me?'</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>William L.(Bill) Wallace (b. 1933)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>'Why has God forsaken me?'<br/>cried out Jesus from the cross<br/>as he shared the loneliness<br/>of our deepest grief and loss.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus, as his life expired,<br/>placed himself within God's care:<br/>at our dying, Christ, may we<br/>trust the love which conquers fear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Mystery shrouds our life and death<br/>but we need not be afraid,<br/>for the mystery's heart is love,<br/>God's great love which Christ displayed.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:17">
+  <properties>
+    <titles>
+      <title>SF350 I cannot tell why he, whom angels worship,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>William Young Fullerton (1857-1932)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I cannot tell why he, whom angels worship,<br/>should set his love upon us, now or then,<br/>or why, as Shepherd, he should seek the wanderers,<br/>to bring them back, they know not how or when.<br/>But this I know, that he was born of Mary<br/>when Bethlem's manger was his only home,<br/>and that he lived at Nazareth and laboured,<br/>and so the Saviour, Saviour of the world, is come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I cannot tell how silently he suffered,<br/>as with his peace he graced this place of tears,<br/>or how his heart upon the cross was broken,<br/>the crown of pain to three-and-thirty years.<br/>But this I know, he heals the broken-hearted,<br/>and stays our sin, and calms our lurking fear,<br/>and lifts the burden from the heavy-laden,<br/>for yet the Saviour, Saviour of the world, is here.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I cannot tell how he will win the nations,<br/>how he will claim his earthly heritage,<br/>how satisfy the needs and aspirations<br/>of east and west, of sinner and of sage.<br/>But this I know, all flesh shall see his glory,<br/>and he shall reap the harvest he has sown,<br/>and some glad day his sun shall shine in splendour,<br/>when he the Saviour, Saviour of the world, is known.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>I cannot tell how all the lands shall worship,<br/>when at his bidding every storm is stilled,<br/>or who can say how great the jubilation<br/>when every human heart with love is filled.<br/>But this I know, the skies will thrill with rapture,<br/>and myriad, myriad human voices sing,<br/>and earth to heaven, and heaven to earth, will answer:<br/>'at last the Saviour, Saviour of the world, is King!'</lines>
+    </verse>
+  </lyrics>
+</song>

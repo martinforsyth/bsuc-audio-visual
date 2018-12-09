@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:44">
+  <properties>
+    <titles>
+      <title>SF727 God in his love for us lent us this planet,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Fred Pratt Green (1903-2000)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God in his love for us lent us this planet,<br/>gave it a purpose in time and in space:<br/>small as a spark from the fire of creation,<br/>cradle of life and the home of our race.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thanks be to God for its bounty and beauty,<br/>life that sustains us in body and mind:<br/>plenty for all, if we learn how to share it,<br/>riches undreamed-of to fathom and find.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Long have our human wars ruined its harvest;<br/>long has earth bowed to the terror of force;<br/>long have we wasted what others have needed,<br/>poisoned the fountain of life at its source.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Earth is the Lord's:it is ours to enjoy it,<br/>ours, as God's stewards, to farm and defend.<br/>From its pollution, misuse, and destruction,<br/>good Lord, deliver us, world without end!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:19">
+  <properties>
+    <titles>
+      <title>SF507 O for a heart to praise my God,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O for a heart to praise my God,<br/>a heart from sin set free,<br/>a heart that always feels thy blood<br/>so freely spilt for me;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A heart resigned, submissive, meek,<br/>my great Redeemer's throne,<br/>where only Christ is heard to speak,<br/>where Jesus reigns alone;</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>A humble, lowly, contrite heart,<br/>believing, true, and clean;<br/>which neither life nor death can part<br/>from him that dwells within;</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>A heart in every thought renewed,<br/>and full of love divine;<br/>perfect, and right, and pure, and good,<br/>a copy, Lord, of thine!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Thy nature, gracious Lord, impart;<br/>come quickly from above,<br/>write thy new name upon my heart,<br/>thy new, best name of love.</lines>
+    </verse>
+  </lyrics>
+</song>

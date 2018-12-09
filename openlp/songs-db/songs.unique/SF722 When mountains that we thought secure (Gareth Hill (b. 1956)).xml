@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:43">
+  <properties>
+    <titles>
+      <title>SF722 When mountains that we thought secure</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Gareth Hill (b. 1956)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When mountains that we thought secure<br/>lie crumbled where we stand<br/>and pain and helplessness endure<br/>-- all from another's hand --<br/>help us to bear the prophet's mark,<br/>to stand apart from hate<br/>and witness to the Father's call<br/>for justice in the land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God is our strength and refuge still<br/>though all the earth give way;<br/>our help at every time of ill,<br/>the light of our dark day.<br/>And as his people in the world<br/>we bear the scars of grief,<br/>but echo faith's resounding note<br/>-- and still for justice pray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>There is a place of holiness<br/>where God makes warfare cease.<br/>There is a day of hopefulness,<br/>a promised time of peace.<br/>So, here today, we bear the pain<br/>of inhumanity,<br/>but pledge our lives to live for truth<br/>so justice may increase.</lines>
+    </verse>
+  </lyrics>
+</song>

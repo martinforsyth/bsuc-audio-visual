@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:45">
+  <properties>
+    <titles>
+      <title>SF738 There is a new heaven;there is a new earth;</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Ruth Duck (b. 1947)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There is a new heaven;there is a new earth;<br/>there is a new city that God brings to birth.<br/>It lives in the mind of our Saviour this day<br/>where tears, pain, and sadness are all wiped away.<br/>Come, people of God, your courage renew,<br/>for God reigns already, creates life anew.<br/>Be faithful and bold to welcome God's day,<br/>that tears, pain, and sadness may vanish away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The homeless and hungry will sing a new song,<br/>for leisure and labour to all shall belong;<br/>distinctions, divisions which hurt and destroy<br/>will all disappear, leaving love, hope, and joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The river lifegiving shall stream from God's throne,<br/>with healing, forgiving:war shall not be known.<br/>The nations shall gather to live in God's light,<br/>united forever in joy and delight.</lines>
+    </verse>
+  </lyrics>
+</song>

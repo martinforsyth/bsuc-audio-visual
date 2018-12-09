@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:35">
+  <properties>
+    <titles>
+      <title>SF657 You give rest to the weary,</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Nathan Fellingham (b. 1977) </author>
+      <author>Lou Fellingham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You give rest to the weary,<br/>you bring strength to the weak;<br/>as they wait in your presence,<br/>there is grace for their need.<br/>So I'll wait, I'll wait,<br/>yes, I'll wait, I'll wait for you.<br/>I will say of the Lord, 'He is my refuge.'<br/>I will say of the Lord, 'He is my strength.'<br/>I will say of the Lord, 'He is my shelter,<br/>my hiding place.'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>You can come in the silence;<br/>you can come in the noise.<br/>Bringing peace in a moment,<br/>bringing comfort and joy.<br/>So I'll wait, I'll wait,<br/>yes, I'll wait, I'll wait for you.<br/>I will say of the Lord ...<br/>I will come to the source of all creation;<br/>I will drink from the well that never dries.<br/>I will draw from the One who won't grow tired,<br/>the Lord of all.</lines>
+    </verse>
+  </lyrics>
+</song>

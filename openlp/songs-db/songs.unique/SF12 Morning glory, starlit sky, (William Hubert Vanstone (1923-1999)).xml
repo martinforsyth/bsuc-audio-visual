@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T18:47:20">
+  <properties>
+    <titles>
+      <title>SF12 Morning glory, starlit sky,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>William Hubert Vanstone (1923-1999)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Morning glory, starlit sky,<br/>leaves in springtime, swallows' flight,<br/>autumn gales, tremendous seas,<br/>sounds and scents of summer night;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Soaring music, towering words,<br/>art's perfection, scholar's truth,<br/>joy supreme of human love,<br/>memory's treasure, grace of youth;</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Open, Lord, are these, thy gifts,<br/>gifts of love to mind and sense;<br/>hidden is love's agony,<br/>love's endeavour, love's expense.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Love that gives, gives evermore,<br/>gives with zeal, with eager hands,<br/>spares not, keeps not, all outpours,<br/>ventures all, its all expends.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Drained is love in making full;<br/>bound in setting others free;<br/>poor in making many rich;<br/>weak in giving power to be.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Therefore he who thee reveals,<br/>hangs, O Father, on that Tree,<br/>helpless;and the nails and thorns<br/>tell of what thy love must be.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>Thou art God, no monarch thou,<br/>throned in easy state to reign;<br/>thou art God, whose arms of love<br/>aching, spent, the world sustain.</lines>
+    </verse>
+  </lyrics>
+</song>

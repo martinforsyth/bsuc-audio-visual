@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:18">
+  <properties>
+    <titles>
+      <title>SF502 I know that my Redeemer lives,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I know that my Redeemer lives,<br/>and ever prays for me;<br/>a token of his love he gives,<br/>a pledge of liberty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I find him lifting up my head,<br/>he brings salvation near,<br/>his presence makes me free indeed,<br/>and he will soon appear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He wills that I should holy be;<br/>what can withstand his will?<br/>The counsel of his grace in me<br/>he surely shall fulfil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus, I hang upon your word;<br/>I steadfastly believe<br/>you will return and claim me, Lord,<br/>and to yourself receive.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Your love I soon expect to find<br/>in all its depth and height,<br/>to comprehend the eternal mind,<br/>and grasp the Infinite.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>When God is mine, and I am his,<br/>of paradise possessed,<br/>I taste unutterable bliss<br/>and everlasting rest.</lines>
+    </verse>
+  </lyrics>
+</song>

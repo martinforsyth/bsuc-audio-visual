@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:11">
+  <properties>
+    <titles>
+      <title>SF422 Father, we have sinned</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Stuart Townend (b. 1963) </author>
+      <author>Keith Getty (b. 1974)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, we have sinned<br/>in word, and deed, and thought,<br/>through ignorance, through weakness,<br/>through deliberate fault:<br/>we've sinned against our neighbours<br/>and against you, Lord,<br/>yet we are truly sorry,<br/>and we turn to you once more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Father of the nations,<br/>you who bless the poor,<br/>we're servants of the endless want<br/>and drive for more.<br/>We've made our greed a virtue,<br/>while the children starve;<br/>come, change our joy to sorrow,<br/>till our lives reflect your heart.</lines>
+    </verse>
+  </lyrics>
+</song>

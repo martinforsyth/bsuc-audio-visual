@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:14">
+  <properties>
+    <titles>
+      <title>SF316 When Easter to the dark world came,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>W. H. Hamilton (1886-1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When Easter to the dark world came,<br/>fair flowers glowed like scarlet flame:<br/>at Eastertide, at Eastertide,<br/>O glad was the world at Eastertide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When Mary in the garden walked,<br/>and with her risen Master talked:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When John and Peter in their gloom<br/>met angels at the empty tomb:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When ten disciples met in fear,<br/>then 'Peace' said Jesus, 'I am here.'</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>When Thomas' heart was hurt and grieved,<br/>then Jesus' wounds his doubt relieved:</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>And friend to friend in wonder said:<br/>'The Lord is risen from the dead!'</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>This Eastertide with joyful voice<br/>we'll sing:'The Lord is King! Rejoice!'<br/>At Eastertide, at Eastertide,<br/>O sing, all the world, for Eastertide.</lines>
+    </verse>
+  </lyrics>
+</song>

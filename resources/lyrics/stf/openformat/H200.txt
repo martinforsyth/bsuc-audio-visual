@@ -9,11 +9,14 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>God is born among us:earth receives the Christ child,<br/>all the night awakens, light dispels the darkness.<br/>Joyful angels raise an anthem singing praises to the heavens:<br/>gloria, gloria, gloria, in excelsis Deo!<br/>Joyful angels raise an anthem singing praises to the heavens:<br/>gloria, gloria, gloria, in excelsis Deo!
+    <verse name="v1">
+      <lines><br/>God is born among us:earth receives the Christ child,<br/>all the night awakens, light dispels the darkness.<br/>Joyful angels raise an anthem singing praises to the heavens:<br/>gloria, gloria, gloria, in excelsis Deo!<br/>Joyful angels raise an anthem singing praises to the heavens:<br/>gloria, gloria, gloria, in excelsis Deo!</lines>
     </verse>
-    <verse name="v2"><br/>In the fields the shepherds heard the angel chorus:<br/>'leave your sheep, go quickly, Bethlehem is calling!'<br/>There the Lord had come among us;God redeeming all creation:<br/>gloria, gloria, gloria, in excelsis Deo!<br/>There the Lord had come among us;God redeeming all creation:<br/>gloria, gloria, gloria, in excelsis Deo!
+    <verse name="v2">
+      <lines><br/>In the fields the shepherds heard the angel chorus:<br/>'leave your sheep, go quickly, Bethlehem is calling!'<br/>There the Lord had come among us;God redeeming all creation:<br/>gloria, gloria, gloria, in excelsis Deo!<br/>There the Lord had come among us;God redeeming all creation:<br/>gloria, gloria, gloria, in excelsis Deo!</lines>
     </verse>
-    <verse name="v3"><br/>All the hosts of heaven, all the heavenly powers,<br/>tell the story clearly, but we are confounded.<br/>This transcends our understanding, here in awe we gaze in wonder:<br/>gloria, gloria, gloria, in excelsis Deo!<br/>This transcends our understanding, here in awe we gaze in wonder:<br/>gloria, gloria, gloria, in excelsis Deo!</verse>
+    <verse name="v3">
+      <lines><br/>All the hosts of heaven, all the heavenly powers,<br/>tell the story clearly, but we are confounded.<br/>This transcends our understanding, here in awe we gaze in wonder:<br/>gloria, gloria, gloria, in excelsis Deo!<br/>This transcends our understanding, here in awe we gaze in wonder:<br/>gloria, gloria, gloria, in excelsis Deo!</lines>
+    </verse>
   </lyrics>
 </song>
-

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:17">
+  <properties>
+    <titles>
+      <title>SF336 Son of God, if your free grace</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Son of God, if your free grace<br/>again has raised me up,<br/>called me still to seek your face,<br/>and given me back my hope;<br/>still your timely help afford,<br/>and all your loving-kindness show:<br/>keep me, keep me, gracious Lord,<br/>and never let me go!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>By me, O my Saviour, stand<br/>in sore temptation's hour;<br/>save me with your outstretched hand,<br/>and show forth all your power;<br/>O be mindful of your word,<br/>your all-sufficient grace bestow:<br/>keep me, keep me, gracious Lord,<br/>and never let me go!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Give me, Lord, a holy fear,<br/>and fix it in my heart,<br/>that I may from evil near<br/>with timely care depart;<br/>sin be more than hell abhorred;<br/>till you destroy the tyrant foe,<br/>keep me, keep me, gracious Lord,<br/>and never let me go!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Never let me leave your breast,<br/>from you, my Saviour, stray;<br/>you are my support and rest,<br/>my true and living way;<br/>my exceeding great reward,<br/>in heaven above and earth below:<br/>keep me, keep me, gracious Lord,<br/>and never let me go!</lines>
+    </verse>
+  </lyrics>
+</song>

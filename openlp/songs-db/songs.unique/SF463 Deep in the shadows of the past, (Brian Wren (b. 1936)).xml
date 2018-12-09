@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:15">
+  <properties>
+    <titles>
+      <title>SF463 Deep in the shadows of the past,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Brian Wren (b. 1936)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Deep in the shadows of the past,<br/>far out from settled lands,<br/>some nomads travelled with their God<br/>across the desert sands.<br/>The dawning hope of humankind<br/>by them was sensed and shown:<br/>a promise calling them ahead,<br/>a future yet unknown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>While others bowed to changeless gods,<br/>they met a mystery,<br/>invisible, without a name:<br/>'I AM WHAT I WILL BE';<br/>and by their tents, around their fires,<br/>in story, song and law,<br/>they praised, remembered, handed on<br/>a past that promised more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>From Exodus to Pentecost<br/>the promise changed and grew,<br/>while some, remembering the past,<br/>recorded what they knew,<br/>or with their letters and laments,<br/>their prophecy and praise,<br/>recovered, kindled and expressed<br/>new hope for changing days.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>For all the writings that survived,<br/>for leaders, long ago,<br/>who sifted, copied, and preserved<br/>the Bible that we know,<br/>give thanks, and find its story yet<br/>our promise, strength and call,<br/>the model of emerging faith,<br/>alive with hope for all.</lines>
+    </verse>
+  </lyrics>
+</song>

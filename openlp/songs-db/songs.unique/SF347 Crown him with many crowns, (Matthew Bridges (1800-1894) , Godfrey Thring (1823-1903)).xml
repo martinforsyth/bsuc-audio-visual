@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:17">
+  <properties>
+    <titles>
+      <title>SF347 Crown him with many crowns,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Matthew Bridges (1800-1894) </author>
+      <author>Godfrey Thring (1823-1903)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Crown him with many crowns,<br/>the Lamb upon his throne.<br/>Hark! how the heavenly anthem drowns<br/>all music but its own.<br/>Awake, my soul, and sing<br/>of him who died for thee,<br/>and hail him as thy matchless King<br/>through all eternity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Crown him the Son of God,<br/>before the worlds began;<br/>and ye who tread where he has trod,<br/>crown him the Son of Man,<br/>who every grief has known<br/>that wrings the human breast,<br/>and takes and bears them for his own,<br/>that all in him may rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Crown him the Lord of life,<br/>who triumphed o'er the grave,<br/>and rose victorious in the strife<br/>for those he came to save.<br/>His glories now we sing,<br/>who died, and rose on high;<br/>who died, eternal life to bring,<br/>and lives, that death may die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Crown him the Lord of peace,<br/>whose power a sceptre sways<br/>from pole to pole, that wars may cease,<br/>absorbed in prayer and praise.<br/>His reign shall know no end,<br/>and round his pierced feet<br/>fair flowers of paradise extend<br/>their fragrance ever sweet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Crown him the Lord of love;<br/>behold his hands and side --<br/>rich wounds, yet visible above,<br/>in beauty glorified.<br/>All hail, Redeemer, hail!<br/>for thou hast died for me;<br/>thy praise and glory shall not fail<br/>throughout eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

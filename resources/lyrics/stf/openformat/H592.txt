@@ -9,11 +9,14 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Let us break bread together with the Lord;<br/>let us break bread together with the Lord:<br/>When I fall on my knees,<br/>with my face to the rising sun,<br/>O Lord, have mercy on me.
+    <verse name="v1">
+      <lines><br/>Let us break bread together with the Lord;<br/>let us break bread together with the Lord:<br/>When I fall on my knees,<br/>with my face to the rising sun,<br/>O Lord, have mercy on me.</lines>
     </verse>
-    <verse name="v2"><br/>Let us drink wine together with the Lord;<br/>let us drink wine together with the Lord:
+    <verse name="v2">
+      <lines><br/>Let us drink wine together with the Lord;<br/>let us drink wine together with the Lord:</lines>
     </verse>
-    <verse name="v3"><br/>Let us praise God together in the Lord;<br/>let us praise God together in the Lord:</verse>
+    <verse name="v3">
+      <lines><br/>Let us praise God together in the Lord;<br/>let us praise God together in the Lord:</lines>
+    </verse>
   </lyrics>
 </song>
-

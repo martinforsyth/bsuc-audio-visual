@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:17">
+  <properties>
+    <titles>
+      <title>SF486 Who would true valour see,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>John Bunyan (1628-1688)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Who would true valour see,<br/>let him come hither;<br/>one here will constant be,<br/>come wind, come weather;<br/>there's no discouragement<br/>shall make him once relent<br/>his first avowed intent<br/>to be a pilgrim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Whoso beset him round<br/>with dismal stories<br/>do but themselves confound;<br/>his strength the more is.<br/>No lion can him fright;<br/>he'll with a giant fight;<br/>but he will have a right<br/>to be a pilgrim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Hobgoblin nor foul fiend<br/>can daunt his spirit;<br/>he knows he at the end<br/>shall life inherit.<br/>Then fancies fly away,<br/>he'll fear not what men say;<br/>he'll labour night and day<br/>to be a pilgrim.</lines>
+    </verse>
+  </lyrics>
+</song>

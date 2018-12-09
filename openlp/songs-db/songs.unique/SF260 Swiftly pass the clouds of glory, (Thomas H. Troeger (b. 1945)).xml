@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:00">
+  <properties>
+    <titles>
+      <title>SF260 Swiftly pass the clouds of glory,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Thomas H. Troeger (b. 1945)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Swiftly pass the clouds of glory,<br/>heaven's voice, the dazzling light;<br/>Moses and Elijah vanish;<br/>Christ alone commands the height!<br/>Peter, James, and John fall silent,<br/>turning from the summit's rise<br/>downward toward the shadowed valley<br/>where their Lord has fixed his eyes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Glimpsed and gone the revelation,<br/>they shall gain and keep its truth,<br/>not by building on the mountain<br/>any shrine or sacred booth,<br/>but by following the Saviour<br/>through the valley to the cross<br/>and by testing faith's resilience<br/>through betrayal, pain, and loss.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lord, transfigure our perception<br/>with the purest light that shines<br/>and recast our life's intentions<br/>to the shape of your designs,<br/>till we seek no other glory<br/>than what lies past Calvary's hill<br/>and our living and our dying<br/>and our rising by your will.</lines>
+    </verse>
+  </lyrics>
+</song>

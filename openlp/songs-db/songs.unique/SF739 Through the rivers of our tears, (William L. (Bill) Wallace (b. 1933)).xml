@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:46">
+  <properties>
+    <titles>
+      <title>SF739 Through the rivers of our tears,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>William L. (Bill) Wallace (b. 1933)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Through the rivers of our tears,<br/>through our anger's bitter pain,<br/>through depression, shock, and fear,<br/>God, we cry, we cry to you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Why should life so near to birth<br/>end in such untimely death?<br/>Why this child of all on earth?<br/>God, we cry, we cry to you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Help us bid this child farewell,<br/>loose our hold upon his life,  - or "her"<br/>but retain in memory's well,<br/>smiles and tears and tender touch.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>If we mourn with all our heart<br/>as we journey through our grief,<br/>tears will work their healing art,<br/>gifting us new inner strength.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>God you show us in the Cross<br/>you are sharing all our pain.<br/>Help us find, beyond our loss,<br/>love that celebrates again.</lines>
+    </verse>
+  </lyrics>
+</song>

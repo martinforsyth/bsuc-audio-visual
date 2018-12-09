@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:39">
+  <properties>
+    <titles>
+      <title>SF690 The Church's one foundation</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Samuel John Stone (1832-1900)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Church's one foundation<br/>is Jesus Christ her Lord;<br/>she is his new creation<br/>by water and the word;<br/>from heaven he came and sought her<br/>to be his holy bride;<br/>with his own blood he bought her,<br/>and for her life he died.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Called out from every nation,<br/>yet one through all the earth,<br/>her charter of salvation<br/>one Lord, one faith, one birth;<br/>one holy name she blesses,<br/>and shares one holy food,<br/>as to one hope she presses<br/>with every grace endued.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In toil and tribulation,<br/>and tumult of her war,<br/>she waits the consummation<br/>of peace for evermore;<br/>till with the vision glorious<br/>her longing eyes are blest,<br/>at last the Church victorious<br/>shall be the Church at rest.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Yet she on earth has union<br/>with God the Three in One,<br/>and mystic, sweet communion<br/>with those whose rest is won.<br/>O happy ones and holy!<br/>Lord, give us grace that we,<br/>with them, the meek and lowly,<br/>in heaven your face shall see.</lines>
+    </verse>
+  </lyrics>
+</song>

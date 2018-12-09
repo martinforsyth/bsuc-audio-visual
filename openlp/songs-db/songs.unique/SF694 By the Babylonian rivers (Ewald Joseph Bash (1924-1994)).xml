@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:39">
+  <properties>
+    <titles>
+      <title>SF694 By the Babylonian rivers</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Ewald Joseph Bash (1924-1994)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>By the Babylonian rivers<br/>we sat down in grief and wept;<br/>hung our harps upon a willow,<br/>mourned for Zion while we slept.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There our captors, in derision,<br/>did require of us a song;<br/>so we sat with staring vision<br/>and the days were hard and long.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Could we ever sing the Lord's song<br/>in a strange and bitter land?<br/>Can our voices veil the sorrow?<br/>Lord God, hear your lonely band.</lines>
+    </verse>
+  </lyrics>
+</song>

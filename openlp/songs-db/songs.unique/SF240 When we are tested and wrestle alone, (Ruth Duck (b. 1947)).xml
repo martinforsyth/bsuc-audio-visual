@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:59">
+  <properties>
+    <titles>
+      <title>SF240 When we are tested and wrestle alone,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Ruth Duck (b. 1947)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When we are tested and wrestle alone,<br/>famished for bread when the world offers stone,<br/>nourish us, God, by your word and your way,<br/>food that sustains us by night and by day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When in the desert we cry for relief,<br/>pleading for paths marked by certain belief,<br/>lift us to love you beyond sign and test,<br/>trusting your presence, our only true rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When we are tempted to barter our souls,<br/>trading the truth for the power to control,<br/>teach us to worship and praise only you,<br/>seeking your will in the work that we do.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When we have struggled and searched through the night,<br/>sorting and sifting the wrong from the right,<br/>Saviour, surround us with circles of care,<br/>angels of healing, of hope, and of prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -9,9 +9,11 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Holy Spirit, gift bestower,<br/>breathe into our hearts today.<br/>Flowing water, dove that hovers,<br/>Holy Spirit, guide our way.<br/>Love inspirer, joy releaser,<br/>Spirit, take our fears away.<br/>Reconciler, peace restorer,<br/>move among us while we pray.
+    <verse name="v1">
+      <lines><br/>Holy Spirit, gift bestower,<br/>breathe into our hearts today.<br/>Flowing water, dove that hovers,<br/>Holy Spirit, guide our way.<br/>Love inspirer, joy releaser,<br/>Spirit, take our fears away.<br/>Reconciler, peace restorer,<br/>move among us while we pray.</lines>
     </verse>
-    <verse name="v2"><br/>Holy Spirit, Christ proclaimer,<br/>wisdom bringer, light our way.<br/>Fire that dances, wind that whispers,<br/>Holy Spirit, come today.<br/>Ease disturber, comfort bearer,<br/>move among us while we pray.<br/>Truth revealer, faith confirmer,<br/>rest within our hearts today.</verse>
+    <verse name="v2">
+      <lines><br/>Holy Spirit, Christ proclaimer,<br/>wisdom bringer, light our way.<br/>Fire that dances, wind that whispers,<br/>Holy Spirit, come today.<br/>Ease disturber, comfort bearer,<br/>move among us while we pray.<br/>Truth revealer, faith confirmer,<br/>rest within our hearts today.</lines>
+    </verse>
   </lyrics>
 </song>
-

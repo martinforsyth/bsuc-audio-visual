@@ -9,13 +9,17 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Were you there when they crucified my Lord?<br/>Were you there when they crucified my Lord?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when they crucified my Lord?
+    <verse name="v1">
+      <lines><br/>Were you there when they crucified my Lord?<br/>Were you there when they crucified my Lord?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when they crucified my Lord?</lines>
     </verse>
-    <verse name="v2"><br/>Were you there when they nailed him to the tree?<br/>Were you there when they nailed him to the tree?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when they nailed him to the tree?
+    <verse name="v2">
+      <lines><br/>Were you there when they nailed him to the tree?<br/>Were you there when they nailed him to the tree?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when they nailed him to the tree?</lines>
     </verse>
-    <verse name="v3"><br/>Were you there when they laid him in the tomb?<br/>Were you there when they laid him in the tomb?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when they laid him in the tomb?
+    <verse name="v3">
+      <lines><br/>Were you there when they laid him in the tomb?<br/>Were you there when they laid him in the tomb?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when they laid him in the tomb?</lines>
     </verse>
-    <verse name="v4"><br/>Were you there when God raised him from the dead?<br/>Were you there when God raised him from the dead?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when God raised him from the dead?</verse>
+    <verse name="v4">
+      <lines><br/>Were you there when God raised him from the dead?<br/>Were you there when God raised him from the dead?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when God raised him from the dead?</lines>
+    </verse>
   </lyrics>
 </song>
-

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:35">
+  <properties>
+    <titles>
+      <title>SF659 As dawn awakes another day,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Clare Stainsby (b. 1959)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>As dawn awakes another day,<br/>the working sphere rolls into view,<br/>and all attention centres on<br/>the many tasks we have to do.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Distracted by demands of time,<br/>and squeezed by pressures, deadlines, needs,<br/>there's scarcely any space or thought<br/>for you from whom all life proceeds.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>You challenge some to leave their nets<br/>and follow unfamiliar ways,<br/>but most are called to live their faith<br/>in humdrum tasks of working days.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Affirm us, Lord, as we employ<br/>our hands and minds in every place,<br/>let worship flow through busyness,<br/>responding to your love and grace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Your patience is our endless hope,<br/>your Spirit present to inspire,<br/>the freedom to explore your truth,<br/>your loving service our desire.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:55">
+  <properties>
+    <titles>
+      <title>SF189 Wild and lone the prophet's voice</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Carl P. Daw, Jr (b. 1944)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Wild and lone the prophet's voice<br/>echoes through the desert still,<br/>calling us to make a choice,<br/>bidding us to do God's will:<br/>'Turn from sin and be baptised;<br/>cleanse your heart and mind and soul.<br/>Quitting all the sin you prized,<br/>yield your life to God's control.'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'Bear the fruit repentance sows:<br/>lives of justice, truth, and love.<br/>Trust no other claim than those;<br/>set your heart on things above.<br/>Soon the Lord will come in power,<br/>burning clean the threshing floor:<br/>then will flames the chaff devour;<br/>wheat alone shall fill God's store.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>With such preaching stark and bold<br/>John proclaimed salvation near,<br/>and his timeless warnings hold<br/>words of hope to all who hear.<br/>So we dare to journey on,<br/>led by faith through ways untrod,<br/>till we come at last like John<br/>to behold the Lamb of God.</lines>
+    </verse>
+  </lyrics>
+</song>

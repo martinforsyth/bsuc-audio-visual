@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:26">
+  <properties>
+    <titles>
+      <title>SF585 God, whose love is all around us,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Fred Kaan (1929-2009)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God, whose love is all around us,<br/>who in Jesus sought and found us,<br/>who to freedom new unbound us,<br/>keep our hearts with joy aflame.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For the sacramental breaking,<br/>for the honour of partaking,<br/>for your life, our lives re-making,<br/>young and old, we praise your name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>From the service of this table<br/>lead us to a life more stable;<br/>for our witness make us able;<br/>blessing on our work we claim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Through our calling closely knitted,<br/>daily to your praise committed,<br/>for a life of service fitted,<br/>let us now your love proclaim.</lines>
+    </verse>
+  </lyrics>
+</song>

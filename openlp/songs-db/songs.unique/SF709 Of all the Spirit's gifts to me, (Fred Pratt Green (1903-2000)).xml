@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:41">
+  <properties>
+    <titles>
+      <title>SF709 Of all the Spirit's gifts to me,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Fred Pratt Green (1903-2000)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Of all the Spirit's gifts to me,<br/>I pray that I may never cease<br/>to take and treasure most these three:<br/>love, joy, and peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The Spirit shows me love's the root<br/>of every gift sent from above,<br/>of every flower, of every fruit,<br/>that God is love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The Spirit shows if I possess<br/>a love no evil can destroy,<br/>however great is my distress,<br/>then this is joy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Though what's ahead is mystery,<br/>and life itself is ours on lease,<br/>each day the Spirit says to me:<br/>'Go forth in peace!'</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>We go in peace -- but made aware<br/>that, in a needy world like this,<br/>our clearest purpose is to share<br/>love, joy, and peace.</lines>
+    </verse>
+  </lyrics>
+</song>

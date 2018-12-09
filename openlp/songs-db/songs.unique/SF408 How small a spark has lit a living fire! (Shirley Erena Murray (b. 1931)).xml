@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:09">
+  <properties>
+    <titles>
+      <title>SF408 How small a spark has lit a living fire!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Shirley Erena Murray (b. 1931)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How small a spark has lit a living fire!<br/>How small a flame has warmed a bitter world!<br/>How great a heart was moved to hope, to dare<br/>and bring the faith out in the open air!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>No boundary sign will stand against this faith,<br/>no wall restrain this preaching of the Word:<br/>the Good News travels on, it rides the road<br/>and draws to unity the realm of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The single note becomes a psalm of praise,<br/>the single voice grows to a swelling choir<br/>and born in song, new stories now are sung<br/>of freedom, chains unbound and loosened tongue.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Thank God for all who listened and believed,<br/>who still are by the Spirit set on fire --<br/>our hearts be warmed again, for Christ will wait<br/>on beach, in upper room, or Aldersgate.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:01">
+  <properties>
+    <titles>
+      <title>SF266 All the room was hushed and still,</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Graham Kendrick (b. 1950)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All the room was hushed and still,<br/>and when the bowl was filled<br/>he stooped to wash their feet.<br/>And when it was complete,<br/>he said, this is what I'm asking you to do,<br/>this is why I'm kneeling here beside you.<br/>This is what I want my Church to be,<br/>this is what I want the world to see --<br/>who it is you follow.<br/>Love each other,<br/>one another.<br/>Love each other<br/>in the way that I have loved you.<br/>Walk together,<br/>and whatever comes,<br/>love each other in the way that I have loved you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Let the room be hushed and still,<br/>let us go to where he kneels<br/>and join him as he serves,<br/>and learn his ways of love.<br/>He said, this is what I'm asking you to do,<br/>this is why I'm kneeling here beside you.<br/>This is what I want my Church to be,<br/>this is what I want the world to see --<br/>who it is you follow.</lines>
+    </verse>
+  </lyrics>
+</song>

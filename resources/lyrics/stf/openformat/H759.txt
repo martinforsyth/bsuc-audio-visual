@@ -9,7 +9,8 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Come O Lord, give us your Spirit;<br/>come O Lord into our lives.<br/>Come O Lord, open our hearts to receive your word.<br/>Alleluia! Alleluia! Alleluia!<br/>Come, Spirit, come.</verse>
+    <verse name="v1">
+      <lines><br/>Come O Lord, give us your Spirit;<br/>come O Lord into our lives.<br/>Come O Lord, open our hearts to receive your word.<br/>Alleluia! Alleluia! Alleluia!<br/>Come, Spirit, come.</lines>
+    </verse>
   </lyrics>
 </song>
-

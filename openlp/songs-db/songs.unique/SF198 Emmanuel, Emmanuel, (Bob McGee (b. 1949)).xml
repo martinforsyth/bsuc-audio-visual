@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:56">
+  <properties>
+    <titles>
+      <title>SF198 Emmanuel, Emmanuel,</title>
+    </titles>
+    <verseOrder> v1</verseOrder>
+    <authors>
+      <author>Bob McGee (b. 1949)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Emmanuel, Emmanuel,<br/>we call your name, Emmanuel.<br/>God with us, revealed in us,<br/>we call your name, Emmanuel.</lines>
+    </verse>
+  </lyrics>
+</song>

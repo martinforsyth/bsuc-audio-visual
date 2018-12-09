@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:18">
+  <properties>
+    <titles>
+      <title>SF360 Lord Jesus Christ,</title>
+    </titles>
+    <verseOrder> v1</verseOrder>
+    <authors>
+      <author>Taize Community</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord Jesus Christ,<br/>your light shines within us.<br/>Let not my doubts and my darkness speak to me.<br/>Lord Jesus Christ,<br/>your light shines within us.<br/>Let my heart always welcome your love.</lines>
+    </verse>
+  </lyrics>
+</song>

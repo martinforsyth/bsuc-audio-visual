@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:17">
+  <properties>
+    <titles>
+      <title>SF343 All my days I will sing this song of gladness,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Stuart Townend (b. 1963)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>All my days I will sing this song of gladness,<br/>give my praise to the fountain of delights;<br/>for in my helplessness you heard my cry,<br/>and waves of mercy poured down on my life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I will trust in the cross of my Redeemer,<br/>I will sing of the blood that never fails,<br/>of sins forgiven, of conscience cleansed,<br/>of death defeated and life without end.<br/>Beautiful Saviour, wonderful Counsellor,<br/>clothed in majesty, Lord of history,<br/>you're the Way, the Truth, the Life.<br/>Star of the Morning, glorious in holiness,<br/>you're the risen one, heaven's champion,<br/>and you reign, you reign over all!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I long to be where the praise is never-ending,<br/>yearn to dwell where the glory never fades,<br/>where countless worshippers will share one song,<br/>and cries of 'worthy' will honour the Lamb!<br/>Beautiful Saviour ...</lines>
+    </verse>
+  </lyrics>
+</song>

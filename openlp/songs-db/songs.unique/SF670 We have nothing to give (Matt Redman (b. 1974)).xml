@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:36">
+  <properties>
+    <titles>
+      <title>SF670 We have nothing to give</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Matt Redman (b. 1974)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We have nothing to give<br/>that didn't first come from your hand;<br/>we have nothing to offer you<br/>which you did not provide.<br/>Every good, perfect gift comes from<br/>your kind and gracious heart,<br/>and all we do is give back to you<br/>what always has been yours.<br/>Lord, we're breathing the breath<br/>that you gave us to breathe,<br/>to worship you, to worship you.<br/>And we're singing these songs<br/>with the very same breath,<br/>to worship you, to worship you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Who has given to you<br/>that it should be paid back to him?<br/>Who has given to you<br/>as if you needed anything?<br/>From you and to you and through you<br/>come all things, O Lord,<br/>and all we do is give back to you<br/>what always has been yours.<br/>Refrain</lines>
+    </verse>
+  </lyrics>
+</song>

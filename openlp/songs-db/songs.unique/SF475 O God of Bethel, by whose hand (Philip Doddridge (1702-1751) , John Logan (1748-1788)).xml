@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:16">
+  <properties>
+    <titles>
+      <title>SF475 O God of Bethel, by whose hand</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Philip Doddridge (1702-1751) </author>
+      <author>John Logan (1748-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O God of Bethel, by whose hand<br/>thy people still are fed;<br/>who through this earthly pilgrimage<br/>hast all our forebears led.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our vows, our prayers, we now present<br/>before thy throne of grace:<br/>God of our forebears, be the God<br/>of their succeeding race.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Through each perplexing path of life<br/>our wandering footsteps guide;<br/>give us each day our daily bread,<br/>and raiment fit provide.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O spread thy covering wings around,<br/>till all our wanderings cease,<br/>and at our Father's loved abode<br/>our souls arrive in peace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>To thee as to our Covenant-God<br/>we'll our whole selves resign;<br/>and this not as a tithe alone,<br/>for all we have is thine.</lines>
+    </verse>
+  </lyrics>
+</song>

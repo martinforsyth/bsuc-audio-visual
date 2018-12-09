@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:14">
+  <properties>
+    <titles>
+      <title>SF450 Open, Lord, my inward ear,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Open, Lord, my inward ear,<br/>and bid my heart rejoice;<br/>bid my quiet spirit hear<br/>your comfortable voice;<br/>never in the whirlwind found,<br/>or where earthquakes rock the place,<br/>still and silent is the sound,<br/>the whisper of your grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>From the world of sin, and noise,<br/>and hurry I withdraw;<br/>for the small and inward voice<br/>I wait with humble awe;<br/>silent am I now and still,<br/>dare not in your presence move;<br/>to my waiting soul reveal<br/>the secret of your love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>You did undertake for me,<br/>for me to death were sold;<br/>wisdom in a mystery<br/>of bleeding love unfold;<br/>teach the lesson of your cross:<br/>let me die, with you to reign;<br/>all things let me count but loss,<br/>so I may you regain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Show me, as my soul can bear,<br/>the depth of inbred sin;<br/>all the unbelief declare,<br/>the pride that lurks within;<br/>take me, whom yourself have bought,<br/>bring into captivity<br/>every high aspiring thought<br/>and give humility.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord, my time is in your hand,<br/>my soul to you convert;<br/>you can make me understand,<br/>though I am slow of heart;<br/>yours in whom I live and move,<br/>yours the work, your name divine;<br/>you are wisdom, power, and love,<br/>and all you are is mine.</lines>
+    </verse>
+  </lyrics>
+</song>

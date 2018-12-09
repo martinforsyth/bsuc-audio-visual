@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:18">
+  <properties>
+    <titles>
+      <title>SF359 Lord Christ, we praise your sacrifice,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Alan Gaunt (b. 1935)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord Christ, we praise your sacrifice,<br/>your life in love so freely given.<br/>For those who took your life away<br/>you prayed:that they might be forgiven;<br/>and there, in helplessness arrayed,<br/>God's power was perfectly displayed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Once helpless in your mother's arms,<br/>dependent on her mercy then;<br/>at last, by choice, in other hands,<br/>you were as helpless once again;<br/>and, at their mercy, crucified,<br/>you claimed your victory and died.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Though helpless and rejected then,<br/>you're now as risen Lord acclaimed;<br/>for ever by your sacrifice<br/>is God's eternal love proclaimed:<br/>the love which, dying, brings to birth<br/>new life and hope for all on earth.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>So, living Lord, prepare us now<br/>your willing helplessness to share;<br/>to give ourselves in sacrifice<br/>to overcome the world's despair;<br/>in love to give ourselves away<br/>and claim your victory today.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:47">
+  <properties>
+    <titles>
+      <title>SF748 Glorious things of thee are spoken,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>John Newton (1725-1807)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Glorious things of thee are spoken,<br/>Zion, city of our God;<br/>he whose word cannot be broken<br/>formed thee for his own abode.<br/>On the Rock of Ages founded,<br/>what can shake thy sure repose?<br/>With salvation's walls surrounded,<br/>thou may'st smile at all thy foes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>See! The streams of living waters,<br/>springing from eternal love,<br/>well supply thy sons and daughters,<br/>and all fear of want remove;<br/>who can faint, while such a river<br/>ever flows their thirst to assuage --<br/>grace which, like the Lord, the giver,<br/>never fails from age to age?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Saviour, if of Zion's city<br/>I, through grace, a member am,<br/>let the world deride or pity,<br/>I will glory in thy name.<br/>Fading are our worldly pleasures,<br/>all their boasted pomp and show;<br/>solid joys and lasting treasures<br/>none but Zion's children know.</lines>
+    </verse>
+  </lyrics>
+</song>

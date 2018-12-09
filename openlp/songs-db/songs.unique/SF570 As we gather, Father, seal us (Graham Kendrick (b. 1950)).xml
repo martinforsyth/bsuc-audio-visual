@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:25">
+  <properties>
+    <titles>
+      <title>SF570 As we gather, Father, seal us</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Graham Kendrick (b. 1950)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>As we gather, Father, seal us<br/>in the love that knows no fear.<br/>Draw us, heal us, reconcile us,<br/>may there be a place of refuge here.<br/>Who share one living bread,<br/>one Father's love,<br/>one Saviour's grace,<br/>one Spirit's breath;<br/>one holy communion.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>No more outcasts, no more strangers,<br/>all dividing walls are down.<br/>Here is love that redefines us,<br/>dignifies the least and lowest one.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Source of joy, belonging, friendship,<br/>form your family likeness here.<br/>Father, Son and Holy Spirit,<br/>that the world may know our God is near.</lines>
+    </verse>
+  </lyrics>
+</song>

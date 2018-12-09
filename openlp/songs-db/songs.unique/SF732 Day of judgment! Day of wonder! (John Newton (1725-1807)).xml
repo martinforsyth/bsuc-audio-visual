@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:44">
+  <properties>
+    <titles>
+      <title>SF732 Day of judgment! Day of wonder!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John Newton (1725-1807)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Day of judgment! Day of wonder!<br/>Listen to the trumpet's sound,<br/>louder than the voice of thunder,<br/>echoes all creation round:<br/>God of mercy, God of glory,<br/>may we then in Christ be found.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>See the Judge, our nature wearing,<br/>with the angel he outsoars.<br/>Those who wait for Christ's appearing<br/>then shall sing, 'This God is ours!'<br/>Gracious Saviour, Lord of glory,<br/>own us in that day as yours.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>At God's call we shall awaken,<br/>to the bidding of the Lord;<br/>every nation will be shaken<br/>by God's own eternal word;<br/>friend of sinners, Christ in glory,<br/>intercede for us with God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>And to those who have confessed him,<br/>loved and served the Lord below,<br/>Christ will say, 'Come now, you blessed,<br/>see the kingdom I bestow'.<br/>God of mercy, friend of sinners,<br/>we shall then your glory know.</lines>
+    </verse>
+  </lyrics>
+</song>

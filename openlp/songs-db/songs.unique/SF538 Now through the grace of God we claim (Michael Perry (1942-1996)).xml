@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:22">
+  <properties>
+    <titles>
+      <title>SF538 Now through the grace of God we claim</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Michael Perry (1942-1996)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Now through the grace of God we claim<br/>this life to be Christ's own,<br/>baptized with water in the name<br/>of Father, Spirit, Son.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For Jesus Christ the crucified,<br/>who broke the power of sin,<br/>now lives to plead for those baptized<br/>in unity with him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>So let us act upon his word,<br/>rejoicing in our faith,<br/>until we rise with Christ our Lord<br/>and triumph over death!</lines>
+    </verse>
+  </lyrics>
+</song>

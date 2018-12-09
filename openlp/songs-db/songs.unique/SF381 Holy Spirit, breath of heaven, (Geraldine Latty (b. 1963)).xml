@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:07">
+  <properties>
+    <titles>
+      <title>SF381 Holy Spirit, breath of heaven,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Geraldine Latty (b. 1963)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Holy Spirit, breath of heaven,<br/>Holy Spirit, breathe on us.<br/>Breathe us to a quiet stillness<br/>where we trust your love for us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Holy Spirit, breath of heaven,<br/>Holy Spirit, breathe on us.<br/>Breathe us to a quiet stillness<br/>where we find your place for us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Holy Spirit, breath of heaven,<br/>Holy Spirit, breathe on us.<br/>Breathe us to a quiet stillness<br/>where we know that you are God.</lines>
+    </verse>
+  </lyrics>
+</song>

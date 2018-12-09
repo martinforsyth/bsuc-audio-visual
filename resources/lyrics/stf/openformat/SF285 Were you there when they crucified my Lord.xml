@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
+  <properties>
+    <titles>
+      <title>SF285 Were you there when they crucified my Lord?</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Were you there when they crucified my Lord?<br/>Were you there when they crucified my Lord?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when they crucified my Lord?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Were you there when they nailed him to the tree?<br/>Were you there when they nailed him to the tree?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when they nailed him to the tree?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Were you there when they laid him in the tomb?<br/>Were you there when they laid him in the tomb?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when they laid him in the tomb?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Were you there when God raised him from the dead?<br/>Were you there when God raised him from the dead?<br/>Oh! Sometimes it causes me to tremble, tremble, tremble;<br/>were you there when God raised him from the dead?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:36">
+  <properties>
+    <titles>
+      <title>SF668 Teach me, my God and King,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>George Herbert (1593-1633)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Teach me, my God and King,<br/>in all things thee to see,<br/>and what I do in anything,<br/>to do it as for thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>For those who look on glass<br/>on it may stay the eye;<br/>or if it pleases, through it pass,<br/>and then the heaven espy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>All may of thee partake:<br/>nothing can be so mean,<br/>which with this tincture, 'For thy sake'<br/>will not grow bright and clean.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>A servant with this clause<br/>makes drudgery divine;<br/>who sweeps a room, as for thy laws,<br/>makes that and the action fine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>This is the famous stone<br/>that turneth all to gold;<br/>for that which God doth touch and own<br/>cannot for less be told.</lines>
+    </verse>
+  </lyrics>
+</song>

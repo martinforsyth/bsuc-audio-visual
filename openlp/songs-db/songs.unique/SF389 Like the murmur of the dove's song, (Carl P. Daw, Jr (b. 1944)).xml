@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:08">
+  <properties>
+    <titles>
+      <title>SF389 Like the murmur of the dove's song,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Carl P. Daw, Jr (b. 1944)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Like the murmur of the dove's song,<br/>like the challenge of her flight,<br/>like the vigour of the wind's rush,<br/>like the new flame's eager might:<br/>come, Holy Spirit, come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>To the members of Christ's body,<br/>to the branches of the Vine,<br/>to the Church in faith assembled,<br/>to her midst as gift and sign:<br/>come, Holy Spirit, come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>With the healing of division,<br/>with the ceaseless voice of prayer,<br/>with the power to love and witness,<br/>with the peace beyond compare:<br/>come, Holy Spirit, come.</lines>
+    </verse>
+  </lyrics>
+</song>

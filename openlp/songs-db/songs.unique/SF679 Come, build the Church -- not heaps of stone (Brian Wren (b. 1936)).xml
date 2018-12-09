@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:37">
+  <properties>
+    <titles>
+      <title>SF679 Come, build the Church -- not heaps of stone</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Brian Wren (b. 1936)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, build the Church -- not heaps of stone<br/>in safe, immobile, measured walls,<br/>but friends of Jesus, Spirit-blown,<br/>and fit to travel where he calls.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come, occupy with glad dissent<br/>where death and evil fence the ground,<br/>and pitch a Resurrection-Tent<br/>where peace is lived, and love is found.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Exposed upon the open ground<br/>to screams of war in East and West,<br/>our ears will catch a deeper sound:<br/>the weeping of the world's oppressed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In wearied face, or frightened child,<br/>in all they know, and need to say,<br/>the living Christ shall stand revealed.<br/>Come, let us follow and obey!</lines>
+    </verse>
+  </lyrics>
+</song>

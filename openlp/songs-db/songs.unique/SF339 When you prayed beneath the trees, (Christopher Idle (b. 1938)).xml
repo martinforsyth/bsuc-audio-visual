@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:17">
+  <properties>
+    <titles>
+      <title>SF339 When you prayed beneath the trees,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Christopher Idle (b. 1938)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When you prayed beneath the trees,<br/>it was for me, O Lord;<br/>when you cried upon your knees,<br/>how could it be, O Lord?<br/>When in blood and sweat and tears<br/>you dismissed your final fears,<br/>when you faced the soldiers' spears,<br/>you stood for me, O Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When their triumph looked complete,<br/>it was for me, O Lord;<br/>when it seemed like your defeat,<br/>they could not see, O Lord!<br/>When you faced the mob alone<br/>you were silent as a stone,<br/>and a tree became your throne;<br/>you came for me, O Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When you stumbled up the road,<br/>you walked for me, O Lord,<br/>when you took your deadly load,<br/>that heavy tree, O Lord;<br/>when they lifted you on high,<br/>and they nailed you up to die,<br/>and when darkness filled the sky,<br/>it was for me, O Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>When you spoke with kingly power,<br/>it was for me, O Lord,<br/>in that dread and destined hour,<br/>you made me free, O Lord;<br/>earth and heaven heard you shout,<br/>death and hell were put to rout,<br/>for the grave could not hold out;<br/>you are for me, O Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

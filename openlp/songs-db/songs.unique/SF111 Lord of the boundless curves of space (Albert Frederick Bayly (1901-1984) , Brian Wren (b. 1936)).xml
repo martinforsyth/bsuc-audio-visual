@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:48">
+  <properties>
+    <titles>
+      <title>SF111 Lord of the boundless curves of space</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Albert Frederick Bayly (1901-1984) </author>
+      <author>Brian Wren (b. 1936)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Lord of the boundless curves of space<br/>and time's deep mystery,<br/>to your creative might we trace<br/>all nature's energy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Your mind conceived the galaxy,<br/>each atom's secret planned,<br/>and every age of history<br/>your purpose, Lord, has spanned.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Your Spirit gave the living cell<br/>its hidden, vital force:<br/>the instincts which all life impel<br/>derive from you, their source.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>You gave a growing consciousness,<br/>first sown when time began,<br/>with all our longing to progress,<br/>discover, shape and plan.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>In Christ the living power of grace<br/>to liberate and lead<br/>lights up the future of our race<br/>with mercy's crowning deed.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Lead us, whom love has made and sought,<br/>to find, when planets fall,<br/>that Omega of life and thought<br/>where Christ is all in all.</lines>
+    </verse>
+  </lyrics>
+</song>

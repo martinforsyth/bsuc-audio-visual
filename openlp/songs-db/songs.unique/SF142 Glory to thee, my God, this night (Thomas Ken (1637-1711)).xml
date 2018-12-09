@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:51">
+  <properties>
+    <titles>
+      <title>SF142 Glory to thee, my God, this night</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Thomas Ken (1637-1711)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Glory to thee, my God, this night<br/>for all the blessings of the light;<br/>keep me, O keep me, King of kings,<br/>beneath thine own almighty wings.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Forgive me, Lord, for thy dear Son,<br/>the ill that I this day have done,<br/>that with the world, myself, and thee,<br/>I, ere I sleep, at peace may be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Teach me to live, that I may dread<br/>the grave as little as my bed;<br/>teach me to die, that so I may<br/>rise glorious at the judgement day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>O may my soul on thee repose,<br/>and may sweet sleep mine eyelids close --<br/>sleep that shall me more vigorous make<br/>to serve my God when I awake.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>When in the night I sleepless lie,<br/>my mind with heavenly thoughts supply;<br/>let no ill dreams disturb my rest,<br/>no powers of darkness me molest.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Praise God, from whom all blessings flow;<br/>praise him, all creatures here below;<br/>praise him above, ye heavenly host;<br/>praise Father, Son, and Holy Ghost.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:56">
+  <properties>
+    <titles>
+      <title>SF209 Let me tell you about a baby, and his family.</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Mark Johnson</author>
+      <author>Helen Johnson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Let me tell you about a baby, and his family.<br/>It is written down in the Bible so you might believe.<br/>Many men had told of his coming, down through history.<br/>Now the time had come for fulfilment of their prophecy.<br/>And they called his name Jesus,<br/>Jesus the Saviour<br/>and they called his name Jesus,<br/>Son of the most high God.<br/>(Repeat Refrain)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There was once a young girl called Mary, only in her teens.<br/>She was visited by an angel, sent to Galilee.<br/>And he told her she'd have a baby, how, she couldn't see.<br/>Yet it was her will to obey him, so it was agreed.<br/>Refrain</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Well, in those days Caesar Augustus issued a decree,<br/>and so Mary went with her husband where they had to be.<br/>There was nowhere else but a stable, where they both could sleep.<br/>It was there that she had her baby, born for you and me.<br/>Refrain</lines>
+    </verse>
+  </lyrics>
+</song>

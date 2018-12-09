@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:40">
+  <properties>
+    <titles>
+      <title>SF701 Heaven shall not wait</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949) </author>
+      <author>Graham Maule (b. 1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Heaven shall not wait<br/>for the poor to lose their patience,<br/>the scorned to smile, the despised to find a friend:<br/>Jesus is Lord;<br/>he has championed the unwanted;<br/>in him injustice confronts its timely end.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Heaven shall not wait<br/>for the rich to share their fortunes,<br/>the proud to fall, the elite to tend the least:<br/>Jesus is Lord;<br/>he has shown the master's privilege --<br/>to kneel and wash servants' feet before they feast.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Heaven shall not wait<br/>for the dawn of great ideas,<br/>thoughts of compassion divorced from cries of pain:<br/>Jesus is Lord;<br/>he has married word and action;<br/>his cross and company make his purpose plain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Heaven shall not wait<br/>for triumphant Hallelujahs,<br/>when earth has passed and we reach another shore:<br/>Jesus is Lord<br/>in our present imperfection;<br/>his power and love are for now, and then for evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

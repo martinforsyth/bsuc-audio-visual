@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:26">
+  <properties>
+    <titles>
+      <title>SF575 Before I take the body of my Lord,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949) </author>
+      <author>Graham Maule (b. 1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Before I take the body of my Lord,<br/>before I share his life in bread and wine,<br/>I recognise the sorry things within:<br/>these I lay down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The words of hope I often failed to give,<br/>the prayers of kindness buried by my pride,<br/>the signs of care I argued out of sight:<br/>these I lay down.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The narrowness of vision and of mind,<br/>the need for other folk to serve my will,<br/>and every word and silence meant to hurt:<br/>these I lay down.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Of those around in whom I meet my Lord,<br/>I ask their pardon and I grant them mine,<br/>that every contradiction of Christ's peace<br/>might be laid down.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lord Jesus Christ, companion at this feast,<br/>I empty now my heart and stretch my hands,<br/>and ask to meet you here in bread and wine<br/>which you lay down.</lines>
+    </verse>
+  </lyrics>
+</song>

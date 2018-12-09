@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:12">
+  <properties>
+    <titles>
+      <title>SF299 Easter jubilation fills the streets and towns,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Mark Johnson</author>
+      <author>Helen Johnson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Easter jubilation fills the streets and towns,<br/>celebrations have begun.<br/>Hear the music and the dancing now,<br/>join the laughter and the fun!<br/>Oh, raise a joyful shout!<br/>Clap your hands and dance,<br/>let your feelings out.<br/>Oh, hear what it's about:<br/>Christ, the Lord, has come<br/>to set us free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Put aside your sorrows, wipe your tears away,<br/>for a better time will come.<br/>There's a promise of a better day,<br/>join the laughter and the fun!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>La, la, la, la, la, la, etc.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Easter jubilation fills the streets and towns,<br/>celebrations have begun.<br/>Hear the music and the dancing now,<br/>join the laughter and the fun!<br/>(Refrain)<br/>Hoy!</lines>
+    </verse>
+  </lyrics>
+</song>

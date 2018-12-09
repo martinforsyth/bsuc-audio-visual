@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:54">
+  <properties>
+    <titles>
+      <title>SF184 Round orange, round orange, you serve as a sign</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Elizabeth J. Cosnett (b. 1936)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Round orange, round orange, you serve as a sign<br/>that God made the round world with purpose divine.<br/>The power of love is always the same:<br/>be glad, give thanks, rejoice in God's name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Red ribbon, you tell of the bloodshed and pain<br/>which led to forgiveness when Jesus was slain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Ripe fruits, freely given, this truth you recall,<br/>when God hands out presents they're meant for us all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Bright candle, the message you carry is clear,<br/>the true light from God found a home with us here.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Christingle, christingle, shine out in the night<br/>to kindle among us that marvellous light.</lines>
+    </verse>
+  </lyrics>
+</song>

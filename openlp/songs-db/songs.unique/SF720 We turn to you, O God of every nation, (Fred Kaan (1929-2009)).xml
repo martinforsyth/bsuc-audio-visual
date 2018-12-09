@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:43">
+  <properties>
+    <titles>
+      <title>SF720 We turn to you, O God of every nation,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Fred Kaan (1929-2009)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We turn to you, O God of every nation,<br/>giver of good and origin of life;<br/>your love is at the heart of all creation,<br/>your hurt is people's pain in war and death.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We turn to you, that we may be forgiven<br/>for crucifying Christ on earth again;<br/>we know that we have never wholly striven<br/>to share with all the promise of your reign.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Free every heart from haughty self-reliance,<br/>our ways of thought inspire with simple grace;<br/>break down among us barriers of defiance;<br/>speak to the soul of all the human race.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>On all who rise on earth for right relations<br/>we pray the light of love from hour to hour.<br/>Grant wisdom to the leaders of the nations,<br/>the gift of carefulness to those in power.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Teach us, good Lord, to serve the need of others;<br/>help us to give and not to count the cost.<br/>Unite us all to live as sisters, brothers;<br/>defeat our Babel with your Pentecost!</lines>
+    </verse>
+  </lyrics>
+</song>

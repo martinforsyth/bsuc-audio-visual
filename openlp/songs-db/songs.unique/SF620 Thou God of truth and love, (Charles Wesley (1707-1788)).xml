@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:30">
+  <properties>
+    <titles>
+      <title>SF620 Thou God of truth and love,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Thou God of truth and love,<br/>we seek thy perfect way,<br/>ready thy choice to approve,<br/>thy providence to obey;<br/>enter into thy wise design,<br/>and sweetly lose our will in thine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Why hast thou cast our lot<br/>in the same age and place,<br/>and why together brought<br/>to see each other's face,<br/>to join with loving sympathy,<br/>and mix our friendly souls in thee?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Didst thou not make us one,<br/>that we might one remain,<br/>together travel on,<br/>and share our joy and pain,<br/>till all thy utmost goodness prove,<br/>and rise renewed in perfect love?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then let us ever bear<br/>the blessed end in view,<br/>and join, with mutual care,<br/>to fight our passage through;<br/>and kindly help each other on,<br/>till all receive the starry crown.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O may thy Spirit seal<br/>our souls unto that day,<br/>with all thy fullness fill,<br/>and then transport away:<br/>away to our eternal rest,<br/>away to our Redeemer's breast.</lines>
+    </verse>
+  </lyrics>
+</song>

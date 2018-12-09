@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:47">
+  <properties>
+    <titles>
+      <title>SF108 In the beginning God played with the planets,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Andrew Pratt (b. 1948)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In the beginning God played with the planets,<br/>set them a-spinning in time and in space,<br/>stars in the night sky, while sun lit the daytime,<br/>blue was the globe that was formed for our race.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God saw the seas and the fish that swam in them,<br/>formed the dry land where the trees soon would grow,<br/>animals now could inhabit the countries<br/>warmed by the oceans or covered in snow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>After the animals, people were coming,<br/>made in God's likeness to live on the earth;<br/>big the blue planet God gave them to live on,<br/>sharing its riches, its wonder and worth.</lines>
+    </verse>
+  </lyrics>
+</song>

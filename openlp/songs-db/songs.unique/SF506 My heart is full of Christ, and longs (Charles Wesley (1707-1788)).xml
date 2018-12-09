@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:19">
+  <properties>
+    <titles>
+      <title>SF506 My heart is full of Christ, and longs</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>My heart is full of Christ, and longs<br/>its glorious matter to declare!<br/>Of him I make my loftier songs,<br/>I cannot from his praise forbear;<br/>my ready tongue makes haste to sing<br/>the glories of my heavenly King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Fairer than all the earth-born race,<br/>perfect in comeliness thou art;<br/>replenished are thy lips with grace,<br/>and full of love thy tender heart:<br/>God ever blest! We bow the knee,<br/>and own all fullness dwells in thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Gird on thy thigh the Spirit's sword,<br/>and take to thee thy power divine;<br/>stir up thy strength, almighty Lord,<br/>all power and majesty are thine:<br/>assert thy worship and renown;<br/>O all-redeeming God, come down!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Come, and maintain thy righteous cause,<br/>and let thy glorious toil succeed;<br/>dispread the victory of thy cross,<br/>ride on, and prosper in thy deed;<br/>through earth triumphantly ride on,<br/>and reign in every heart alone.</lines>
+    </verse>
+  </lyrics>
+</song>

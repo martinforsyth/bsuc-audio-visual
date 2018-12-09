@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:57">
+  <properties>
+    <titles>
+      <title>SF218 Unto us a boy is born!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Percy Dearmer (1867-1936)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Unto us a boy is born!<br/>King of all creation,<br/>came he to a world forlorn,<br/>the Lord of every nation.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Cradled in a stall was he<br/>with sleepy cows and asses;<br/>but the very beasts could see<br/>that he all folk surpasses.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Herod then with fear was filled:<br/>'A prince,' he said, 'in Jewry!'<br/>All the little boys he killed<br/>at Bethlem in his fury.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Now may Mary's son, who came<br/>so long ago to love us,<br/>lead us all with hearts aflame<br/>unto the joys above us.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Omega and Alpha he!<br/>Let the organ thunder,<br/>while the choir with peals of glee<br/>now rends the air asunder.</lines>
+    </verse>
+  </lyrics>
+</song>

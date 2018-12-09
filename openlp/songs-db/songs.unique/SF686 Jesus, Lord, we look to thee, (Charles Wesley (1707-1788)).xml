@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:38">
+  <properties>
+    <titles>
+      <title>SF686 Jesus, Lord, we look to thee,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus, Lord, we look to thee,<br/>let us in thy name agree;<br/>show thyself the Prince of Peace;<br/>bid our jarring conflicts cease.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>By thy reconciling love,<br/>every stumbling-block remove;<br/>each to each unite, endear;<br/>come, and spread thy banner here.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Make us of one heart and mind,<br/>courteous, merciful, and kind,<br/>lowly, meek in thought and word,<br/>altogether like our Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Let us for each other care,<br/>each the other's burden bear,<br/>to thy Church the pattern give,<br/>show how true believers live.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Free from anger and from pride,<br/>let us thus in God abide;<br/>all the depth of love express,<br/>all the height of holiness.</lines>
+    </verse>
+  </lyrics>
+</song>

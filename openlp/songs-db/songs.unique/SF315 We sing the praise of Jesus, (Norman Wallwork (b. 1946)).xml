@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:14">
+  <properties>
+    <titles>
+      <title>SF315 We sing the praise of Jesus,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Norman Wallwork (b. 1946)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We sing the praise of Jesus,<br/>of our ascending Lord;<br/>the triumph of our Saviour,<br/>of Christ the Son of God.<br/>The forty days are over,<br/>earth sees his face no more;<br/>but Christ the King of glory<br/>we worship and adore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Rejoicing in Christ's promise<br/>we wait in prayer and praise,<br/>the Spirit sent from heaven<br/>to set the earth ablaze;<br/>we pray with expectation,<br/>we praise with one accord,<br/>we wait for living fire,<br/>the power of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Therefore with saints and angels<br/>and all the hosts above<br/>we lift our hearts and voices<br/>to bless the God of love;<br/>to sing of our Redeemer<br/>who intercedes and prays,<br/>that God the Holy Spirit<br/>may guide us all our days.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>With songs of alleluia<br/>let earth and heaven ring;<br/>and praises to the Father<br/>let all creation sing.<br/>All honour be to Jesus,<br/>God's own eternal Son;<br/>and to the Holy Spirit<br/>let endless praise be done!</lines>
+    </verse>
+  </lyrics>
+</song>

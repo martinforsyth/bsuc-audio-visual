@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:00">
+  <properties>
+    <titles>
+      <title>SF253 Love inspired the anger</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Andrew Pratt (b. 1948)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Love inspired the anger<br/>that cleared a temple court,<br/>overturned the wisdom<br/>which their greed had wrought.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Love inspired the anger<br/>that set the leper free<br/>from the legal strictures<br/>that brought misery.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Love inspired the anger<br/>that cursed a viper's brood:<br/>set on domination,<br/>self with God confused.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Love inspires the anger<br/>that curses poverty,<br/>preaches life's enrichment,<br/>seeks equality.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Love inspires the anger<br/>that still can set us free<br/>from the world's conventions<br/>bringing liberty.</lines>
+    </verse>
+  </lyrics>
+</song>

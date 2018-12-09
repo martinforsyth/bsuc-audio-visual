@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:16">
+  <properties>
+    <titles>
+      <title>SF326 Jesus comes with all his grace,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus comes with all his grace,<br/>comes to save a fallen race:<br/>object of our glorious hope,<br/>Jesus comes to lift us up.<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Let the living stones cry out;<br/>let the seed of Abram shout;<br/>praise we all our lowly King,<br/>give him thanks, rejoice, and sing.<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He has our salvation wrought,<br/>he our captive souls has bought,<br/>he has reconciled to God,<br/>he has washed us in his blood.<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We are now his lawful right,<br/>walk as children of the light;<br/>we shall soon obtain the grace,<br/>pure in heart, to see his face.<br/>Alleluia!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>We shall gain our calling's prize;<br/>after God we all shall rise,<br/>filled with joy, and love, and peace,<br/>perfected in holiness.<br/>Alleluia!</lines>
+    </verse>
+  </lyrics>
+</song>

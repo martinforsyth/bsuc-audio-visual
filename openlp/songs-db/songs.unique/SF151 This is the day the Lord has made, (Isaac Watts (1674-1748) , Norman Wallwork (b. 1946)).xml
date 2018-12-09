@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:52">
+  <properties>
+    <titles>
+      <title>SF151 This is the day the Lord has made,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Isaac Watts (1674-1748) </author>
+      <author>Norman Wallwork (b. 1946)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>This is the day the Lord has made,<br/>God calls the day his own;<br/>let heaven rejoice, let earth be glad,<br/>and praise surround the throne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Today Christ rose and left the dead,<br/>the powers of darkness fell;<br/>today Christ's triumphs now we spread,<br/>and gospel wonders tell.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Today the Spirit came in power<br/>in Pentecostal flame;<br/>today as in that promised hour,<br/>disciples praise God's name.</lines>
+    </verse>
+  </lyrics>
+</song>

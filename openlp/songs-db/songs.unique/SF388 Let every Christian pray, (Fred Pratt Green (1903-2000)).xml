@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:08">
+  <properties>
+    <titles>
+      <title>SF388 Let every Christian pray,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Fred Pratt Green (1903-2000)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Let every Christian pray,<br/>this day, and every day,<br/>come, Holy Spirit, come!<br/>Was not the Church we love<br/>commissioned from above?<br/>Come, Holy Spirit, come!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The Spirit brought to birth<br/>the Church of Christ on earth<br/>to seek and save the lost:<br/>God never has withdrawn<br/>since that tremendous dawn,<br/>those gifts of Pentecost.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Always the Spirit strove<br/>to teach her how to love:<br/>come, Holy Spirit, come!<br/>Age after age, anew,<br/>she proved the gospel true:<br/>come, Holy Spirit, come!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Only the Spirit's power<br/>can fit us for this hour:<br/>come, Holy Spirit, come!<br/>Instruct, inspire, unite;<br/>and make us see the light:<br/>come, Holy Spirit, come!</lines>
+    </verse>
+  </lyrics>
+</song>

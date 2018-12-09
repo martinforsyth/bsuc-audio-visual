@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:30">
+  <properties>
+    <titles>
+      <title>SF612 God give us life</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949) </author>
+      <author>Graham Maule (b. 1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God give us life<br/>when all around spells death<br/>and some have died;<br/>and few are clear that hope is near<br/>or fate can be defied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God give us love<br/>in heart and hand<br/>to hold the hurting one,<br/>to free the anger, meet the need<br/>and wait till waiting's done.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God give us skill,<br/>insight and will<br/>to find, when none are sure,<br/>new threads to mend the web of life,<br/>new means to heal and cure.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God give us faith,<br/>should all else fail<br/>and death unsheath its sting.<br/>O help us hear, through pain and fear,<br/>the songs that angels sing.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Then, in the end,<br/>make death a friend,<br/>and give us strength to stand<br/>and walk to where no eye can stare,<br/>but Christ can clasp our hand.</lines>
+    </verse>
+  </lyrics>
+</song>

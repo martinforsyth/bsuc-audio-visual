@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:21">
+  <properties>
+    <titles>
+      <title>SF522 I should like to speak to you,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Joy Webb (b. 1932)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I should like to speak to you,<br/>for I know you're there!<br/>Every time I try, I find<br/>it's hard to make a prayer.<br/>Could you see what I'm thinking<br/>and know that it's a prayer?<br/>Could you look into my heart<br/>and find you're welcome there?<br/>Could I bring you all my hopes and dreams,<br/>my moments of despair?<br/>Could you take what I'm thinking<br/>and find that it's a prayer? A prayer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Lots of things I'd like to say,<br/>seem to disappear,<br/>and I don't feel sure that they're<br/>the things you'd want to hear!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>If I get it wrong sometimes,<br/>help me know you're there,<br/>listening to me patiently,<br/>and you want my prayer!</lines>
+    </verse>
+  </lyrics>
+</song>

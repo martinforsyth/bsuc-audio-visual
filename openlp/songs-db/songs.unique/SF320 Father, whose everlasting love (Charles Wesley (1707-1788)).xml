@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:15">
+  <properties>
+    <titles>
+      <title>SF320 Father, whose everlasting love</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Father, whose everlasting love<br/>your only Son for sinners gave,<br/>whose grace to all did freely move,<br/>and sent him down the world to save:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Help us your mercy to extol,<br/>immense, unfathomed, unconfined;<br/>to praise the Lamb who died for all,<br/>the Saviour of all humankind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Your undistinguishing regard<br/>was cast on Adam's fallen race;<br/>for all you have in Christ prepared<br/>sufficient, sovereign, saving grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The world he suffered to redeem;<br/>for all he has the atonement made;<br/>for those who will not come to him<br/>the ransom of his life was paid.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Arise, O God, maintain your cause!<br/>The fullness of the nations call;<br/>lift up the standard of your cross,<br/>and all shall own you died for all.</lines>
+    </verse>
+  </lyrics>
+</song>

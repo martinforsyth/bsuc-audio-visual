@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:32">
+  <properties>
+    <titles>
+      <title>SF632 I've had questions without answers,</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I've had questions without answers,<br/>I've known sorrow, I have known pain.<br/>But there's one thing that I'll cling to:<br/>you are faithful, Jesus, you're true.<br/>When hope is lost, I'll call you Saviour.<br/>When pain surrounds, I'll call you healer.<br/>When silence falls,<br/>you'll be the song within my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In the lone hour of my sorrow,<br/>through the darkest night of my soul,<br/>you surround me and sustain me;<br/>my defender forever more.<br/>When hope is lost ...<br/>I will praise you, I will praise you;<br/>when the tears fall, still I will sing to you.<br/>I will praise you, Jesus, praise you,<br/>through the suffering still I will sing.<br/>When hope is lost ...</lines>
+    </verse>
+  </lyrics>
+</song>

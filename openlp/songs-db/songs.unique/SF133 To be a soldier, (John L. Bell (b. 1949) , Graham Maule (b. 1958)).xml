@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:50">
+  <properties>
+    <titles>
+      <title>SF133 To be a soldier,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949) </author>
+      <author>Graham Maule (b. 1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>To be a soldier,<br/>to fight for peace till war shall end --<br/>this is the conflict<br/>Christ calls you to attend:<br/>to forfeit safety for danger<br/>and then, even stranger,<br/>turn enemy to friend.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>To be a soldier<br/>confront more than the human foe;<br/>a greater struggle<br/>the cosmic Christ shall show:<br/>sin must be stripped<br/>from high places;<br/>what scars souls and faces<br/>he bids you overthrow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>To be a soldier<br/>means more than wishing war would cease:<br/>it calls for courage<br/>to bring the poor release,<br/>to enter politics praying<br/>and break rank obeying<br/>the power and Prince of peace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Think not to weary<br/>or lay your great commission down;<br/>nor crave approval,<br/>nor fear the critic's frown.<br/>Prevail through tears, love with laughter,<br/>risk all and hereafter<br/>receive from Christ your crown.</lines>
+    </verse>
+  </lyrics>
+</song>

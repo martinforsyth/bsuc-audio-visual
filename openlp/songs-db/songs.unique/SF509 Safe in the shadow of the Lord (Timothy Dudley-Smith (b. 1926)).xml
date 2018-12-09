@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:19">
+  <properties>
+    <titles>
+      <title>SF509 Safe in the shadow of the Lord</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Timothy Dudley-Smith (b. 1926)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Safe in the shadow of the Lord<br/>beneath his hand and power,<br/>I trust in him,<br/>I trust in him,<br/>my fortress and my tower.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My hope is set on God alone<br/>though Satan spreads his snare;<br/>I trust in him,<br/>I trust in him,<br/>to keep me in his care.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>From fears and phantoms of the night,<br/>from foes about my way,<br/>I trust in him,<br/>I trust in him,<br/>by darkness as by day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>His holy angels keep my feet<br/>secure from every stone;<br/>I trust in him,<br/>I trust in him,<br/>and unafraid go on.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Strong in the everlasting name,<br/>and in my Father's care,<br/>I trust in him,<br/>I trust in him,<br/>who hears and answers prayer.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Safe in the shadow of the Lord,<br/>possessed by love divine,<br/>I trust in him,<br/>I trust in him,<br/>and meet his love with mine.</lines>
+    </verse>
+  </lyrics>
+</song>

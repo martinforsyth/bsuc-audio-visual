@@ -9,9 +9,11 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Shalom chaverim,<br/>shalom chaverim,<br/>shalom, shalom.<br/>Lehitraot, lehitraot,<br/>shalom, shalom.
+    <verse name="v1">
+      <lines><br/>Shalom chaverim,<br/>shalom chaverim,<br/>shalom, shalom.<br/>Lehitraot, lehitraot,<br/>shalom, shalom.</lines>
     </verse>
-    <verse name="v2"><br/>Shalom, my friends,<br/>shalom, my friends,<br/>shalom, shalom.<br/>Until we meet, until we meet,<br/>shalom, shalom.</verse>
+    <verse name="v2">
+      <lines><br/>Shalom, my friends,<br/>shalom, my friends,<br/>shalom, shalom.<br/>Until we meet, until we meet,<br/>shalom, shalom.</lines>
+    </verse>
   </lyrics>
 </song>
-

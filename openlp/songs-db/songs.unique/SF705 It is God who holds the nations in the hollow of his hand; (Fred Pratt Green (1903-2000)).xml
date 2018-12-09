@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:41">
+  <properties>
+    <titles>
+      <title>SF705 It is God who holds the nations in the hollow of his hand;</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Fred Pratt Green (1903-2000)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>It is God who holds the nations in the hollow of his hand;<br/>it is God whose light is shining in the darkness of the land;<br/>it is God who builds the City on the Rock and not on sand:<br/>may the living God be praised!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>It is God whose purpose summons us to use the present hour;<br/>who recalls us to our senses when a nation's life turns sour;<br/>in the discipline of freedom we shall know God's saving power:<br/>may the living God be praised!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When a thankful nation, looking back, has cause to celebrate<br/>those who win our admiration by their service to the state;<br/>when self-giving is a measure of the greatness of the great:<br/>may the living God be praised!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God reminds us every sunrise that the world is ours on lease:<br/>for the sake of life tomorrow may our love for it increase;<br/>may all races live together, share its riches, be at peace:<br/>may the living God be praised!</lines>
+    </verse>
+  </lyrics>
+</song>

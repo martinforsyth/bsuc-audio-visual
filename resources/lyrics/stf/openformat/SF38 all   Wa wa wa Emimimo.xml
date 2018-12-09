@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.5" modifiedIn="OpenLP 2.4.5" modifiedDate="2018-12-10T06:49:59">
+  <properties>
+    <titles>
+      <title>SF38 all   Wa wa wa Emimimo,</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>all   Wa wa wa Emimimo,<br/>cantor   Emioloye.<br/>all   Wa wa wa Alagbara,<br/>cantor   Alagbarameta.<br/>all   Wao, wao, wao.<br/>cantor   Emimimo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>all   Come, O Holy Spirit, come,<br/>cantor   Holy Spirit come.<br/>all   Come, almighty Spirit, come,<br/>cantor   almighty Spirit, come.<br/>all   Come, come, come.<br/>cantor   O Spirit, come.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:39">
+  <properties>
+    <titles>
+      <title>SF695 'Come, now, you blessed, eat at my table,'</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Ruth Duck (b. 1947)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>'Come, now, you blessed, eat at my table,'<br/>said the great judge to the righteous above.<br/>'When I was hungry, thirsty, and homeless,<br/>sick and in prison, you showed me your love.'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>'When did we see you hungry or thirsty?<br/>When were you homeless, a stranger alone?<br/>When did we see you sick or in prison?<br/>What have we done that you call us your own?'</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>'When you gave bread to earth's hungry children,<br/>when you gave welcome to war's refugees,<br/>when you remembered those most forgotten,<br/>you cared for me in the smallest of these.'</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Christ, when we meet you out on life's roadways,<br/>looking to us in the faces of need,<br/>then may we know you, welcome, and show you<br/>love that is faithful in word and in deed.</lines>
+    </verse>
+  </lyrics>
+</song>

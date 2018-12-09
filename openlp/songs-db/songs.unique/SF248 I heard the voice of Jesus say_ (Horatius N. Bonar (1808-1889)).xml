@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:00">
+  <properties>
+    <titles>
+      <title>SF248 I heard the voice of Jesus say:</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Horatius N. Bonar (1808-1889)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>I heard the voice of Jesus say:<br/>'Come unto me and rest;<br/>lay down, O weary one, lay down<br/>your head upon my breast.'<br/>I came to Jesus as I was,<br/>weary and worn and sad,<br/>I found in him a resting-place,<br/>and he has made me glad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>I heard the voice of Jesus say:<br/>'Behold, I freely give<br/>the living water;thirsty one,<br/>stoop down and drink and live.'<br/>I came to Jesus, and I drank<br/>of that life-giving stream;<br/>my thirst was quenched, my soul revived,<br/>and now I live in him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I heard the voice of Jesus say:<br/>'I am this dark world's Light;<br/>look unto me, your morn shall rise,<br/>and all your day be bright.'<br/>I looked to Jesus, and I found<br/>in him my star, my sun;<br/>and in that light of life I'll walk,<br/>till travelling days are done.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -9,15 +9,20 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>The Lord's my Shepherd, I'll not want;<br/>he makes me down to lie<br/>in pastures green;he leadeth me<br/>the quiet waters by.
+    <verse name="v1">
+      <lines><br/>The Lord's my Shepherd, I'll not want;<br/>he makes me down to lie<br/>in pastures green;he leadeth me<br/>the quiet waters by.</lines>
     </verse>
-    <verse name="v2"><br/>My soul he doth restore again,<br/>and me to walk doth make<br/>within the paths of righteousness,<br/>e'en for his own name's sake.
+    <verse name="v2">
+      <lines><br/>My soul he doth restore again,<br/>and me to walk doth make<br/>within the paths of righteousness,<br/>e'en for his own name's sake.</lines>
     </verse>
-    <verse name="v3"><br/>Yea, though I walk through death's dark vale,<br/>yet will I fear no ill;<br/>for thou art with me, and thy rod<br/>and staff me comfort still.
+    <verse name="v3">
+      <lines><br/>Yea, though I walk through death's dark vale,<br/>yet will I fear no ill;<br/>for thou art with me, and thy rod<br/>and staff me comfort still.</lines>
     </verse>
-    <verse name="v4"><br/>My table thou hast furnished<br/>in presence of my foes;<br/>my head thou dost with oil anoint,<br/>and my cup overflows.
+    <verse name="v4">
+      <lines><br/>My table thou hast furnished<br/>in presence of my foes;<br/>my head thou dost with oil anoint,<br/>and my cup overflows.</lines>
     </verse>
-    <verse name="v5"><br/>Goodness and mercy all my life<br/>shall surely follow me,<br/>and in God's house for evermore<br/>my dwelling-place shall be.</verse>
+    <verse name="v5">
+      <lines><br/>Goodness and mercy all my life<br/>shall surely follow me,<br/>and in God's house for evermore<br/>my dwelling-place shall be.</lines>
+    </verse>
   </lyrics>
 </song>
-

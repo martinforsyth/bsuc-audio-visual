@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:14">
+  <properties>
+    <titles>
+      <title>SF311 The day of resurrection,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>St John of Damascus (c. 675-c. 750)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The day of resurrection,<br/>earth, tell it out abroad!<br/>The passover of gladness,<br/>the passover of God!<br/>From death to life eternal,<br/>from earth unto the sky,<br/>our Christ has brought us over<br/>with hymns of victory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Our hearts be pure from evil,<br/>that we may see aright<br/>the Lord in rays eternal<br/>of resurrection light;<br/>and, listening to his accents,<br/>may hear, so calm and plain,<br/>his own 'All hail!' and, hearing,<br/>may raise the victor strain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Now let the heavens be joyful,<br/>let earth her song begin,<br/>the round world keep high triumph,<br/>and all that is therein;<br/>let all things seen and unseen<br/>their notes of gladness blend,<br/>for Christ the Lord is risen,<br/>our joy that has no end.</lines>
+    </verse>
+  </lyrics>
+</song>

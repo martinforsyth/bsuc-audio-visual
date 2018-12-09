@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:19">
+  <properties>
+    <titles>
+      <title>SF510 Says Jesus, 'Come and gather round.</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Leith Fisher (1941-2009)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Says Jesus, 'Come and gather round.<br/>I want to teach my friends<br/>some truths about the love I bring,<br/>the love that never ends.<br/>Look to the child, here in your midst,<br/>who has so much and more to say<br/>of what it means to follow me,<br/>to come and walk my way.'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ speaks to those who, growing old,<br/>get burdened down with care;<br/>while caution reigns, we seldom see<br/>God's presence everywhere.<br/>He points to gifts that children bring --<br/>the will to risk, the trust to dare,<br/>through which, no matter where we are,<br/>we'll find God always there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When was it that we first forgot<br/>that questions helped us grow,<br/>or lost the openness to ask<br/>and learn what we don't know?<br/>Christ points to gifts that children bring,<br/>the searching heart and lively mind<br/>which let God's kingdom grow in those<br/>who seek until they find.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Lord Jesus, we have gathered round<br/>to hear you teach your friends<br/>the truths about the love you bring,<br/>that love which never ends.<br/>We look to children in our midst<br/>for they have much and more to say<br/>and join with them to follow you,<br/>to live and walk your way.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:29">
+  <properties>
+    <titles>
+      <title>SF609 As we gather in your presence now,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Joel Payne</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>As we gather in your presence now,<br/>Lord, we will worship;<br/>as we sing our thankful songs aloud;<br/>Lord, we will worship.<br/>When we go out in the name of Christ,<br/>Lord, we will worship;<br/>as your word and Spirit shape our lives,<br/>Lord, we will worship.<br/>And whatever we do, in word or deed,<br/>we do for the one who set us free;<br/>when we're on our feet or on our knees,<br/>Lord, we will worship,<br/>Lord, we will worship.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When we love our friends and families,<br/>Lord, we will worship;<br/>when we give ourselves to those in need,<br/>Lord, we will worship.<br/>When we take instruction cheerfully,<br/>Lord, we will worship;<br/>when we lead with Christ's humility,<br/>Lord, we will worship.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In the course of every working day,<br/>Lord, we will worship;<br/>when our business takes us far away,<br/>Lord, we will worship.<br/>When we care for children in the home,<br/>Lord, we will worship;<br/>when our audience is you alone,<br/>Lord, we will worship.</lines>
+    </verse>
+  </lyrics>
+</song>

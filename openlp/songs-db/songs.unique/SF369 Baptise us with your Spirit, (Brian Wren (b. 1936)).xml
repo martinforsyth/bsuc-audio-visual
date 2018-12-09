@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:19">
+  <properties>
+    <titles>
+      <title>SF369 Baptise us with your Spirit,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Brian Wren (b. 1936)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Baptise us with your Spirit,<br/>majestic, humble Christ,<br/>to overcome temptation;<br/>assailed, but not enticed.<br/>Baptise us with your Spirit,<br/>that in each other's eyes<br/>we may discern your purpose,<br/>and cast away disguise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Baptise us with your Spirit<br/>to careful, patient, thought,<br/>and habit-forming virtues<br/>aspired to, copied, taught,<br/>till clothed with new creation,<br/>self-critical, reformed,<br/>we demonstrate the gospel,<br/>to you alone conformed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Baptise us with your Spirit<br/>in unrestricted ways<br/>that move us, mind and body,<br/>to laugh and shout your praise.<br/>Send us to clear the rubble<br/>of each defensive wall,<br/>inviting to your table<br/>our neighbours, one and all.</lines>
+    </verse>
+  </lyrics>
+</song>

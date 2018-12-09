@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:14">
+  <properties>
+    <titles>
+      <title>SF308 On the journey to Emmaus with our hearts cold as stone --</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Marty Haugen (b. 1950)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>On the journey to Emmaus with our hearts cold as stone --<br/>the One who would save us had left us alone.<br/>Then a stranger walks with us and, to our surprise,<br/>he opens our stories and he opens our eyes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>And our hearts burned within us as we talked on the way,<br/>how all that was promised was ours on that day.<br/>So we begged him, 'Stay with us and grant us your word.'<br/>We welcomed the stranger and we welcomed the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>And that evening at the table as he blessed and broke bread,<br/>we saw it was Jesus arisen from the dead;<br/>though he vanished before us we knew he was near --<br/>the life in our dying and the hope in our fear.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>On our journey to Emmaus, in our stories and feast,<br/>with Jesus we claim that the greatest is least:<br/>and his words burn within us -- let none be ignored --<br/>who welcomes the stranger shall welcome the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

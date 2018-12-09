@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-11-12T16:37:18">
+  <properties>
+    <titles>
+      <title>SF 188 There's a light upon the mountains</title>
+    </titles>
+    <authors>
+      <author>Henry Burton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>There's a light upon the mountains, and the day is at the spring,<br/>when our eyes shall see the beauty and the glory of the King;<br/>weary was our heart with waiting, and the night-watch seemed so long;<br/>but his triumph-day is breaking, and we hail it with a song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There's a hush of expectation, and a quiet in the air;<br/>and the breath of God is moving in the fervent breath of prayer:<br/>for the suffering, dying Jesus is the Christ upon the throne,<br/>and the travail of our spirit is the travail of his own.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He is breaking down the barriers, he is casting up the way;<br/>he is calling for his angels to build up the gates of day:<br/>but his angels here are human, not the shining hosts above;<br/>for the drum-beats of his army are the heart-beats of our love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Hark! We hear a distant music, and it comes with fuller swell;<br/>'tis the triumph-song of Jesus, of our King, Immanuel:<br/>Zion, go now forth to meet him;and, my soul, be swift to bring<br/>all your finest and your noblest for the triumph of our King!</lines>
+    </verse>
+  </lyrics>
+</song>

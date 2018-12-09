@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:10">
+  <properties>
+    <titles>
+      <title>SF411 May the God of hope go with us every day,</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Ann Mitchell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>May the God of hope go with us every day,<br/>filling all our lives with love and joy and peace.<br/>May the God of justice speed us on our way,<br/>bringing light and hope to every land and race.<br/>Praying, let us work for peace;<br/>singing, share our joy with all;<br/>working for a world that's new,<br/>faithful when we hear Christ's call.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God will be our Shepherd as we go our way<br/>and will not forsake us when we go astray.<br/>Even though the load of life is hard to bear,<br/>we must not forget that God is always there.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T18:47:21">
+  <properties>
+    <titles>
+      <title>SF32 Meet and right it is to sing,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Meet and right it is to sing,<br/>in every time and place,<br/>glory to our heavenly King,<br/>the God of truth and grace:<br/>join we then with sweet accord,<br/>all in one thanksgiving join;<br/>holy, holy, holy Lord,<br/>eternal praise be thine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Thee the first-born sons of light,<br/>in choral symphonies,<br/>praise by day, day without night,<br/>and never, never cease;<br/>angels and archangels all<br/>praise the mystic Three in One,<br/>sing, and stop, and gaze, and fall<br/>o'erwhelmed before thy throne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Vying with that happy choir,<br/>who chant thy praise above,<br/>we on eagles' wings aspire,<br/>the wings of faith and love:<br/>thee they sing with glory crowned,<br/>we extol the slaughtered Lamb;<br/>lower if our voices sound,<br/>our subject is the same.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Father, God, thy love we praise,<br/>which gave thy Son to die;<br/>Jesus, full of truth and grace,<br/>alike we glorify;<br/>Spirit, Comforter divine,<br/>praise by all to thee be given;<br/>till we in full chorus join,<br/>and earth is turned to heaven.</lines>
+    </verse>
+  </lyrics>
+</song>

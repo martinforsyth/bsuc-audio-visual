@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:42">
+  <properties>
+    <titles>
+      <title>SF714 The God who sings</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Douglas Galbraith (b. 1940)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The God who sings<br/>a new world into being shows the way<br/>for many voices, varied gifts to sound<br/>in symphony.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>The God who shouts<br/>in fury when the powerful shame the poor<br/>will break the chains, and those who hide in fear<br/>he will restore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>The God who weeps<br/>when fields lie barren and the missiles fall<br/>throws wide his arms and offers in his love<br/>refuge for all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>The God who laughs<br/>as unexpected overturns routine<br/>releases us to risk in faith, and find<br/>what joy can mean.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>The God who calls<br/>in hearts of those who hear his Chosen One<br/>forgives, transforms, empowers, renews us while<br/>we journey on.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:12">
+  <properties>
+    <titles>
+      <title>SF296 Christ has risen while earth slumbers,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949) </author>
+      <author>Graham Maule (b. 1958)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Christ has risen while earth slumbers,<br/>Christ has risen where hope died,<br/>as he said and as he promised,<br/>as we doubted and denied.<br/>Let the moon embrace the blessing;<br/>let the sun sustain the cheer;<br/>let the world confirm the rumour.<br/>Christ is risen, God is here!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Christ has risen for the people<br/>whom he loved and died to save;<br/>Christ has risen for the women<br/>bringing flowers to grace his grave.<br/>Christ has risen for disciples<br/>huddled in an upstairs room.<br/>He whose word inspired creation<br/>is not silenced by the tomb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Christ has risen to companion<br/>former friends who fear the night,<br/>sensing loss and limitation<br/>where their faith had once burned bright.<br/>They bemoan what is no longer,<br/>they expect no hopeful sign<br/>till Christ ends their conversation,<br/>breaking bread and sharing wine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Christ has risen and forever<br/>lives to challenge and to change<br/>all whose lives are messed or mangled,<br/>all who find religion strange.<br/>Christ is risen. Christ is present,<br/>making us what he has been --<br/>evidence of transformation<br/>in which God is known and seen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:44">
+  <properties>
+    <titles>
+      <title>SF729 Touch the earth lightly,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Shirley Erena Murray (b. 1931)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Touch the earth lightly,<br/>use the earth gently,<br/>nourish the life of the world in our care:<br/>gift of great wonder,<br/>ours to surrender,<br/>trust for the children tomorrow will bear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We who endanger,<br/>who create hunger,<br/>agents of death for all creatures that live,<br/>we who would foster<br/>clouds of disaster --<br/>God of our planet, forestall and forgive!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Let there be greening,<br/>birth from the burning,<br/>water that blesses and air that is sweet,<br/>health in God's garden,<br/>hope in God's children,<br/>regeneration that peace will complete.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God of all living,<br/>God of all loving,<br/>God of the seedling, the snow and the sun,<br/>teach us, deflect us,<br/>Christ reconnect us,<br/>using us gently, and making us one.</lines>
+    </verse>
+  </lyrics>
+</song>

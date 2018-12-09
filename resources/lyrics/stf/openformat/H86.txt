@@ -9,9 +9,11 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Praise the Lord! You heavens, adore him;<br/>praise him, angels in the height;<br/>sun and moon, rejoice before him;<br/>praise him, all you stars and light.<br/>Praise the Lord, for he has spoken;<br/>worlds his mighty voice obeyed;<br/>laws that never shall be broken<br/>for their guidance he has made.
+    <verse name="v1">
+      <lines><br/>Praise the Lord! You heavens, adore him;<br/>praise him, angels in the height;<br/>sun and moon, rejoice before him;<br/>praise him, all you stars and light.<br/>Praise the Lord, for he has spoken;<br/>worlds his mighty voice obeyed;<br/>laws that never shall be broken<br/>for their guidance he has made.</lines>
     </verse>
-    <verse name="v2"><br/>Praise the Lord, for he is glorious!<br/>Never shall his promise fail;<br/>God has made his saints victorious;<br/>sin and death shall not prevail.<br/>Praise the God of our salvation;<br/>hosts on high, his power proclaim;<br/>heaven and earth, and all creation,<br/>laud and magnify his name!</verse>
+    <verse name="v2">
+      <lines><br/>Praise the Lord, for he is glorious!<br/>Never shall his promise fail;<br/>God has made his saints victorious;<br/>sin and death shall not prevail.<br/>Praise the God of our salvation;<br/>hosts on high, his power proclaim;<br/>heaven and earth, and all creation,<br/>laud and magnify his name!</lines>
+    </verse>
   </lyrics>
 </song>
-

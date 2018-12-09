@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:41">
+  <properties>
+    <titles>
+      <title>SF704 In labour all creation groans</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Delores Dufner</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>In labour all creation groans<br/>till fear and hatred cease,<br/>till human hearts have understood:<br/>in Christ alone is peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>In labour all creation groans<br/>till unjust wages cease,<br/>till poor are clothed and children fed<br/>and Christ becomes their peace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In labour all creation groans<br/>till prejudice shall cease,<br/>till every gender, race, and creed<br/>in Christ will live at peace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>In labour all creation groans<br/>till violent crime shall cease,<br/>till force gives way to gentleness<br/>and Christ becomes our peace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>In labour all creation groans<br/>till rape and murder cease,<br/>till women walk by night unharmed<br/>and Christ is this world's peace.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>In labour all creation groans<br/>till false divisions cease,<br/>till differences are reconciled<br/>in Christ who is our peace.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>In labour all creation groans,<br/>God's justice to increase.<br/>When right in place of might prevails,<br/>then Christ will be our peace.</lines>
+    </verse>
+  </lyrics>
+</song>

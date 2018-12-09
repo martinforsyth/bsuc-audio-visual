@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:16:39">
+  <properties>
+    <titles>
+      <title>SF56 King of Glory, King of Peace,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>George Herbert (1593-1633)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>King of Glory, King of Peace,<br/>I will love thee;<br/>and that love may never cease<br/>I will move thee.<br/>Thou hast granted my request,<br/>thou hast heard me;<br/>thou didst note my working breast,<br/>thou hast spared me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Wherefore with my utmost art<br/>I will sing thee,<br/>and the cream of all my heart<br/>I will bring thee.<br/>Though my sins against me cried,<br/>thou didst clear me;<br/>and alone, when they replied,<br/>thou didst hear me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Seven whole days, not one in seven,<br/>I will praise thee;<br/>in my heart, though not in heaven,<br/>I can raise thee.<br/>Small it is, in this poor sort<br/>to enrol thee:<br/>e'en eternity's too short<br/>to extol thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:38">
+  <properties>
+    <titles>
+      <title>SF682 God of grace and God of glory,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Harry Emerson Fosdick (1878-1969)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of grace and God of glory,<br/>on your people pour your power;<br/>crown your ancient Church's story;<br/>bring her bud to glorious flower.<br/>Grant us wisdom,<br/>grant us courage,<br/>for the facing of this hour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Heal your children's warring madness;<br/>bend our pride to your control;<br/>shame our wanton, selfish gladness,<br/>rich in things and poor in soul.<br/>Grant us wisdom,<br/>grant us courage,<br/>lest we miss your kingdom's goal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Lo, the hosts of evil round us<br/>scorn your Christ, assail his ways!<br/>Fears and doubts too long have bound us;<br/>free our hearts to work and praise.<br/>Grant us wisdom,<br/>grant us courage,<br/>for the living of these days.</lines>
+    </verse>
+  </lyrics>
+</song>

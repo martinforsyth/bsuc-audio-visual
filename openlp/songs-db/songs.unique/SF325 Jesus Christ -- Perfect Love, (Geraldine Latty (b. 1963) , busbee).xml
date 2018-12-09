@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:16">
+  <properties>
+    <titles>
+      <title>SF325 Jesus Christ -- Perfect Love,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Geraldine Latty (b. 1963) </author>
+      <author>busbee</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jesus Christ -- Perfect Love,<br/>Holy One that knows no fault,<br/>screen my thoughts, make me clean,<br/>know the motives of my heart.<br/>When I see my selfish choice,<br/>when I glimpse your holiness,<br/>then I realise again<br/>Perfect Love has come to cleanse.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jesus Christ -- Lord for all,<br/>plant in me the kingdom seed.<br/>Search me, Lord, when I'm found<br/>looking only to my needs.<br/>When I see the way you lived,<br/>how you dignified the poor,<br/>then I realise again<br/>how I need to know you more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesus Christ -- Lamb of God,<br/>Love resolved to take our place.<br/>Who can write or describe<br/>all of your self-giving grace?<br/>When I look at the brutal cross,<br/>innocence and beauty slain,<br/>that's when I realise once more<br/>you fully understand our pain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus Christ -- King of heaven,<br/>qualified to wear the crown.<br/>In your face, radiant grace<br/>draws us closer to your throne.<br/>When we see your generous heart,<br/>when we touch the world you love,<br/>that's when we realise again;<br/>Perfect Love is Perfect Hope.</lines>
+    </verse>
+  </lyrics>
+</song>

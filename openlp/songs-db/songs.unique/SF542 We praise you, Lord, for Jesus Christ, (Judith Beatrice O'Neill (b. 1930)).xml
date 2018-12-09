@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:23">
+  <properties>
+    <titles>
+      <title>SF542 We praise you, Lord, for Jesus Christ,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Judith Beatrice O'Neill (b. 1930)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We praise you, Lord, for Jesus Christ,<br/>who died and rose again;<br/>who lives to break the power of sin<br/>and over death to reign.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We praise you, Lord, that each child shares<br/>the freedom Christ can give,<br/>and dies to sin with Christ, and now<br/>with Christ is raised to live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We praise you that your children, Lord,<br/>are grafted to the vine,<br/>and now made members of your house<br/>and bear the cross as sign.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We praise you, Lord, for Jesus Christ,<br/>who loves each child we bring;<br/>who frees, forgives, and heals us all,<br/>and lives and reigns as King.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:16">
+  <properties>
+    <titles>
+      <title>SF480 The Lord's my Shepherd, I'll not want;</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The Lord's my Shepherd, I'll not want;<br/>he makes me down to lie<br/>in pastures green;he leadeth me<br/>the quiet waters by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>My soul he doth restore again,<br/>and me to walk doth make<br/>within the paths of righteousness,<br/>e'en for his own name's sake.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Yea, though I walk through death's dark vale,<br/>yet will I fear no ill;<br/>for thou art with me, and thy rod<br/>and staff me comfort still.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>My table thou hast furnished<br/>in presence of my foes;<br/>my head thou dost with oil anoint,<br/>and my cup overflows.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Goodness and mercy all my life<br/>shall surely follow me,<br/>and in God's house for evermore<br/>my dwelling-place shall be.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T18:42:37">
+  <properties>
+    <titles>
+      <title>SF2 Come, let us sing to the One,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Keith Getty (b. 1974) </author>
+      <author>Kristyn Getty (b. 1980)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Come, let us sing to the One,<br/>to the Father of life,<br/>whose light fills the earth like the sun;<br/>come, tell of the wonders he's done.<br/>Great is the world he has made,<br/>are the myst'ries untold,<br/>is his measureless power of old;<br/>come, come let us sing to our God.<br/>To our God, who is able<br/>to strengthen us in his grace<br/>beyond all we imagine,<br/>be all glory and praise,<br/>be all praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Come, let us sing to the One,<br/>to the Saviour of life,<br/>find the fullness of God in the Son;<br/>come, tell of the wonders he's done.<br/>Wild is the mercy of Christ,<br/>is the richness of grace,<br/>is the unending life we embrace;<br/>come, come let us sing to our God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Come, let us sing to the One,<br/>to the Spirit of life,<br/>leading us in the way of the Son;<br/>come, tell of the wonders he's done.<br/>Strong is the Spirit within,<br/>is the boldness to speak,<br/>is the power to run when we're weak;<br/>come, come let us sing to our God.</lines>
+    </verse>
+  </lyrics>
+</song>

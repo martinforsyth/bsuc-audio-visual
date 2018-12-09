@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:13">
+  <properties>
+    <titles>
+      <title>SF438 Your ceaseless, unexhausted love,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Charles Wesley (1707-1788)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Your ceaseless, unexhausted love,<br/>unmerited and free,<br/>delights our evil to remove,<br/>and help our misery.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>You wait and you are gracious still<br/>and will with sinners bear,<br/>that, saved, we may your goodness feel,<br/>and all your grace declare.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Your goodness and your truth to me,<br/>to every soul, abound,<br/>a vast, unfathomable sea,<br/>where all our thoughts are drowned.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Its streams the whole creation reach,<br/>so plenteous is the store,<br/>enough for all, enough for each,<br/>enough for evermore.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Faithful, O Lord, your mercies are,<br/>a rock that cannot move;<br/>a thousand promises declare<br/>your constancy of love.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Throughout the universe it reigns,<br/>unalterably sure;<br/>and while the truth of God remains<br/>the goodness must endure.</lines>
+    </verse>
+  </lyrics>
+</song>

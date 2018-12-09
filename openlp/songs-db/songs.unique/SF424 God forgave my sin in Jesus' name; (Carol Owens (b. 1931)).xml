@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:11">
+  <properties>
+    <titles>
+      <title>SF424 God forgave my sin in Jesus' name;</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Carol Owens (b. 1931)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God forgave my sin in Jesus' name;<br/>I've been born again in Jesus' name,<br/>and in Jesus' name I come to you<br/>to share his love as he told me to.<br/>He said:<br/>\i'Freely, freely you have received,<br/>freely, freely give;<br/>go in my name and because you believe,<br/>others will know that I live.'</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>All power is given in Jesus' name<br/>in earth and heaven in Jesus' name;<br/>and in Jesus' name I come to you<br/>to share his power as he told me to.<br/>Refrain</lines>
+    </verse>
+  </lyrics>
+</song>

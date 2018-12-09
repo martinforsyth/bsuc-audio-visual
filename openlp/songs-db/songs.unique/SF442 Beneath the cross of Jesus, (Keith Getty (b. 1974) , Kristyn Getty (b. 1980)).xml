@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:13">
+  <properties>
+    <titles>
+      <title>SF442 Beneath the cross of Jesus,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Keith Getty (b. 1974) </author>
+      <author>Kristyn Getty (b. 1980)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Beneath the cross of Jesus,<br/>I find a place to stand;<br/>and wonder at such mercy<br/>that calls me as I am.<br/>For hands that should discard me,<br/>hold wounds which tell me 'Come.'<br/>Beneath the cross of Jesus<br/>my unworthy soul is won.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Beneath the cross of Jesus<br/>his family is my own;<br/>once strangers chasing selfish dreams,<br/>now one through grace alone.<br/>How could I now dishonour<br/>the ones that you have loved?<br/>Beneath the cross of Jesus<br/>see the children called by God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Beneath the cross of Jesus,<br/>the path before the crown,<br/>we follow in his footsteps<br/>where promised hope is found.<br/>How great the joy before us --<br/>to be his perfect bride.<br/>Beneath the cross of Jesus<br/>we will gladly live our lives.</lines>
+    </verse>
+  </lyrics>
+</song>

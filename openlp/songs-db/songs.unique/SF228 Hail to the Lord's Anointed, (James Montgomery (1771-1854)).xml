@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:58">
+  <properties>
+    <titles>
+      <title>SF228 Hail to the Lord's Anointed,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>James Montgomery (1771-1854)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Hail to the Lord's Anointed,<br/>great David's greater Son!<br/>Hail, in the time appointed,<br/>his reign on earth begun!<br/>He comes to break oppression,<br/>to set the captive free,<br/>to take away transgression,<br/>and rule in equity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>He comes, with succour speedy,<br/>to those who suffer wrong;<br/>to help the poor and needy,<br/>and bid the weak be strong;<br/>to give them songs for sighing,<br/>their darkness turn to light,<br/>whose souls, condemned and dying,<br/>are precious in his sight.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>He shall come down like showers<br/>upon the fruitful earth;<br/>love, joy, and hope, like flowers,<br/>spring in his path to birth;<br/>before him, on the mountains,<br/>shall peace the herald go;<br/>and righteousness, in fountains,<br/>from hill to valley flow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Kings shall fall down before him,<br/>and gold and incense bring;<br/>all nations shall adore him,<br/>his praise all people sing;<br/>to him shall prayer unceasing<br/>and daily vows ascend,<br/>his kingdom still increasing,<br/>a kingdom without end.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>O'er every foe victorious,<br/>he on his throne shall rest;<br/>from age to age more glorious,<br/>all-blessing and all-blest.<br/>The tide of time shall never<br/>his covenant remove;<br/>his name shall stand for ever,<br/>his changeless name of Love.</lines>
+    </verse>
+  </lyrics>
+</song>

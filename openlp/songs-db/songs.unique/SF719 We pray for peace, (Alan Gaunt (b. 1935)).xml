@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:43">
+  <properties>
+    <titles>
+      <title>SF719 We pray for peace,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Alan Gaunt (b. 1935)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We pray for peace,<br/>but not the easy peace<br/>built on complacency<br/>and not the truth of God.<br/>We pray for real peace,<br/>the peace God's love alone can seal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We pray for peace,<br/>but not the cruel peace<br/>leaving God's poor bereft<br/>and dying in distress;<br/>we pray for real peace,<br/>enriching all the human race.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We pray for peace,<br/>and not the evil peace<br/>defending unjust laws<br/>and nursing prejudice,<br/>but for the real peace<br/>of justice, mercy, truth and love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We pray for peace:<br/>holy communion<br/>with Christ our risen Lord<br/>and every living thing;<br/>God's will fulfilled on earth<br/>and all creation reconciled.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>We pray for peace,<br/>and, for the sake of peace,<br/>look to the risen Christ,<br/>who gives the grace we need<br/>to serve the cause of peace<br/>and make our own self-sacrifice.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>God, give us peace;<br/>if you withdraw your love<br/>there is no peace for us,<br/>nor any hope of it.<br/>With you to lead us on,<br/>through death or tumult, peace will come.</lines>
+    </verse>
+  </lyrics>
+</song>

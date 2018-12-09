@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:35">
+  <properties>
+    <titles>
+      <title>SF656 When the bonds of love are breaking,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Herman G. Stuempfle, Jr  (1923-2007)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When the bonds of love are breaking,<br/>hands that linked withdraw and hide,<br/>eyes that once had met in candour<br/>now, distrustful, turn aside,<br/>God of healing, reconcile!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>When our tongues are silent, sullen,<br/>closing doors through which love came,<br/>or, when words are fiery arrows<br/>wounding others with their flame,<br/>God of healing, reconcile!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>When the bridges that we travelled<br/>have collapsed and left a void,<br/>when the chasm seems to widen,<br/>separating souls once joined,<br/>God of healing, reconcile!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God, in Christ you crossed the chasm<br/>when our hearts were far from you!<br/>Grant us grace to reach to others,<br/>broken bonds repair, renew!<br/>God of healing, reconcile!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:17">
+  <properties>
+    <titles>
+      <title>SF344 He became poor that we may be rich,</title>
+    </titles>
+    <verseOrder> v1</verseOrder>
+    <authors>
+      <author>John L. Bell (b. 1949)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>He became poor that we may be rich,<br/>loving the world and leaving his throne;<br/>King of all kings, and Lord of all lords,<br/>flesh of our flesh and bone of our bone.</lines>
+    </verse>
+  </lyrics>
+</song>

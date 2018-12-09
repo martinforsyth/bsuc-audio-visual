@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:42">
+  <properties>
+    <titles>
+      <title>SF718 We lay our broken world</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Anna Briggs (b. 1947)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We lay our broken world<br/>in sorrow at your feet,<br/>haunted by hunger, war and fear,<br/>oppressed by power and hate.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Here human life seems less<br/>than profit, might and pride,<br/>though to unite us all in you,<br/>you lived and loved and died.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We bring our broken towns,<br/>our neighbours hurt and bruised;<br/>you show us how old pain and wounds<br/>for new life can be used.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>We bring our broken loves,<br/>friends parted, families torn;<br/>then in your life and death we see<br/>that love must be reborn.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>We bring our broken selves,<br/>confused and closed and tired;<br/>then through your gift of healing grace<br/>new purpose is inspired.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>O Spirit, on us breathe,<br/>with life and strength anew;<br/>find in us love, and hope, and trust,<br/>and lift us up to you.</lines>
+    </verse>
+  </lyrics>
+</song>

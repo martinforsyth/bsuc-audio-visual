@@ -9,13 +9,17 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1"><br/>Let all mortal flesh keep silence,<br/>and with fear and trembling stand;<br/>ponder nothing earthly-minded,<br/>for with blessing in his hand<br/>Christ our God to earth descendeth,<br/>our full homage to demand.
+    <verse name="v1">
+      <lines><br/>Let all mortal flesh keep silence,<br/>and with fear and trembling stand;<br/>ponder nothing earthly-minded,<br/>for with blessing in his hand<br/>Christ our God to earth descendeth,<br/>our full homage to demand.</lines>
     </verse>
-    <verse name="v2"><br/>King of kings, yet born of Mary,<br/>as of old on earth he stood,<br/>Lord of lords, in human vesture --<br/>in the body and the blood --<br/>he will give to all the faithful<br/>his own self for heavenly food.
+    <verse name="v2">
+      <lines><br/>King of kings, yet born of Mary,<br/>as of old on earth he stood,<br/>Lord of lords, in human vesture --<br/>in the body and the blood --<br/>he will give to all the faithful<br/>his own self for heavenly food.</lines>
     </verse>
-    <verse name="v3"><br/>Rank on rank the host of heaven<br/>spreads its vanguard on the way,<br/>as the Light of light descendeth<br/>from the realms of endless day,<br/>that the powers of hell may vanish<br/>as the darkness clears away.
+    <verse name="v3">
+      <lines><br/>Rank on rank the host of heaven<br/>spreads its vanguard on the way,<br/>as the Light of light descendeth<br/>from the realms of endless day,<br/>that the powers of hell may vanish<br/>as the darkness clears away.</lines>
     </verse>
-    <verse name="v4"><br/>At his feet the six-winged seraph;<br/>cherubim with sleepless eye<br/>veil their faces to the Presence,<br/>as with ceaseless voice they cry --<br/>alleluia, alleluia,<br/>alleluia, Lord most high.</verse>
+    <verse name="v4">
+      <lines><br/>At his feet the six-winged seraph;<br/>cherubim with sleepless eye<br/>veil their faces to the Presence,<br/>as with ceaseless voice they cry --<br/>alleluia, alleluia,<br/>alleluia, Lord most high.</lines>
+    </verse>
   </lyrics>
 </song>
-

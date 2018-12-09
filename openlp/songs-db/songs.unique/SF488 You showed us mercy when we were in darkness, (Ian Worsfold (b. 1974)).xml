@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:17">
+  <properties>
+    <titles>
+      <title>SF488 You showed us mercy when we were in darkness,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Ian Worsfold (b. 1974)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>You showed us mercy when we were in darkness,<br/>you showed us freedom when we were in chains;<br/>you showed forgiveness when we were in depths of sin<br/>and now your life runs through our veins.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>You showed compassion when we were so helpless,<br/>you brought us healing when we were in pain;<br/>you gave us hope when we were despairing<br/>and now your love lifts us again<br/>You are our sun in the morning,<br/>our moon in the night,<br/>our energy in the daytime,<br/>our rest through the night.<br/>You're our lifesource, our Creator,<br/>the beginning and the end<br/>for you are God Almighty and on you we depend!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>You show us boldness when we are uncertain,<br/>you are our strength when we are weak;<br/>you are our comfort when we need security<br/>for you are God, and your face we seek.<br/>Refrain</lines>
+    </verse>
+  </lyrics>
+</song>

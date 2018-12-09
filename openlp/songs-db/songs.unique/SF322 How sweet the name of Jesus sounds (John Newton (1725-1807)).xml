@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:20:15">
+  <properties>
+    <titles>
+      <title>SF322 How sweet the name of Jesus sounds</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>John Newton (1725-1807)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>How sweet the name of Jesus sounds<br/>in a believer's ear!<br/>It soothes our sorrows, heals our wounds,<br/>and drives away our fear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>It makes the wounded spirit whole,<br/>and calms the troubled breast;<br/>'tis manna to the hungry soul,<br/>and to the weary, rest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Dear name -- the rock on which I build,<br/>my shield and hiding-place,<br/>my never-failing treasury, filled<br/>with boundless stores of grace!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jesus! My Shepherd, Brother, Friend,<br/>my Prophet, Priest, and King,<br/>my Lord, my Life, my Way, my End,<br/>accept the praise I bring.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Weak is the effort of my heart,<br/>and cold my warmest thought;<br/>but when I see thee as thou art,<br/>I'll praise thee as I ought.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Till then I would thy love proclaim<br/>with every fleeting breath;<br/>and may the music of thy name<br/>refresh my soul in death.</lines>
+    </verse>
+  </lyrics>
+</song>

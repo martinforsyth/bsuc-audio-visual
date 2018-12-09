@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:34">
+  <properties>
+    <titles>
+      <title>SF644 When our confidence is shaken</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Fred Pratt Green (1903-2000)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>When our confidence is shaken<br/>in beliefs we thought secure;<br/>when the spirit in its sickness<br/>seeks but cannot find a cure:<br/>God is active in the tensions<br/>of a faith not yet mature.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Solar systems, void of meaning,<br/>freeze the spirit into stone;<br/>always our researches lead us<br/>to the ultimate Unknown:<br/>faith must die, or come full circle<br/>to its source in God alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>In the discipline of praying,<br/>when it's hardest to believe;<br/>in the drudgery of caring,<br/>when it's not enough to grieve;<br/>faith, maturing, learns acceptance<br/>of the insights we receive.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God is love;and he redeems us<br/>in the Christ we crucify:<br/>this is God's eternal answer<br/>to the world's eternal why;<br/>may we in this faith maturing<br/>be content to live and die!</lines>
+    </verse>
+  </lyrics>
+</song>

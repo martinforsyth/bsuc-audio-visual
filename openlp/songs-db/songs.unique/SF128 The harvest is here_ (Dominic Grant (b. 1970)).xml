@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:17:49">
+  <properties>
+    <titles>
+      <title>SF128 The harvest is here:</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Dominic Grant (b. 1970)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>The harvest is here:<br/>earth's bounty we bring!<br/>And as we draw near,<br/>God's mercies we sing.<br/>From greenhouse and garden,<br/>allotment and store:<br/>these love-gifts we offer<br/>and praises outpour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>A harvest we bear --<br/>our talents and time.<br/>A calling to share:<br/>such is God's design.<br/>As people of Jesus<br/>we honour his name;<br/>through our love for neighbour<br/>his love we proclaim.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God's harvest shall come,<br/>when all is fulfilled:<br/>death's forces succumb,<br/>and violence be stilled.<br/>Then all that has breath<br/>in Creation restored<br/>shall bow down in worship:<br/>one Harvest, one Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

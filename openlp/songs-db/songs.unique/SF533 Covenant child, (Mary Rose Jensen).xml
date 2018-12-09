@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:22">
+  <properties>
+    <titles>
+      <title>SF533 Covenant child,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Mary Rose Jensen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Covenant child,<br/>water comes as a sign<br/>of the washing and cleansing<br/>renewing your mind.<br/>Covenant child,<br/>you are claimed as God's own.<br/>You are one of his people,<br/>his Church is your home.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Covenant child,<br/>you are here by God's grace,<br/>by the work of our Saviour,<br/>who died in your place.<br/>Covenant child,<br/>you are living in Christ.<br/>Buried with him in suffering,<br/>with him you will rise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Covenant child,<br/>we are praying for you.<br/>May you stay close to Jesus<br/>in all that you do.<br/>Covenant child,<br/>grow strong in the faith.<br/>Seek after God's kingdom<br/>and walk in his way.</lines>
+    </verse>
+  </lyrics>
+</song>

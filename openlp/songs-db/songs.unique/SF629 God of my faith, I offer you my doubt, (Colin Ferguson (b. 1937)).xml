@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:32">
+  <properties>
+    <titles>
+      <title>SF629 God of my faith, I offer you my doubt,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Colin Ferguson (b. 1937)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>God of my faith, I offer you my doubt,<br/>for life at times seems far too dark for me,<br/>and my belief becomes more insecure,<br/>when worldly cares produce uncertainty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>God of my hope, I offer you my fear,<br/>when I am scared by my anxiety,<br/>when all I hear is suffering and woe,<br/>in all my shadows you will walk with me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>God of my joy, I offer you my grief,<br/>when I sink down in sadness or despair,<br/>when in depression I cannot be touched,<br/>I pray in all my depths to find you there.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>God of my love, I offer you my pain,<br/>when I'm alone and feel nobody cares,<br/>in aching age or in rejected youth,<br/>you bear my cross and dry my human tears.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>God of my life, I offer you my dreams,<br/>light in the darkness where I hide from view,<br/>light in my faith, my hope, my joy and love,<br/>light in my life and all my life in you.</lines>
+    </verse>
+  </lyrics>
+</song>

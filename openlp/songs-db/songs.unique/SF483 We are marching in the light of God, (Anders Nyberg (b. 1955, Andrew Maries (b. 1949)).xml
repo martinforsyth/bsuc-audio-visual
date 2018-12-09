@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:21:16">
+  <properties>
+    <titles>
+      <title>SF483 We are marching in the light of God,</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Anders Nyberg (b. 1955</author>
+      <author>Andrew Maries (b. 1949)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>We are marching in the light of God,<br/>we are marching in the light of God.<br/>We are marching in the light of God,<br/>we are marching in the light of God.<br/>We are marching, oh,<br/>we are marching in the light of God,<br/>we are marching, oh,<br/>we are marching in the light of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>We are living in the love of God,<br/>we are living in the love of God.<br/>We are living in the love of God,<br/>we are living in the love of God.<br/>We are living, oh,<br/>we are living in the love of God,<br/>we are living, oh,<br/>we are living in the love of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>We are moving in the power of God,<br/>we are moving in the power of God.<br/>We are moving in the power of God,<br/>we are moving in the power of God.<br/>We are moving, oh,<br/>we are moving in the power of God,<br/>we are moving, oh,<br/>we are moving in the power of God.<br/>Original Xhosa:<br/>Siyahamb' ekukhanyen' kwenkhos',<br/>Siyahamb' ekukhanyen' kwenkhos'.<br/>Siyahamb' ekukhanyen' kwenkhos',<br/>Siyahamb' ekukhanyen' kwenkhos'.<br/>Siya' hamba hamba, siyahamba,<br/>hamba siyahamb' ekukhanyen' kwenkhos'.<br/>Siya' hamba hamba, siyahamba,<br/>hamba siyahamb' ekukhanyen' kwenkhos'.</lines>
+    </verse>
+  </lyrics>
+</song>

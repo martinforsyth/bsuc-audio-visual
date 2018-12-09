@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:03">
+  <properties>
+    <titles>
+      <title>SF280 O sacred head, sore wounded,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Paul Gerhardt (1607-1676)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>O sacred head, sore wounded,<br/>with grief and pain weighed down,<br/>how scornfully surrounded<br/>with thorns, thine only crown!<br/>How pale art thou with anguish,<br/>with sore abuse and scorn!<br/>How does that visage languish<br/>which once was bright as morn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>O Lord of life and glory,<br/>what bliss till now was thine!<br/>I read the wondrous story,<br/>I joy to call thee mine.<br/>Thy grief and thy compassion<br/>were all for sinners' gain;<br/>mine, mine was the transgression,<br/>but thine the deadly pain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>What language shall I borrow<br/>to praise thee, dearest friend,<br/>for this thy dying sorrow,<br/>thy pity without end?<br/>Lord, make me thine for ever,<br/>nor let me faithless prove;<br/>O let me never, never<br/>abuse such dying love!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Be near me, Lord, when dying;<br/>O show thy cross to me,<br/>that I, for succour flying,<br/>my eyes may fix on thee;<br/>and then, thy grace receiving,<br/>let faith my fears dispel,<br/>for whoso dies believing<br/>in thee, dear Lord, dies well.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-09T19:18:02">
+  <properties>
+    <titles>
+      <title>SF273 Here hangs a man discarded,</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Brian Wren (b. 1936)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Here hangs a man discarded,<br/>a scarecrow hoisted high,<br/>a nonsense pointing nowhere<br/>to all who hurry by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Can such a clown of sorrows<br/>still bring a useful word,<br/>when faith and love seem phantoms<br/>and every hope absurd?</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Yet here is help and comfort<br/>for lives by comfort bound,<br/>when drums of dazzling progress<br/>give strangely hollow sound:</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Life, emptied of all meaning,<br/>drained out in bleak distress,<br/>can share in broken silence<br/>our deepest emptiness:</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>And love that freely entered<br/>the pit of life's despair,<br/>can name our hidden darkness<br/>and suffer with us there.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>Christ, in our darkness risen,<br/>help all who long for light<br/>to hold the hand of promise<br/>till faith receives its sight.</lines>
+    </verse>
+  </lyrics>
+</song>
