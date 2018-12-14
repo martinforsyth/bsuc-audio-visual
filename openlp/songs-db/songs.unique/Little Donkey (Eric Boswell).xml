@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-14T18:01:29">
+  <properties>
+    <titles>
+      <title>Little Donkey</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Eric Boswell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Little donkey, little donkey,<br/>On the dusty road.<br/>Got to keep on plodding onwards with<br/>your precious load.<br/>Been a long time, little donkey,<br/>Through the winter's night.<br/>Don't give up now,<br/>Little donkey,<br/>Bethlehem's in sight.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Ring out those bells tonight,<br/>Bethlehem, Bethlehem.<br/>Follow that star tonight,<br/>Bethlehem, Bethlehem.<br/>Little donkey, little donkey.<br/>Had a heavy day.<br/>Little donkey, Carry Mary,<br/>Safely on her way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Little donkey, little donkey,<br/>On the dusty road.<br/>There are wise men, waiting for a sign<br/>to bring them here.<br/>Do not falter, little donkey.<br/>There's a star ahead;<br/>It will guide you, little donkey<br/>To a cattle shed.</lines>
+    </verse>
+  </lyrics>
+</song>
