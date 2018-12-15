@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-12-15T10:06:50">
+  <properties>
+    <titles>
+      <title>NCH7 Ding dong merrily on high</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Ding dong merrily on high,<br/>In heav'n the bells are ringing:<br/>Ding dong! verily the sky<br/>Is riv'n with angel singing.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Gloria... Hosanna in excelsis!<br/>Gloria... Hosanna in excelsis!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>E'en so here below, below,<br/>Let steeple bells be swungen,<br/>And "Io, io, io!"<br/>By priest and people sungen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Pray you, dutifully prime<br/>Your matin chime, ye ringers;<br/>May you beautifully rhyme<br/>Your evetime song, ye singers.</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>Hosanna in excelsis!!!!!!</lines>
+    </verse>
+  </lyrics>
+</song>
